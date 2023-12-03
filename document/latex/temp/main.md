@@ -13,7 +13,6 @@
 
 [](0.KetLuan_TongKet.md)
 [](_.TaiLieuThamKhao.md)
-**Bối cảnh kinh doanh (Business Context)**
 
 <!--! Mẫu chiến lược (strategic): Bối cảnh bị ràng buộc (Bounded Context)-->
 <!--! Khám phá các bối cảnh bị ràng buộc-->

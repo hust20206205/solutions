@@ -13,3 +13,28 @@
 
 [](0.KetLuan_TongKet.md)
 [](_.TaiLieuThamKhao.md)
+**Bối cảnh kinh doanh (Business Context)**
+
+<!--! Mẫu chiến lược (strategic): Bối cảnh bị ràng buộc (Bounded Context)-->
+<!--! Khám phá các bối cảnh bị ràng buộc-->
+<!--Bối cảnh bị ràng buộc - Phụ thuộc-->
+
+<!--! Mối quan hệ đối xứng-->
+<!--Mối quan hệ bất đối xứng-->
+
+<!--! mẫu chiến lược (Strategic patterns)-->
+<!--!Phân rã các miền phức tạp (Decomposition of complex domains)-->
+
+Entities ,Value Objects ,Aggregate đư
+
+<!--!Mẫu nhà xưởng (Factory Pattern)-->
+
+<!--mẫu kho lưu trữ (Repository Pattern)-->
+
+<!--Domain Services dịch vụ miền-->
+<!--Domain Service Pattern-->
+<!--Characteristics of Domain Services đặc điểm-->
+
+<!--Dịch vụ ứng dụng (app sẻvice)-->
+
+<!--Dịch vụ cơ sở hạ tầng-->

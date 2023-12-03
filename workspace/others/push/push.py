@@ -19,7 +19,7 @@ from modules.MyChrome import MyChrome
 import glob
 import os
 print(os.getcwd())
-os.chdir("document/latex")
+# os.chdir("document/latex")
 print(os.getcwd())
 latex_folder = os.getcwd()
 file_paths = glob.glob(os.path.join(latex_folder, f'**/*.tex'), recursive=True)

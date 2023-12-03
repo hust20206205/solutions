@@ -1,4 +1,3 @@
-“Domain-Driven Design: Tackling Complexity in the Heart of Software”, nhà xuất bản AddisonWesley, ISBN: 0-321-12521-5.
 
 https://www.youtube.com/watch?v=6jSk_J7RA24
 

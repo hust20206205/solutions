@@ -13,28 +13,26 @@
 
 [](0.KetLuan_TongKet.md)
 [](_.TaiLieuThamKhao.md)
+
 <!---->
+<!-- Ngôn ngữ phổ biến (Ubiquitous Language) -->
+
 - Mất thời gian nhưng cần thiết để xây dựng mô hình phù hợp với domain và giải quyết vấn đề nghiệp vụ trong thực tế.
-
-
 
 <!--- **Xây dựng mô hình domain:**-->
 <!--- **Đối thoại giữa bạn và chuyên gia nghiệp vụ:**-->
-
 
 <!--- **Quan trọng của hiểu đúng domain:**-->
 <!--- Khái niệm xuất hiện không tổ chức nhưng cần thiết để hiểu domain.-->
 <!--- Cần tìm hiểu nhiều từ chuyên gia về domain.-->
 
 <!--- Trao đổi giữa người kiến trúc phần mềm và chuyên gia domain.-->
+
 - Phản hồi giữa các bên giúp cải thiện mô hình và hiểu đúng về domain.
-
-
-
 
 <!---->
 
-<!--! Mô hình chiến lược (strategic): Ngôn ngữ phổ biến (Ubiquitous Language)-->
+! Mô hình chiến lược (strategic):
 
 <!--Nhóm kinh doanh sử dụng ngôn ngữ kinh doanh, trong khi nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ.-->
 <!--Sự khác biệt về ngôn ngữ giữa các nhóm kinh doanh và I.T. các nhóm có thể dẫn đến những thách thức về ngôn ngữ.-->
@@ -100,3 +98,40 @@ Và có một quan niệm sai lầm đằng sau ngôn ngữ phổ biến này r�
 <!--Ngôn ngữ phổ biến không yêu cầu bất kỳ công cụ đặc biệt nào mà bạn có thể sử dụng bất kỳ nền tảng cộng tác tri thức nào.-->
 
 <!--Hướng dẫn 5/7-->
+
+Ngôn ngữ phổ biến, hay còn được gọi là Ubiquitous Language, là một khái niệm quan trọng trong lĩnh vực Thiết kế Định hình (Domain-Driven Design - DDD). Ubiquitous Language đặc trưng cho việc sử dụng một ngôn ngữ chung và đồng nhất trong cả hệ thống, từ ngôn ngữ kỹ thuật đến ngôn ngữ kinh doanh. Mục tiêu của Ubiquitous Language là tạo ra sự hiểu đồng nhất và đồng thuận giữa tất cả các thành viên trong đội ngũ phát triển và người quản lý dự án.
+
+Dưới đây là một số điểm quan trọng về Ngôn ngữ phổ biến trong Domain-Driven Design:
+
+1. **Sự Hiểu Biết Chung:**
+
+   - Ngôn ngữ phổ biến được xem như một công cụ để tạo ra sự hiểu biết chung giữa các thành viên trong đội ngũ phát triển, bao gồm cả những người phát triển, kiến trúc sư, chuyên viên kinh doanh, và người quản lý dự án.
+
+2. **Tương Tác Kinh Doanh và Kỹ Thuật:**
+
+   - Ngôn ngữ phổ biến phản ánh cả ngôn ngữ kinh doanh và ngôn ngữ kỹ thuật, giúp làm cho các thành viên trong đội ngũ có thể hiểu và truyền đạt ý kiến của họ một cách dễ dàng hơn.
+
+3. **Không Ngừng Cập Nhật:**
+
+   - Ngôn ngữ phổ biến không phải là một khái niệm cố định mà được cập nhật liên tục theo sự thay đổi trong dự án. Các thành viên của đội ngũ phải liên tục đảm bảo rằng ngôn ngữ phổ biến của họ vẫn phản ánh đúng hiện trạng của hệ thống.
+
+4. **Đồng Nhất Trong Mọi Phần Của Hệ Thống:**
+
+   - Ubiquitous Language không chỉ giới hạn trong phạm vi của một module hay một thành phần cụ thể, mà nó phải được áp dụng đồng nhất trong toàn bộ hệ thống.
+
+5. **Giảm Sự Hiểu Lầm:**
+
+   - Việc sử dụng một ngôn ngữ chung giúp giảm thiểu sự hiểu lầm giữa các thành viên trong đội ngũ. Mọi người đều sử dụng các thuật ngữ và khái niệm giống nhau, từ đó giảm nguy cơ phát sinh lỗi do sự hiểu lầm.
+
+6. **Kết Hợp Ý Kiến và Kiến Thức Chuyên Môn:**
+   - Ubiquitous Language không chỉ là về ngôn ngữ kỹ thuật mà còn là về ngôn ngữ của lĩnh vực kinh doanh. Nó kết hợp cả ý kiến và kiến thức chuyên môn từ cả hai phía, giúp tạo ra một mô hình chính xác và hiệu quả.
+
+Ubiquitous Language không chỉ là một công cụ trong DDD mà còn là một phần quan trọng trong việc xây dựng và duy trì hệ thống phức tạp, giúp đảm bảo sự đồng bộ và hiểu biết chung giữa tất cả các bên liên quan.
+
+<!-- Tóm tắt: -->
+
+Việc phát triển mô hình cho một lĩnh vực đòi hỏi sự hợp tác giữa chuyên gia phần mềm và chuyên gia domain. Tuy nhiên, khả năng giao tiếp ban đầu thường gặp khó khăn vì sự khác biệt ngôn ngữ giữa lập trình viên và chuyên gia domain. Lập trình viên tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia domain thường sử dụng ngôn ngữ chuyên ngành của họ.
+
+Giao tiếp hiệu quả về mô hình đòi hỏi sự trao đổi ý tưởng và ngôn ngữ chung. Sự không đồng nhất trong cách giao tiếp có thể dẫn đến vấn đề nghiêm trọng trong dự án. Việc xây dựng một ngôn ngữ chung, được gọi là Ngôn ngữ chung, là quan trọng để kết nối mọi phần của thiết kế và đạt được sự hiểu biết đồng nhất trong nhóm.
+
+Việc xây dựng ngôn ngữ chung đòi hỏi nỗ lực và sự tập trung để chọn lọc thành phần chính của ngôn ngữ. Sự thay đổi trong ngôn ngữ thường đi đôi với thay đổi trong mô hình, tạo ra sự gắn kết chặt chẽ hơn giữa chúng. Chuyên gia domain và lập trình viên cần hợp tác để xây dựng một ngôn ngữ chung phản ánh chính xác mô hình và yêu cầu của dự án.

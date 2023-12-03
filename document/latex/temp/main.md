@@ -15,7 +15,7 @@
 [](_.TaiLieuThamKhao.md)
 
 <!---->
-<!-- Ngôn ngữ phổ biến (Ubiquitous Language) -->
+<!--Ngôn ngữ phổ biến (Ubiquitous Language)-->
 
 - Mất thời gian nhưng cần thiết để xây dựng mô hình phù hợp với domain và giải quyết vấn đề nghiệp vụ trong thực tế.
 
@@ -105,30 +105,30 @@ Dưới đây là một số điểm quan trọng về Ngôn ngữ phổ biến 
 
 1. **Sự Hiểu Biết Chung:**
 
-   - Ngôn ngữ phổ biến được xem như một công cụ để tạo ra sự hiểu biết chung giữa các thành viên trong đội ngũ phát triển, bao gồm cả những người phát triển, kiến trúc sư, chuyên viên kinh doanh, và người quản lý dự án.
+- Ngôn ngữ phổ biến được xem như một công cụ để tạo ra sự hiểu biết chung giữa các thành viên trong đội ngũ phát triển, bao gồm cả những người phát triển, kiến trúc sư, chuyên viên kinh doanh, và người quản lý dự án.
 
 2. **Tương Tác Kinh Doanh và Kỹ Thuật:**
 
-   - Ngôn ngữ phổ biến phản ánh cả ngôn ngữ kinh doanh và ngôn ngữ kỹ thuật, giúp làm cho các thành viên trong đội ngũ có thể hiểu và truyền đạt ý kiến của họ một cách dễ dàng hơn.
+- Ngôn ngữ phổ biến phản ánh cả ngôn ngữ kinh doanh và ngôn ngữ kỹ thuật, giúp làm cho các thành viên trong đội ngũ có thể hiểu và truyền đạt ý kiến của họ một cách dễ dàng hơn.
 
 3. **Không Ngừng Cập Nhật:**
 
-   - Ngôn ngữ phổ biến không phải là một khái niệm cố định mà được cập nhật liên tục theo sự thay đổi trong dự án. Các thành viên của đội ngũ phải liên tục đảm bảo rằng ngôn ngữ phổ biến của họ vẫn phản ánh đúng hiện trạng của hệ thống.
+- Ngôn ngữ phổ biến không phải là một khái niệm cố định mà được cập nhật liên tục theo sự thay đổi trong dự án. Các thành viên của đội ngũ phải liên tục đảm bảo rằng ngôn ngữ phổ biến của họ vẫn phản ánh đúng hiện trạng của hệ thống.
 
 4. **Đồng Nhất Trong Mọi Phần Của Hệ Thống:**
 
-   - Ubiquitous Language không chỉ giới hạn trong phạm vi của một module hay một thành phần cụ thể, mà nó phải được áp dụng đồng nhất trong toàn bộ hệ thống.
+- Ubiquitous Language không chỉ giới hạn trong phạm vi của một module hay một thành phần cụ thể, mà nó phải được áp dụng đồng nhất trong toàn bộ hệ thống.
 
 5. **Giảm Sự Hiểu Lầm:**
 
-   - Việc sử dụng một ngôn ngữ chung giúp giảm thiểu sự hiểu lầm giữa các thành viên trong đội ngũ. Mọi người đều sử dụng các thuật ngữ và khái niệm giống nhau, từ đó giảm nguy cơ phát sinh lỗi do sự hiểu lầm.
+- Việc sử dụng một ngôn ngữ chung giúp giảm thiểu sự hiểu lầm giữa các thành viên trong đội ngũ. Mọi người đều sử dụng các thuật ngữ và khái niệm giống nhau, từ đó giảm nguy cơ phát sinh lỗi do sự hiểu lầm.
 
 6. **Kết Hợp Ý Kiến và Kiến Thức Chuyên Môn:**
-   - Ubiquitous Language không chỉ là về ngôn ngữ kỹ thuật mà còn là về ngôn ngữ của lĩnh vực kinh doanh. Nó kết hợp cả ý kiến và kiến thức chuyên môn từ cả hai phía, giúp tạo ra một mô hình chính xác và hiệu quả.
+- Ubiquitous Language không chỉ là về ngôn ngữ kỹ thuật mà còn là về ngôn ngữ của lĩnh vực kinh doanh. Nó kết hợp cả ý kiến và kiến thức chuyên môn từ cả hai phía, giúp tạo ra một mô hình chính xác và hiệu quả.
 
 Ubiquitous Language không chỉ là một công cụ trong DDD mà còn là một phần quan trọng trong việc xây dựng và duy trì hệ thống phức tạp, giúp đảm bảo sự đồng bộ và hiểu biết chung giữa tất cả các bên liên quan.
 
-<!-- Tóm tắt: -->
+<!--Tóm tắt:-->
 
 Việc phát triển mô hình cho một lĩnh vực đòi hỏi sự hợp tác giữa chuyên gia phần mềm và chuyên gia domain. Tuy nhiên, khả năng giao tiếp ban đầu thường gặp khó khăn vì sự khác biệt ngôn ngữ giữa lập trình viên và chuyên gia domain. Lập trình viên tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia domain thường sử dụng ngôn ngữ chuyên ngành của họ.
 

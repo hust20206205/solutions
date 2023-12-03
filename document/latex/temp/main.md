@@ -14,21 +14,3 @@
 [](0.9.KetLuan_TongKet.md)
 [](_.TaiLieuThamKhao.md)
 
-
-<!--! mẫu chiến lược (Strategic patterns)-->
-<!--!Phân rã các miền phức tạp (Decomposition of complex domains)-->
-
-Entities ,Value Objects ,Aggregate đư
-
-<!--!Mẫu nhà xưởng (Factory Pattern)-->
-
-<!--mẫu kho lưu trữ (Repository Pattern)-->
-
-<!--Domain Services dịch vụ miền-->
-<!--Domain Service Pattern-->
-<!--Characteristics of Domain Services đặc điểm-->
-
-<!--Dịch vụ ứng dụng (app sẻvice)-->
-
-<!--Dịch vụ cơ sở hạ tầng-->
-<!---->

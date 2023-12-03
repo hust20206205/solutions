@@ -25,9 +25,9 @@ Tổng số tiền thuế
 Số lượng khách hàng
 Số lượng sản phẩm
 
-<!-- -->
-<!-- Phân quyền -->
-<!-- Thay đổi -->
-<!-- Lập hóa đơn mới -->
-<!-- Tra cứu -->
-<!-- mail -->
+<!---->
+<!--Phân quyền-->
+<!--Thay đổi-->
+<!--Lập hóa đơn mới-->
+<!--Tra cứu-->
+<!--mail-->

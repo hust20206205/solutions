@@ -15,9 +15,6 @@
 [](_.TaiLieuThamKhao.md)
 
 
-<!--! Mối quan hệ đối xứng-->
-<!--Mối quan hệ bất đối xứng-->
-
 <!--! mẫu chiến lược (Strategic patterns)-->
 <!--!Phân rã các miền phức tạp (Decomposition of complex domains)-->
 

@@ -13,21 +13,21 @@
 
 [](0.KetLuan_TongKet.md)
 [](_.TaiLieuThamKhao.md)
-<!--  -->
-  - Mất thời gian nhưng cần thiết để xây dựng mô hình phù hợp với domain và giải quyết vấn đề nghiệp vụ trong thực tế.
+<!---->
+- Mất thời gian nhưng cần thiết để xây dựng mô hình phù hợp với domain và giải quyết vấn đề nghiệp vụ trong thực tế.
 
 
 
-<!-- - **Xây dựng mô hình domain:** -->
-<!-- - **Đối thoại giữa bạn và chuyên gia nghiệp vụ:** -->
+<!--- **Xây dựng mô hình domain:**-->
+<!--- **Đối thoại giữa bạn và chuyên gia nghiệp vụ:**-->
 
 
-<!-- - **Quan trọng của hiểu đúng domain:** -->
-  <!-- - Khái niệm xuất hiện không tổ chức nhưng cần thiết để hiểu domain. -->
-  <!-- - Cần tìm hiểu nhiều từ chuyên gia về domain. -->
+<!--- **Quan trọng của hiểu đúng domain:**-->
+<!--- Khái niệm xuất hiện không tổ chức nhưng cần thiết để hiểu domain.-->
+<!--- Cần tìm hiểu nhiều từ chuyên gia về domain.-->
 
-  <!-- - Trao đổi giữa người kiến trúc phần mềm và chuyên gia domain. -->
-  - Phản hồi giữa các bên giúp cải thiện mô hình và hiểu đúng về domain.
+<!--- Trao đổi giữa người kiến trúc phần mềm và chuyên gia domain.-->
+- Phản hồi giữa các bên giúp cải thiện mô hình và hiểu đúng về domain.
 
 
 

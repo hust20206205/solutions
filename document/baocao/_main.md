@@ -4,13 +4,13 @@
 [](0.1.NhanXetCuaGiangVien.md)
 \tableofcontents
 
-<!-- [](0.2.LoiCamOn_LoiMoDau.md) -->
-<!-- Tóm tắt nội dung đồ án -->
-<!-- [](0.2.TomTatNoiDungDoAn.md) -->
-<!-- Đánh giá và thảo luận -->
-<!-- [](0.2.DanhGiaVaThaoLuan.md) -->
+<!--[](0.2.LoiCamOn_LoiMoDau.md)-->
+<!--Tóm tắt nội dung đồ án-->
+<!--[](0.2.TomTatNoiDungDoAn.md)-->
+<!--Đánh giá và thảo luận-->
+<!--[](0.2.DanhGiaVaThaoLuan.md)-->
 
-[](0.1.DanhSach.md)
+[](0.2.DanhSach.md)
 
 <!--[](1.0.GioiThieuChung.md)-->
 <!--[](1.1.GioiThieuMicroservice.md)-->

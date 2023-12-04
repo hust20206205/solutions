@@ -59,6 +59,10 @@ for file_path in file_paths:
     content = content.replace('Domain Driven Design', 'thiết kế hướng miền')
     content = content.replace('patterns', 'mẫu')
     content = content.replace('pattern', 'mẫu')
+    content = content.replace('cơ sở dữ liệu', 'CSDL')
+    content = content.replace('csdl', 'CSDL')
+    content = content.replace('services', 'dịch vụ')
+    content = content.replace('service', 'dịch vụ')
     while '  ' in content:
         content = content.replace('  ', ' ')
     while '<!-- ' in content:

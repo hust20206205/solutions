@@ -49,6 +49,9 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
 
+    contents = contents.replace("=", " = ")
+    contents = contents.replace("+", " + ")
+    contents = contents.replace("-", " - ") 
     content = content.replace('Monolithic', 'kiến trúc nguyên khối')
     content = content.replace('monolithic', 'kiến trúc nguyên khối')
     content = content.replace('Microservices', 'kiến trúc vi dịch vụ')
@@ -63,6 +66,25 @@ for file_path in file_paths:
     content = content.replace('csdl', 'CSDL')
     content = content.replace('services', 'dịch vụ')
     content = content.replace('service', 'dịch vụ')
+    # content = content.replace('.' 
+    
+    while " ?" in contents:
+        contents = contents.replace(" ?", "?")
+    contents = contents.replace("?", "? ")
+    
+    while " ," in contents:
+        contents = contents.replace(" ,", ",")
+    contents = contents.replace(",", ", ")
+    
+    while " :" in contents:
+        contents = contents.replace(" :", ":")
+    contents = contents.replace(":", ": ")
+    
+    while " !" in contents:
+        contents = contents.replace(" !", "!")
+    contents = contents.replace("!", "! ")
+
+
     while '  ' in content:
         content = content.replace('  ', ' ')
     while '<!-- ' in content:

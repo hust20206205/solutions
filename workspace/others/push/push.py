@@ -49,7 +49,12 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
 
-    content = content.replace('\\\\', '             \\\\          ')
+    content = content.replace('monolithic', 'kiến trúc nguyên khối')
+    content = content.replace('monolithic', 'kiến trúc nguyên khối')
+    content = content.replace('Microservices', 'kiến trúc vi dịch')
+    content = content.replace('microservices', 'kiến trúc vi dịch')
+    content = content.replace('Microservice', 'kiến trúc vi dịch')
+    content = content.replace('microservice', 'kiến trúc vi dịch')
     while '  ' in content:
         content = content.replace('  ', ' ')
     while '<!-- ' in content:

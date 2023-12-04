@@ -14,7 +14,8 @@ class MyClose():
         pyautogui.hotkey('alt', f'{number}')
 
     def ScrollBar():
-        pyautogui.hotkey('ctrl', 'shift', 'e')
+        pyautogui.hotkey('ctrl', 'shift', 'g')
+        # pyautogui.hotkey('ctrl', 'shift', 'e')
         pyautogui.hotkey('ctrl', 'b')
 
 

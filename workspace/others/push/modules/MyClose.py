@@ -13,9 +13,10 @@ class MyClose():
     def Target(number):
         pyautogui.hotkey('alt', f'{number}')
 
-    def ScrollBar():
+    def OpenGit():
         pyautogui.hotkey('ctrl', 'shift', 'g')
-        # pyautogui.hotkey('ctrl', 'shift', 'e')
+    def ScrollBar():
+        pyautogui.hotkey('ctrl', 'shift', 'e')
         pyautogui.hotkey('ctrl', 'b')
 
 

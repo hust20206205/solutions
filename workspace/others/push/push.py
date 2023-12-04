@@ -57,6 +57,8 @@ for file_path in file_paths:
     content = content.replace('microservice', 'kiến trúc vi dịch vụ')
     content = content.replace('Domain-Driven Design', 'thiết kế hướng miền')
     content = content.replace('Domain Driven Design', 'thiết kế hướng miền')
+    content = content.replace('patterns', 'mẫu')
+    content = content.replace('pattern', 'mẫu')
     while '  ' in content:
         content = content.replace('  ', ' ')
     while '<!-- ' in content:

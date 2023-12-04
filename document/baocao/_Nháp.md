@@ -12,7 +12,7 @@ trở nên quan trọng
 
 # Service Mesh, CICD, microfe, API gateway , cache redis, log xử lí lỗi ,
 
-<!--DDD-->001 Intro to Events in Microservices.en
+<!--DDD-->001 Intro to Events in kiến trúc vi dịch vụ.en
 
 Problem Space
 Domain

@@ -65,3 +65,32 @@ Một điểm quan trọng cần lưu ý là nhóm kiến ​​trúc dịch v�
 
 <!--mỗi dịch vụ vi mô được gán cho một nhóm nhỏ.-->
 <!--và các nhóm này được hỗ trợ bởi các chuyên gia tên miền.-->
+
+<!--Bằng cách này, sự kết hợp giữa thiết kế hướng miền và kiến trúc vi dịch vụ giúp xác định và phân loại các chức năng cụ thể của quy trình hóa đơn điện tử, đảm bảo tính nhất quán, linh hoạt, và hiệu suất trong việc đáp ứng yêu cầu nghiệp vụ liên quan.-->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+ 
+
+<!--1. **Tạo và Lưu Trữ Hóa Đơn: **-->
+<!--2. **Thông Tin Cơ Bản của Hóa Đơn: **-->
+<!--3. **Chữ Ký Số và Xác Minh Chữ Ký: **-->
+<!--4. **Quản Lý Mẫu Hóa Đơn: **-->
+<!--5. **Phân Quyền và Bảo Mật: **-->
+<!--6. **Gửi và Nhận Hóa Đơn: **-->
+<!--7. **Quản Lý Trạng Thái Hóa Đơn: **-->
+<!--8. **Tích Hợp Với Hệ Thống Khác: **-->
+<!--9. **Bảo Dưỡng và Backup: **-->
+<!--10. **Tương Thích Pháp Luật và Chuẩn Mực: **-->

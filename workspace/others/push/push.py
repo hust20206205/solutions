@@ -70,7 +70,7 @@ for file_path in file_paths:
         content = content.replace(" :", ":")
     content = content.replace(":", ": ")
     
-    content = content.replace("https: ","https:")
+    # content = content.replace("https: ","https:")
     
     # while " !" in content:
     #     content = content.replace(" !", "!")

@@ -17,7 +17,7 @@
 [](1.0.GioiThieuChung.md)
 [](1.2.GioiThieuBaiToanHoaDonDienTu.md)
 [](1.1.GioiThieuVeKienTrucViDichVu.md)
-<!--[](1.3.GioiThieu thiết kế hướng miền .md)-->
+[](1.3.GioiThieuVeThietKeHuongMien.md)
 
 <!--[](2.0.ApDung thiết kế hướng miền VoiBaiToanNghiepVu.md)-->
 

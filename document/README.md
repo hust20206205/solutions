@@ -79,6 +79,6 @@ Tiếp theo là các kênh mà khách hàng muốn tiếp cận.
 
 <!--Đó là ứng dụng di động mà chúng tôi sẽ cung cấp và một số ứng dụng của bên thứ ba cho phép khách hàng sử dụng các dịch vụ.-->
 
-![Alt text](image.png)
+![](image.png)
 
 Xem video hướng dẫn phân tích: 4\3

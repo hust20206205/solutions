@@ -61,6 +61,7 @@ for file_path in file_paths:
     content = content.replace('đội', 'nhóm')
     content = content.replace('![Alt text](', '![](')
     # content = content.replace('.' 
+    # content = content.replace('bài toán', 'giải pháp')
     
     while " ?" in content:
         content = content.replace(" ?", "?")

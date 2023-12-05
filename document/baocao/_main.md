@@ -15,11 +15,10 @@
 <!---->
 
 [](1.0.GioiThieuChung.md)
-<!--Giải pháp hóa đơn điện tử-->
-[](1.2.GioiThieuBaiToanHoaDonDienTu.md)
-[](1.1.GioiThieuVeKienTrucViDichVu.md)
-
+[](1.1.GioiThieuBaiToanHoaDonDienTu.md)
+[](1.2.GioiThieuVeKienTrucViDichVu.md)
 [](1.3.GioiThieuVeThietKeHuongMien.md)
+
 
 <!---->
 

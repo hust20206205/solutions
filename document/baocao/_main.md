@@ -6,11 +6,11 @@
 
 <!--[](0.2.LoiCamOn_LoiMoDau.md)-->
 <!--Tóm tắt nội dung đồ án-->
-<!--[](0.2.TomTatNoiDungDoAn.md)-->
+<!--[](0.3.TomTatNoiDungDoAn.md)-->
 <!--Đánh giá và thảo luận-->
-<!--[](0.2.DanhGiaVaThaoLuan.md)-->
+<!--[](0.4.DanhGiaVaThaoLuan.md)-->
 
-[](0.2.DanhSach.md)
+[](0.5.DanhSach.md)
 
 <!---->
 

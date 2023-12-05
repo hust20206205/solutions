@@ -39,8 +39,8 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
 
-    content = content.replace("=", " = ")
-    content = content.replace("+", " + ")
+    # content = content.replace("=", " = ")
+    # content = content.replace("+", " + ")
     # content = content.replace("-", " - ") 
     content = content.replace('Monolithic', 'kiến trúc nguyên khối')
     content = content.replace('monolithic', 'kiến trúc nguyên khối')
@@ -70,9 +70,9 @@ for file_path in file_paths:
         content = content.replace(" :", ":")
     content = content.replace(":", ": ")
     
-    while " !" in content:
-        content = content.replace(" !", "!")
-    content = content.replace("!", "! ")
+    # while " !" in content:
+    #     content = content.replace(" !", "!")
+    # content = content.replace("!", "! ")
 
 
     while '  ' in content:

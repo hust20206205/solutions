@@ -35,4 +35,4 @@ Mô tả yêu cầu nghiệp vụ
 
 Kiến trúc kiến trúc nguyên khối, dù đã phục vụ hiệu quả trong quá khứ, nhưng nó bắt đầu gặp khó khăn đối mặt với sự phức tạp, khả năng mở rộng hạn chế, và khả năng đáp ứng linh hoạt với thay đổi nhanh chóng trong yêu cầu kinh doanh.
 ![](image-6.png)
-<!-- RJSX -->
+<!--RJSX-->

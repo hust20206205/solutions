@@ -58,6 +58,7 @@ for file_path in file_paths:
     content = content.replace('csdl', 'CSDL')
     content = content.replace('services', 'dịch vụ')
     content = content.replace('service', 'dịch vụ')
+    content = content.replace('đội', 'nhóm')
     # content = content.replace('.' 
     
     while " ?" in content:

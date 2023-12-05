@@ -41,7 +41,7 @@ for file_path in file_paths:
 
     content = content.replace("=", " = ")
     content = content.replace("+", " + ")
-    content = content.replace("-", " - ") 
+    # content = content.replace("-", " - ") 
     content = content.replace('Monolithic', 'kiến trúc nguyên khối')
     content = content.replace('monolithic', 'kiến trúc nguyên khối')
     content = content.replace('Microservices', 'kiến trúc vi dịch vụ')

@@ -24,9 +24,7 @@ print(os.getcwd())
 print(os.getcwd())
 latex_folder = os.getcwd()
 # file_paths = glob.glob(os.path.join(latex_folder, f'**/*.tex'), recursive=True)
-# for file_path in file_paths:
-#     with open(file_path, 'r', encoding="utf-8") as file:
-#         content = file.read()
+ 
 
 #     content = content.replace('\\\\', '             \\\\          ')
 #     while '  ' in content:
@@ -34,24 +32,16 @@ latex_folder = os.getcwd()
 #     while '{ ' in content:
 #         content = content.replace('{ ', '{')
 #     while ' }' in content:
-#         content = content.replace(' }', '}')
-#     with open(file_path, 'w', encoding="utf-8") as file:
-#         file.write(content)
-#         # 
-#     with open(file_path, 'r', encoding="utf-8") as file:
-#         contents = file.readlines()
-#     contents = [line.strip() for line in contents]
-#     with open(file_path, 'w', encoding="utf-8") as file:
-#         for line in contents:
-#             file.write(line + '\n')
+#         content = content.replace(' }', '}') 
+#     content = [line.strip() for line in content] 
 file_paths = glob.glob(os.path.join(latex_folder, f'**/*.md'), recursive=True)
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
 
-    contents = contents.replace("=", " = ")
-    contents = contents.replace("+", " + ")
-    contents = contents.replace("-", " - ") 
+    content = content.replace("=", " = ")
+    content = content.replace("+", " + ")
+    content = content.replace("-", " - ") 
     content = content.replace('Monolithic', 'kiến trúc nguyên khối')
     content = content.replace('monolithic', 'kiến trúc nguyên khối')
     content = content.replace('Microservices', 'kiến trúc vi dịch vụ')
@@ -68,21 +58,21 @@ for file_path in file_paths:
     content = content.replace('service', 'dịch vụ')
     # content = content.replace('.' 
     
-    while " ?" in contents:
-        contents = contents.replace(" ?", "?")
-    contents = contents.replace("?", "? ")
+    while " ?" in content:
+        content = content.replace(" ?", "?")
+    content = content.replace("?", "? ")
     
-    while " ," in contents:
-        contents = contents.replace(" ,", ",")
-    contents = contents.replace(",", ", ")
+    while " ," in content:
+        content = content.replace(" ,", ",")
+    content = content.replace(",", ", ")
     
-    while " :" in contents:
-        contents = contents.replace(" :", ":")
-    contents = contents.replace(":", ": ")
+    while " :" in content:
+        content = content.replace(" :", ":")
+    content = content.replace(":", ": ")
     
-    while " !" in contents:
-        contents = contents.replace(" !", "!")
-    contents = contents.replace("!", "! ")
+    while " !" in content:
+        content = content.replace(" !", "!")
+    content = content.replace("!", "! ")
 
 
     while '  ' in content:
@@ -99,8 +89,8 @@ for file_path in file_paths:
         file.write(content)
         # 
     with open(file_path, 'r', encoding="utf-8") as file:
-        contents = file.readlines()
-    contents = [line.strip() for line in contents]
+        content = file.readlines()
+    content = [line.strip() for line in content]
     with open(file_path, 'w', encoding="utf-8") as file:
-        for line in contents:
+        for line in content:
             file.write(line + '\n')

@@ -13,7 +13,7 @@ MyClose.OpenGit()
 # MyClose.CollapseFolders()
 MyClose.CloseAll()
 MyClose.Target(2)
-MyClose.Terminal()
+# MyClose.Terminal()
 from modules.MyChrome import MyChrome
 # MyChrome("https://github.com/vvn20206205/test")
 # MyChrome()

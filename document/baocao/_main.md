@@ -82,7 +82,7 @@ Một điểm quan trọng cần lưu ý là nhóm kiến ​​trúc dịch v�
 <!---->
 
 
- 
+
 
 <!--1. **Tạo và Lưu Trữ Hóa Đơn: **-->
 <!--2. **Thông Tin Cơ Bản của Hóa Đơn: **-->

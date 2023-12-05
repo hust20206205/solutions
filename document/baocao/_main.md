@@ -16,7 +16,7 @@
 
 [](1.0.GioiThieuChung.md)
 [](1.2.GioiThieuBaiToanHoaDonDienTu.md)
-<!-- căn cứ pháp lý -->
+<!--căn cứ pháp lý-->
 [](1.1.GioiThieuVeKienTrucViDichVu.md)
 <!--[](1.3.GioiThieuDDD.md)-->
 

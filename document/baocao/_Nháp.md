@@ -2,15 +2,15 @@ phân tán
 dễ dàng nhìn nhận kiểm soát như youtube
 Repository độc lập miền và lưu trữ sql (dễ tuhaajn tiện Unit testing and Mocking)
 Repository trong ORM
-https://images.viblo.asia/fd4b10a0-f1b1-4ed1-9bd1-578c871820ae.png
-,gprc rabitmq đồng bộ hay k,ít hay nhiều như pub sub
+https: //images.viblo.asia/fd4b10a0-f1b1-4ed1-9bd1-578c871820ae.png
+, gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
 Tuy nhiên, cộng động vẫn thiếu một tầm nhìn rõ
 ràng về cách áp dụng hướng đối tượng ở mức độ doanh nghiệp. Đây là lý do tại sao tôi nghĩ DDD
 trở nên quan trọng
 
 
 
-# Service Mesh, CICD, microfe, API gateway , cache redis, log xử lí lỗi ,
+# Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
 
 <!--DDD-->001 Intro to Events in kiến trúc vi dịch vụ.en
 
@@ -95,27 +95,27 @@ dấu space
 <!--Mục Lục:-->
 <!--Căn cứ pháp lý-->
 
-Thông tư 32/2011/TT-BTC: https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-32-2011-TT-BTC-huong-dan-ve-khoi-tao-phat-hanh-su-dung-hoa-don-dien-tu-120233.aspx
+Thông tư 32/2011/TT-BTC: https: //thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-32-2011-TT-BTC-huong-dan-ve-khoi-tao-phat-hanh-su-dung-hoa-don-dien-tu-120233.aspx
 
-<!--https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=99887-->
+<!--https: //vanban.chinhphu.vn/default.aspx? pageid=27160&docid=99887-->
 
-Thông tư 78/2021/TT-BTC: https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-78-2022-TT-BTC-du-toan-ngan-sach-Nha-nuoc-2023-547888.aspx
+Thông tư 78/2021/TT-BTC: https: //thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-78-2022-TT-BTC-du-toan-ngan-sach-Nha-nuoc-2023-547888.aspx
 
-<!--https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=204200-->
+<!--https: //vanban.chinhphu.vn/default.aspx? pageid=27160&docid=204200-->
 
-Nghị định 123/2020/NĐ-CP: https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Nghi-dinh-123-2020-ND-CP-quy-dinh-hoa-don-chung-tu-445980.aspx
+Nghị định 123/2020/NĐ-CP: https: //thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Nghi-dinh-123-2020-ND-CP-quy-dinh-hoa-don-chung-tu-445980.aspx
 
-<!--https://vanban.chinhphu.vn/?pageid=27160&docid=201365-->
+<!--https: //vanban.chinhphu.vn/? pageid=27160&docid=201365-->
 
 <!---->
 
-Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https://dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
+Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https: //dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
 
-https://helpsme.misa.vn/2020/kb/quan-ly-hoa-don-dien-tu/
+https: //helpsme.misa.vn/2020/kb/quan-ly-hoa-don-dien-tu/
 
-https://helpsme.misa.vn/2022/kb/quy-trinh-nghiep-vu-hddt-theo-nghi-dinh-123-2020-nd-cp/
+https: //helpsme.misa.vn/2022/kb/quy-trinh-nghiep-vu-hddt-theo-nghi-dinh-123-2020-nd-cp/
 
-https://www.meinvoice.vn/tin-tuc/3442/nhung-nghiep-vu-co-ban-cua-hoa-don-dien-tu-xac-thuc/
+https: //www.meinvoice.vn/tin-tuc/3442/nhung-nghiep-vu-co-ban-cua-hoa-don-dien-tu-xac-thuc/
 
 stt Bước
 
@@ -125,27 +125,27 @@ stt Bước
 <!--Mục Lục:-->
 <!--Căn cứ pháp lý-->
 
-Thông tư 32/2011/TT-BTC: https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-32-2011-TT-BTC-huong-dan-ve-khoi-tao-phat-hanh-su-dung-hoa-don-dien-tu-120233.aspx
+Thông tư 32/2011/TT-BTC: https: //thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-32-2011-TT-BTC-huong-dan-ve-khoi-tao-phat-hanh-su-dung-hoa-don-dien-tu-120233.aspx
 
-<!--https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=99887-->
+<!--https: //vanban.chinhphu.vn/default.aspx? pageid=27160&docid=99887-->
 
-Thông tư 78/2021/TT-BTC: https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-78-2022-TT-BTC-du-toan-ngan-sach-Nha-nuoc-2023-547888.aspx
+Thông tư 78/2021/TT-BTC: https: //thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-78-2022-TT-BTC-du-toan-ngan-sach-Nha-nuoc-2023-547888.aspx
 
-<!--https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=204200-->
+<!--https: //vanban.chinhphu.vn/default.aspx? pageid=27160&docid=204200-->
 
-Nghị định 123/2020/NĐ-CP: https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Nghi-dinh-123-2020-ND-CP-quy-dinh-hoa-don-chung-tu-445980.aspx
+Nghị định 123/2020/NĐ-CP: https: //thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Nghi-dinh-123-2020-ND-CP-quy-dinh-hoa-don-chung-tu-445980.aspx
 
-<!--https://vanban.chinhphu.vn/?pageid=27160&docid=201365-->
+<!--https: //vanban.chinhphu.vn/? pageid=27160&docid=201365-->
 
 <!---->
 
-Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https://dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
+Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https: //dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
 
-https://helpsme.misa.vn/2020/kb/quan-ly-hoa-don-dien-tu/
+https: //helpsme.misa.vn/2020/kb/quan-ly-hoa-don-dien-tu/
 
-https://helpsme.misa.vn/2022/kb/quy-trinh-nghiep-vu-hddt-theo-nghi-dinh-123-2020-nd-cp/
+https: //helpsme.misa.vn/2022/kb/quy-trinh-nghiep-vu-hddt-theo-nghi-dinh-123-2020-nd-cp/
 
-https://www.meinvoice.vn/tin-tuc/3442/nhung-nghiep-vu-co-ban-cua-hoa-don-dien-tu-xac-thuc/
+https: //www.meinvoice.vn/tin-tuc/3442/nhung-nghiep-vu-co-ban-cua-hoa-don-dien-tu-xac-thuc/
 
 <!--Thay thế = NULL-->
 <!--Bị thay thế = NULL-->
@@ -157,7 +157,7 @@ https://www.meinvoice.vn/tin-tuc/3442/nhung-nghiep-vu-co-ban-cua-hoa-don-dien-tu
 <!--Sử dụng hàm ngẫu nhiên tạo tên cho Tên NNT vì em không có thông tin đăng ký thực tế của NNT.-->
 <!--Sử dụng hàm ngẫu nhiên trong bảng CSDL cho "Mã cơ quan thuế quản lý" và "Tên cơ quan thuế quản lý"-->
 
-Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https://dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
+Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https: //dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
 
 <!--! Mã thuế số-chi nhánh-->
 <!--Mã captcha không đúng.-->

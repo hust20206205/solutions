@@ -1,13 +1,13 @@
 
-https://www.youtube.com/watch?v=6jSk_J7RA24
+https: //www.youtube.com/watch? v=6jSk_J7RA24
 
-https://www.youtube.com/watch?v=Jc-lGeDuphg
+https: //www.youtube.com/watch? v=Jc-lGeDuphg
 
-https://www.youtube.com/watch?v=UXHzxX4png0
+https: //www.youtube.com/watch? v=UXHzxX4png0
 
-https://www.youtube.com/watch?v=glZs4QFfwbc
+https: //www.youtube.com/watch? v=glZs4QFfwbc
 
-https://www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
+https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
 
 
 
@@ -20,13 +20,13 @@ Business Model Canvas
 
 Các phân khúc khách hàng là lý do doanh nghiệp tồn tại, vì vậy người ta phải suy nghĩ cẩn thận xem khách hàng là ai.
 
-<!--VD: cá nhân , doanh nghiệp-->
+<!--VD: cá nhân, doanh nghiệp-->
 
 <!--! phương án giá trị (Value Propositions)-->
 
 Bây giờ, loại giá trị nào đang mang lại cho mỗi khách hàng này? Đó là điều chúng ta cần phải suy nghĩ.
 
-<!--VD: lợi ích hóa đơn điện tử: nhanh,cháy,.....-->
+<!--VD: lợi ích hóa đơn điện tử: nhanh, cháy, .....-->
 
 <!--! nguồn tiềm lực chính (Key Resources)-->
 

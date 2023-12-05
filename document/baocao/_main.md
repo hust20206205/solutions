@@ -18,9 +18,9 @@
 [](1.2.GioiThieuBaiToanHoaDonDienTu.md)
 <!--căn cứ pháp lý-->
 [](1.1.GioiThieuVeKienTrucViDichVu.md)
-<!--[](1.3.GioiThieuDDD.md)-->
+<!--[](1.3.GioiThieu thiết kế hướng miền .md)-->
 
-<!--[](2.0.ApDungDDDVoiBaiToanNghiepVu.md)-->
+<!--[](2.0.ApDung thiết kế hướng miền VoiBaiToanNghiepVu.md)-->
 
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 

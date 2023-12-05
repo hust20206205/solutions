@@ -5,14 +5,14 @@ Repository trong ORM
 https: //images.viblo.asia/fd4b10a0-f1b1-4ed1-9bd1-578c871820ae.png
 , gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
 Tuy nhiên, cộng động vẫn thiếu một tầm nhìn rõ
-ràng về cách áp dụng hướng đối tượng ở mức độ doanh nghiệp. Đây là lý do tại sao tôi nghĩ DDD
+ràng về cách áp dụng hướng đối tượng ở mức độ doanh nghiệp. Đây là lý do tại sao tôi nghĩ thiết kế hướng miền
 trở nên quan trọng
 
 
 
 # Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
 
-<!--DDD-->001 Intro to Events in kiến trúc vi dịch vụ.en
+<!--thiết kế hướng miền-->001 Intro to Events in kiến trúc vi dịch vụ.en
 
 Problem Space
 Domain
@@ -20,11 +20,11 @@ Sub-Domains
 
 <!---->
 
-DDD là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh.
+thiết kế hướng miền là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh.
 
 <!--Problem Space / Business Domain: Không gian vấn đề / Lĩnh vực kinh doanh-->
 
-Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà bạn dự định giải quyết bằng DDD.
+Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà bạn dự định giải quyết bằng thiết kế hướng miền .
 
 <!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
 
@@ -53,7 +53,7 @@ Trong ngôn ngữ kinh doanh, điều này liên quan đến việc xác định
 - Hoạt động kinh doanh (Business Operations)
 - Sự kiện kinh doanh (Business Events)
 
-Theo ngôn ngữ kỹ thuật trong thế giới DDD, điều này có nghĩa là xác định:
+Theo ngôn ngữ kỹ thuật trong thế giới thiết kế hướng miền, điều này có nghĩa là xác định:
 
 - Tổng hợp/Thực thể/Đối tượng giá trị (Aggregates/Entities/Value Objects)
 - Quy tắc tên miền (Domain Rules)

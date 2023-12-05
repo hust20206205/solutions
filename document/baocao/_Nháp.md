@@ -24,7 +24,7 @@ DDD là một cách tiếp cận để phát triển những phần mềm phức
 
 <!--Problem Space / Business Domain: Không gian vấn đề / Lĩnh vực kinh doanh-->
 
-Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình DDD và nó xác định vấn đề kinh doanh chính mà bạn dự định giải quyết bằng DDD.
+Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà bạn dự định giải quyết bằng DDD.
 
 <!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
 

@@ -23,6 +23,7 @@
 <!---->
 
 [](2.0.ChiTietVaApDungTKHM.md)
+[](2.1.TKHMLaGi.md)
 
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 

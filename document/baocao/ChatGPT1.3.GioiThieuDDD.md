@@ -1,7 +1,4 @@
-<!--3. **thiết kế hướng miền (thiết kế hướng miền): **-->
 
-<!--**Giải Thích Khái Niệm thiết kế hướng miền và Tại Sao Nó Quan Trọng trong Việc Phát Triển kiến trúc vi dịch vụ: **-->
-<!--thiết kế hướng miền (thiết kế hướng miền) là một phương pháp thiết kế phần mềm tập trung vào việc hiểu và mô hình hóa chính xác lĩnh vực kinh doanh của một tổ chức. Trong ngữ cảnh của phát triển kiến trúc vi dịch vụ, thiết kế hướng miền giúp đảm bảo rằng mỗi kiến trúc vi dịch vụ được thiết kế để phản ánh một phần cụ thể của lĩnh vực kinh doanh, tăng cường sự hiểu biết và tính nhất quán trong toàn bộ hệ thống.-->
 
 **Các Thành Phần Chính của thiết kế hướng miền: **
 

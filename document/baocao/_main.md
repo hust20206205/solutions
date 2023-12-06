@@ -27,11 +27,7 @@
 
 [](3.0.ChiTietVaApDungTKHM.md)
 [](3.1.TKHMLaGi.md)
-
-
-
-[](2.2.Domain.md)
-<!--Phần mềm được tạo ra để giúp xử lý sự phức tạp trong cuộc sống hiện đại. Việc phát triển phần mềm liên kết chặt chẽ với một số khía cạnh cụ thể trong cuộc sống của chúng ta.-->
+[](3.2.Domain.md)
 
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 

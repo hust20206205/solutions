@@ -11,9 +11,6 @@
 <!--[](0.4.DanhGiaVaThaoLuan.md)-->
 
 [](0.5.DanhSach.md)
-
-<!---->
-
 [](1.0.GioiThieuChung.md)
 [](1.1.GioiThieuBaiToanHoaDonDienTu.md)
 [](1.2.GioiThieuVeKienTrucViDichVu.md)

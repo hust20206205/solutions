@@ -17,7 +17,7 @@
 [](1.0.GioiThieuChung.md)
 [](1.1.GioiThieuBaiToanHoaDonDienTu.md)
 [](1.2.GioiThieuVeKienTrucViDichVu.md)
-[](1.3.GioiThieuVeThietKeHuongMien.md)
+[](1.3.GioiThieuVeTKHM.md)
 
 <!---->
 

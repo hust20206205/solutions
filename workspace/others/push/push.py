@@ -57,6 +57,7 @@ for file_path in file_paths:
     content = content.replace('pattern', '                                mẫu         ')
     content = content.replace('cơ sở dữ liệu', '                                CSDL         ')
     content = content.replace('csdl', '                                CSDL         ')
+    content = content.replace('database', '                                CSDL         ')
     content = content.replace('services', '                                dịch vụ         ')
     content = content.replace('service', '                                dịch vụ         ')
     content = content.replace('đội', '                                nhóm         ')

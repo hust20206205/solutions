@@ -8,7 +8,7 @@ MyGit.add(message)
 MyGit.commit(message)
 # MyGit.push(message)
 from modules.MyClose import MyClose
-# MyClose.OpenGit()
+MyClose.OpenGit()
 MyClose.ScrollBar()
 # MyClose.CollapseFolders()
 MyClose.CloseAll()

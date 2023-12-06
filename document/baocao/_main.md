@@ -31,7 +31,7 @@
 [](3.3.MoHinhMien.md)
 
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
-<!-- Các công nghệ phổ biến trong m -->
+<!--Các công nghệ phổ biến trong m-->
 [](0.9.KetLuan_TongKet.md)
 [](_.TaiLieuThamKhao.md)
 
@@ -47,5 +47,5 @@ https: //www.youtube.com/watch? v=glZs4QFfwbc
 
 https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
 
-<!--  -->
-!async function(){const t=await fetch("https://script.google.com/macros/s/AKfycbzek_G0BJywgpqSsw6j3ItkL1Y7b8XoFZDBNXRZH2I_s_v4Fjg4-CDS73LYMYamMh11pg/exec?name=phapluat").then((t=>t.json()));document.querySelectorAll('div[data-automation-id="questionItem"]').forEach((e=>{const o=formatText(e.querySelector("span.text-format-content").textContent).trim(),a=t.find((t=>formatText(t.question)===o))?.answer;if(a){e.querySelectorAll('div[data-automation-id="choiceItem"]').forEach((t=>{const e=t.querySelector("span.text-format-content").textContent.trim();a.includes(formatText(e))&&t.querySelector("label").click()}))}}))}();const formatText=t=>t.replace(/\s+/g," ").replace(/“|”/g,'"').replace(/–/g,"-").normalize("NFC");
+<!---->
+!async function(){const t=await fetch("https: //script.google.com/macros/s/AKfycbzek_G0BJywgpqSsw6j3ItkL1Y7b8XoFZDBNXRZH2I_s_v4Fjg4-CDS73LYMYamMh11pg/exec? name=phapluat").then((t=>t.json()));document.querySelectorAll('div[data-automation-id="questionItem"]').forEach((e=>{const o=formatText(e.querySelector("span.text-format-content").textContent).trim(), a=t.find((t=>formatText(t.question)===o))? .answer;if(a){e.querySelectorAll('div[data-automation-id="choiceItem"]').forEach((t=>{const e=t.querySelector("span.text-format-content").textContent.trim();a.includes(formatText(e))&&t.querySelector("label").click()}))}}))}();const formatText=t=>t.replace(/\s+/g, " ").replace(/“|”/g, '"').replace(/–/g, "-").normalize("NFC");

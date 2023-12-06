@@ -22,7 +22,7 @@
 
 <!---->
 
-[](2.0.ApDungThietKeHuongMienVoiBaiToanNghiepVu.md)
+[](2.0.ChiTietVaApDungTKHM.md)
 
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 

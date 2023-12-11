@@ -104,6 +104,7 @@ for file_path in file_paths:
         content = content.replace('( ', '(')
     while ' )' in content:
         content = content.replace(' )', ')')
+        # 
     with open(file_path, 'w', encoding="utf-8") as file:
         file.write(content)
         # 

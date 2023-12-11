@@ -166,7 +166,10 @@
         "bold": false,
         "italic": false
       }
-    ],
+    ], 
+     // pip install Pygments
+    // "latex-workshop.latex.autoBuild.run": "onFileChange",
+    "latex-workshop.latex.autoBuild.run": "never",
     "latex-workshop.latex.tools": [
       {
         "name": "latexmk",

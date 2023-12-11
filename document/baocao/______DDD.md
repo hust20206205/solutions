@@ -8,4 +8,6 @@ của nghiệp vụ kinh doanh
 
 <!--@Tên miền phụ (Sub-Domain) là gì?-->
 
-<!-- @Bối cảnh giới hạn (Bounded Context ) -->
+<!--@Bối cảnh giới hạn (Bounded Context)-->
+
+<!-- @Mô hình miền    (Domain model) -->

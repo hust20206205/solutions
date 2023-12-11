@@ -10,4 +10,4 @@ của nghiệp vụ kinh doanh
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
-<!-- @Mô hình miền    (Domain model) -->
+<!--@Mô hình miền (Domain model)-->

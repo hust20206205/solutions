@@ -12,7 +12,8 @@ from modules.MyClose import MyClose
 MyClose.ScrollBar()
 # MyClose.CollapseFolders()
 MyClose.CloseAll()
-MyClose.Target(4)
+# MyClose.Target(4)
+MyClose.Target(3)
 MyClose.Terminal()
 from modules.MyChrome import MyChrome
 # MyChrome("https://github.com/vvn20206205/test")

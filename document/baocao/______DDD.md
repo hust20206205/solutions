@@ -11,204 +11,169 @@ của nghiệp vụ kinh doanh
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
 <!--@Mô hình miền (Domain model)-->
+
+
 1
-00:00:00,420 --> 00:00:09,400
-Chuyển đổi kinh doanh và kiến ​​trúc dịch vụ vi mô.  Tôi sẽ bắt đầu bài học này bằng cách xác định các thuật ngữ, chuyển đổi kinh doanh và chuyển đổi kỹ thuật số.
+00:00:00,330 --> 00:00:16,190
+Microsoft nói kiến ​​trúc là một góc độ kinh doanh. Tôi sẽ bắt đầu bài học này bằng cách thảo luận cách tổ chức các nhóm để xây dựng các ứng dụng Microsoft nói mà bạn tìm hiểu về mối quan hệ giữa khả năng kinh doanh và các dịch vụ của Microsoft.
 
 2
-00:00:09,750 --> 00:00:20,760
-Đến cuối bài học này, bạn sẽ có thể mô tả lý do tại sao doanh nghiệp cần chuyển đổi và cách kiến ​​trúc dịch vụ Maiko hỗ trợ doanh nghiệp chuyển đổi.
+00:00:16,650 --> 00:00:33,290
+Đến cuối bài học này, bạn sẽ có thể giải thích các lợi ích kinh doanh của kiến ​​trúc Microsoft khi các dịch vụ vi mô đã được xác định trong ứng dụng Microsoft, mỗi dịch vụ vi mô được gán cho một nhóm nhỏ.
 
 3
-00:00:21,690 --> 00:00:31,260
-Chuyển đổi kinh doanh là một thuật ngữ chung được sử dụng
- để đề cập đến những thay đổi cơ bản trong cách một tổ chức tiến hành hoạt động kinh doanh của mình.
+00:00:33,510 --> 00:00:45,570
+Những I.T nhỏ này.  đội xây dựng và vận hành.  Microsoft là vậy.  Các thành viên trong các nhóm này xây dựng các kỹ năng khác nhau trên bàn và các nhóm này được hỗ trợ bởi các chuyên gia tên miền.
 
 4
-00:00:31,760 --> 00:00:42,180
-Đây là một ví dụ.  Microsoft đã từng bán phần mềm của họ dưới dạng sản phẩm đóng gói dưới dạng đĩa CD và đĩa mềm từ lâu.
+00:00:46,110 --> 00:00:52,350
+Một câu hỏi phổ biến được đặt ra vào thời điểm này là quy mô của nhóm tìm kiếm Microsoft sẽ như thế nào?
 
 5
-00:00:42,660 --> 00:00:56,200
-Nhưng theo thời gian với sự phát triển của Internet và công nghệ đám mây, ngày nay họ bán phần mềm của mình theo mô hình đăng ký thay vì tính phí một lần cho khách hàng.
+00:00:52,380 --> 00:01:14,790
+Và để trả lời câu hỏi này, tôi sẽ trích dẫn ý tưởng của Jeff Bezos về đội ngũ ngu ngốc.  Đầu những năm 2000, khi Amazon đang xây dựng trang web Amazon.com cho kiến ​​trúc của Microsoft, Jeff Bezos và đội ngũ lãnh đạo của ông đã quyết định rằng quy mô của nhóm dịch vụ vi mô sẽ được giữ ở mức tám thành viên.
 
 6
-00:00:56,340 --> 00:01:12,800
-Microsoft tính phí khách hàng hàng tháng hoặc hàng năm.  Một ví dụ khác là Amazon.  Amazon khởi đầu là một hiệu sách trực tuyến, nhưng theo thời gian, họ đã biến toàn bộ hiệu sách này thành một thị trường nơi các nhà cung cấp khác cũng có thể bán sản phẩm của họ.
+00:01:15,300 --> 00:01:25,390
+Và đây là một trích dẫn.  Chúng tôi đã cố gắng tạo ra những đội không lớn hơn mức có thể cho hai người ăn.  Chúng tôi gọi đó là quy tắc nhóm dupatta.
 
 7
-00:01:12,810 --> 00:01:24,330
-Vì vậy, thay vì phụ thuộc vào hoạt động kinh doanh cốt lõi là bán sách của riêng mình, họ bắt đầu kiếm tiền từ thị trường mà họ đã tạo ra cho các nhà cung cấp bên ngoài.
+00:01:25,950 --> 00:01:39,490
+Ý tưởng là có sự hợp tác tốt hơn giữa các nhóm nhỏ hơn, dẫn đến việc phát hành phần mềm thường xuyên, từ đó giúp tổ chức phản ứng nhanh hơn với những thay đổi trong hoạt động kinh doanh nói chung.
 
 8
-00:01:24,480 --> 00:01:39,360
-Ví dụ tiếp theo là Apple.  Apple từng bán máy tính, nhưng trong hai thập kỷ qua, hãng đã chuyển từ máy tính sang iPod, iPhone, iPad, kho nhạc và một số sản phẩm khác.
+00:01:39,540 --> 00:01:49,130
+Điều này sẽ dẫn đến việc công nghệ trở thành một lợi thế cạnh tranh cho một tổ chức và nói tóm lại.  Mô hình này đã mang lại hiệu quả rất tốt cho Amazon.
 
 9
-00:01:39,540 --> 00:01:47,760
-Họ không còn phụ thuộc vào sản phẩm cốt lõi của mình là máy tính nữa.  Bây giờ, có thể bạn đang thắc mắc tại sao doanh nghiệp cần chuyển đổi?
+00:01:49,710 --> 00:01:59,880
+Bây giờ là lúc cho một bài kiểm tra.  Trong bài giảng trước, bạn đã biết rằng dịch vụ vi mô là các đơn vị độc lập được xây dựng để hiện thực hóa một khả năng kinh doanh cụ thể.
 
 10
-00:01:47,850 --> 00:01:53,490
-Có rất nhiều lý do cho nó.  Tôi sẽ đi một số trong những cái phổ biến.  Đầu tiên là những thay đổi về môi trường.
+00:02:00,240 --> 00:02:07,440
+Câu hỏi của tôi dành cho bạn là lợi ích của việc tổ chức các dịch vụ vi mô xung quanh khả năng kinh doanh là gì?
 
 11
-00:01:53,520 --> 00:02:10,570
-Các quy định mới như GDP có thể buộc tổ chức phải thay đổi cách họ tiến hành kinh doanh.  Tiếp theo là bể áp lực cạnh tranh của một tổ chức đang giao dịch với một đối thủ cạnh tranh đang tung ra các sản phẩm đổi mới với tốc độ rất nhanh.
+00:02:07,920 --> 00:02:15,390
+Jordan, hãy đăng video suy nghĩ của bạn lên một tờ giấy và cùng tôi tìm hiểu những lợi ích của phương pháp này.
 
 12
-00:02:10,840 --> 00:02:17,510
-Bây giờ, sự lựa chọn cho tổ chức này là gì?  Họ phải biến đổi.  Họ phải nghĩ ra sản phẩm mới.
+00:02:16,560 --> 00:02:25,380
+Lợi ích đầu tiên của việc tổ chức các dịch vụ vi mô xoay quanh khả năng kinh doanh là mỗi dịch vụ có thể phát triển độc lập.
 
 13
-00:02:17,520 --> 00:02:24,130
-Họ phải suy nghĩ về tốc độ có thể tung ra những sản phẩm mới này.  Trên thực tế, tổ chức cần phải chuyển đổi.
+00:02:25,800 --> 00:02:37,880
+Hãy để tôi giải thích cho bạn bằng một ví dụ.  Hãy xem xét một ngân hàng cung cấp ba loại sản phẩm cho khách hàng của mình là tài khoản bán lẻ, thẻ tín dụng và tài khoản cho vay và thế chấp.
 
 14
-00:02:24,300 --> 00:02:37,080
-Tiếp theo là những cơ hội mới.  Đầu những năm 90, khi Internet bắt đầu trở nên phổ biến, các doanh nghiệp có cơ hội mới sử dụng Internet để bán sản phẩm và dịch vụ của mình.
+00:02:38,670 --> 00:02:47,010
+Giả sử một ứng dụng nguyên khối duy nhất cung cấp tất cả chức năng kinh doanh cần thiết để quản lý các sản phẩm này.
 
 15
-00:02:37,110 --> 00:02:47,000
-Các tổ chức đã phải tự chuyển đổi để tích hợp hoạt động kinh doanh của mình với công nghệ mới này và điều đó đòi hỏi phải có những sáng kiến ​​chuyển đổi nghiêm túc.
+00:02:47,310 --> 00:02:56,910
+Bây giờ, giả sử có một sự thay đổi trong môi trường kinh doanh đòi hỏi một số thay đổi trong các sản phẩm cho vay và thế chấp để không tạo ra sự thay đổi đối với khoản cho vay và thế chấp.
 
 16
-00:02:47,550 --> 00:03:00,720
-Lý do tiếp theo là một trong những lý do lớn nhất khiến tổ chức cần chuyển đổi nhu cầu và mong đợi của khách hàng liên tục thay đổi để duy trì và mở rộng cơ sở khách hàng của mình.
+00:02:57,240 --> 00:03:12,160
+Ứng dụng nguyên khối sẽ cần phải trải qua một sự thay đổi đòi hỏi sự phối hợp giữa tất cả các nhóm quản lý các mô-đun cho các sản phẩm khác nhau, chẳng hạn như tài khoản bán lẻ, thẻ tín dụng, khoản vay và thế chấp nói chung.
 
 17
-00:03:00,750 --> 00:03:12,480
-Các tổ chức cần điều chỉnh hoạt động kinh doanh của mình để đáp ứng nhu cầu và mong đợi của khách hàng.  Các doanh nghiệp bỏ qua kỳ vọng của khách hàng có xu hướng thua đối thủ cạnh tranh.
+00:03:12,540 --> 00:03:26,460
+Điều này có ý nghĩa gì từ góc độ kinh doanh?  Điều đó có nghĩa là sự phối hợp giữa các nhóm khác nhau sẽ làm chậm quá trình thực hiện thay đổi đối với các phần khác nhau của ứng dụng.
 
 18
-00:03:13,170 --> 00:03:27,840
-Bây giờ hãy nói về chuyển đổi kỹ thuật số.  Chuyển đổi kỹ thuật số là quá trình sử dụng công nghệ kỹ thuật số để đáp ứng nhu cầu của các quy trình kinh doanh được chuyển đổi và tạo ra các cơ chế tương tác khách hàng sáng tạo.
+00:03:26,550 --> 00:03:35,100
+Ở góc độ kinh doanh, ngân hàng sẽ chậm tung sản phẩm mới ra thị trường.  Vấn đề này được giải quyết với các dịch vụ vi mô.
 
 19
-00:03:28,170 --> 00:03:39,090
-Mối quan hệ giữa chuyển đổi số và chuyển đổi kinh doanh là chuyển đổi số hỗ trợ các sáng kiến ​​chuyển đổi kinh doanh.
+00:03:35,790 --> 00:03:47,170
+Kiến trúc nguyên khối này khi được thay thế bằng các dịch vụ vi mô.  Kiến trúc sẽ trông giống như thế này, trong đó mỗi khả năng sẽ được hiện thực hóa trong một dịch vụ vi mô độc lập.
 
 20
-00:03:39,270 --> 00:03:50,430
-Chúng ta hãy xem qua một số ví dụ.  Target là một cửa hàng bán lẻ ở Mỹ cho đến năm 2011. Trang web và khâu xử lý đơn hàng của họ được gia công cho Amazon.
+00:03:47,220 --> 00:04:01,990
+Vì vậy, điều đó có nghĩa là những thay đổi có thể được thực hiện một cách độc lập trên từng dịch vụ này và điều đó chuyển thành lợi ích kinh doanh trong phạm vi phản ứng thúc đẩy có thể đạt được trước những thay đổi trong môi trường kinh doanh.
 
 21
-00:03:50,580 --> 00:04:08,820
-Năm 2011, Target quyết định chuyển đổi hoạt động kinh doanh của họ.  Họ đã đầu tư rất nhiều vào công nghệ kỹ thuật số để tích hợp hàng tồn kho trong chuỗi cung ứng của mình trên khắp các cửa hàng trong mạng lưới đối tác và kho hàng của họ, đồng thời điều đó cho phép họ tạo ra những trải nghiệm mới cho khách hàng.
+00:04:02,070 --> 00:04:11,390
+Ví dụ: nếu có thay đổi về quy định đối với các khoản vay và dịch vụ thế chấp thì sẽ không có thay đổi nào được yêu cầu đối với thẻ tín dụng hoặc tài khoản bán lẻ.
 
 22
-00:04:08,830 --> 00:04:16,770
-Khách hàng có thể đặt hàng trực tuyến và nhận hàng tại cửa hàng trong vòng vài phút sau khi đặt hàng.
+00:04:11,640 --> 00:04:18,150
+Nhóm làm việc về Dịch vụ vi mô cho vay và thế chấp sẽ có thể thực hiện các thay đổi một cách độc lập.
 
 23
-00:04:17,010 --> 00:04:24,570
-Tại thời điểm này, Target liên tục có thể tạo ra những trải nghiệm mới cho khách hàng nhờ nền tảng vững chắc.
+00:04:19,050 --> 00:04:32,070
+Kiến trúc Micro Services cho phép doanh nghiệp thực hiện những thay đổi căn bản về cách thức hoạt động.  Hãy xem xét ví dụ này trong đó ngân hàng đã quyết định chuyển đổi hoàn toàn các sản phẩm cho vay và thế chấp.
 
 24
-00:04:24,570 --> 00:04:38,070
-Họ đã tạo ra các công nghệ kỹ thuật số mới.  Capital One từng là một ngân hàng vật lý truyền thống, nhưng ngày nay nó thực sự là một ngân hàng kỹ thuật số, không có trung tâm dữ liệu riêng.
+00:04:32,340 --> 00:04:42,410
+Trong trường hợp đó, họ có thể dễ dàng thay thế các khoản vay và dịch vụ thế chấp vi mô bằng một dịch vụ vi mô mới thực hiện mô hình hoạt động kinh doanh đã chuyển đổi.
 
 25
-00:04:38,340 --> 00:04:53,430
-Họ phụ thuộc vào đám mây AWG cho tất cả các nhu cầu công nghệ của mình.  Họ sử dụng các dịch vụ khác nhau trên đám mây để hỗ trợ mô hình hoạt động luôn thay đổi của mình và tạo ra những trải nghiệm sáng tạo cho khách hàng.
+00:04:42,420 --> 00:04:52,210
+Miễn là dịch vụ vi mô mới này vẫn duy trì hợp đồng giống như dịch vụ vi mô cũ thì sẽ không có thay đổi nào được yêu cầu đối với các dịch vụ vi mô khác.
 
 26
-00:04:53,670 --> 00:05:10,590
-Amazon.com sử dụng nhiều công nghệ kỹ thuật số để hỗ trợ quá trình chuyển đổi hoạt động kinh doanh của họ.  Các công nghệ như Emelle API Analytics thường được sử dụng và điều này giúp họ thay đổi mô hình kinh doanh với tốc độ rất nhanh.
+00:04:52,500 --> 00:04:59,850
+Lợi ích tiếp theo là nó giúp I.T.  nhóm để hiểu về doanh nghiệp.  Vì vậy, trong trường hợp.
 
 27
-00:05:10,620 --> 00:05:22,540
-Điều này giúp họ tạo ra sản phẩm mới trong một khoảng thời gian rất ngắn.  Nhìn chung, việc sử dụng các công nghệ kỹ thuật số này đã giúp Amazon.com trở thành công ty dẫn đầu trong lĩnh vực bán lẻ.
+00:04:59,990 --> 00:05:11,960
+Ngân hàng, nhóm làm việc về tài khoản bán lẻ sẽ cần phải có hiểu biết sâu sắc về tài khoản bán lẻ, nhưng họ có thể không cần đi sâu vào các quy trình kinh doanh xung quanh thẻ tín dụng chẳng hạn.
 
 28
-00:05:23,610 --> 00:05:33,180
-Vì vậy, điều xảy ra với những doanh nghiệp không chuyển đổi, câu trả lời ngắn gọn cho câu hỏi này là những doanh nghiệp không chuyển đổi sẽ không thể tồn tại.
+00:05:12,020 --> 00:05:22,640
+Nhìn chung, điều đó có nghĩa là I.T.  các nhóm không cần phải đi sâu vào mọi khả năng kinh doanh.  Họ có thể tập trung vào năng lực kinh doanh mà họ đang xây dựng trong dịch vụ vi mô của mình.
 
 29
-00:05:33,420 --> 00:05:42,750
-Tôi sẽ cho bạn một ví dụ.  Năm 1997, Netflix bắt đầu cung cấp mô hình đăng ký DVD cải tiến cho khách hàng của mình.
+00:05:23,060 --> 00:05:33,690
+Với các dịch vụ vi mô được xây dựng xung quanh khả năng kinh doanh, I.T.  các nhóm có thể đạt được sự liên kết cao hơn với các ưu tiên kinh doanh.
 
 30
-00:05:42,900 --> 00:05:51,310
-Khách hàng có thể nhận DVD qua thư, xem phim và trả lại cho Netflix để đổi lấy DVD mới hơn.
+00:05:33,710 --> 00:05:47,600
+Ví dụ: nếu hoạt động kinh doanh tài khoản bán lẻ không trải qua những thay đổi thường xuyên, nhóm làm việc về tài khoản bán lẻ có thể hoặc dịch vụ có thể quyết định cung cấp dịch vụ y tế của họ hai tuần một lần.
 
 31
-00:05:51,360 --> 00:06:03,430
-Năm 2007, Netflix bắt đầu dịch vụ phát trực tuyến bằng cách sử dụng các nền tảng và công nghệ kỹ thuật số mới hơn.  Khách hàng có thể xem phim trên điện thoại di động, máy chơi game và TV.
+00:05:47,610 --> 00:05:59,890
+Nhưng giả sử hoạt động kinh doanh cho vay và thế chấp đang trải qua một sự chuyển đổi nghiêm trọng nào đó, trong trường hợp đó, nhóm cho vay và thế chấp có thể quyết định phát hành dịch vụ vi mô của họ mỗi ngày.
 
 32
-00:06:03,480 --> 00:06:11,720
-Mặt khác, Blockbuster đã bỏ qua tất cả những công nghệ kỹ thuật số mới hơn này.  Họ đã thất bại trong việc chuyển đổi hoạt động kinh doanh của mình kịp thời.
+00:06:00,560 --> 00:06:12,890
+Và điều này tóm lại là vì mỗi nhóm dịch vụ vi mô hoạt động độc lập nên họ không dành thời gian để quản lý các ưu tiên kinh doanh xung đột nhau.
 
 33
-00:06:11,880 --> 00:06:20,250
-Và đoán xem?  Đầu năm 2021, cửa hàng bom tấn cuối cùng đã đóng cửa vào thời điểm này.  Bom tấn không còn trong kinh doanh nữa.
+00:06:12,900 --> 00:06:26,810
+Và trên thực tế, điều này sẽ dẫn đến tốc độ định giá doanh nghiệp nhanh hơn.  Bây giờ, nếu tôi tóm tắt cuộc thảo luận, cách tôi sẽ trình bày là các doanh nghiệp cần duy trì khả năng cạnh tranh bằng cách chuyển đổi nhanh chóng.
 
 34
-00:06:20,890 --> 00:06:36,600
-Một điểm quan trọng cần ghi nhớ là chuyển đổi không phải là sáng kiến ​​hay nhiệm vụ chỉ diễn ra một lần.  Các doanh nghiệp cần thay đổi liên tục và điều này đòi hỏi những thay đổi nhanh chóng đối với hệ thống và ứng dụng của họ.
+00:06:26,810 --> 00:06:35,060
+Và sự chuyển đổi nhanh chóng này cần có sự hỗ trợ từ bộ phận CNTT.  các nhóm để cung cấp giá trị cho thị trường với tốc độ nhanh hơn.
 
 35
-00:06:36,810 --> 00:06:47,280
-Các tổ chức phải theo kịp tốc độ của các công nghệ mới và đang phát triển.  Một ví dụ điển hình về sự chuyển đổi liên tục là Amazon.
+00:06:35,150 --> 00:06:47,270
+Kiến trúc dịch vụ vi mô là yếu tố hỗ trợ hoặc chất xúc tác cho quá trình chuyển đổi kinh doanh liên tục vì nó giúp CNTT phát triển.  các nhóm di chuyển với tốc độ tương tự như doanh nghiệp.
 
 36
-00:06:47,520 --> 00:06:57,000
-Amazon đang bắt kịp các công nghệ kỹ thuật số mới hơn và cung cấp các sản phẩm và dịch vụ mới cho khách hàng cũng như đối tác của họ.
+00:06:48,790 --> 00:07:03,550
+Một điều quan trọng cần lưu ý là để tận dụng tối đa kiến ​​trúc dịch vụ vi mô, điều quan trọng đối với nhóm dịch vụ vi mô là phải tạo ra mã nghiệp vụ phù hợp cho từng máy chủ vi mô.
 
 37
-00:06:57,900 --> 00:07:10,650
-Một thách thức chung mà các doanh nghiệp phải đối mặt trong hành trình chuyển đổi là cách xây dựng phần mềm cũ cản trở hoặc gây khó khăn cho các tổ chức trong việc chuyển đổi.
+00:07:03,700 --> 00:07:13,860
+Nếu không thực hiện đúng sẽ dẫn đến tình trạng các nhóm phụ thuộc lẫn nhau và điều đó sẽ dẫn đến mất đi lợi thế của kiến ​​trúc dịch vụ vi mô.
 
 38
-00:07:10,920 --> 00:07:27,290
-Việc xây dựng phần mềm bằng cách sử dụng các công nghệ và mô hình kiến ​​trúc cũ sẽ chậm hơn.  Các công nghệ cũ hơn và cách xây dựng ứng dụng cũ khiến các ứng dụng này khó tích hợp với các công nghệ kỹ thuật số mới hơn.
+00:07:14,260 --> 00:07:24,690
+Và đây là lúc thiết kế Theo nhu cầu xuất hiện.  Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của dịch vụ vi mô.
 
 39
-00:07:27,720 --> 00:07:43,390
-Và đây là lúc kiến ​​trúc dịch vụ vi mô có thể trợ giúp.  Kiến trúc của Microsoft giải quyết những thách thức này và giúp các tổ chức phát triển với tốc độ nhanh hơn để đạt được các mục tiêu chuyển đổi của mình.
+00:07:24,910 --> 00:07:31,570
+Tôi sẽ không đề cập đến Thiết kế theo nhu cầu ở đây.  Bạn sẽ tìm hiểu tất cả về thiết kế hướng miền trong các phần sau.
 
 40
-00:07:44,910 --> 00:07:55,890
-Một câu hỏi hiển nhiên mà bạn có thể muốn hỏi vào thời điểm này là làm thế nào kiến ​​trúc dịch vụ vi mô giúp chuyển đổi trong khi chuyển đổi chỉ là những thay đổi nhanh chóng?
+00:07:32,560 --> 00:07:48,790
+Đã đến lúc ôn lại những điểm chính trong bài học này, các nhóm nhỏ hơn sẽ có tốc độ tiếp cận thị trường nhanh hơn.  Các dịch vụ vi mô được tổ chức xoay quanh khả năng kinh doanh và lợi ích của phương pháp này là nó cho phép I.T.  các đội hoạt động độc lập.
 
 41
-00:07:56,310 --> 00:08:05,940
-Và trong trường hợp dịch vụ vi mô, các thay đổi về kiến ​​trúc được tách biệt thành một tập hợp các dịch vụ vi mô.  Tôi sẽ giải thích nó bằng một ví dụ về ngân hàng.
-
-42
-00:08:06,270 --> 00:08:14,880
-Giả sử một ngân hàng đã áp dụng kiến ​​trúc dịch vụ vi mô và điều đó có nghĩa là họ sẽ tạo ra nhiều dịch vụ vi mô.
-
-43
-00:08:14,880 --> 00:08:22,140
-Mỗi máy chủ vi mô sẽ nhận ra một khả năng kinh doanh.  Ở đây tôi đang hiển thị ba dịch vụ vi mô như vậy.
-
-44
-00:08:22,290 --> 00:08:31,320
-Các tài khoản bán lẻ.  Dịch vụ vi mô đảm nhiệm chức năng kinh doanh cần thiết cho sản phẩm ngân hàng bán lẻ, chẳng hạn như tài khoản séc và tài khoản tiết kiệm.
-
-45
-00:08:31,470 --> 00:08:38,230
-Thẻ tín dụng Microsoft.  Điều này nhằm mục đích hiện thực hóa các sản phẩm thẻ tín dụng do ngân hàng cung cấp.
-
-46
-00:08:38,370 --> 00:08:50,580
-Giả sử ngân hàng quyết định chuyển đổi chiến lược kinh doanh thẻ tín dụng của họ.  Vì vậy, điều đó có nghĩa là sẽ chỉ cần thay đổi thẻ tín dụng, các dịch vụ vi mô.
-
-47
-00:08:50,730 --> 00:09:13,770
-Và vì không có sự phụ thuộc giữa thẻ tín dụng, dịch vụ vi mô và các dịch vụ vi mô khác nên tốc độ thực hiện và phát hành những thay đổi này sẽ nhanh hơn nhiều so với kiến ​​trúc nguyên khối nơi có sự phụ thuộc lẫn nhau giữa nhiều mô-đun thực hiện  chức năng kinh doanh khác nhau.
-
-48
-00:09:13,770 --> 00:09:22,310
-Trong bài giảng tiếp theo, bạn sẽ tìm hiểu các lợi ích kinh doanh của kiến ​​trúc dịch vụ vi mô.  Đã đến lúc ôn lại những điểm chính của bài học này.
-
-49
-00:09:22,920 --> 00:09:32,590
-Các tổ chức cần phải liên tục chuyển đổi.  Sự chuyển đổi này đòi hỏi I.T.  hệ thống thay đổi với tốc độ rất nhanh.
-
-50
-00:09:33,000 --> 00:09:47,910
-Cần phải áp dụng nhanh chóng các công nghệ kỹ thuật số mới và tốc độ đưa ra thị trường là chìa khóa. Kiến trúc của Microsoft giúp các tổ chức đáp ứng các yêu cầu này từ bộ phận CNTT.  luật xa gần.
+00:07:48,970 --> 00:08:00,730
+Một điểm quan trọng cần lưu ý là nhóm kiến ​​trúc dịch vụ vi mô phải tạo ra phạm vi kinh doanh phù hợp cho từng dịch vụ vi mô để duy trì tính độc lập.
 

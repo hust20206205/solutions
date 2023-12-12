@@ -141,8 +141,8 @@ quy trình làm việc và hoạt động cũng như các khái niệm chính.
 
 <!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 
-<!-- @ Mô hình kinh doanh (Business Model Canvas) -->
-Mục đích:    cung cấp   tổng quan về bức vẽ mô hình kinh doanh.
+<!--@ Mô hình kinh doanh (Business Model Canvas)-->
+Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh.
 
 
 <!--! phân khúc khách hàng (Customer Segments)-->

@@ -155,12 +155,12 @@ Kiến trúc vi dịch vụ là giải pháp cho những thách thức này. Ki�
 
 Việc vận dụng kết hợp giữa kiến trúc vi dịch vụ và thiết kế hướng miền là một cách tiếp cận toàn diện, giúp xác định và tổ chức các dịch vụ dựa trên việc hiểu rõ về lĩnh vực kinh doanh. Thiết kế hướng miền giúp xây dựng mô hình dựa trên yêu cầu nghiệp vụ thực tế, giúp dự án phản ánh đúng các quy trình và quy tắc kinh doanh.
 
-<!--!======================================================-->
 
 [](1.1.GioiThieuBaiToanHoaDonDienTu.md)
 [](1.2.GioiThieuVeKienTrucViDichVu.md)
 [](1.3.GioiThieuVeTKHM.md)
 
+<!--!======================================================-->
 <!---->
 
 [](2.0.YeuCauNghiepVu.md)

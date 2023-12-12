@@ -68,7 +68,7 @@ Có 3 loại miền phụ:
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
-<!--$VD: Các miền phụ chung như các hoạt động quản lý nhân sự và quản lý cơ sở vật chất không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
+<!--$?????????????????VD: Các miền phụ chung như các hoạt động quản lý nhân sự và quản lý cơ sở vật chất không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
 
 <!--@ Miền phụ cốt lõi (Core Subdomain)-->
 
@@ -78,7 +78,7 @@ Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi. Vì m
 
 => Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
 
-<!--$VD:-->
+<!--$?????????????????VD:-->
 
 <!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
 
@@ -88,7 +88,7 @@ Miền phụ hỗ trợ cung cấp các dịch vụ để miền phụ cốt lõ
 
 Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ.
 
-<!--$VD: miền phụ hỗ trợ chăm sóc khách hàng-->
+<!--$?????????????????VD: miền phụ hỗ trợ chăm sóc khách hàng-->
 
 <!--@Cách xác định các miền phụ-->
 <!--Sơ đồ:-->
@@ -107,8 +107,6 @@ Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh t
 
 Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
-<!--$VD: Sau khi phân tích em có cccccccc-->
-
 <!--@Tại sao cần phân loại các miền phụ?-->
 
 Việc phân loại miền phụ giúp doanh nghiệp đưa ra quyết định với từng loại miền phụ khác nhau.
@@ -117,7 +115,6 @@ Doanh nghiệp có nguồn lực hạn chế như nguồn nhân lực và kinh p
 
 Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó, các sáng kiến liên quan đến miền phụ cốt lõi sẽ được ưu tiên.
 
-<!--$VD:-->
 <!--Hướng dẫn: 5/3-->
 
 <!--@Mô hình miền (Domain Models)-->
@@ -132,12 +129,9 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
-<!--$VD: Ở đồ án này, mô hình miền bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
+<!--$VD: Ở đồ án này, mô hình miền của em bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 
-
-trình bày về 
-Strategic và Tactical Patterns
-trong Domain Driven Design
+<!-- Strategic và Tactical Patterns -->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 <!--!======================================================-->
 
@@ -726,7 +720,7 @@ Ngôn ngữ chung này được các nhóm làm việc trong bối cảnh giới
 Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với dịch vụ lưu trữ mở. Trở lại ngược dòng, các liên hệ được giới hạn trên nhà cung cấp dịch vụ được lưu trữ mở sẽ hiển thị ngôn ngữ chung cho các dịch vụ chung và ngôn ngữ này được quản lý bởi nhóm chịu trách nhiệm về dịch vụ được lưu trữ mở, các liên hệ được giới hạn ở hạ nguồn ngoại trừ ngôn ngữ được xuất bản này.
 
 <!--Hướng dẫn 6/6-->
-<!--  -->
+<!---->
 
 <!--@Mô hình kinh doanh (Business Model Canvas)-->
 <!--Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh.-->
@@ -772,4 +766,3 @@ Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với d�
 <!--![](pictures/___KD.png)-->
 <!--Xem video hướng dẫn phân tích: 4\3-->
 <!--https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020-->
-

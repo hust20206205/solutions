@@ -301,7 +301,7 @@ Ràng buộc về thứ tự sự kiện.
 
 <!--Chi phí xây dựng, quản lí vận hành lớn.-->
 
-<!--@Có thể thêm  phần truyền thông   trực tiếp, gián tiếp-->
+<!--@Có thể thêm phần truyền thông trực tiếp, gián tiếp-->
 
 ## 2.3. Giới thiệu về thiết kế hướng miền
 

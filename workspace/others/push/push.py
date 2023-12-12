@@ -89,9 +89,6 @@ for file_path in file_paths:
     while " :" in content:
         content = content.replace(" :", ":")
     content = content.replace(":", ": ")
-    while " ." in content:
-        content = content.replace(" .", ".")
-    content = content.replace(".", ". ")
     
     
     # while " !" in content:

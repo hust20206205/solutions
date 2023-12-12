@@ -79,8 +79,11 @@ for file_path in file_paths:
     content = content.replace('Bạn', '      Chúng ta     ')
     content = content.replace('tên miền', '       miền   ')
     content = content.replace('Tên miền', '       Miền   ')
+    
     content = content.replace('Bối cảnh bị ràng buộc', '       Bối cảnh giới hạn   ')
     content = content.replace('bối cảnh bị ràng buộc', '       bối cảnh giới hạn   ')
+    content = content.replace('Bối cảnh bị giới hạn', '       Bối cảnh giới hạn   ')
+    content = content.replace('bối cảnh bị giới hạn', '       bối cảnh giới hạn   ')
     content = content.replace('Bối cảnh bị chặn', '       bối cảnh giới hạn   ')
     content = content.replace('bối cảnh bị chặn', '       bối cảnh giới hạn   ')
     # content = content.replace('.' 

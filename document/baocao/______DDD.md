@@ -14,6 +14,16 @@ hợp gốc bị phá hủy.
 
 Trình bày nội dung yêu cầu nghiệp vụ
 
+<!-- @Các sơ đồ phân tích thiết kế hệ thống -->
+
+UML Use Case Diagrams
+
+UML Activity Diagrams
+
+UML Sequence Diagrams
+
+UML Class Diagrams
+
 <!--@Chi tiết và áp dụng thiết kế hướng miền-->
 <!--@Đôi nét về thiết kế hướng miền-->
 
@@ -110,10 +120,9 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 <!--$VD:-->
 <!--Hướng dẫn: 5/3-->
 
-<!--!======================================================-->
 <!--@Mô hình miền (Domain Models)-->
 
-Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Trong thiết kế hướng miền để có thể hiểu miền nhanh, chúng ta tạo ra các mô hình miền.
+Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về phần mềm đó. Trong thiết kế hướng miền để có thể hiểu miền nhanh, chúng ta tạo ra các mô hình miền.
 
 Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.
 
@@ -123,10 +132,18 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
-<!--Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.-->
+<!--Năm yếu tố tạo nên mô hình miền, miền,
+    từ vựng,
+    thực thể miền,
+    mối quan hệ giữa các thực thể,
+    quy trình làm việc và hoạt động cũng như các khái niệm chính.
+  -->
 <!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 
+https://www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
+
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
+<!--!======================================================-->
 
 <!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi chúng ta cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
 <!--Có ý nghĩa khác nhau trong các miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền.-->
@@ -663,7 +680,7 @@ https: //www.youtube.com/watch? v=UXHzxX4png0
 
 https: //www.youtube.com/watch? v=glZs4QFfwbc
 
-https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
+https://www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
 
 <!--!Mối quan hệ đối xứng-->
 <!--!Mối quan hệ bất đối xứng-->

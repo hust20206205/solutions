@@ -1,9 +1,6 @@
 
-<!--@ \04UnderstandingtheBusinessDomain_VVN\000000002.srt-->
 
-1
-00: 00: 00, 210--> 00: 00: 09, 230
-Canvas mô hình kinh doanh, trong bài học này, chúng ta tìm hiểu canvas mô hình kinh doanh là gì và mô tả các khối xây dựng của canvas mô hình kinh doanh.
+<!-- Canvas mô hình kinh doanh, trong bài học này, chúng ta tìm hiểu canvas mô hình kinh doanh là gì và mô tả các khối xây dựng của canvas mô hình kinh doanh. -->
 
 2
 00: 00: 09, 630--> 00: 00: 24, 390

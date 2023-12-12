@@ -1,19 +1,23 @@
 <!--!======================================================-->
 
-- [1.1. Trang bìa](#11-trang-bìa)
-- [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
-- [1.3. Mục lục](#13-mục-lục)
-- [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
-- [1.5. Lời mở đầu](#15-lời-mở-đầu)
-- [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
-- [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
-- [1.8. Danh sách bảng](#18-danh-sách-bảng)
-- [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
-- [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
-- [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
-- [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
+- [1. Đồ án 2](#1-đồ-án-2)
+  - [1.1. Trang bìa](#11-trang-bìa)
+  - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
+  - [1.3. Mục lục](#13-mục-lục)
+  - [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
+  - [1.5. Lời mở đầu](#15-lời-mở-đầu)
+  - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
+  - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
+  - [1.8. Danh sách bảng](#18-danh-sách-bảng)
+  - [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
+  - [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
+  - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
+  - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
+- [2. Giới thiệu chung](#2-giới-thiệu-chung)
 
 <!--!======================================================-->
+
+# 1. Đồ án 2
 
 ## 1.1. Trang bìa
 
@@ -143,7 +147,7 @@ Thiết kế hướng lĩnh vực
 3 Abstraction Trừu tượng
 4 chuyên gia ngành
 
-# Giới thiệu chung
+# 2. Giới thiệu chung
 
 Trong thời đại ngày nay, nhu cầu phát triển ứng dụng và hệ thống phức tạp ngày càng tăng, đặt ra thách thức lớn đối với kiến trúc phần mềm. Kiến trúc nguyên khối đã phục vụ hiệu quả trong quá khứ, nhưng kiến trúc này bắt đầu gặp khó khăn đối mặt với sự phức tạp, khả năng mở rộng và khả năng đáp ứng linh hoạt với thay đổi nhanh chóng trong yêu cầu kinh doanh.
 

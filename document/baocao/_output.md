@@ -1,38 +1,4 @@
 
-
-
-
-
-cung cấp hai loại mẫu. Các mô hình chiến lược được sử dụng để chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
-
-4
-00: 00: 53, 490--> 00: 01: 01, 590
-Các mẫu kỹ thuật được sử dụng để chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
-
-5
-00: 01: 01, 890--> 00: 01: 11, 770
-Mẫu chiến lược áp dụng trên nhiều bối cảnh bị giới hạn, trong khi các mẫu kỹ thuật chỉ có thể áp dụng trong bối cảnh bị giới hạn.
-
-6
-00: 01: 11, 790--> 00: 01: 27, 140
-Điều này sẽ trở nên rõ ràng khi chúng ta hiểu rõ hơn về các mô hình chiến lược và chiến thuật. Đây là các mẫu chiến lược thiết kế theo miền trong phần chúng tôi sẽ đề cập đến phần ngữ cảnh bị giới hạn và mẫu ngôn ngữ chung .
-
-7
-00: 01: 27, 570--> 00: 01: 51, 960
-Vì vậy, câu hỏi chúng ta có thể đặt ra là thiết kế miền khác nhau như thế nào liên quan đến các vi dịch vụ? Ý tưởng là phương pháp thiết kế hướng miền dẫn đến các mô hình miền độc lập nhỏ hơn có thể được xây dựng dưới dạng tập hợp các vi dịch vụ độc lập và có tính tách rời cao để mô hình chiến lược mà chúng tôi đang xác định ranh giới cho các vi dịch vụ .
-
-8
-00: 01: 52, 920--> 00: 02: 02, 000
-Chúng ta hãy xem qua các mục tiêu của phần ở cuối phần này, chúng ta sẽ có thể xác định và phân loại các miền phụ trong một miền doanh nghiệp.
-
-9
-00: 02: 02, 400--> 00: 02: 12, 690
-Chúng ta biết tại sao việc hiểu bối cảnh kinh doanh lại quan trọng. Chúng ta sẽ có thể mô tả thiết kế hướng đến miền, đối tác chiến lược, ngôn ngữ chung và bối cảnh bị giới hạn.
-
-10
-00: 02: 13, 080--> 00: 02: 20, 070
-Và chúng ta cũng sẽ có thể mô tả quy trình có thể được sử dụng để khám phá các liên hệ được liên kết trong một miền.
-
 <!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000002.srt-->
 
 1

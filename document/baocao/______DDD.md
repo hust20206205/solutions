@@ -68,7 +68,7 @@ Có 3 loại miền phụ:
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
-<!--$?????????????????VD: Các miền phụ chung như các hoạt động quản lý nhân sự và quản lý cơ sở vật chất không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
+<!--$? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? VD: Các miền phụ chung như các hoạt động quản lý nhân sự và quản lý cơ sở vật chất không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
 
 <!--@ Miền phụ cốt lõi (Core Subdomain)-->
 
@@ -78,7 +78,7 @@ Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi. Vì m
 
 => Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
 
-<!--$?????????????????VD:-->
+<!--$? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? VD:-->
 
 <!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
 
@@ -88,7 +88,7 @@ Miền phụ hỗ trợ cung cấp các dịch vụ để miền phụ cốt lõ
 
 Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ.
 
-<!--$?????????????????VD: miền phụ hỗ trợ chăm sóc khách hàng-->
+<!--$? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? VD: miền phụ hỗ trợ chăm sóc khách hàng-->
 
 <!--@Cách xác định các miền phụ-->
 <!--Sơ đồ:-->
@@ -130,8 +130,17 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
 <!--$VD: Ở đồ án này, mô hình miền của em bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
+<!--!======================================================-->
 
-<!-- Strategic và Tactical Patterns -->
+cung cấp hai loại mẫu.
+
+Các mô hình chiến lược được sử dụng để chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
+
+Các mẫu kỹ thuật được sử dụng để chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
+
+Mẫu chiến lược áp dụng trên nhiều bối cảnh bị giới hạn, trong khi các mẫu kỹ thuật chỉ có thể áp dụng trong bối cảnh bị giới hạn.
+
+<!--Strategic và Tactical Patterns-->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 <!--!======================================================-->
 

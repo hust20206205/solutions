@@ -33,9 +33,12 @@ for file_path in file_paths:
     while ' }' in contents:
         contents = contents.replace(' }', '}') 
     contents = '\n'.join(line.strip() for line in contents.split('\n'))
+    # contents = contents.replace("\n\n\n", "\n\n")
+    
+    while "\n\n\n" in contents:
+        contents = contents.replace("\n\n\n", "\n\n")
     with open(file_path, 'w', encoding="utf-8") as file:
         file.write(contents)
-# #     contents = [line.strip() for line in contents] 
 
 
 
@@ -95,8 +98,6 @@ for file_path in file_paths:
 #     contents = contents.replace('chống tham nhũng', '       chống đổ vỡ   ')
 #     # contents = contents.replace('.' 
     
-#     while "\n\n\n" in contents:
-#         contents = contents.replace("\n\n\n", "\n\n")
 #     contents = contents.replace("?", "? ")
 #     while " ?" in contents:
 #         contents = contents.replace(" ?", "?")
@@ -134,15 +135,6 @@ for file_path in file_paths:
 #         contents = contents.replace('( ', '(')
 #     while ' )' in contents:
 #         contents = contents.replace(' )', ')')
-#         # 
-#     with open(file_path, 'w', encoding="utf-8") as file:
-#         file.write(contents)
-#         # 
-#     # with open(file_path, 'r', encoding="utf-8") as file:
-#     #     contents = file.readlines()
-#     # contents = [line.strip() for line in contents]
-#     # with open(file_path, 'w', encoding="utf-8") as file:
-#     #     for line in contents:
-#     #         file.write(line + '\n')
+#         #  
 
 # # https://www.udemy.com/course/domain-driven-design-and-microservices

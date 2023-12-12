@@ -1,4 +1,4 @@
-<!-- @yêu cầu nghiệp vụ -->
+<!--@yêu cầu nghiệp vụ-->
 
 trình bày nội dung yêu cầu nghiệp vụ
 
@@ -34,6 +34,8 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 <!--Phần mềm cần phản ánh đúng miền và hiện thực hóa một cách chính xác quan hệ giữa các miền.-->
 
 <!--@Tên miền phụ (Sub-Domain)-->
+Tên miền được tạo thành từ nhiều tên miền phụ.
+
 
 Một miền doanh nghiệp bao gồm nhiều tên miền phụ.
 Có nhiều yếu tố khác nhau góp phần tạo nên sự phức tạp của tên miền phụ.

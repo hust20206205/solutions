@@ -241,11 +241,6 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--Hướng dẫn 5/7-->
 
-<!--!======================================================-->
-
-Symmetric Relationship: Separate ways, Partnership, Shared Kernel
-Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer
-One-to-Many Relationship: Open Host Service, Published Language
 
 <!--@Bản đồ bối cảnh (Context Maps)-->
 
@@ -262,21 +257,15 @@ Giúp thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
 Giúp nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .
 Giúp các nhóm đánh giá mức độ hợp tác với các nhóm khác.
 Giúp sàng lọc các liên hệ giới hạn và các mô hình.
-Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
-<!--========================================================================-->
+Xác định mối quan hệ giữa các liên hệ giới hạn của mình. 
 
-23
-00: 04: 32, 600--> 00: 04: 40, 730
+<!--!======================================================-->
 
-<!--Bản đồ liên hệ cũng giúp sàng lọc các liên hệ được giới hạn và các mô hình. Chúng ta hãy điểm qua những điểm chính từ bài học này.-->
+<!-- Symmetric Relationship: Separate ways, Partnership, Shared Kernel -->
+<!-- Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer -->
+<!-- One-to-Many Relationship: Open Host Service, Published Language -->
 
-24
-00: 04: 41, 250--> 00: 04: 58, 940
-Ý tưởng là nếu chúng ta tạo quá nhiều sự phụ thuộc giữa các liên hệ giới hạn, điều đó sẽ dẫn đến việc mất đi những lợi ích mà chúng ta mong đợi nhận được từ kiến ​​trúc vi dịch vụ .
 
-25
-00: 04: 59, 270--> 00: 05: 09, 950
-Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, chúng ta phải sử dụng các mẫu thiết kế hướng miền được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->

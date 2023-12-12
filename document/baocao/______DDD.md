@@ -28,58 +28,58 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 
 <!--$VD: Ở đồ án này, miền được xác định là bài toán giải pháp hóa đơn điện tử .-->
 
-<!--@Tên miền phụ (Sub-Domain)-->
+<!--@ Miền phụ (Sub-Domain)-->
 <!--!======================================================-->
 
-Miền được tạo thành từ nhiều tên miền phụ.
-Trong một miền phức tạp, không thể có một chuyên gia ngành   có kiến thức    về tất cả các miền phụ.
+Miền được tạo thành từ nhiều miền phụ .
+Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
 
 
-<!--Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các tên miền phụ trong tên miền lớn hơn.-->
+<!--Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các miền phụ trong tên miền lớn hơn.-->
 
-Một miền doanh nghiệp bao gồm nhiều tên miền phụ.
+Một miền doanh nghiệp bao gồm nhiều miền phụ .
 
-<!--@Phân loại các tên miền phụ.-->
+<!--@Phân loại các miền phụ .-->
 
-Có ba loại tên miền phụ:
+Có ba loại miền phụ:
 
-<!--@Tên miền phụ chung (Generic Subdomain)**-->
+<!--@ Miền phụ chung (Generic Subdomain)**-->
 
-Tên miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
+Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 
-Không có gì đặc biệt về những tên miền phụ này và các phương pháp tốt nhất đã sẵn có cho những tên miền này.
+Không có gì đặc biệt về những miền phụ này và các phương pháp tốt nhất đã sẵn có cho những tên miền này.
 
-Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong tên miền phụ chung.
-
-<!--$VD:-->
-<!--Ví dụ về các tên miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
-
-<!--@Tên miền phụ cốt lõi (Core Subdomain)**-->
-
-Tên miền phụ cốt lõi là điểm khác biệt quan trọng cho doanh nghiệp.
-
-Mỗi doanh nghiệp trong một ngành cụ thể hoạt động khác nhau trong các tên miền phụ cốt lõi để đạt được một số lợi thế so với đối thủ cạnh tranh.
-
-Thành công của một doanh nghiệp nằm ở tên miền phụ cốt lõi.
-
-Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các tên miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
+Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
 <!--$VD:-->
+<!--Ví dụ về các miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
 
-<!--@Tên miền phụ hỗ trợ (Supporting Subdomain)**-->
+<!--@ Miền phụ cốt lõi (Core Subdomain)**-->
 
-Các tên miền phụ cốt lõi phụ thuộc vào các tên miền phụ hỗ trợ.
+Miền phụ cốt lõi là điểm khác biệt quan trọng cho doanh nghiệp.
 
-Tên miền phụ hỗ trợ cung cấp các dịch vụ để tên miền phụ cốt lõi hoạt động hiệu quả.
+Mỗi doanh nghiệp trong một ngành cụ thể hoạt động khác nhau trong các miền phụ cốt lõi để đạt được một số lợi thế so với đối thủ cạnh tranh.
 
-Tên miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ.
+Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi.
+
+Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
+
+<!--$VD:-->
+
+<!--@ Miền phụ hỗ trợ (Supporting Subdomain)**-->
+
+Các miền phụ cốt lõi phụ thuộc vào các miền phụ hỗ trợ.
+
+Miền phụ hỗ trợ cung cấp các dịch vụ để miền phụ cốt lõi hoạt động hiệu quả.
+
+Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ.
 
 <!--$VD:-->
 <!--phụ thuộc rất nhiều vào bộ phận hỗ trợ khách hàng-->
 <!---->
 <!---->
 <!---->
-<!--@Cách xác định các tên miền phụ-->
+<!--@Cách xác định các miền phụ-->
 
 Sơ đồ:
 ![](pictures/XacDinhTenMienPhu/_XacDinhTenMienPhu.png)
@@ -87,23 +87,23 @@ Sơ đồ:
 Diễn giải:
 Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
 
-Nếu có sẵn giải pháp đã biết thì có khả năng là Tên miền phụ chung. Ngược lại, nghiệp vụ đó thêm bất kỳ giá trị kinh doanh nào không.
+Nếu có sẵn giải pháp đã biết thì có khả năng là Miền phụ chung. Ngược lại, nghiệp vụ đó thêm bất kỳ giá trị kinh doanh nào không.
 
-Nếu không có giá trị kinh doanh thì kiểm tra xem các tên miền phụ cốt lõi có phụ thuộc vào tên miền phụ này hay không? Và câu trả lời đó là có thì có khả năng là tên miền phụ hỗ trợ. Nếu câu trả lời là không thì đó là tên miền phụ chung.
+Nếu không có giá trị kinh doanh thì kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Và câu trả lời đó là có thì có khả năng là miền phụ hỗ trợ. Nếu câu trả lời là không thì đó là miền phụ chung.
 
-Nếu tên miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu tên miền doanh nghiệp có độ phức tạp cao hay không?
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu tên miền doanh nghiệp có độ phức tạp cao hay không?
 
-Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là tên miền phụ hỗ trợ. Nếu không thì nó có khả năng là tên miền phụ cốt lõi.
+Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Nếu không thì nó có khả năng là miền phụ cốt lõi.
 
 <!--$VD: Sau khi phân tích em có cccccccc-->
 
-<!--@Tại sao cần phân loại các tên miền phụ?-->
+<!--@Tại sao cần phân loại các miền phụ?-->
 
-Việc phân loại tên miền phụ giúp doanh nghiệp đưa ra quyết định với từng loại tên miền phụ khác nhau.
+Việc phân loại miền phụ giúp doanh nghiệp đưa ra quyết định với từng loại miền phụ khác nhau.
 
-Doanh nghiệp có nguồn lực hạn chế như nguồn nhân lực và kinh phí dành cho các sáng kiến. Việc phân loại các tên miền phụ giúp ưu tiên các sáng kiến khác nhau.
+Doanh nghiệp có nguồn lực hạn chế như nguồn nhân lực và kinh phí dành cho các sáng kiến. Việc phân loại các miền phụ giúp ưu tiên các sáng kiến khác nhau.
 
-Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó, các sáng kiến liên quan đến tên miền phụ cốt lõi sẽ được ưu tiên.
+Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó, các sáng kiến liên quan đến miền phụ cốt lõi sẽ được ưu tiên.
 
 <!--$VD:-->
 <!--Hướng dẫn: 5/3-->
@@ -126,7 +126,7 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 <!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi chúng ta cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
-<!--Có ý nghĩa khác nhau trong các tên miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền.-->
+<!--Có ý nghĩa khác nhau trong các miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền.-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Lập trình viên tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các nhóm có thể dẫn đến những thách thức về giao tiếp.
 
@@ -516,7 +516,7 @@ Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của
 
 <!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
 
-<!--Sub-Domains: Tên miền phụ-->
+<!--Sub-Domains: Miền phụ-->
 
 Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết.
 

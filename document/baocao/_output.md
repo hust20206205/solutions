@@ -387,7 +387,7 @@ Vì vậy, câu hỏi chúng ta có thể đặt ra là thiết kế miền khá
 
 8
 00: 01: 52, 920--> 00: 02: 02, 000
-Chúng ta hãy xem qua các mục tiêu của phần ở cuối phần này, chúng ta sẽ có thể xác định và phân loại các tên miền phụ trong một miền doanh nghiệp.
+Chúng ta hãy xem qua các mục tiêu của phần ở cuối phần này, chúng ta sẽ có thể xác định và phân loại các miền phụ trong một miền doanh nghiệp.
 
 9
 00: 02: 02, 400--> 00: 02: 12, 690
@@ -401,23 +401,23 @@ Và chúng ta cũng sẽ có thể mô tả quy trình có thể được sử d
 
 1
 00: 00: 00, 210--> 00: 00: 13, 760
-Tên miền phụ, một miền doanh nghiệp, bao gồm nhiều tên miền phụ, có ba loại tên miền phụ, loại phụ thuộc vào giá trị mà tên miền phụ tạo ra cho doanh nghiệp và người đứng đầu doanh nghiệp.
+Miền phụ, một miền doanh nghiệp, bao gồm nhiều miền phụ, có ba loại miền phụ, loại phụ thuộc vào giá trị mà miền phụ tạo ra cho doanh nghiệp và người đứng đầu doanh nghiệp.
 
 2
 00: 00: 13, 860--> 00: 00: 24, 570
-Hiểu biết về loại tên miền phụ có thể hỗ trợ doanh nghiệp đưa ra quyết định xây dựng hay mua các giải pháp công nghệ.
+Hiểu biết về loại miền phụ có thể hỗ trợ doanh nghiệp đưa ra quyết định xây dựng hay mua các giải pháp công nghệ.
 
 3
 00: 00: 24, 870--> 00: 00: 33, 330
-Doanh nghiệp cần thực hiện nhiều chức năng khác nhau để hoạt động. Các chức năng này được thực hiện trong phạm vi hoạt động của tên miền phụ.
+Doanh nghiệp cần thực hiện nhiều chức năng khác nhau để hoạt động. Các chức năng này được thực hiện trong phạm vi hoạt động của miền phụ .
 
 4
 00: 00: 33, 330--> 00: 00: 45, 000
-Đối với ví dụ về ngân hàng, chúng tôi đã thấy nhiều tên miền phụ như vậy. Một điểm quan trọng cần lưu ý là đây là cái nhìn chung ở cấp độ rất cao về cách các tên miền phụ của ngân hàng trông như thế nào.
+Đối với ví dụ về ngân hàng, chúng tôi đã thấy nhiều miền phụ như vậy. Một điểm quan trọng cần lưu ý là đây là cái nhìn chung ở cấp độ rất cao về cách các miền phụ của ngân hàng trông như thế nào.
 
 5
 00: 00: 45, 000--> 00: 01: 01, 440
-Nhưng mỗi ngân hàng có thể nhìn doanh nghiệp của mình theo một cách khác. Từ góc độ tên miền phụ, lý do phổ biến nhất là các doanh nghiệp có thể không hoạt động ở tất cả các tên miền phụ trong tên miền bao quát đó hoặc ngành, chẳng hạn như ngân hàng.
+Nhưng mỗi ngân hàng có thể nhìn doanh nghiệp của mình theo một cách khác. Từ góc độ miền phụ, lý do phổ biến nhất là các doanh nghiệp có thể không hoạt động ở tất cả các miền phụ trong tên miền bao quát đó hoặc ngành, chẳng hạn như ngân hàng.
 
 6
 00: 01: 01, 440--> 00: 01: 12, 390
@@ -425,19 +425,19 @@ Nó có thể chỉ cung cấp tài khoản bán lẻ cho khách hàng của h�
 
 7
 00: 01: 12, 420--> 00: 01: 28, 410
-Kết quả là cấu trúc tên miền phụ của ngân hàng ở đây và Ngân hàng B sẽ trông khác nhau. Bây giờ, nếu chúng ta nghĩ về điều đó, những tên miền phụ này có thể được chia thành các tên miền phụ nhỏ hơn và đây là những gì tôi gọi là mức độ chi tiết của tên miền phụ.
+Kết quả là cấu trúc miền phụ của ngân hàng ở đây và Ngân hàng B sẽ trông khác nhau. Bây giờ, nếu chúng ta nghĩ về điều đó, những miền phụ này có thể được chia thành các miền phụ nhỏ hơn và đây là những gì tôi gọi là mức độ chi tiết của miền phụ .
 
 8
 00: 01: 28, 410--> 00: 01: 45, 420
-Và nó phụ thuộc vào trọng tâm của doanh nghiệp. Ví dụ: ngân hàng chỉ giao dịch với tài khoản bán lẻ có thể quyết định chia tên miền phụ tài khoản bán lẻ này thành nhiều tên miền phụ như tài khoản tiết kiệm, tài khoản séc, chứng chỉ tiền gửi, v.v..
+Và nó phụ thuộc vào trọng tâm của doanh nghiệp. Ví dụ: ngân hàng chỉ giao dịch với tài khoản bán lẻ có thể quyết định chia miền phụ tài khoản bán lẻ này thành nhiều miền phụ như tài khoản tiết kiệm, tài khoản séc, chứng chỉ tiền gửi, v.v..
 
 9
 00: 01: 45, 420--> 00: 01: 56, 490
-Vì vậy, cuối cùng, mỗi ngân hàng, tùy thuộc vào trọng tâm của mình, có thể xem doanh nghiệp bao gồm các tên miền phụ khác nhau mà họ thực hiện các hoạt động kinh doanh của mình.
+Vì vậy, cuối cùng, mỗi ngân hàng, tùy thuộc vào trọng tâm của mình, có thể xem doanh nghiệp bao gồm các miền phụ khác nhau mà họ thực hiện các hoạt động kinh doanh của mình.
 
 10
 00: 01: 56, 910--> 00: 02: 07, 560
-Mỗi tên miền phụ có mức độ phức tạp khác nhau liên quan đến nó. Có nhiều yếu tố có thể góp phần tạo nên sự phức tạp của tên miền phụ.
+Mỗi miền phụ có mức độ phức tạp khác nhau liên quan đến nó. Có nhiều yếu tố có thể góp phần tạo nên sự phức tạp của miền phụ .
 
 11
 00: 02: 07, 860--> 00: 02: 14, 910
@@ -445,59 +445,59 @@ Alcoa, một số lý do phổ biến. Lý do phổ biến nhất là sự phứ
 
 12
 00: 02: 14, 910--> 00: 02: 25, 380
-Tiếp theo là khía cạnh tuân thủ. Nếu tên miền phụ đang hoạt động trong môi trường được quản lý chặt chẽ thì điều đó sẽ làm tăng thêm độ phức tạp cho tên miền phụ.
+Tiếp theo là khía cạnh tuân thủ. Nếu miền phụ đang hoạt động trong môi trường được quản lý chặt chẽ thì điều đó sẽ làm tăng thêm độ phức tạp cho miền phụ .
 
 13
 00: 02: 25, 380--> 00: 02: 36, 540
-Các phép tính phức tạp hoặc thuật toán phức tạp có thể yêu cầu các kỹ năng chuyên môn hoặc kiến ​​thức chuyên biệt để hiểu tên miền phụ và điều đó làm tăng thêm độ phức tạp.
+Các phép tính phức tạp hoặc thuật toán phức tạp có thể yêu cầu các kỹ năng chuyên môn hoặc kiến ​​thức chuyên biệt để hiểu miền phụ và điều đó làm tăng thêm độ phức tạp.
 
 14
 00: 02: 36, 560--> 00: 02: 49, 230
-Phần tiếp theo là các quy trình và việc xử lý được yêu cầu giữa tên miền phụ và các tên miền phụ khác hoặc thậm chí các thực thể bên ngoài cũng sẽ góp phần tạo nên sự phức tạp của các tên miền phụ.
+Phần tiếp theo là các quy trình và việc xử lý được yêu cầu giữa miền phụ và các miền phụ khác hoặc thậm chí các thực thể bên ngoài cũng sẽ góp phần tạo nên sự phức tạp của các miền phụ .
 
 15
 00: 02: 49, 230--> 00: 03: 07, 590
-Đó là một điều thú vị. Ý tưởng ở đây là nếu tên miền phụ yêu cầu thay đổi quy trình, quy tắc, cấu trúc hoặc bất kỳ khía cạnh nào khác thì sẽ khó quản lý kiến ​​thức và hiểu biết về tên miền vì nó thay đổi theo thời gian chứ không phụ thuộc vào doanh nghiệp, tùy thuộc vào trên ngành công nghiệp.
+Đó là một điều thú vị. Ý tưởng ở đây là nếu miền phụ yêu cầu thay đổi quy trình, quy tắc, cấu trúc hoặc bất kỳ khía cạnh nào khác thì sẽ khó quản lý kiến ​​thức và hiểu biết về tên miền vì nó thay đổi theo thời gian chứ không phụ thuộc vào doanh nghiệp, tùy thuộc vào trên ngành công nghiệp.
 
 16
 00: 03: 07, 770--> 00: 03: 26, 460
-Có thể có các yếu tố khác góp phần tạo nên sự phức tạp của tên miền phụ. Các tên miền phụ có thể được phân loại thành ba loại và danh mục mà tên miền phụ nằm trong đó được quyết định bởi tên miền phụ, độ phức tạp và giá trị kinh doanh, nó cho biết thêm.
+Có thể có các yếu tố khác góp phần tạo nên sự phức tạp của miền phụ . Các miền phụ có thể được phân loại thành ba loại và danh mục mà miền phụ nằm trong đó được quyết định bởi miền phụ, độ phức tạp và giá trị kinh doanh, nó cho biết thêm.
 
 17
 00: 03: 26, 460--> 00: 03: 35, 430
-Ba loại này là tên miền phụ chung, tên miền phụ cốt lõi và tên miền phụ hỗ trợ. Chúng ta hãy đi vào chi tiết của từng cái một.
+Ba loại này là miền phụ chung, miền phụ cốt lõi và miền phụ hỗ trợ. Chúng ta hãy đi vào chi tiết của từng cái một.
 
 18
 00: 03: 35, 610--> 00: 03: 42, 540
-Tên miền phụ chung được đặc trưng bởi thực tế là không có giải pháp duy nhất nào tồn tại cho các tên miền phụ đó.
+Miền phụ chung được đặc trưng bởi thực tế là không có giải pháp duy nhất nào tồn tại cho các miền phụ đó.
 
 19
 00: 03: 42, 570--> 00: 03: 48, 660
-Không có gì đặc biệt về những tên miền phụ này và các phương pháp hay nhất đều có sẵn cho những tên miền này.
+Không có gì đặc biệt về những miền phụ này và các phương pháp hay nhất đều có sẵn cho những tên miền này.
 
 20
 00: 03: 49, 020--> 00: 03: 57, 300
-Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong tên miền phụ chung.
+Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
 21
 00: 03: 57, 330--> 00: 04: 15, 150
-Ví dụ về các tên miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kể chúng ta đang đề cập đến ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ loại giá trị khác biệt nào cho doanh nghiệp.
+Ví dụ về các miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kể chúng ta đang đề cập đến ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ loại giá trị khác biệt nào cho doanh nghiệp.
 
 22
 00: 04: 15, 310--> 00: 04: 28, 950
-Tên miền phụ cốt lõi là điểm khác biệt cho doanh nghiệp. Mỗi doanh nghiệp trong một ngành cụ thể hoạt động khác nhau trong các tên miền phụ cốt lõi để đạt được một số lợi thế so với đối thủ cạnh tranh.
+Miền phụ cốt lõi là điểm khác biệt cho doanh nghiệp. Mỗi doanh nghiệp trong một ngành cụ thể hoạt động khác nhau trong các miền phụ cốt lõi để đạt được một số lợi thế so với đối thủ cạnh tranh.
 
 23
 00: 04: 29, 070--> 00: 04: 43, 170
-Thông thường, người ta nói rằng nước sốt bí mật dành cho doanh nghiệp nằm ở tên miền phụ cốt lõi và doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các tên miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
+Thông thường, người ta nói rằng nước sốt bí mật dành cho doanh nghiệp nằm ở miền phụ cốt lõi và doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
 
 24
 00: 04: 43, 290--> 00: 04: 54, 420
-Tùy thuộc vào ngành và môi trường, các tên miền phụ cốt lõi này có thể phát triển với tốc độ rất nhanh hoặc có thể có ví dụ về thành phố năng động ở mức độ rất cao.
+Tùy thuộc vào ngành và môi trường, các miền phụ cốt lõi này có thể phát triển với tốc độ rất nhanh hoặc có thể có ví dụ về thành phố năng động ở mức độ rất cao.
 
 25
 00: 04: 54, 420--> 00: 05: 16, 020
-Tất nhiên, tên miền phụ là tên miền phụ sản xuất trong ngành ô tô. Các nhà sản xuất ô tô đang tìm cách thực hiện những điều khác biệt trong các lĩnh vực sản xuất phụ này để đạt được một số lợi thế cạnh tranh hoặc để đạt được mức tiết kiệm chi phí cao, điều này một lần nữa chuyển thành giá trị cho hoạt động kinh doanh trong ngành ngân hàng.
+Tất nhiên, miền phụ là miền phụ sản xuất trong ngành ô tô. Các nhà sản xuất ô tô đang tìm cách thực hiện những điều khác biệt trong các lĩnh vực sản xuất phụ này để đạt được một số lợi thế cạnh tranh hoặc để đạt được mức tiết kiệm chi phí cao, điều này một lần nữa chuyển thành giá trị cho hoạt động kinh doanh trong ngành ngân hàng.
 
 26
 00: 05: 16, 190--> 00: 05: 27, 350
@@ -505,7 +505,7 @@ Hãy nghĩ đến thẻ tín dụng, mỗi ngân hàng cung cấp thẻ tín d�
 
 27
 00: 05: 27, 770--> 00: 05: 37, 350
-Đã đến lúc tập thể dục nhanh. Hãy xem các tên miền phụ cho ngân hàng và tên miền phụ cho Ngân hàng B, xác định điểm khác biệt của hai ngân hàng.
+Đã đến lúc tập thể dục nhanh. Hãy xem các miền phụ cho ngân hàng và miền phụ cho Ngân hàng B, xác định điểm khác biệt của hai ngân hàng.
 
 28
 00: 05: 37, 520--> 00: 05: 54, 500
@@ -517,51 +517,51 @@ Hãy tiếp tục, đăng một video trong vài giây. Trả lời câu hỏi. 
 
 30
 00: 06: 01, 700--> 00: 06: 17, 360
-Vì vậy, điểm mấu chốt là cả hai đều có tài khoản bán lẻ làm miền cốt lõi của mình. Họ có thể tự tạo sự khác biệt bằng cách hoạt động khác nhau trong tên miền phụ hỗ trợ tài khoản bán lẻ để không mang lại bất kỳ lợi thế kinh doanh trực tiếp nào.
+Vì vậy, điểm mấu chốt là cả hai đều có tài khoản bán lẻ làm miền cốt lõi của mình. Họ có thể tự tạo sự khác biệt bằng cách hoạt động khác nhau trong miền phụ hỗ trợ tài khoản bán lẻ để không mang lại bất kỳ lợi thế kinh doanh trực tiếp nào.
 
 31
 00: 06: 17, 720--> 00: 06: 28, 960
-Nhưng các tên miền phụ cốt lõi lại phụ thuộc vào các tên miền phụ hỗ trợ. Có những phương pháp phổ biến dành cho các tên miền phụ hỗ trợ nhưng có thể không có sẵn giải pháp.
+Nhưng các miền phụ cốt lõi lại phụ thuộc vào các miền phụ hỗ trợ. Có những phương pháp phổ biến dành cho các miền phụ hỗ trợ nhưng có thể không có sẵn giải pháp.
 
 32
 00: 06: 29, 060--> 00: 06: 37, 340
-Và ngay cả khi có sẵn các giải pháp, những giải pháp đó có thể cần được tùy chỉnh để đáp ứng nhu cầu của tên miền phụ mã.
+Và ngay cả khi có sẵn các giải pháp, những giải pháp đó có thể cần được tùy chỉnh để đáp ứng nhu cầu của miền phụ mã.
 
 33
 00: 06: 37, 370--> 00: 06: 48, 640
-Thông thường, tên miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ, ví dụ về hỗ trợ tên miền phụ hoặc hỗ trợ và tuân thủ khách hàng.
+Thông thường, miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ, ví dụ về hỗ trợ miền phụ hoặc hỗ trợ và tuân thủ khách hàng.
 
 34
 00: 06: 48, 650--> 00: 06: 58, 310
-Tên miền phụ cốt lõi trong ngân hàng phụ thuộc rất nhiều vào bộ phận hỗ trợ khách hàng, tên miền phụ và tên miền phụ tuân thủ để xác định loại tên miền phụ.
+Miền phụ cốt lõi trong ngân hàng phụ thuộc rất nhiều vào bộ phận hỗ trợ khách hàng, miền phụ và miền phụ tuân thủ để xác định loại miền phụ .
 
 35
 00: 06: 58, 440--> 00: 07: 06, 560
-Bạn phải bắt đầu bằng cách xem xét khả năng kinh doanh trong tên miền phụ đó. Có giải pháp nào được biết đến cho tên miền phụ đó không?
+Bạn phải bắt đầu bằng cách xem xét khả năng kinh doanh trong miền phụ đó. Có giải pháp nào được biết đến cho miền phụ đó không?
 
 36
 00: 07: 06, 650--> 00: 07: 16, 460
-Và nếu câu trả lời là có thì tên miền phụ có thể là do di truyền. Nếu không, chúng ta cần kiểm tra xem tên miền phụ có thêm bất kỳ giá trị kinh doanh nào không.
+Và nếu câu trả lời là có thì miền phụ có thể là do di truyền. Nếu không, chúng ta cần kiểm tra xem miền phụ có thêm bất kỳ giá trị kinh doanh nào không.
 
 37
 00: 07: 16, 460--> 00: 07: 26, 300
-Ví dụ: liệu doanh nghiệp có cơ hội tạo sự khác biệt so với các đối thủ cạnh tranh bằng cách thực hiện những điều khác biệt trong tên miền phụ này không?
+Ví dụ: liệu doanh nghiệp có cơ hội tạo sự khác biệt so với các đối thủ cạnh tranh bằng cách thực hiện những điều khác biệt trong miền phụ này không?
 
 38
 00: 07: 26, 310--> 00: 07: 33, 290
-Và nếu câu trả lời là không thì bước kiểm tra tiếp theo là xem liệu các tên miền phụ cốt lõi có phụ thuộc vào tên miền phụ này hay không.
+Và nếu câu trả lời là không thì bước kiểm tra tiếp theo là xem liệu các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không.
 
 39
 00: 07: 33, 290--> 00: 07: 43, 340
-Và câu trả lời đó là có thì rất có thể đó là một subdomain hỗ trợ. Và nếu câu trả lời là không thì đó là tên miền phụ chung mà chúng ta có thể cần xây dựng giải pháp.
+Và câu trả lời đó là có thì rất có thể đó là một subdomain hỗ trợ. Và nếu câu trả lời là không thì đó là miền phụ chung mà chúng ta có thể cần xây dựng giải pháp.
 
 40
 00: 07: 43, 430--> 00: 07: 51, 920
-Nếu tên miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu tên miền doanh nghiệp có độ phức tạp cao hay không.
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu tên miền doanh nghiệp có độ phức tạp cao hay không.
 
 41
 00: 07: 52, 010--> 00: 07: 58, 310
-Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng nó sẽ hỗ trợ tên miền phụ.
+Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng nó sẽ hỗ trợ miền phụ .
 
 42
 00: 07: 58, 430--> 00: 08: 05, 930
@@ -569,7 +569,7 @@ Nếu không thì nó có thể là một khóa học của miền. Đề xuất
 
 43
 00: 08: 06, 290--> 00: 08: 12, 350
-Một câu hỏi rõ ràng có thể xuất hiện trong đầu chúng ta vào thời điểm này là tại sao chúng ta cần phân loại các tên miền phụ?
+Một câu hỏi rõ ràng có thể xuất hiện trong đầu chúng ta vào thời điểm này là tại sao chúng ta cần phân loại các miền phụ?
 
 44
 00: 08: 12, 800--> 00: 08: 27, 590
@@ -577,23 +577,23 @@ Có nhiều lý do. Đầu tiên là doanh nghiệp có nguồn lực hạn ch�
 
 45
 00: 08: 27, 880--> 00: 08: 36, 710
-Việc phân loại các tên miền phụ giúp ưu tiên các sáng kiến ​​​​khác nhau. Lý do thứ hai là lợi tức đầu tư.
+Việc phân loại các miền phụ giúp ưu tiên các sáng kiến ​​​​khác nhau. Lý do thứ hai là lợi tức đầu tư.
 
 46
 00: 08: 37, 010--> 00: 08: 50, 030
-Các doanh nghiệp muốn tối đa hóa lợi tức đầu tư. Do đó, các sáng kiến ​​liên quan đến tên miền phụ cốt lõi sẽ được ưu tiên, điều này sẽ giúp tối đa hóa lợi tức đầu tư.
+Các doanh nghiệp muốn tối đa hóa lợi tức đầu tư. Do đó, các sáng kiến ​​liên quan đến miền phụ cốt lõi sẽ được ưu tiên, điều này sẽ giúp tối đa hóa lợi tức đầu tư.
 
 47
 00: 08: 50, 090--> 00: 08: 57, 720
-Lý do thứ ba là việc phân loại tên miền phụ giúp doanh nghiệp đưa ra quyết định mua gì.
+Lý do thứ ba là việc phân loại miền phụ giúp doanh nghiệp đưa ra quyết định mua gì.
 
 48
 00: 08: 57, 740--> 00: 09: 06, 410
-Hãy tìm hiểu sâu hơn một chút. Nếu tên miền phụ là tên miền phụ chung, doanh nghiệp đó sẽ mua giải pháp cho nó thay vì xây dựng.
+Hãy tìm hiểu sâu hơn một chút. Nếu miền phụ là miền phụ chung, doanh nghiệp đó sẽ mua giải pháp cho nó thay vì xây dựng.
 
 49
 00: 09: 06, 410--> 00: 09: 15, 470
-Ví dụ về các giải pháp như vậy là phần mềm hoạch định nguồn lực doanh nghiệp như SAP. Và nếu tên miền phụ hỗ trợ tên miền phụ thì sao?
+Ví dụ về các giải pháp như vậy là phần mềm hoạch định nguồn lực doanh nghiệp như SAP. Và nếu miền phụ hỗ trợ miền phụ thì sao?
 
 50
 00: 09: 15, 560--> 00: 09: 26, 780
@@ -601,19 +601,19 @@ Sau đó, doanh nghiệp có thể quyết định xây dựng giải pháp bằ
 
 51
 00: 09: 26, 780--> 00: 09: 40, 910
-Là một ví dụ về giải pháp như vậy sẽ là Salesforce. Nếu tên miền phụ được phân loại là mã thì doanh nghiệp sẽ sử dụng nhóm ngũ tốt nhất và tài năng tốt nhất của mình để xây dựng giải pháp trong tên miền phụ này.
+Là một ví dụ về giải pháp như vậy sẽ là Salesforce. Nếu miền phụ được phân loại là mã thì doanh nghiệp sẽ sử dụng nhóm ngũ tốt nhất và tài năng tốt nhất của mình để xây dựng giải pháp trong miền phụ này.
 
 52
 00: 09: 41, 750--> 00: 09: 47, 630
-Hãy gọi với một điểm quan trọng từ bài học này. Đầu tiên là có ba loại tên miền phụ.
+Hãy gọi với một điểm quan trọng từ bài học này. Đầu tiên là có ba loại miền phụ .
 
 53
 00: 09: 48, 080--> 00: 09: 59, 690
-Tên miền phụ chung có sẵn các giải pháp mà doanh nghiệp có thể mua vì tên miền là tên miền phụ mà doanh nghiệp có cơ hội xác định.
+Miền phụ chung có sẵn các giải pháp mà doanh nghiệp có thể mua vì tên miền là miền phụ mà doanh nghiệp có cơ hội xác định.
 
 54
 00: 09: 59, 840--> 00: 10: 14, 930
-Được bảo hiểm khỏi các đối thủ cạnh tranh, việc hỗ trợ tên miền phụ là cần thiết vì các tên miền phụ cốt lõi phụ thuộc vào tên miền phụ hỗ trợ, việc viết hoa của các tên miền phụ đã giúp doanh nghiệp đưa ra quyết định xây dựng và mua.
+Được bảo hiểm khỏi các đối thủ cạnh tranh, việc hỗ trợ miền phụ là cần thiết vì các miền phụ cốt lõi phụ thuộc vào miền phụ hỗ trợ, việc viết hoa của các miền phụ đã giúp doanh nghiệp đưa ra quyết định xây dựng và mua.
 
 55
 00: 10: 14, 930--> 00: 10: 28, 470
@@ -623,23 +623,23 @@ Và doanh nghiệp nhận được lợi tức đầu tư cao nhất bằng các
 
 1
 00: 00: 00, 150--> 00: 00: 09, 150
-Trong bài tập này, tôi sẽ cung cấp cho chúng ta một số thông tin về tên miền phụ ACMS và chúng ta sẽ cần xác định loại tên miền phụ đó.
+Trong bài tập này, tôi sẽ cung cấp cho chúng ta một số thông tin về miền phụ ACMS và chúng ta sẽ cần xác định loại miền phụ đó.
 
 2
 00: 00: 09, 660--> 00: 00: 24, 340
-Mục tiêu của bài tập này là chỉ định một danh mục cho từng tên miền phụ, đối với ACMC, các tên miền phụ được đưa ra và chúng ta cần đưa chúng vào hỗ trợ di truyền và tiến trình của các danh mục miền.
+Mục tiêu của bài tập này là chỉ định một danh mục cho từng miền phụ, đối với ACMC, các miền phụ được đưa ra và chúng ta cần đưa chúng vào hỗ trợ di truyền và tiến trình của các danh mục miền.
 
 3
 00: 00: 24, 660--> 00: 00: 34, 050
-Bây giờ, chúng ta có thể nghĩ rằng mình sẽ cần thêm một số thông tin về từng tên miền phụ này để phân loại chúng và đó là lúc chúng tôi sẽ nhờ sự trợ giúp của John.
+Bây giờ, chúng ta có thể nghĩ rằng mình sẽ cần thêm một số thông tin về từng miền phụ này để phân loại chúng và đó là lúc chúng tôi sẽ nhờ sự trợ giúp của John.
 
 4
 00: 00: 34, 140--> 00: 00: 47, 430
-John là chuyên gia về lĩnh vực kinh doanh tại Acme. Anh ấy sẽ cung cấp cho chúng tôi một số thông tin về từng tên miền phụ này để chúng tôi có thể phân loại các tên miền phụ này theo các danh mục thích hợp.
+John là chuyên gia về lĩnh vực kinh doanh tại Acme. Anh ấy sẽ cung cấp cho chúng tôi một số thông tin về từng miền phụ này để chúng tôi có thể phân loại các miền phụ này theo các danh mục thích hợp.
 
 5
 00: 00: 47, 940--> 00: 00: 54, 390
-Hãy bắt đầu với việc quản lý sản phẩm và sản phẩm tên miền phụ kế toán tại Acme đề cập đến gói kỳ nghỉ.
+Hãy bắt đầu với việc quản lý sản phẩm và sản phẩm miền phụ kế toán tại Acme đề cập đến gói kỳ nghỉ.
 
 6
 00: 00: 54, 390--> 00: 01: 01, 510
@@ -651,7 +651,7 @@ Và đây là lúc Acme dành phần lớn thời gian để suy nghĩ về nh�
 
 8
 00: 01: 12, 480--> 00: 01: 22, 890
-Vậy chúng ta nghĩ quản lý sản phẩm và kế toán làm gì? Toàn bộ tòa án hỗ trợ hoặc tên miền phụ di truyền tạm dừng video, suy nghĩ một chút và ghi câu trả lời ra một tờ giấy.
+Vậy chúng ta nghĩ quản lý sản phẩm và kế toán làm gì? Toàn bộ tòa án hỗ trợ hoặc miền phụ di truyền tạm dừng video, suy nghĩ một chút và ghi câu trả lời ra một tờ giấy.
 
 9
 00: 01: 22, 920--> 00: 01: 34, 230
@@ -667,7 +667,7 @@ Do đó nó sẽ thuộc danh mục kế toán khóa học. John đề cập r�
 
 12
 00: 01: 51, 240--> 00: 02: 06, 300
-Vì vậy tôi sẽ đặt nó dưới tên miền phụ chung bên cạnh phần hỗ trợ khách hàng và quản lý đối tác. Điều John đang nói với chúng ta về hỗ trợ khách hàng là Achmea cung cấp dịch vụ hỗ trợ khách hàng tốt nhất trong ngành để duy trì lợi thế cạnh tranh.
+Vì vậy tôi sẽ đặt nó dưới miền phụ chung bên cạnh phần hỗ trợ khách hàng và quản lý đối tác. Điều John đang nói với chúng ta về hỗ trợ khách hàng là Achmea cung cấp dịch vụ hỗ trợ khách hàng tốt nhất trong ngành để duy trì lợi thế cạnh tranh.
 
 13
 00: 02: 06, 300--> 00: 02: 16, 140
@@ -703,7 +703,7 @@ John chỉ ra rằng ACMC không thể tồn tại nếu không có đối tác 
 
 21
 00: 03: 17, 550--> 00: 03: 24, 030
-Vì vậy, tôi sẽ đặt nó trong danh mục tên miền phụ cốt lõi bên cạnh tất cả các kênh bán hàng và nhân sự.
+Vì vậy, tôi sẽ đặt nó trong danh mục miền phụ cốt lõi bên cạnh tất cả các kênh bán hàng và nhân sự.
 
 22
 00: 03: 24, 030--> 00: 03: 32, 790
@@ -719,7 +719,7 @@ Họ la tuyệt nhât. Vậy chúng ta nghĩ như thế nào? Kênh bán hàng 
 
 25
 00: 04: 00, 000--> 00: 04: 10, 640
-Rõ ràng đó là một tên miền phụ chung, vì các hoạt động nhân sự tại Acme đã khá hoàn thiện vào thời điểm này và dường như không có sự phức tạp nào đối với tên miền phụ tiếp thị.
+Rõ ràng đó là một miền phụ chung, vì các hoạt động nhân sự tại Acme đã khá hoàn thiện vào thời điểm này và dường như không có sự phức tạp nào đối với miền phụ tiếp thị.
 
 26
 00: 04: 10, 680--> 00: 04: 23, 370
@@ -915,7 +915,7 @@ Thách thức ở đây là để xây dựng các hệ thống phức tạp, I.
 
 22
 00: 03: 49, 440--> 00: 04: 06, 810
-Thách thức thứ hai là cùng một thuật ngữ có thể xuất hiện trong bối cảnh các lĩnh vực kinh doanh khác nhau. Ví dụ, trong trường hợp tài khoản tiết kiệm và tên miền phụ thẻ tín dụng, chúng ta sẽ thấy có một thuật ngữ chung là tín dụng và ý nghĩa của thuật ngữ chung này là khác nhau.
+Thách thức thứ hai là cùng một thuật ngữ có thể xuất hiện trong bối cảnh các lĩnh vực kinh doanh khác nhau. Ví dụ, trong trường hợp tài khoản tiết kiệm và miền phụ thẻ tín dụng, chúng ta sẽ thấy có một thuật ngữ chung là tín dụng và ý nghĩa của thuật ngữ chung này là khác nhau.
 
 23
 00: 04: 06, 810--> 00: 04: 17, 940
@@ -1593,7 +1593,7 @@ Bạn cần chú ý đến ngôn ngữ kinh doanh và những manh mối ngôn n
 
 1
 00: 00: 00, 210--> 00: 00: 11, 420
-Mục tiêu của bài tập này là xác định bối cảnh liên kết cho tên miền phụ hỗ trợ ACMS. Hãy bắt đầu bằng cách xem xét cơ cấu tổ chức ACMS.
+Mục tiêu của bài tập này là xác định bối cảnh liên kết cho miền phụ hỗ trợ ACMS. Hãy bắt đầu bằng cách xem xét cơ cấu tổ chức ACMS.
 
 2
 00: 00: 11, 460--> 00: 00: 26, 280
@@ -2655,15 +2655,15 @@ Tiếp theo, hãy nói về đối tượng giá trị và đối tượng giá 
 
 31
 00: 06: 30, 340--> 00: 06: 38, 560
-Tôi sẽ cho chúng ta một ví dụ. Hãy suy nghĩ về tài khoản bán lẻ. Tên miền phụ trong tài khoản ngân hàng. Trong tài khoản bán lẻ.
+Tôi sẽ cho chúng ta một ví dụ. Hãy suy nghĩ về tài khoản bán lẻ. Miền phụ trong tài khoản ngân hàng. Trong tài khoản bán lẻ.
 
 32
 00: 06: 38, 570--> 00: 06: 46, 930
-Tên miền phụ là một thực thể có danh tính duy nhất và tồn tại trong một số loại lưu trữ lâu dài.
+Miền phụ là một thực thể có danh tính duy nhất và tồn tại trong một số loại lưu trữ lâu dài.
 
 33
 00: 06: 47, 170--> 00: 07: 00, 660
-Bây giờ hãy nghĩ về tên miền phụ tuân thủ và báo cáo, tên miền phụ tuân thủ và báo cáo. Sử dụng thông tin từ các tài khoản trong tên miền phụ tài khoản bán lẻ để tạo báo cáo.
+Bây giờ hãy nghĩ về miền phụ tuân thủ và báo cáo, miền phụ tuân thủ và báo cáo. Sử dụng thông tin từ các tài khoản trong miền phụ tài khoản bán lẻ để tạo báo cáo.
 
 34
 00: 07: 00, 700--> 00: 07: 08, 620
@@ -2671,7 +2671,7 @@ Các báo cáo này có thông tin tổng hợp về tất cả các tài khoả
 
 35
 00: 07: 08, 740--> 00: 07: 20, 590
-Tên miền phụ và tài khoản cá nhân không thành vấn đề. Vì vậy, trong trường hợp tuân thủ và báo cáo, đối tượng tài khoản được coi là đối tượng giá trị.
+Miền phụ và tài khoản cá nhân không thành vấn đề. Vì vậy, trong trường hợp tuân thủ và báo cáo, đối tượng tài khoản được coi là đối tượng giá trị.
 
 36
 00: 07: 21, 910--> 00: 07: 33, 100

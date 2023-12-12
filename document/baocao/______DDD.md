@@ -312,7 +312,7 @@ Cả hai bối cảnh giới hạn đều sử dụng cùng một mô hình. Vì
 <!--$VD:-->
 <!--$VD: A - CF - U - B-->
 <!--$VD: A - users(id, name) - B cũng users(id, name)-->
-<!--@Mô hình  chống đổ vỡ      (Anti Corruption Layer Pattern)-->
+<!--@Mô hình chống đổ vỡ (Anti Corruption Layer Pattern)-->
 
 bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
 quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
@@ -339,30 +339,22 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 
 <!--Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. Loại mối quan hệ này được mô tả bằng cách thay thế ACL.-->
 
-Vì vậy, ở đây chúng tôi đang mô tả mối quan hệ giữa A và B trong mỗi bối cảnh liên kết này, có mô hình riêng.
+<!-- Vì vậy, ở đây chúng tôi đang mô tả mối quan hệ giữa A và B trong mỗi bối cảnh liên kết này, có mô hình riêng. -->
 
-Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.
-
-Giả sử nhóm quản lý khách hàng quyết định mô tả khách hàng bằng ba thuộc tính này và nhóm thẻ tín dụng quyết định gọi khách hàng là chủ tài khoản trong bối cảnh thẻ tín dụng.
-
-Và đây là những thuộc tính mà họ quyết định sử dụng để mô tả nhóm thẻ tín dụng của chủ tài khoản đã quyết định tận dụng một số chức năng từ bộ phận quản lý khách hàng và liên hệ với bộ phận chống tham nhũng.
-
-Vì vậy, trong kịch bản này, lớp chống tham nhũng sẽ có logic dịch thuật để chuyển đổi khách hàng từ bối cảnh quản lý khách hàng sang chủ tài khoản trong bối cảnh thẻ tín dụng.
-
-Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, chẳng hạn như tên, họ. Và ở đây, như chúng ta có thể thấy, có một số loại thuộc tính nhận dạng chính phủ được ánh xạ tới SSN hoặc số An sinh xã hội của khách hàng.
-
-Và ánh xạ này cũng liên quan đến việc đặt loại nhận dạng thành SSN. Vì vậy, đây là ví dụ về logic dịch thuật được tích hợp trong ACL hoặc lớp chống tham nhũng.
+<!-- Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta. -->
+ 
+ 
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau,  
+ 
 
 Vì vậy, điều đó có nghĩa là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
-Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
-
-<!--!   Để bảo vệ bối cảnh ranh giới hạ nguồn, các nhóm sẽ quyết định sử dụng lớp chống tham nhũng.-->
+Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn. 
 <!--!Lớp chống tham nhũng này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng.-->
-<!--! , theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
+<!--!, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
 <!--@=======================-->
 
-<!--// C: \Users\ionships_VVN\000000005.srt--> 
+<!--// C: \Users\666666666\000000005.srt-->
 <!--One to Many Relationship-->
 
 Bối cảnh ranh giới cung cấp các dịch vụ chung được gọi là dịch vụ nguồn mở

@@ -252,7 +252,9 @@ Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương 
 => Do đó, các nhóm phải nỗ lực để ghi lại mối quan hệ giữa các quan hệ thông qua việc sử dụng bản đồ bối cảnh.
 
 Bản đồ bối cảnh (Context Maps) là sự thể hiện trực quan của hệ thống, thể hiện các thành phần, liên kết và mối quan hệ.
+
 <!--$VD: Bản đồ bối cảnh-->
+
 ![](pictures/BanDoBoiCanh/image.png)
 
 <!--Lợi ích của Bản đồ bối cảnh:-->
@@ -267,68 +269,53 @@ Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 <!--!Mối quan hệ bất đối xứng-->
 
 <!--@Mối quan hệ đối xứng (Symmetric Relationship)-->
-<!--Mối quan hệ đối xứng-->
-các cách thức riêng biệt
-mô hình hợp tác
-mô hình hạt nhân chung
+<!--@Mô hình riêng biệt (Separate Ways)-->
 
-, có thể xảy ra tình huống trong đó các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác.
+Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
+Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
 
-2
-00: 00: 18, 180--> 00: 00: 29, 440
-Trong trường hợp như vậy, các liên hệ được liên kết thực sự độc lập hoặc tự chủ. Hãy xem xét tình huống trong đó chúng ta có hai liên hệ liên kết và B không có mối quan hệ nào.
+<!-- Không có sự chia sẻ mô hình giữa hai liên hệ. -->
 
-3
-00: 00: 29, 610--> 00: 00: 40, 770
-Điều đó có nghĩa là không có sự chia sẻ mô hình giữa hai địa chỉ liên hệ được liên kết này vì các nhóm độc lập của họ có thể tự động làm việc trên hai địa chỉ liên hệ được liên kết này.
+Từ góc nhìn người dùng: liên hệ như là 1 chương trình.
+Từ góc nhìn mô hình và thiết kế: liên hệ có mô hình độc lập và thực thi riêng biệt.
+Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
 
-4
-00: 00: 40, 780--> 00: 00: 52, 920
+Không có mối quan hệ nào giữa các ranh giới liên hệ từ góc nhìn hiện thực hóa.
+
+<!-- các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác. -->
+
+<!-- Điều đó có nghĩa là không có sự chia sẻ mô hình giữa hai địa chỉ liên hệ được liên kết này vì các nhóm độc lập của họ có thể tự động làm việc trên hai địa chỉ liên hệ được liên kết này. -->
+
 Nói cách khác, các nhóm này không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào. Bây giờ, một số người sẽ cho rằng có cơ hội sử dụng lại các phần của A và B hoặc ngược lại.
 
-5
-00: 00: 52, 980--> 00: 01: 00, 180
 Nhưng người ta phải xem xét sự đánh đổi. Và đánh đổi là nếu có tái sử dụng thì sẽ mất quyền tự chủ.
 
-6
-00: 01: 00, 180--> 00: 01: 14, 700
 Vì vậy hãy đi sâu hơn một chút. Giả sử có một mô hình và một được chia sẻ bởi B, không, các nhóm không thể làm việc tự chủ y vì nếu phải thay đổi mô hình thì nhóm của B sẽ phải đồng ý với những thay đổi đó.
 
-7
-00: 01: 14, 700--> 00: 01: 25, 320
-Và đó là mối quan tâm liên quan đến việc tái sử dụng. Không có mối quan hệ nào giữa các ranh giới liên hệ được gọi là các cách riêng biệt từ góc nhìn hiện thực hóa.
-
-8
-00: 01: 25, 560--> 00: 01: 32, 610
 Điều đó có nghĩa là chúng sẽ là tập hợp các ứng dụng hoặc dịch vụ độc lập cho từng điểm tiếp xúc được liên kết.
 
-9
-00: 01: 32, 820--> 00: 01: 41, 330
-Ví dụ, trong trường hợp ngân hàng, chúng ta có thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.
+<!-- $VD:  -->
 
-10
-00: 01: 41, 490--> 00: 01: 47, 760
-Trong trường hợp đó, các nhóm sẽ độc lập phát triển các ứng dụng và dịch vụ cho hai liên hệ liên kết này.
+<!-- Ví dụ, trong trường hợp ngân hàng, chúng ta có thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào. -->
+<!-- Trong trường hợp đó, các nhóm sẽ độc lập phát triển các ứng dụng và dịch vụ cho hai liên hệ liên kết này. -->
 
-11
-00: 01: 47, 760--> 00: 01: 57, 020
-Và điều đó có nghĩa là hai nhóm này có thể làm việc độc lập theo nhịp độ riêng của họ để đáp ứng các mục tiêu kinh doanh của đơn vị kinh doanh tương ứng của họ.
+<!-- Và điều đó có nghĩa là hai nhóm này có thể làm việc độc lập theo nhịp độ riêng của họ để đáp ứng các mục tiêu kinh doanh của đơn vị kinh doanh tương ứng của họ. -->
 
-12
-00: 01: 57, 300--> 00: 02: 16, 710
-Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.
+<!-- 12 -->
+<!-- 00: 01: 57, 300--> 00: 02: 16, 710 -->
+<!-- Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết. -->
 
-13
-00: 02: 16, 740--> 00: 02: 28, 290
-Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao giữa bối cảnh gắn kết và loại mối quan hệ này được gọi là Quan hệ đối tác và Thiết kế theo nhu cầu.
+<!-- 13 -->
+<!-- 00: 02: 16, 740--> 00: 02: 28, 290 -->
+<!-- Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao giữa bối cảnh gắn kết và loại mối quan hệ này được gọi là Quan hệ đối tác và Thiết kế theo nhu cầu. -->
 
-14
-00: 02: 28, 710--> 00: 02: 36, 450
-Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
+<!-- 14 -->
+<!-- 00: 02: 28, 710--> 00: 02: 36, 450 -->
+<!-- Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau. -->
 
-15
-00: 02: 36, 480--> 00: 02: 49, 040
-Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát triển bởi các nhóm khác nhau, nhưng do sự phụ thuộc lẫn nhau giữa các dịch vụ nên các nhóm không thể hoạt động độc lập.
+<!-- 15 -->
+<!-- 00: 02: 36, 480--> 00: 02: 49, 040 -->
+<!-- Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát triển bởi các nhóm khác nhau, nhưng do sự phụ thuộc lẫn nhau giữa các dịch vụ nên các nhóm không thể hoạt động độc lập. -->
 
 16
 00: 02: 49, 260--> 00: 03: 01, 200
@@ -394,14 +381,8 @@ Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay
 00: 06: 13, 240--> 00: 06: 24, 940
 Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.
 
-<!--@Mô hình riêng biệt (Separate Ways)-->
-Các liên hệ được liên kết thực sự độc lập.
-Không có sự chia sẻ mô hình giữa hai liên hệ.
-Từ góc nhìn người dùng: liên hệ như là 1 chương trình.
-Từ góc nhìn mô hình và thiết kế: liên hệ có mô hình độc lập và thực thi riêng biệt.
-Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
-Không có mối quan hệ nào giữa các ranh giới liên hệ từ góc nhìn hiện thực hóa.
 <!--@Mô hình hợp tác (Partnership Pattern)-->
+
 Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
 Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
 => Vì vậy, các nhóm không thể hoạt động độc lập.
@@ -413,7 +394,8 @@ Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa 
 Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
 Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
-<!--@Hạt nhân dùng chung (Shared Kernel)-->
+
+<!-- @Mô hình hạt nhân chung  (Shared Kernel)-->
 
 <!--Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
 <!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->

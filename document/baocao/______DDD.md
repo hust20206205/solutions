@@ -562,7 +562,7 @@ https: //www.meinvoice.vn/tin-tuc/3442/nhung-nghiep-vu-co-ban-cua-hoa-don-dien-t
 
 Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https: //dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
 
-<!--! Mã thuế số-chi nhánh-->
+<!--!Mã thuế số-chi nhánh-->
 <!--Mã captcha không đúng.-->
 <!--0107001729-->
 
@@ -746,37 +746,37 @@ Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với d�
 <!--!phương án giá trị (Value Propositions)-->
 <!--Chúng ta cần phân tích xem giá trị nào mang lại cho mỗi khách hàng.-->
 <!--$VD: lợi ích hóa đơn điện tử: nhanh, cháy, .....-->
-<!--! nguồn tiềm lực chính (Key Resources)-->
+<!--!nguồn tiềm lực chính (Key Resources)-->
 <!--Có thể có nhiều nguồn lực mà doanh nghiệp cần, nhưng chúng ta cần suy nghĩ về những nguồn lực quan trọng mà doanh nghiệp không thể tồn tại nếu không có.-->
 <!--$VD: Không có tài xế, Uber không thể mang lại giá trị cho khách hàng.-->
-<!--! Đối tác chính (Key Partnerships)-->
+<!--!Đối tác chính (Key Partnerships)-->
 <!--Các đối tác chính là nhà cung cấp các nguồn lực chính cho doanh nghiệp.-->
 <!--$VD:-->
 <!--Trong trường hợp của Uber, chính tài xế là người sở hữu ô tô và những tài xế này trao quyền cho khách hàng. Tiếp theo là các nhà cung cấp công nghệ.-->
 <!--Uber không tạo ra tất cả các công nghệ cần thiết cho nền tảng của mình. Nó mua công nghệ từ các nhà cung cấp hoặc đối tác khác, chẳng hạn như nhà cung cấp công nghệ lập bản đồ.-->
 <!--Nó cũng phải có được sự cho phép hoạt động từ cơ quan nhà nước. Nếu không có sự cho phép phù hợp, Uber sẽ không được phép hoạt động.-->
-<!--! công việc chính (Key Activities)-->
+<!--!công việc chính (Key Activities)-->
 <!--Doanh nghiệp cần thực hiện nhiều hoạt động theo các hoạt động trọng tâm. Chúng ta cần suy nghĩ về những hoạt động mà doanh nghiệp thực hiện để tạo ra giá trị cho khách hàng.-->
 <!--$VD:-->
 <!--Uber xây dựng và duy trì nền tảng và phần mềm. Uber luôn tìm kiếm tài xế mới nên việc tuyển dụng tài xế là một trong những hoạt động trọng tâm.-->
 <!--Và sau đó là các vấn đề pháp lý. Ý tôi là, nếu chúng ta chú ý đến tin tức trên Google, chúng ta sẽ thấy rằng Uber luôn tham gia vào một số cuộc chiến pháp lý với chính quyền tiểu bang và thành phố.-->
-<!--! Quan hệ khách hàng (Customer Relationships)-->
+<!--!Quan hệ khách hàng (Customer Relationships)-->
 <!--Giữ chân khách hàng là một trong những điều quan trọng nhất đối với bất kỳ doanh nghiệp nào. Và để giữ chân khách hàng, chúng ta cần đảm bảo rằng khách hàng hài lòng với dịch vụ chúng ta đang cung cấp và mối quan hệ mà chúng ta có với họ.-->
 <!--Vì vậy, trong mối quan hệ khách hàng, người ta phải suy nghĩ về loại mối quan hệ được cung cấp cho từng phân khúc khách hàng.-->
 <!--$VD:-->
 <!--Vì vậy, trong trường hợp đó là ai, hệ thống xếp hạng và phản hồi dành cho khách hàng và tài xế, thì sẽ có một cơ chế tự phục vụ để khách hàng và tài xế có thể nhận được dịch vụ và hỗ trợ từ bên kia.-->
 <!--Uber cũng cung cấp hỗ trợ cho khách hàng và tài xế bằng email, thậm chí bằng điện thoại. Ví dụ: tài xế Uber có hỗ trợ qua điện thoại 24/7 bên cạnh vỏ bọc.-->
-<!--! Dòng doanh thu (Revenue Stream)-->
+<!--!Dòng doanh thu (Revenue Stream)-->
 <!--Dòng doanh thu dòng tiền mô tả dòng doanh thu của doanh nghiệp. Để làm gì?-->
 <!--Khách hàng đã trả tiền trong trường hợp Uber, đó là khoản hoa hồng phù hợp mà chúng ta sẽ nhận được từ nhau, đúng không.-->
 <!--Phí bảo hiểm cho một số loại phù hợp, giá tìm kiếm và phí hủy, cơ cấu chi phí mô tả dòng tiền ra.-->
 <!--$VD:-->
-<!--! Cơ cấu chi phí (Cost Structure)-->
+<!--!Cơ cấu chi phí (Cost Structure)-->
 <!--Đây là những chi phí mà doanh nghiệp phải chịu khi thực hiện các hoạt động chính-->
 <!--$VD:-->
 <!--trong trường hợp Uber. Đó là tiếp thị, pháp lý, phát triển công nghệ, lương nhân viên.-->
 <!--Cuối cùng nhưng không kém phần quan trọng, chúng tôi sẽ chi rất nhiều cho hoạt động R&D.-->
-<!--! Kênh cung cấp (Channels)-->
+<!--!Kênh cung cấp (Channels)-->
 <!--Tiếp theo là các kênh mà khách hàng muốn tiếp cận.-->
 <!--Đó là ứng dụng di động mà chúng tôi sẽ cung cấp và một số ứng dụng của bên thứ ba cho phép khách hàng sử dụng các dịch vụ.-->
 <!--![](pictures/___KD.png)-->

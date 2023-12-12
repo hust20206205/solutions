@@ -181,6 +181,7 @@ Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ th�
 Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
 ![](pictures/BoiCanhGioiHan/___RanhGioi.png)
+
 <!--$VD:-->
 <!--Một vài hướng xác định bối cảnh giới hạn:-->
 
@@ -210,7 +211,10 @@ Tích hợp Liên tục (Continuous Integration): là việc các thành viên t
 Khi một bối cảnh giới hạn đã được xác định, chúng ta cần đảm bảo rằng nó luôn ở trạng thái mới và hoạt động tốt như kỳ vọng. Đáp ứng nhu cầu doanh nghiệp phát triển thay đổi liên tục và nhanh chóng.
 Khi cùng vận hành và phát triển xung đột có thể xảy ra ở cùng hoặc khác bối cảnh giới hạn.
 => Vì vậy, cần sử dụng việc tích hợp liên tục tạo ra một quy trình tự động và liên tục từ việc tích hợp mã nguồn, kiểm thử tự động giúp tăng cường chất lượng phần mềm, giảm thời gian và rủi ro trong quá trình phát triển phần mềm.
+
 <!--$VD: jenkins-->
+<!-- unit test -->
+<!--  test tích hợp -->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
@@ -235,6 +239,7 @@ Sử dụng trong các tài liệu phát triển của nhóm
 Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 ![](pictures/NgonNguChung/___NgonNguPhoBien.png)
+
 <!--$VD: Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.-->
 <!--Hướng dẫn 5/7-->
 <!--@Bản đồ bối cảnh (Context Maps)-->
@@ -245,6 +250,7 @@ Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương 
 Bản đồ bối cảnh (Context Maps) là sự thể hiện trực quan của hệ thống, thể hiện các thành phần, liên kết và mối quan hệ.
 
 ![](pictures/BanDoBoiCanh/image.png)
+
 <!--$VD: Bản đồ bối cảnh-->
 <!--Lợi ích của Bản đồ bối cảnh:-->
 
@@ -264,99 +270,47 @@ Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
 Các liên hệ không có mối quan hệ nào với các liên hệ khác.
 Các liên hệ có mô hình độc lập và thực thi riêng biệt.
 Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
-<!--$VD: trong trường hợp ngân hàng, thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
-<!--@Mô hình hợp tác (Partnership Pattern)-->
 
-Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
-Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
-=> Vì vậy, các nhóm không thể hoạt động độc lập.
-Mỗi nhóm tham gia vào mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung cho các mối liên hệ gắn kết do nhóm kia quản lý.
-=> Sự phụ thuộc cao dẫn tới mất đi tính độc lập của kiến trúc vi dịch vụ.
+<!--$VD: trong trường hợp ngân hàng, thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
+<!--@Mô hình hạt nhân chung (Shared Kernel)-->
+Khi  các liên hệ trong bối cảnh giới hạn  có sự phụ thuộc lẫn nhau.      Sự phụ thuộc     này dẫn đến mức độ kết hợp cao.         Vì vậy, các nhóm  phát triển không thể hoạt động độc lập. 
+
+
+
 
 Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
 Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
 Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
 Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
-<!--12-->
-00: 01: 57, 300 00: 02: 16, 710-->
-Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.
-
-13
-00: 02: 16, 740 00: 02: 28, 290-->
-Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao giữa bối cảnh gắn kết và loại mối quan hệ này được gọi là Quan hệ đối tác và Thiết kế theo nhu cầu.
-
-14
-00: 02: 28, 710 00: 02: 36, 450-->
-Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
-
-15
-00: 02: 36, 480 00: 02: 49, 040-->
-Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát triển bởi các nhóm khác nhau, nhưng do sự phụ thuộc lẫn nhau giữa các dịch vụ nên các nhóm không thể hoạt động độc lập.
-
-16
-00: 02: 49, 260--> 00: 03: 01, 200
-Không chỉ vậy, mỗi nhóm tham gia vào loại mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung đó cho các mối liên hệ gắn kết do nhóm kia quản lý.
-
-17
-00: 03: 01, 230--> 00: 03: 14, 700
-Cuối cùng, điều này có nghĩa là các nhóm trong mối quan hệ kiểu này sẽ cần phối hợp các thay đổi, triển khai và phát hành của họ, và điều đó sẽ làm hỏng mục đích áp dụng kiến ​​trúc vi dịch vụ .
-
-<!--18-->
-00: 03: 15, 090--> 00: 03: 25, 670
-<!--Bây giờ, câu hỏi hiển nhiên mà chúng ta có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.-->
-
-19
-00: 03: 26, 040--> 00: 03: 39, 400
-Vì vậy, giả sử hai nhóm độc lập đang làm việc trên bối cảnh hỗn hợp và bối cảnh tự nguyện. B, họ có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
-
-20
-00: 03: 39, 600--> 00: 03: 55, 740
-Ý tưởng là quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết. Vì vậy, điều đó có nghĩa là nếu cần thay đổi và thay đổi này không phải là một phần của mô hình được chia sẻ thì nhóm được chỉ định cho các liên hệ giới hạn có thể đưa ra quyết định độc lập.
-
-21
-00: 03: 55, 770--> 00: 04: 03, 360
-Tương tự, nếu có những thay đổi cần thiết bên ngoài các mô hình được chia sẻ và các liên hệ giới hạn, hãy là nhóm được chỉ định cho các liên hệ liên kết.
-
-22
-00: 04: 03, 360--> 00: 04: 12, 390
-B có thể đưa ra những quyết định đó một cách độc lập. Nhưng bất cứ lúc nào, nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
-
-23
-00: 04: 12, 510--> 00: 04: 36, 180
-Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Carneal được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.
-
-24
-00: 04: 36, 850--> 00: 04: 46, 560
-Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.
-
-25
-00: 04: 46, 560--> 00: 04: 59, 850
-Các nhóm có thể phát triển độc lập các dịch vụ sử dụng các thư viện dùng chung này. Các nhóm có thể sử dụng kernel dùng chung và Labrys dùng chung miễn là phạm vi chia sẻ.
-
-26
-00: 05: 00, 070--> 00: 05: 16, 950
-Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.
-
-27
-00: 05: 16, 960--> 00: 05: 27, 070
-Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .
 
 <!--28-->
-00: 05: 27, 580--> 00: 05: 37, 570
-Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ giới hạn .
 
-29
-00: 05: 37, 600--> 00: 05: 49, 840
-Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập.
-<!--Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .-->
+<!--  đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
+<!-- Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác. -->
 
-30
-00: 05: 49, 960--> 00: 06: 13, 070
-Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình.
-<!--Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
+<!--12-->   
 
-Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.
+<!--Bây giờ, câu hỏi hiển nhiên mà chúng ta có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.-->
+
+Vì vậy, giả sử hai nhóm độc lập đang làm việc trên bối cảnh hỗn hợp và bối cảnh tự nguyện. B, họ có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
+
+Ý tưởng là quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết. Vì vậy, điều đó có nghĩa là nếu cần thay đổi và thay đổi này không phải là một phần của mô hình được chia sẻ thì nhóm được chỉ định cho các liên hệ giới hạn có thể đưa ra quyết định độc lập.
+
+Tương tự, nếu có những thay đổi cần thiết bên ngoài các mô hình được chia sẻ và các liên hệ giới hạn, hãy là nhóm được chỉ định cho các liên hệ liên kết.
+
+B có thể đưa ra những quyết định đó một cách độc lập. Nhưng bất cứ lúc nào, nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
+
+Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Carneal được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.
+
+Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.
+
+Các nhóm có thể phát triển độc lập các dịch vụ sử dụng các thư viện dùng chung này. Các nhóm có thể sử dụng kernel dùng chung và Labrys dùng chung miễn là phạm vi chia sẻ.
+
+Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.
+
+Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .
+
 
 <!--@Mô hình hạt nhân chung (Shared Kernel)-->
 

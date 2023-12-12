@@ -172,7 +172,7 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
 <!--Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.-->
-<!-- $VD: Ở đồ án này, mô hình miền là ... các sơ đồ: UML Use Case Diagrams    , UML Activity Diagrams    , UML Sequence Diagrams    , UML Class Diagrams -->
+<!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
@@ -612,7 +612,7 @@ Sử dụng hàm ngẫu nhiên (tỉ lệ 10%) cho trường hợp từ chối.
 <!--Phân tích và thiết kế-->
 
 Xác định các tính năng cần thiết và các yêu cầu kỹ thuật tạo ra một thiết kế hệ thống hoặc kiến trúc đáp ứng.
-<!--  -->
+<!---->
 
 Business Model Canvas
 

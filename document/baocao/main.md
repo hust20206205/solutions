@@ -8,6 +8,11 @@
   - [1.5. Lời mở đầu](#15-lời-mở-đầu)
   - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
   - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
+  - [Danh sách bảng](#danh-sách-bảng)
+  - [Danh sách hình ảnh](#danh-sách-hình-ảnh)
+  - [Danh sách mã nguồn](#danh-sách-mã-nguồn)
+  - [Danh sách các cụm từ viết tắt](#danh-sách-các-cụm-từ-viết-tắt)
+  - [Danh sách các thuật ngữ](#danh-sách-các-thuật-ngữ)
 
 <!--!======================================================-->
 
@@ -69,6 +74,65 @@ Giảng viên hướng dẫn
 ## 1.6. Tóm tắt nội dung đồ án
 
 ## 1.7. Đánh giá và thảo luận
+
+## Danh sách bảng
+
+## Danh sách hình ảnh
+
+## Danh sách mã nguồn
+
+## Danh sách các cụm từ viết tắt
+
+<!-- STT; Từ viết tắt; Từ viết đầy đủ; Mô tả -->
+<!-- API; Application Programming Interface; Giao diện lập trình ứng dụng -->
+<!--CI/CD; Continuous Integration (CI) and Continuous Delivery (CD) ; Quá trình tích hợp và chuyển giao liên tục-->
+<!--thiết kế hướng miền ; thiết kế hướng miền; Kỹ thuật thiết kế theo hướng miền-->
+<!--DI; Dependency Injection; Cơ chế tiêm sự phụ thuộc giữa các đối tượng-->
+<!-- HTTP; Hypertext Transfer Protocol; Giao thức truyền tải siêu văn bản -->
+<!-- JSON; JavaScript Object Notation; Một kiểu dữ liệu mở rộng của JavaScript -->
+<!-- ORM; Object Relational Mapping; Một kỹ thuật ánh xạ các đối tượng lập trình với từng bảng trong CSDL quan hệ -->
+
+SOA; Service Oriented Architecture; Kiến trúc hướng dịch vụ
+SOAP; Simple Object Access Protocol; Một giao thức để truy cập dịch vụ web
+SPA; Single Page Application; Kiểu ứng dụng một trang
+REST; Representational State Transfer; Một tiêu chuẩn thiết kế các API sử dụng cho các dịch vụ web
+URL; Uniform Resource Locator ; Địa chỉ định vị tài nguyên trên Internet
+XML; Extensible Markup Language; Ngôn ngữ đánh dấu mở rộng
+Tổng cục Thuế ; TCT ;
+Người nộp thuế ; NNT ;
+Mã số thuế ; MST ;
+Hóa đơn điện tử ; HĐĐT ;
+Cơ quan thuế ; CQT ;
+Công nghệ thông tin ; CNTT ;
+
+<!--Cơ sở dữ liệu ; CSDL ;-->
+<!--Tạo (Create), Đọc (Read), Sửa (Update), Xóa (Delete) ; CRUD ;-->
+<!--Kubernetes ; K8s ;-->
+<!--Số điện thoại ; SĐT ;-->
+<!--UML-->
+<!--MVC; Model View Controller; Một mẫu thiết kế ứng dụng-->
+
+UML
+ORM
+SQL
+
+## Danh sách các thuật ngữ
+
+<!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
+<!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
+<!--kiến trúc vi dịch, kiến trúc vi dịch-->
+<!--kiến trúc vi dịch, kiến trúc vi dịch-->
+<!--kiến trúc vi dịch, kiến trúc vi dịch-->
+<!--kiến trúc vi dịch, kiến trúc vi dịch-->
+<!--thiết kế hướng miền, thiết kế hướng miền-->
+<!--thiết kế hướng miền, thiết kế hướng miền-->
+
+STT; Tiếng Anh; Tiếng Việt
+1 thiết kế hướng miền
+Thiết kế hướng lĩnh vực
+2 Domain (không dịch)
+3 Abstraction Trừu tượng
+4 chuyên gia ngành
 
 <!--!======================================================-->
 

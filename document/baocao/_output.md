@@ -1,42 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-5
-00: 00: 45, 060--> 00: 00: 54, 860
-Mỗi trong số này đại diện cho một khu vực chức năng trong một ngân hàng. Theo truyền thống, các mô hình chung được tạo ra để sử dụng trong toàn doanh nghiệp.
-
-6
-00: 00: 55, 050--> 00: 01: 03, 920
-Hãy nghĩ về một khách hàng. Mỗi khả năng này đều có chức năng. Các khu vực cần một số loại đại diện cho khách hàng và thuật ngữ kỹ thuật.
-
-7
-00: 01: 04, 200--> 00: 01: 27, 720
-Hãy suy nghĩ về một khách hàng, tầng lớp hoặc đối tượng khách hàng để tạo ra một mô hình miền chung. Chuyên gia kỹ thuật sẽ kết hợp định nghĩa lớp với nhiều thuộc tính và để làm điều đó, chuyên gia kỹ thuật sẽ thu thập các thuộc tính từ nhiều chuyên gia trên các miền này, mặc dù đối tượng khách hàng có thể có nhiều thuộc tính.
-
-8
-00: 01: 27, 870--> 00: 01: 35, 060
-Mỗi khả năng này sẽ chỉ cần một vài thuộc tính trong số đó để quản lý mô hình về lâu dài.
-
-9
-00: 01: 35, 460--> 00: 01: 50, 000
-Những nhóm nào khác sẽ được giao quyền sở hữu mô hình chung? Và điều này sẽ dẫn đến sự phụ thuộc giữa các nhóm ở các lĩnh vực năng lực hoặc chức năng khác vào chủ đề trọng tâm là quản lý mô hình.
-
-10
-00: 01: 50, 580--> 00: 01: 57, 420
-Và sự phụ thuộc này sẽ dẫn đến mất đi tính linh hoạt, xung đột và độ phức tạp của thiết kế hướng miền.
-
-11
-00: 01: 57, 630--> 00: 02: 06, 600
 <!--Và đây là vấn đề với mô hình miền chung. Bằng cách chia miền thành các phần độc lập được gọi là bối cảnh giới hạn .-->
 
 12
@@ -163,6 +124,12 @@ Các mô hình có thể được phát triển độc lập trong từng bối 
 00: 07: 39, 870--> 00: 07: 47, 580
 Mỗi bối cảnh giới hạn có ngôn ngữ chung riêng, ngôn ngữ này chỉ có ý nghĩa trong bối cảnh giới hạn đó.
 
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
 <!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
 
 1
@@ -12286,4 +12253,3 @@ Máy chủ gọi các hàm này để lấy thông tin cho từng trường mà 
 37
 00: 07: 08, 480--> 00: 07: 19, 040
 Trong bài học này, chúng ta đã thấy sản phẩm hoạt động và chúng ta đã thấy cách triển khai truy vấn sản phẩm. Tôi khuyên chúng ta nên tự mình thử truy vấn của nhà cung cấp.
-

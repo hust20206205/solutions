@@ -138,7 +138,6 @@ Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh
 Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
 
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--!======================================================-->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
@@ -168,8 +167,10 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--Hướng dẫn 5/7-->
 
+<!--!======================================================-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 <!--Bounded Context: Bối cảnh giới hạn là gì?-->
+<!--V Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của vi dịch vụ.-->
 
 Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
 
@@ -195,10 +196,12 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 
 ![](pictures/BoiCanhGioiHan/___RanhGioi.png)
 
+<!--Hướng dẫn 5/10-->
+
+
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 
-<!--Hướng dẫn 5/10-->
 
 **Tích hợp Liên tục (CI/CD)**
 
@@ -235,14 +238,8 @@ Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mìn
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 <!--CQRS, EventSourcing, Sagas-->
 
-[](2.5.UbiquitousLanguage.md)
-ngôn ngữ chung
-[](2.6.BoundedContext.md)
 
-<!--V Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của vi dịch vụ.-->
-
-[](2.7.CICD.md)
-[](2.8.ContextMaps.md)
+[](2.7.CICD.md) 
 
 <!--!-->
 
@@ -686,7 +683,7 @@ Trong trường hợp Upstream hiển thị các mô hình mà không liên quan
 
 <!--CF-U-->
 <!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
-
+chống đổ vỡ
 bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
 quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh bị giới hạn.
 

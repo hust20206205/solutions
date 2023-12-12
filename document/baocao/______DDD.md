@@ -78,14 +78,14 @@ Miền phụ hỗ trợ cung cấp các dịch vụ để miền phụ cốt lõ
 
 Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ.
 
-<!-- $VD: miền  phụ     hỗ trợ chăm sóc khách hàng -->
+<!--$VD: miền phụ hỗ trợ chăm sóc khách hàng-->
 
 <!--@Cách xác định các miền phụ-->
-<!-- Sơ đồ: -->
+<!--Sơ đồ:-->
 
-![Alt text](pictures/XacDinhMienPhu/_XacDinhMienPhu.png)
+![](pictures/XacDinhMienPhu/_XacDinhMienPhu.png)
 
-<!-- Mô tả: -->
+<!--Mô tả:-->
 
 Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
 

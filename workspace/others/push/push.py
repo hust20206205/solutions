@@ -83,6 +83,7 @@ for file_path in file_paths:
     content = content.replace('bị ràng buộc', '       giới hạn   ')
     content = content.replace('bị giới hạn', '       giới hạn   ')
     content = content.replace('bị chặn', '       giới hạn   ')
+    content = content.replace('chống tham nhũng', '       chống đổ vỡ   ')
     # content = content.replace('.' 
     
     while "\n\n\n" in content:

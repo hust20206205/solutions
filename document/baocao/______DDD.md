@@ -115,7 +115,7 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 
 <!--@Mô hình miền (Domain Models)-->
 
-Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Trong domain driven design để có thể hiểu miền nhanh, chúng ta tạo ra các mô hình miền.
+Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Trong thiết kế hướng miền để có thể hiểu miền nhanh, chúng ta tạo ra các mô hình miền.
 
 Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.
 

@@ -1,41 +1,41 @@
 <!--!======================================================-->
 
 - [1. Đồ án 2](#1-đồ-án-2)
-  - [1.1. Trang bìa](#11-trang-bìa)
-  - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
-  - [1.3. Mục lục](#13-mục-lục)
-  - [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
-  - [1.5. Lời mở đầu](#15-lời-mở-đầu)
-  - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
-  - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
-  - [1.8. Danh sách bảng](#18-danh-sách-bảng)
-  - [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
-  - [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
-  - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
-  - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
+ - [1.1. Trang bìa](#11-trang-bìa)
+ - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
+ - [1.3. Mục lục](#13-mục-lục)
+ - [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
+ - [1.5. Lời mở đầu](#15-lời-mở-đầu)
+ - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
+ - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
+ - [1.8. Danh sách bảng](#18-danh-sách-bảng)
+ - [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
+ - [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
+ - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
+ - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
 - [2. Giới thiệu chung](#2-giới-thiệu-chung)
-  - [2.1. Giới thiệu về bài toán hóa đơn điện tử](#21-giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
-    - [2.1.1. Hóa đơn](#211-hóa-đơn)
-    - [2.1.2. Hóa đơn điện tử](#212-hóa-đơn-điện-tử)
-    - [2.1.3. Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.](#213-bắt-buộc-sử-dụng-hóa-đơn-điện-tử-từ-01072022)
-    - [2.1.4. Bản thể hiện của hóa đơn điện tử:](#214-bản-thể-hiện-của-hóa-đơn-điện-tử)
-    - [2.1.5. Lưu trữ hóa đơn điện tử](#215-lưu-trữ-hóa-đơn-điện-tử)
-    - [2.1.6. Một số lợi ích của hóa đơn điện tử:](#216-một-số-lợi-ích-của-hóa-đơn-điện-tử)
-  - [2.2. Giới thiệu về kiến trúc vi dịch vụ](#22-giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
-    - [2.2.1. Kiến trúc nguyên khối](#221-kiến-trúc-nguyên-khối)
-    - [2.2.2. Kiến trúc vi dịch vụ](#222-kiến-trúc-vi-dịch-vụ)
-    - [2.2.3. Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ](#223-một-số-đặc-điểm-và-ưu-điểm-của-kiến-trúc-vi-dịch-vụ)
-    - [2.2.4. Một số nhược điểm và thách thức của kiến trúc vi dịch vụ](#224-một-số-nhược-điểm-và-thách-thức-của-kiến-trúc-vi-dịch-vụ)
-  - [2.3. Giới thiệu về thiết kế hướng miền](#23-giới-thiệu-về-thiết-kế-hướng-miền)
+ - [2.1. Giới thiệu về bài toán hóa đơn điện tử](#21-giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
+ - [2.1.1. Hóa đơn](#211-hóa-đơn)
+ - [2.1.2. Hóa đơn điện tử](#212-hóa-đơn-điện-tử)
+ - [2.1.3. Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.](#213-bắt-buộc-sử-dụng-hóa-đơn-điện-tử-từ-01072022)
+ - [2.1.4. Bản thể hiện của hóa đơn điện tử:](#214-bản-thể-hiện-của-hóa-đơn-điện-tử)
+ - [2.1.5. Lưu trữ hóa đơn điện tử](#215-lưu-trữ-hóa-đơn-điện-tử)
+ - [2.1.6. Một số lợi ích của hóa đơn điện tử:](#216-một-số-lợi-ích-của-hóa-đơn-điện-tử)
+ - [2.2. Giới thiệu về kiến trúc vi dịch vụ](#22-giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
+ - [2.2.1. Kiến trúc nguyên khối](#221-kiến-trúc-nguyên-khối)
+ - [2.2.2. Kiến trúc vi dịch vụ](#222-kiến-trúc-vi-dịch-vụ)
+ - [2.2.3. Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ](#223-một-số-đặc-điểm-và-ưu-điểm-của-kiến-trúc-vi-dịch-vụ)
+ - [2.2.4. Một số nhược điểm và thách thức của kiến trúc vi dịch vụ](#224-một-số-nhược-điểm-và-thách-thức-của-kiến-trúc-vi-dịch-vụ)
+ - [2.3. Giới thiệu về thiết kế hướng miền](#23-giới-thiệu-về-thiết-kế-hướng-miền)
 - [3. Yêu cầu nghiệp vụ](#3-yêu-cầu-nghiệp-vụ)
 - [4. Các sơ đồ phân tích thiết kế hệ thống](#4-các-sơ-đồ-phân-tích-thiết-kế-hệ-thống)
-  - [4.1. UML Use Case Diagrams](#41-uml-use-case-diagrams)
-  - [4.2. UML Activity Diagrams](#42-uml-activity-diagrams)
-  - [4.3. UML Sequence Diagrams](#43-uml-sequence-diagrams)
-  - [4.4. UML Class Diagrams](#44-uml-class-diagrams)
-- [5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,](#5-service-mesh-cicd-microfe-api-gateway-cache-redis-log-xử-lí-lỗi)
+ - [4.1. UML Use Case Diagrams](#41-uml-use-case-diagrams)
+ - [4.2. UML Activity Diagrams](#42-uml-activity-diagrams)
+ - [4.3. UML Sequence Diagrams](#43-uml-sequence-diagrams)
+ - [4.4. UML Class Diagrams](#44-uml-class-diagrams)
+- [5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi, ](#5- dịch vụ -mesh-cicd-microfe-api-gateway-cache-redis-log-xử-lí-lỗi)
 - [6. Container và Container Orchestration](#6-container-và-container-orchestration)
-- [7. Broker Pattern dịch vụ dicovery](#7-broker-pattern-dịch-vụ-dicovery)
+- [7. Broker Pattern dịch vụ dicovery](#7-broker- mẫu -dịch-vụ-dicovery)
 - [8. Dependency Injection](#8-dependency-injection)
 - [9. Kết luận tổng kết](#9-kết-luận-tổng-kết)
 - [10. Tài liệu tham khảo](#10-tài-liệu-tham-khảo)
@@ -452,11 +452,11 @@ Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghi�
 
 Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
 
-Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không?
+Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không? 
 
 Nếu không có giá trị kinh doanh thì chúng ta kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Nếu có thì có khả năng là miền phụ hỗ trợ. Nếu không thì đó là miền phụ chung.
 
-Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không?
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không? 
 
 Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
@@ -705,7 +705,7 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 
 <!--Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.-->
 
-Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau,
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, 
 
 Vì vậy, điều đó có nghĩa là lớp chống đổ vỡ cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
@@ -1023,7 +1023,7 @@ Repository trong ORM
 
 , gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
 
-# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
+# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi, 
 
 <!---->
 

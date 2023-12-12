@@ -272,35 +272,10 @@ Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 <!--@Mô hình riêng biệt (Separate Ways)-->
 
 Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
-Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
-
-<!--Không có sự chia sẻ mô hình giữa hai liên hệ.-->
-
-Từ góc nhìn người dùng: liên hệ như là 1 chương trình.
-Từ góc nhìn mô hình và thiết kế: liên hệ có mô hình độc lập và thực thi riêng biệt.
+Các liên hệ  không có mối quan hệ nào với   các liên hệ       khác.
+Các liên hệ  có mô hình độc lập và thực thi riêng biệt.
 Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
-
-Không có mối quan hệ nào giữa các ranh giới liên hệ từ góc nhìn hiện thực hóa.
-
-<!--các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác.-->
-
-<!--Điều đó có nghĩa là không có sự chia sẻ mô hình giữa hai địa chỉ liên hệ được liên kết này vì các nhóm độc lập của họ có thể tự động làm việc trên hai địa chỉ liên hệ được liên kết này.-->
-
-Nói cách khác, các nhóm này không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào. Bây giờ, một số người sẽ cho rằng có cơ hội sử dụng lại các phần của A và B hoặc ngược lại.
-
-Nhưng người ta phải xem xét sự đánh đổi. Và đánh đổi là nếu có tái sử dụng thì sẽ mất quyền tự chủ.
-
-Vì vậy hãy đi sâu hơn một chút. Giả sử có một mô hình và một được chia sẻ bởi B, không, các nhóm không thể làm việc tự chủ y vì nếu phải thay đổi mô hình thì nhóm của B sẽ phải đồng ý với những thay đổi đó.
-
-Điều đó có nghĩa là chúng sẽ là tập hợp các ứng dụng hoặc dịch vụ độc lập cho từng điểm tiếp xúc được liên kết.
-
-<!--$VD:-->
-
-<!--Ví dụ, trong trường hợp ngân hàng, chúng ta có thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
-<!--Trong trường hợp đó, các nhóm sẽ độc lập phát triển các ứng dụng và dịch vụ cho hai liên hệ liên kết này.-->
-
-<!--Và điều đó có nghĩa là hai nhóm này có thể làm việc độc lập theo nhịp độ riêng của họ để đáp ứng các mục tiêu kinh doanh của đơn vị kinh doanh tương ứng của họ.-->
-
+<!--$VD: trong trường hợp ngân hàng,   thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
 <!--12-->
 <!--00: 01: 57, 300--> 00: 02: 16, 710-->
 <!--Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.-->

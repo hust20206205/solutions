@@ -283,19 +283,19 @@ Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng
 <!--!======================================================-->
 <!--: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
-Trong   mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác.  Mối quan hệ này được mô tả  bằng cách gán vai trò:
+Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò:
 
-Bối cảnh giới hạn thượng nguồn (Upstream):     bối cảnh giới hạn      cung cấp cho  bối cảnh giới hạn khác.
-Bối cảnh giới hạn hạ lưu (Downstream):     bối cảnh giới hạn         phụ thuộc vào bối cảnh giới hạn khác. 
-  <!-- $VD:  -->
-<!--@=======================  --> 
- 
- 
- <!-- mô hình cung ứng khách hàng -->
- <!-- mô hình tuân thủ  -->
- <!-- mô hình lớp chống tham nhũng -->
- 
-<!-- 00: 00: 54, 030--> 00: 01: 03, 210 -->
+Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
+Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác.
+<!--$VD:-->
+<!--@=======================-->
+
+
+<!--mô hình cung ứng khách hàng-->
+<!--mô hình tuân thủ-->
+<!--mô hình lớp chống tham nhũng-->
+
+<!--00: 00: 54, 030--> 00: 01: 03, 210-->
 
 4
 Vì vậy, điều này mô tả một mối quan hệ trong đó bối cảnh giới hạn . Nó phụ thuộc vào bối cảnh giới hạn. B nói cách khác, bối cảnh ranh giới.
@@ -440,7 +440,7 @@ Lớp chống tham nhũng này có logic để dịch các mô hình từ địn
 00: 08: 00, 200--> 00: 08: 09, 410
 Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.
 
-<!--@=======================  -->
+<!--@=======================-->
 <!--các ký hiệu bản đồ ngữ cảnh.-->
 
 <!--Mối quan hệ bất đối xứng-->

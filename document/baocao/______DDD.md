@@ -29,15 +29,15 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 
 <!--$VD: Ở đồ án này, miền được xác định là bài toán giải pháp hóa đơn điện tử .-->
 
+<!--@Tên miền phụ (Sub-Domain)-->
 <!---->
 <!--Trong một miền phức tạp, không thể có một chuyên gia duy nhất có kiến thức tổng thể về tất cả các miền phụ.-->
 <!--Phần mềm cần phản ánh đúng miền và hiện thực hóa một cách chính xác quan hệ giữa các miền.-->
 
-<!--@Tên miền phụ (Sub-Domain)-->
-<!-- Tên miền được tạo thành từ nhiều tên miền phụ. -->
- 
-<!-- Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các tên miền phụ trong tên miền lớn hơn. --> 
- 
+<!--Tên miền được tạo thành từ nhiều tên miền phụ.-->
+
+<!--Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các tên miền phụ trong tên miền lớn hơn.-->
+
 Tên miền được tạo thành từ nhiều tên miền phụ.
 
 

@@ -1,6 +1,6 @@
 <!--!======================================================-->
 
-- [1.](#1)
+- [1. 1.](#1-1)
   - [1.1. Trang bìa](#11-trang-bìa)
   - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
   - [1.3. Mục lục](#13-mục-lục)
@@ -8,15 +8,15 @@
   - [1.5. Lời mở đầu](#15-lời-mở-đầu)
   - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
   - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
-  - [Danh sách bảng](#danh-sách-bảng)
-  - [Danh sách hình ảnh](#danh-sách-hình-ảnh)
-  - [Danh sách mã nguồn](#danh-sách-mã-nguồn)
-  - [Danh sách các cụm từ viết tắt](#danh-sách-các-cụm-từ-viết-tắt)
-  - [Danh sách các thuật ngữ](#danh-sách-các-thuật-ngữ)
+  - [1.8. Danh sách bảng](#18-danh-sách-bảng)
+  - [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
+  - [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
+  - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
+  - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
 
 <!--!======================================================-->
 
-# 1.
+# 1. 1.
 
 ## 1.1. Trang bìa
 
@@ -75,22 +75,22 @@ Giảng viên hướng dẫn
 
 ## 1.7. Đánh giá và thảo luận
 
-## Danh sách bảng
+## 1.8. Danh sách bảng
 
-## Danh sách hình ảnh
+## 1.9. Danh sách hình ảnh
 
-## Danh sách mã nguồn
+## 1.10. Danh sách mã nguồn
 
-## Danh sách các cụm từ viết tắt
+## 1.11. Danh sách các cụm từ viết tắt
 
-<!-- STT; Từ viết tắt; Từ viết đầy đủ; Mô tả -->
-<!-- API; Application Programming Interface; Giao diện lập trình ứng dụng -->
+<!--STT; Từ viết tắt; Từ viết đầy đủ; Mô tả-->
+<!--API; Application Programming Interface; Giao diện lập trình ứng dụng-->
 <!--CI/CD; Continuous Integration (CI) and Continuous Delivery (CD) ; Quá trình tích hợp và chuyển giao liên tục-->
 <!--thiết kế hướng miền ; thiết kế hướng miền; Kỹ thuật thiết kế theo hướng miền-->
 <!--DI; Dependency Injection; Cơ chế tiêm sự phụ thuộc giữa các đối tượng-->
-<!-- HTTP; Hypertext Transfer Protocol; Giao thức truyền tải siêu văn bản -->
-<!-- JSON; JavaScript Object Notation; Một kiểu dữ liệu mở rộng của JavaScript -->
-<!-- ORM; Object Relational Mapping; Một kỹ thuật ánh xạ các đối tượng lập trình với từng bảng trong CSDL quan hệ -->
+<!--HTTP; Hypertext Transfer Protocol; Giao thức truyền tải siêu văn bản-->
+<!--JSON; JavaScript Object Notation; Một kiểu dữ liệu mở rộng của JavaScript-->
+<!--ORM; Object Relational Mapping; Một kỹ thuật ánh xạ các đối tượng lập trình với từng bảng trong CSDL quan hệ-->
 
 SOA; Service Oriented Architecture; Kiến trúc hướng dịch vụ
 SOAP; Simple Object Access Protocol; Một giao thức để truy cập dịch vụ web
@@ -116,7 +116,7 @@ UML
 ORM
 SQL
 
-## Danh sách các thuật ngữ
+## 1.12. Danh sách các thuật ngữ
 
 <!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
 <!--kiến trúc nguyên khối, kiến trúc nguyên khối-->

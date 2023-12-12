@@ -155,12 +155,17 @@ Ngôn ngữ chung được xác định bởi từ vựng và có định nghĩa
 Ngôn ngữ chung được sử dụng bởi cả chuyên gia ngành và chuyên gia công nghệ.
 Có nhiều ngôn ngữ chung trong một tổ chức được mỗi nhóm tạo và quản lý một cách độc lập.
 Việc tạo ra ngôn ngữ chung là một quá trình liên tục. Ngôn ngữ chung phát triển theo thời gian thông qua sự cộng tác giữa doanh nghiệp và các chuyên gia công nghệ.
-Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống như:
-xxx
-xxx
-xxx
+
+Các thành viên phải sử dụng ngôn ngữ chung cho công việc và trong toàn bộ hệ thống như:
+
+Sử dụng trong cuộc thảo luận trao đổi giữa các chuyên gia ngành và các chuyên gia công nghệ
+Sử dụng trong các tài liệu phát triển của nhóm
+Sử dụng trong sản phẩm và kiểm thử phần mềm
+
 <!--$VD: Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.-->
+
 ![](pictures/NgonNguChung/___NgonNguPhoBien.png)
+
 <!--Hướng dẫn 5/7-->
 
 <!--!======================================================-->

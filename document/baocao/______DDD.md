@@ -169,15 +169,16 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--!======================================================-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
-<!--Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của vi dịch vụ.-->
-
-Bối cảnh giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
-
-Việc xác định Bối cảnh giới hạn chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
-**Bối cảnh giới hạn (Bounded Context)**
-
 Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
+
 => Bối cảnh giới hạn giúp định rõ các ranh giới, chia miền thành các phần độc lập để giải quyết sự phức tạp trong mô hình doanh nghiệp.
+Bối cảnh giới hạn   thể hiện phạm vi kinh doanh của vi dịch vụ.
+Việc xác định bối cảnh giới hạn  được điều chỉnh bởi sự gắn kết giữa các miền phụ   trong miền kinh doanh.
+
+
+
+
+
 
 <!--Một số đặc điểm:-->
 

@@ -43,6 +43,7 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 <!--@ Miền phụ (Sub-Domain)-->
 
 Miền được tạo thành từ nhiều miền phụ.
+
 <!--$VD: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
 Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
@@ -66,13 +67,12 @@ Miền phụ cốt lõi là điểm khác biệt quan trọng cho doanh nghiệp
 Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi. Vì mỗi doanh nghiệp trong một ngành cụ thể hoạt động khác nhau trong các miền phụ cốt lõi để đạt được một số lợi thế so với đối thủ cạnh tranh.
 
 => Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
+
 <!--$VD:-->
 
 <!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
 
 <!--!======================================================-->
-
-
 
 Các miền phụ cốt lõi phụ thuộc vào các miền phụ hỗ trợ.
 

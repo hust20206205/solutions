@@ -86,9 +86,11 @@ for file_path in file_paths:
     content = content.replace('bối cảnh bị giới hạn', '       bối cảnh giới hạn   ')
     content = content.replace('Bối cảnh bị chặn', '       bối cảnh giới hạn   ')
     content = content.replace('bối cảnh bị chặn', '       bối cảnh giới hạn   ')
-    content = content.replace('\n\n\n\n', '\n\n\n')
     # content = content.replace('.' 
     
+    while "\n\n\n\n" in content:
+        content = content.replace("\n\n\n\n", "\n\n\n")
+    content = content.replace("?", "? ")
     while " ?" in content:
         content = content.replace(" ?", "?")
     content = content.replace("?", "? ")

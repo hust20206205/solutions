@@ -160,12 +160,18 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 <!--[Tính nhất quán trong trao đổi] Ngôn ngữ chung (Ubiquitous Language)-->
 
 <!--[Tổng quan mối quan hệ] Bản đồ bối cảnh (Context Maps)-->
+
 <!--[Phân lớp ] Kiến trúc phân lớp (Context Maps)-->
 
-dịch và cách ly đơn phương với
+<!--  -->
 
-"Bản đồ bối cảnh dịch chuyển và cách ly một cách đơn phương để tạo thành cấu trúc kiến ​​trúc phân lớp."
-Tách biệt
+<!--Symmetric Relationship: Separate ways, Partnership, Shared Kernel-->
+<!--Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer-->
+<!--One-to-Many Relationship: Open Host Service, Published Language-->
+
+<!-- dịch và cách ly đơn phương với -->
+<!-- "Bản đồ bối cảnh dịch chuyển và cách ly một cách đơn phương để tạo thành cấu trúc kiến ​​trúc phân lớp." -->
+<!-- Tách biệt -->
 
 <!--$ Vẽ lại sau:-->
 
@@ -241,7 +247,6 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--Hướng dẫn 5/7-->
 
-
 <!--@Bản đồ bối cảnh (Context Maps)-->
 
 Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác quan hệ với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ. Nếu không thì các dịch vụ sẽ mất khả năng hoạt động độc lập, tính nhất quán và tính linh hoạt.
@@ -257,14 +262,9 @@ Giúp thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
 Giúp nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .
 Giúp các nhóm đánh giá mức độ hợp tác với các nhóm khác.
 Giúp sàng lọc các liên hệ giới hạn và các mô hình.
-Xác định mối quan hệ giữa các liên hệ giới hạn của mình. 
+Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 
 <!--!======================================================-->
-
-<!-- Symmetric Relationship: Separate ways, Partnership, Shared Kernel -->
-<!-- Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer -->
-<!-- One-to-Many Relationship: Open Host Service, Published Language -->
-
 
 
 <!--!======================================================-->

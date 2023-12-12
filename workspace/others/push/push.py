@@ -129,11 +129,11 @@ for file_path in file_paths:
     with open(file_path, 'w', encoding="utf-8") as file:
         file.write(content)
         # 
-    with open(file_path, 'r', encoding="utf-8") as file:
-        content = file.readlines()
-    content = [line.strip() for line in content]
-    with open(file_path, 'w', encoding="utf-8") as file:
-        for line in content:
-            file.write(line + '\n')
+    # with open(file_path, 'r', encoding="utf-8") as file:
+    #     content = file.readlines()
+    # content = [line.strip() for line in content]
+    # with open(file_path, 'w', encoding="utf-8") as file:
+    #     for line in content:
+    #         file.write(line + '\n')
 
 # https://www.udemy.com/course/domain-driven-design-and-microservices

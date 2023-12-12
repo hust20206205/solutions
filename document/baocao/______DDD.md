@@ -115,7 +115,7 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 
 <!--@Mô hình miền (Domain Models)-->
 
-Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó.   Trong domain driven design   để có thể hiểu miền nhanh , chúng ta tạo ra các mô hình miền.
+Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Trong domain driven design để có thể hiểu miền nhanh, chúng ta tạo ra các mô hình miền.
 
 Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.
 
@@ -123,10 +123,10 @@ Mô hình miền không phải là kiến thức của chuyên gia ngành, mà l
 
 Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô hình của nhóm.
 
-Mô hình miền giúp nhóm hiểu  ccoong việc  và đồng thuận khi làm việc.
+Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
 <!--Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.-->
-<!--$VD: Ở đồ án này, mô hình miền là ...-->
+<!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ use case, class, activiti, squen-->
 
 
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->

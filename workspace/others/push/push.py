@@ -52,6 +52,7 @@ for file_path in file_paths:
     content = content.replace('dịch vụ vi mô', '                                vi dịch vụ         ')
     content = content.replace('Domain-Driven Design', '                                thiết kế hướng miền         ')
     content = content.replace('Domain Driven Design', '                                thiết kế hướng miền         ')
+    content = content.replace('domain driven design', '                                thiết kế hướng miền         ')
     content = content.replace('ddd', '                                 thiết kế hướng miền          ')
     content = content.replace('DDD', '                                 thiết kế hướng miền          ')
     content = content.replace('patterns', '                                mẫu         ')

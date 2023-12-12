@@ -160,6 +160,13 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 <!--[Tính nhất quán trong trao đổi] Ngôn ngữ chung (Ubiquitous Language)-->
 
 <!--[Tổng quan mối quan hệ] Bản đồ bối cảnh (Context Maps)-->
+<!--[Phân lớp ] Kiến trúc phân lớp (Context Maps)-->
+dịch và cách ly đơn phương với
+
+
+"Bản đồ bối cảnh dịch chuyển và cách ly một cách đơn phương để tạo thành cấu trúc kiến ​​trúc phân lớp."
+Tách biệt
+<!--$ Vẽ lại sau:-->
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
@@ -234,10 +241,6 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 <!--Hướng dẫn 5/7-->
 
 <!--!======================================================-->
-<!--!======================================================-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-
-<!---->
 
 **Bản đồ bối cảnh (Context Maps)**
 
@@ -254,11 +257,15 @@ Giúp việc nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ 
 Giúp các nhóm đánh giá mức độ hợp tác cần thiết với các nhóm khác.
 Giúp sàng lọc các liên hệ được giới hạn và các mô hình.
 Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
+<!--!======================================================-->
+<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
+
+<!---->
+
 
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 <!--CQRS, EventSourcing, Sagas-->
 
-[](2.7.CICD.md)
 
 <!--!-->
 

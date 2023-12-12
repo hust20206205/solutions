@@ -10,7 +10,7 @@ hợp gốc bị phá hủy.
 
 Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
 
-<!--@yêu cầu nghiệp vụ-->
+<!--@Yêu cầu nghiệp vụ-->
 
 Trình bày nội dung yêu cầu nghiệp vụ
 
@@ -21,9 +21,9 @@ Thiết kế hướng miền được Eric Evans giới thiệu trong cuốn sá
 
 Thiết kế hướng miền (DomainDrivenDesign) là một phương pháp thiết kế phần mềm tập trung vào việc hiểu và mô hình hóa lĩnh vực kinh doanh của một tổ chức.
 
-Thiết kế hướng miền nhấn mạnh việc sử dụng lĩnh vực nghiệp vụ kinh doanh để thảo luận và đề xuất giải pháp đáp ứng nhu cầu. Vì để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Chính vì vậy mà để đạt được kết quả như mong đợi, chúng ta thường bắt đầu từ yêu cầu nghiệp vụ.
+Thiết kế hướng miền nhấn mạnh việc sử dụng lĩnh vực nghiệp vụ kinh doanh để thảo luận và đề xuất giải pháp đáp ứng nhu cầu. Vì để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Chính vì vậy   để đạt được kết quả như mong đợi, chúng ta thường bắt đầu từ yêu cầu nghiệp vụ.
 
-Trong nhiều ứng dụng thường có nhiều phần code xử lý các công việc không liên quan đến vấn đề nghiệp vụ như truy cập file, hạ tầng mạng, CSDL, ... được nhúng trực tiếp vào đối tượng nghiệp vụ kinh doanh. Cách này giúp tốc độ hoàn thiện ứng dụng nhanh. Tuy nhiên, cách này làm cho thiết kế bị mất đi tính hướng đối tượng trong thực tế với mức độ doanh nghiệp lớn. Đây là lý do thiết kế hướng miền trở nên quan trọng.
+Trong nhiều ứng dụng thường có   phần   xử lý các công việc không liên quan đến vấn đề nghiệp vụ như truy cập file, hạ tầng mạng, CSDL, ...    trong  đối tượng nghiệp vụ kinh doanh. Cách này giúp tốc độ hoàn thiện ứng dụng nhanh. Tuy nhiên, cách này làm cho thiết kế bị mất đi tính hướng đối tượng trong thực tế với mức độ doanh nghiệp lớn. Đây là lý do thiết kế hướng miền trở nên quan trọng.
 
 Trong kiến trúc vi dịch vụ, thiết kế hướng miền giúp đảm bảo rằng mỗi dịch vụ được thiết kế phản ánh một phần cụ thể của lĩnh vực kinh doanh. Mỗi dịch vụ được quản lí bởi một nhóm nhỏ được hỗ trợ bởi các chuyên gia ngành.
 
@@ -43,13 +43,13 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 <!--@ Miền phụ (Sub-Domain)-->
 
 Miền được tạo thành từ nhiều miền phụ.
-
+![Alt text](pictures/VD_MienPhu/_VD_MienPhu.png)
 <!--$VD: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
 Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
 Việc xác định các miền phụ liên quan đến việc chia nhỏ các khả năng kinh doanh thành các đơn vị kinh doanh gắn kết.
 
-<!--@Phân loại các miền phụ .-->
+<!-- @Phân loại các miền phụ  -->
 
 Có 3 loại miền phụ:
 
@@ -58,21 +58,20 @@ Có 3 loại miền phụ:
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
-<!--$VD:-->
-<!--Ví dụ về các miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
+<!-- $VD:  Các miền phụ chung như    các hoạt động quản lý nhân sự và quản lý cơ sở vật chất  không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp. -->
 
 <!--@ Miền phụ cốt lõi (Core Subdomain)-->
-<!--!======================================================-->
 
 Miền phụ cốt lõi là điểm khác biệt quan trọng cho doanh nghiệp.
 
-Mỗi doanh nghiệp trong một ngành cụ thể hoạt động khác nhau trong các miền phụ cốt lõi để đạt được một số lợi thế so với đối thủ cạnh tranh.
+Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi. Vì  mỗi doanh nghiệp trong một ngành cụ thể hoạt động khác nhau trong các miền phụ cốt lõi để đạt được một số lợi thế so với đối thủ cạnh tranh.
 
-Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi.
+=>  Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
+<!-- $VD: -->
 
-Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
 
-<!--$VD:-->
+<!--!======================================================-->
+
 
 <!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
 

@@ -23,116 +23,125 @@ latex_folder = os.getcwd()
 file_paths = glob.glob(os.path.join(latex_folder, f'**/*.tex'), recursive=True)
 for file_path in file_paths:
     print(file_path)
- 
+    with open(file_path, 'r', encoding="utf-8") as file:
+        contents = file.read()
+    contents = contents.replace('\\\\', '             \\\\          ')
+    while '  ' in contents:
+        contents = contents.replace('  ', ' ')
+    while '{ ' in contents:
+        contents = contents.replace('{ ', '{')
+    while ' }' in contents:
+        contents = contents.replace(' }', '}') 
+    with open(file_path, 'w', encoding="utf-8") as file:
+        file.write(contents)
+# #     contents = [line.strip() for line in contents] 
 
-# #     content = content.replace('\\\\', '             \\\\          ')
-# #     while '  ' in content:
-# #         content = content.replace('  ', ' ')
-# #     while '{ ' in content:
-# #         content = content.replace('{ ', '{')
-# #     while ' }' in content:
-# #         content = content.replace(' }', '}') 
-# #     content = [line.strip() for line in content] 
+
+
+
+
+
+
 # file_paths = glob.glob(os.path.join(latex_folder, f'**/*.md'), recursive=True)
 # for file_path in file_paths:
 #     with open(file_path, 'r', encoding="utf-8") as file:
-#         content = file.read()
+#         contents = file.read()
 
-#     # content = content.replace("=", " = ")
-#     # content = content.replace("+", " + ")
-#     # content = content.replace("-", " - ") 
-#     content = content.replace('Monolithic', '                                     kiến trúc nguyên khối ')
-#     content = content.replace('monolithic', '                                 kiến trúc nguyên khối ')
-#     content = content.replace('Microservices', '                                 kiến trúc vi dịch vụ   ')
-#     content = content.replace('microservices', '                                kiến trúc vi dịch vụ         ')
-#     content = content.replace('Microservice', '                                kiến trúc vi dịch vụ         ')
-#     content = content.replace('microservice', '                                kiến trúc vi dịch vụ         ')
-#     content = content.replace('dịch vụ vi mô', '                                vi dịch vụ         ')
-#     content = content.replace('Domain-Driven Design', '                                thiết kế hướng miền         ')
-#     content = content.replace('Domain Driven Design', '                                thiết kế hướng miền         ')
-#     content = content.replace('domain driven design', '                                thiết kế hướng miền         ')
-#     content = content.replace('ddd', '                                 thiết kế hướng miền          ')
-#     content = content.replace('DDD', '                                 thiết kế hướng miền          ')
-#     content = content.replace('patterns', '                                mẫu         ')
-#     content = content.replace('pattern', '                                mẫu         ')
-#     content = content.replace('cơ sở dữ liệu', '                                CSDL         ')
-#     content = content.replace('csdl', '                                CSDL         ')
-#     content = content.replace('database', '                                CSDL         ')
-#     content = content.replace('services', '                                dịch vụ         ')
-#     content = content.replace('service', '                                dịch vụ         ')
-#     content = content.replace('đội', '                                nhóm         ')
-#     content = content.replace('![Alt text](', '                                ![](')
+#     # contents = contents.replace("=", " = ")
+#     # contents = contents.replace("+", " + ")
+#     # contents = contents.replace("-", " - ") 
+#     contents = contents.replace('Monolithic', '                                     kiến trúc nguyên khối ')
+#     contents = contents.replace('monolithic', '                                 kiến trúc nguyên khối ')
+#     contents = contents.replace('Microservices', '                                 kiến trúc vi dịch vụ   ')
+#     contents = contents.replace('microservices', '                                kiến trúc vi dịch vụ         ')
+#     contents = contents.replace('Microservice', '                                kiến trúc vi dịch vụ         ')
+#     contents = contents.replace('microservice', '                                kiến trúc vi dịch vụ         ')
+#     contents = contents.replace('dịch vụ vi mô', '                                vi dịch vụ         ')
+#     contents = contents.replace('Domain-Driven Design', '                                thiết kế hướng miền         ')
+#     contents = contents.replace('Domain Driven Design', '                                thiết kế hướng miền         ')
+#     contents = contents.replace('domain driven design', '                                thiết kế hướng miền         ')
+#     contents = contents.replace('ddd', '                                 thiết kế hướng miền          ')
+#     contents = contents.replace('DDD', '                                 thiết kế hướng miền          ')
+#     contents = contents.replace('patterns', '                                mẫu         ')
+#     contents = contents.replace('pattern', '                                mẫu         ')
+#     contents = contents.replace('cơ sở dữ liệu', '                                CSDL         ')
+#     contents = contents.replace('csdl', '                                CSDL         ')
+#     contents = contents.replace('database', '                                CSDL         ')
+#     contents = contents.replace('services', '                                dịch vụ         ')
+#     contents = contents.replace('service', '                                dịch vụ         ')
+#     contents = contents.replace('đội', '                                nhóm         ')
+#     contents = contents.replace('![Alt text](', '                                ![](')
 
 
     
 
-#     content = content.replace('Domain expert', '           chuyên gia ngành     ')
-#     content = content.replace('domain expert', '           chuyên gia ngành     ')
-#     content = content.replace('chuyên gia kinh doanh', '           chuyên gia ngành     ')
-#     content = content.replace('chuyên gia nghiệp vụ', '           chuyên gia ngành     ')
-#     content = content.replace('chuyên gia tên miền', '           chuyên gia ngành     ')
+#     contents = contents.replace('Domain expert', '           chuyên gia ngành     ')
+#     contents = contents.replace('domain expert', '           chuyên gia ngành     ')
+#     contents = contents.replace('chuyên gia kinh doanh', '           chuyên gia ngành     ')
+#     contents = contents.replace('chuyên gia nghiệp vụ', '           chuyên gia ngành     ')
+#     contents = contents.replace('chuyên gia tên miền', '           chuyên gia ngành     ')
 
-#     content = content.replace('Ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
-#     content = content.replace('ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
-#     content = content.replace('bạn', '      chúng ta     ')
-#     content = content.replace('Bạn', '      Chúng ta     ')
-#     content = content.replace('tên miền', '       miền   ')
-#     content = content.replace('Tên miền', '       Miền   ')
+#     contents = contents.replace('Ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
+#     contents = contents.replace('ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
+#     contents = contents.replace('bạn', '      chúng ta     ')
+#     contents = contents.replace('Bạn', '      Chúng ta     ')
+#     contents = contents.replace('tên miền', '       miền   ')
+#     contents = contents.replace('Tên miền', '       Miền   ')
     
-#     content = content.replace('bị ràng buộc', '       giới hạn   ')
-#     content = content.replace('bị giới hạn', '       giới hạn   ')
-#     content = content.replace('bị chặn', '       giới hạn   ')
-#     content = content.replace('chống tham nhũng', '       chống đổ vỡ   ')
-#     # content = content.replace('.' 
+#     contents = contents.replace('bị ràng buộc', '       giới hạn   ')
+#     contents = contents.replace('bị giới hạn', '       giới hạn   ')
+#     contents = contents.replace('bị chặn', '       giới hạn   ')
+#     contents = contents.replace('chống tham nhũng', '       chống đổ vỡ   ')
+#     # contents = contents.replace('.' 
     
-#     while "\n\n\n" in content:
-#         content = content.replace("\n\n\n", "\n\n")
-#     content = content.replace("?", "? ")
-#     while " ?" in content:
-#         content = content.replace(" ?", "?")
-#     content = content.replace("?", "? ")
+#     while "\n\n\n" in contents:
+#         contents = contents.replace("\n\n\n", "\n\n")
+#     contents = contents.replace("?", "? ")
+#     while " ?" in contents:
+#         contents = contents.replace(" ?", "?")
+#     contents = contents.replace("?", "? ")
     
-#     while " ," in content:
-#         content = content.replace(" ,", ",")
-#     content = content.replace(",", ", ")
+#     while " ," in contents:
+#         contents = contents.replace(" ,", ",")
+#     contents = contents.replace(",", ", ")
     
-#     # while " :" in content:
-#     #     content = content.replace(" :", ":")
-#     # content = content.replace(":", ": ")
+#     # while " :" in contents:
+#     #     contents = contents.replace(" :", ":")
+#     # contents = contents.replace(":", ": ")
     
     
-#     # while " !" in content:
-#     #     content = content.replace(" !", "!")
-#     # content = content.replace("!", "! ")
+#     # while " !" in contents:
+#     #     contents = contents.replace(" !", "!")
+#     # contents = contents.replace("!", "! ")
 
 
-#     while '  ' in content:
-#         content = content.replace('  ', ' ')
-#     while '<!-- ' in content:
-#         content = content.replace('<!-- ', '<!--')
-#     while ' -->' in content:
-#         content = content.replace(' -->', '-->')
-#     while '! ' in content:
-#         content = content.replace('! ', '!')
-#     while ' !' in content:
-#         content = content.replace(' !', '!')
-#     while '@ ' in content:
-#         content = content.replace('@ ', '@')
-#     while ' @' in content:
-#         content = content.replace(' @', '@')
-#     while '( ' in content:
-#         content = content.replace('( ', '(')
-#     while ' )' in content:
-#         content = content.replace(' )', ')')
+#     while '  ' in contents:
+#         contents = contents.replace('  ', ' ')
+#     while '<!-- ' in contents:
+#         contents = contents.replace('<!-- ', '<!--')
+#     while ' -->' in contents:
+#         contents = contents.replace(' -->', '-->')
+#     while '! ' in contents:
+#         contents = contents.replace('! ', '!')
+#     while ' !' in contents:
+#         contents = contents.replace(' !', '!')
+#     while '@ ' in contents:
+#         contents = contents.replace('@ ', '@')
+#     while ' @' in contents:
+#         contents = contents.replace(' @', '@')
+#     while '( ' in contents:
+#         contents = contents.replace('( ', '(')
+#     while ' )' in contents:
+#         contents = contents.replace(' )', ')')
 #         # 
 #     with open(file_path, 'w', encoding="utf-8") as file:
-#         file.write(content)
+#         file.write(contents)
 #         # 
 #     # with open(file_path, 'r', encoding="utf-8") as file:
-#     #     content = file.readlines()
-#     # content = [line.strip() for line in content]
+#     #     contents = file.readlines()
+#     # contents = [line.strip() for line in contents]
 #     # with open(file_path, 'w', encoding="utf-8") as file:
-#     #     for line in content:
+#     #     for line in contents:
 #     #         file.write(line + '\n')
 
 # # https://www.udemy.com/course/domain-driven-design-and-microservices

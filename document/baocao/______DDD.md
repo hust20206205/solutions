@@ -171,7 +171,7 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 <!--Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của vi dịch vụ.-->
 
-Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
+Bối cảnh giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
 
 Việc xác định Bối cảnh giới hạn chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
 **Bối cảnh giới hạn (Bounded Context)**

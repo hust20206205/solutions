@@ -337,7 +337,7 @@ Trong kịch bản, bối cảnh giới hạn xuôi dòng ngoại trừ các mô
 
 15
 00: 03: 05, 550--> 00: 03: 31, 770
-Kiểu quan hệ này được gọi là mô hình tuân thủ. Trong mẫu này, bối cảnh ranh giới hạ lưu tuân theo các mô hình bối cảnh giới hạn thượng nguồn để mô tả mối quan hệ này, chữ D bên cạnh bối cảnh giới hạn hạ lưu được thay thế bằng ghế F, do đó, trong bối cảnh giới hạn sơ đồ này, nó phù hợp với các mô hình được biểu thị bởi bối cảnh bị giới hạn.
+Kiểu quan hệ này được gọi là mô hình tuân thủ. Trong mẫu này, bối cảnh ranh giới hạ lưu tuân theo các mô hình bối cảnh giới hạn thượng nguồn để mô tả mối quan hệ này, chữ D bên cạnh bối cảnh giới hạn hạ lưu được thay thế bằng ghế F, do đó, trong bối cảnh giới hạn sơ đồ này, nó phù hợp với các mô hình được biểu thị bởi bối cảnh giới hạn .
 
 16
 00: 03: 31, 770--> 00: 03: 40, 800
@@ -361,7 +361,7 @@ Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng qu
 
 21
 00: 04: 23, 940--> 00: 04: 32, 580
-Nói cách khác, nhóm dành cho bối cảnh bị giới hạn. Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh bị giới hạn.
+Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh bị giới hạn.
 
 22
 00: 04: 32, 940--> 00: 04: 46, 710
@@ -673,7 +673,7 @@ Tương tự, đối với các liên hệ giới hạn khoản vay cá nhân, h
 
 7
 00: 01: 06, 420--> 00: 01: 16, 200
-Và trong trường hợp thẻ tín dụng, bối cảnh bị giới hạn, chúng có thể là một thực thể thẻ tín dụng được xác định duy nhất bằng số thẻ tín dụng.
+Và trong trường hợp thẻ tín dụng, bối cảnh giới hạn, chúng có thể là một thực thể thẻ tín dụng được xác định duy nhất bằng số thẻ tín dụng.
 
 8
 00: 01: 16, 500--> 00: 01: 31, 620
@@ -777,7 +777,7 @@ Các cột còn lại có các giá trị cho thuộc tính của từng thực 
 
 33
 00: 06: 14, 640--> 00: 06: 26, 760
-Nơi chúng được xác định là các thực thể được xác định duy nhất trong bối cảnh bị giới hạn. Tiếp theo là định nghĩa của thực thể bao gồm thuộc tính và hành vi.
+Nơi chúng được xác định là các thực thể được xác định duy nhất trong bối cảnh giới hạn . Tiếp theo là định nghĩa của thực thể bao gồm thuộc tính và hành vi.
 
 34
 00: 06: 27, 060--> 00: 06: 35, 700
@@ -927,7 +927,7 @@ Miền phụ và tài khoản cá nhân không thành vấn đề. Vì vậy, tr
 
 36
 00: 07: 21, 910--> 00: 07: 33, 100
-Đã đến lúc xem xét nhanh. Trong bài học này chúng ta đã học về các đối tượng giá trị. Các đối tượng giá trị không có nhận dạng khái niệm trong bối cảnh bị giới hạn.
+Đã đến lúc xem xét nhanh. Trong bài học này chúng ta đã học về các đối tượng giá trị. Các đối tượng giá trị không có nhận dạng khái niệm trong bối cảnh giới hạn .
 
 37
 00: 07: 33, 280--> 00: 07: 55, 180
@@ -3597,7 +3597,7 @@ Trong ví dụ này ở đây, mỗi người trong số 100 người liên hệ
 
 4
 00: 00: 41, 040--> 00: 00: 53, 440
-Với tư cách là một chuyên gia, chúng ta có trách nhiệm đảm bảo rằng chúng ta đang nắm bắt tất cả các sự kiện có liên quan trong bối cảnh bị giới hạn như một phần của mô hình và ngôn ngữ chung .
+Với tư cách là một chuyên gia, chúng ta có trách nhiệm đảm bảo rằng chúng ta đang nắm bắt tất cả các sự kiện có liên quan trong bối cảnh giới hạn như một phần của mô hình và ngôn ngữ chung .
 
 5
 00: 00: 53, 940--> 00: 01: 02, 190
@@ -3609,7 +3609,7 @@ Các khoản vay cá nhân được triển khai dưới dạng vi dịch vụ s
 
 7
 00: 01: 17, 940--> 00: 01: 30, 800
-Hãy nhớ rằng có thể có các nguồn khác ngay cả trong một vi dịch vụ, chẳng hạn như có thể có giám sát ứng dụng, nhưng giám sát ứng dụng không phát hiện các sự kiện liên quan đến bối cảnh bị giới hạn.
+Hãy nhớ rằng có thể có các nguồn khác ngay cả trong một vi dịch vụ, chẳng hạn như có thể có giám sát ứng dụng, nhưng giám sát ứng dụng không phát hiện các sự kiện liên quan đến bối cảnh giới hạn .
 
 8
 00: 01: 31, 110--> 00: 01: 41, 580
@@ -3657,7 +3657,7 @@ Ngay cả một sự kiện miền cũng là một thông báo thông báo cho c
 
 19
 00: 03: 36, 660--> 00: 03: 46, 190
-Vì vậy, điều quan trọng ở đây là hãy nhớ rằng sự kiện miền được kích hoạt trong bối cảnh bị giới hạn và nó được sử dụng trong cùng bối cảnh bị giới hạn đó.
+Vì vậy, điều quan trọng ở đây là hãy nhớ rằng sự kiện miền được kích hoạt trong bối cảnh giới hạn và nó được sử dụng trong cùng bối cảnh giới hạn đó.
 
 20
 00: 03: 46, 890--> 00: 03: 55, 800
@@ -4241,7 +4241,7 @@ Hãy cùng điểm qua những khác biệt giữa miền và các sự kiện t
 
 7
 00: 01: 12, 720--> 00: 01: 41, 400
-Chúng ta được nêu lên và sử dụng trong cùng một bối cảnh bị giới hạn hoặc một vi dịch vụ, trong khi các sự kiện tích hợp được nêu ra trong một bối cảnh bị giới hạn nhưng có thể được sử dụng trong một bối cảnh bị giới hạn khác hoặc bởi một sự kiện miền dịch vụ bên ngoài dẫn đến những thay đổi trạng thái trong bối cảnh bị giới hạn nguồn, trong khi không có thay đổi trạng thái nào xảy ra trong bối cảnh giới hạn nguồn.
+Chúng ta được nêu lên và sử dụng trong cùng một bối cảnh giới hạn hoặc một vi dịch vụ, trong khi các sự kiện tích hợp được nêu ra trong một bối cảnh giới hạn nhưng có thể được sử dụng trong một bối cảnh giới hạn khác hoặc bởi một sự kiện miền dịch vụ bên ngoài dẫn đến những thay đổi trạng thái trong bối cảnh giới hạn nguồn, trong khi không có thay đổi trạng thái nào xảy ra trong bối cảnh giới hạn nguồn.
 
 8
 00: 01: 41, 550--> 00: 01: 55, 020
@@ -11077,7 +11077,7 @@ Vui lòng tiếp tục và Kloner đến máy cục bộ của chúng ta nếu c
 
 6
 00: 01: 03, 780--> 00: 01: 11, 520
-Các lớp mô-đun cho sản phẩm. Các bối cảnh bị giới hạn được xác định trong gói mô hình bắt đầu sản phẩm hoặc achmad hợp đồng.
+Các lớp mô-đun cho sản phẩm. Các bối cảnh giới hạn được xác định trong gói mô hình bắt đầu sản phẩm hoặc achmad hợp đồng.
 
 7
 00: 01: 11, 760--> 00: 01: 25, 200

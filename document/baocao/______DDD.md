@@ -31,16 +31,14 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 <!--@ Miền phụ (Sub-Domain)-->
 <!--!======================================================-->
 
-Miền được tạo thành từ nhiều miền phụ .
+Miền được tạo thành từ nhiều miền phụ.
 Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
-
-<!--Sub-Domains: Miền phụ-->
-
 Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết.
+Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các miền phụ trong tên miền lớn hơn.
 
-<!--Ví dụ: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
-<!--Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các miền phụ trong tên miền lớn hơn.-->
+  <!-- $VD:   Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
+
 
 Một miền doanh nghiệp bao gồm nhiều miền phụ .
 
@@ -505,7 +503,7 @@ Repository trong ORM
 
 # Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
 
-<!-- thiết kế hướng miền là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh. -->
+<!--thiết kế hướng miền là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh.-->
 
 <!--Problem Space / Business Domain: Không gian vấn đề / Lĩnh vực kinh doanh-->
 

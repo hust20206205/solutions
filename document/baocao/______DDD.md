@@ -16,13 +16,13 @@ Trình bày nội dung yêu cầu nghiệp vụ
 
 <!--@Các sơ đồ phân tích thiết kế hệ thống-->
 
-UML Use Case Diagrams
+<!-- @UML Use Case Diagrams -->
 
-UML Activity Diagrams
+<!-- @UML Activity Diagrams -->
 
-UML Sequence Diagrams
+<!-- @UML Sequence Diagrams -->
 
-UML Class Diagrams
+<!-- @UML Class Diagrams -->
 
 <!--@Chi tiết và áp dụng thiết kế hướng miền-->
 <!--@Đôi nét về thiết kế hướng miền-->
@@ -68,7 +68,7 @@ Có 3 loại miền phụ:
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
-<!--$? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? VD: Các miền phụ chung như các hoạt động quản lý nhân sự và quản lý cơ sở vật chất không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
+<!--$? ? ? ? ?  VD: Các miền phụ chung như các hoạt động quản lý nhân sự và quản lý cơ sở vật chất không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
 
 <!--@ Miền phụ cốt lõi (Core Subdomain)-->
 
@@ -78,7 +78,7 @@ Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi. Vì m
 
 => Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong các miền phụ cốt lõi này để có được một số lợi thế cạnh tranh.
 
-<!--$? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? VD:-->
+<!--$?  ? ? ? ? VD:-->
 
 <!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
 
@@ -88,7 +88,7 @@ Miền phụ hỗ trợ cung cấp các dịch vụ để miền phụ cốt lõ
 
 Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ.
 
-<!--$? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? VD: miền phụ hỗ trợ chăm sóc khách hàng-->
+<!--$?  ? ? ? ? VD: miền phụ hỗ trợ chăm sóc khách hàng-->
 
 <!--@Cách xác định các miền phụ-->
 <!--Sơ đồ:-->
@@ -652,7 +652,7 @@ Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phố
 <!---->
 <!--$VD:-->
 
-Hãy giúp tôi sửa lỗi chính và ngữ pháp:
+<!-- Hãy giúp tôi sửa lỗi chính và ngữ pháp: -->
 **Miền (Domain)**
 
 <!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ bị chặn.-->

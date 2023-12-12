@@ -11,11 +11,11 @@ Tiền đề cơ bản đằng sau điều này là khi chúng ta xây dựng c�
 
 3
 00: 00: 25, 940--> 00: 00: 38, 010
-Các vi dịch vụ này sẽ cần tương tác với các vi dịch vụ khác. Những mối quan hệ này ngụ ý một số loại phụ thuộc giữa các liên hệ được liên kết hoặc các vi dịch vụ .
+<!-- Các vi dịch vụ này sẽ cần tương tác với các vi dịch vụ khác. Những mối quan hệ này ngụ ý một số loại phụ thuộc giữa các liên hệ được liên kết hoặc các vi dịch vụ . -->
 
 4
 00: 00: 38, 280--> 00: 00: 47, 610
-Có nhiều loại mối quan hệ giữa các tiếp điểm liên kết theo mối quan hệ đối xứng để các tiếp điểm liên kết phụ thuộc lẫn nhau.
+<!-- Có nhiều loại mối quan hệ giữa các tiếp điểm liên kết theo mối quan hệ đối xứng để các tiếp điểm liên kết phụ thuộc lẫn nhau. -->
 
 5
 00: 00: 48, 120--> 00: 00: 57, 570

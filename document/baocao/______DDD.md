@@ -115,24 +115,27 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 
 <!--@Mô hình miền (Domain Models)-->
 
-<!-- Để tạo một phần mềm tốt, bạn cần phải hiểu rõ về chính phần mềm đó. -->
- <!-- để có thể hiểu miền nhanh và    tạo ra các mô hình miền. -->
+<!--Để tạo một phần mềm tốt, bạn cần phải hiểu rõ về chính phần mềm đó.-->
+<!--để có thể hiểu miền nhanh và tạo ra các mô hình miền.-->
 
-<!-- Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh. -->
+<!--Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.-->
 
-<!-- Mô hình miền không phải là kiến thức của chuyên gia ngành, mà là sự trừu tượng hóa của cả nhóm. -->
+<!--Mô hình miền không phải là kiến thức của chuyên gia ngành, mà là sự trừu tượng hóa của cả nhóm.-->
 
-<!-- Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô hình của nhóm. -->
+<!--Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô hình của nhóm.-->
 
-<!-- Mô hình miền giúp nhóm hiểu và đồng thuận khi làm việc. -->
+<!--Mô hình miền giúp nhóm hiểu và đồng thuận khi làm việc.-->
 
-<!-- Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính. -->
+<!--Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.-->
 <!--$VD: Ở đồ án này, mô hình miền là ...-->
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
 **Ngôn ngữ phổ biến (Ubiquitous Language)**
-
+ 
+<!-- Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi bạn cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường. --> 
+<!-- Có ý nghĩa khác nhau trong các tên miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền. -->
+ 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Lập trình viên tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các nhóm có thể dẫn đến những thách thức về giao tiếp.
 
 Thách thức đặt ra khi một thuật ngữ có thể xuất hiện trong bối cảnh của các lĩnh vực kinh doanh khác nhau. Đối với ngôn ngữ kinh doanh được sử dụng trong nhiều miền, cùng một thuật ngữ có thể có ý nghĩa khác nhau gây ra nhầm lẫn.

@@ -168,14 +168,13 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--Hướng dẫn 5/7-->
 
-<!--!======================================================-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-
-<!---->
-
 <!--@Bối cảnh giới hạn (Bounded Context)-->
-
 <!--Bounded Context: Bối cảnh giới hạn là gì?-->
+
+
+
+
+
 
 Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
 
@@ -200,6 +199,11 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 <!--$VD:-->
 
 ![](image-2.png)
+<!--!======================================================-->
+<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
+
+
+
 
 <!--Hướng dẫn 5/10-->
 

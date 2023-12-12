@@ -274,7 +274,7 @@ Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
 Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
 
-<!-- Không có sự chia sẻ mô hình giữa hai liên hệ. -->
+<!--Không có sự chia sẻ mô hình giữa hai liên hệ.-->
 
 Từ góc nhìn người dùng: liên hệ như là 1 chương trình.
 Từ góc nhìn mô hình và thiết kế: liên hệ có mô hình độc lập và thực thi riêng biệt.
@@ -282,9 +282,9 @@ Các nhóm phát triển không phải cộng tác hay phối hợp cho bất k�
 
 Không có mối quan hệ nào giữa các ranh giới liên hệ từ góc nhìn hiện thực hóa.
 
-<!-- các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác. -->
+<!--các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác.-->
 
-<!-- Điều đó có nghĩa là không có sự chia sẻ mô hình giữa hai địa chỉ liên hệ được liên kết này vì các nhóm độc lập của họ có thể tự động làm việc trên hai địa chỉ liên hệ được liên kết này. -->
+<!--Điều đó có nghĩa là không có sự chia sẻ mô hình giữa hai địa chỉ liên hệ được liên kết này vì các nhóm độc lập của họ có thể tự động làm việc trên hai địa chỉ liên hệ được liên kết này.-->
 
 Nói cách khác, các nhóm này không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào. Bây giờ, một số người sẽ cho rằng có cơ hội sử dụng lại các phần của A và B hoặc ngược lại.
 
@@ -294,28 +294,28 @@ Vì vậy hãy đi sâu hơn một chút. Giả sử có một mô hình và m�
 
 Điều đó có nghĩa là chúng sẽ là tập hợp các ứng dụng hoặc dịch vụ độc lập cho từng điểm tiếp xúc được liên kết.
 
-<!-- $VD:  -->
+<!--$VD:-->
 
-<!-- Ví dụ, trong trường hợp ngân hàng, chúng ta có thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào. -->
-<!-- Trong trường hợp đó, các nhóm sẽ độc lập phát triển các ứng dụng và dịch vụ cho hai liên hệ liên kết này. -->
+<!--Ví dụ, trong trường hợp ngân hàng, chúng ta có thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
+<!--Trong trường hợp đó, các nhóm sẽ độc lập phát triển các ứng dụng và dịch vụ cho hai liên hệ liên kết này.-->
 
-<!-- Và điều đó có nghĩa là hai nhóm này có thể làm việc độc lập theo nhịp độ riêng của họ để đáp ứng các mục tiêu kinh doanh của đơn vị kinh doanh tương ứng của họ. -->
+<!--Và điều đó có nghĩa là hai nhóm này có thể làm việc độc lập theo nhịp độ riêng của họ để đáp ứng các mục tiêu kinh doanh của đơn vị kinh doanh tương ứng của họ.-->
 
-<!-- 12 -->
-<!-- 00: 01: 57, 300--> 00: 02: 16, 710 -->
-<!-- Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết. -->
+<!--12-->
+<!--00: 01: 57, 300--> 00: 02: 16, 710-->
+<!--Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.-->
 
-<!-- 13 -->
-<!-- 00: 02: 16, 740--> 00: 02: 28, 290 -->
-<!-- Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao giữa bối cảnh gắn kết và loại mối quan hệ này được gọi là Quan hệ đối tác và Thiết kế theo nhu cầu. -->
+<!--13-->
+<!--00: 02: 16, 740--> 00: 02: 28, 290-->
+<!--Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao giữa bối cảnh gắn kết và loại mối quan hệ này được gọi là Quan hệ đối tác và Thiết kế theo nhu cầu.-->
 
-<!-- 14 -->
-<!-- 00: 02: 28, 710--> 00: 02: 36, 450 -->
-<!-- Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau. -->
+<!--14-->
+<!--00: 02: 28, 710--> 00: 02: 36, 450-->
+<!--Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.-->
 
-<!-- 15 -->
-<!-- 00: 02: 36, 480--> 00: 02: 49, 040 -->
-<!-- Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát triển bởi các nhóm khác nhau, nhưng do sự phụ thuộc lẫn nhau giữa các dịch vụ nên các nhóm không thể hoạt động độc lập. -->
+<!--15-->
+<!--00: 02: 36, 480--> 00: 02: 49, 040-->
+<!--Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát triển bởi các nhóm khác nhau, nhưng do sự phụ thuộc lẫn nhau giữa các dịch vụ nên các nhóm không thể hoạt động độc lập.-->
 
 16
 00: 02: 49, 260--> 00: 03: 01, 200
@@ -395,7 +395,7 @@ Quản lý các mô hình chia sẻ này một cách độc lập với phần c
 Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
 
-<!-- @Mô hình hạt nhân chung  (Shared Kernel)-->
+<!--@Mô hình hạt nhân chung (Shared Kernel)-->
 
 <!--Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
 <!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->

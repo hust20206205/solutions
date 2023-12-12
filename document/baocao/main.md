@@ -1,22 +1,19 @@
 <!--!======================================================-->
 
-- [1. 1.](#1-1)
-  - [1.1. Trang bìa](#11-trang-bìa)
-  - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
-  - [1.3. Mục lục](#13-mục-lục)
-  - [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
-  - [1.5. Lời mở đầu](#15-lời-mở-đầu)
-  - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
-  - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
-  - [1.8. Danh sách bảng](#18-danh-sách-bảng)
-  - [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
-  - [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
-  - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
-  - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
+- [1.1. Trang bìa](#11-trang-bìa)
+- [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
+- [1.3. Mục lục](#13-mục-lục)
+- [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
+- [1.5. Lời mở đầu](#15-lời-mở-đầu)
+- [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
+- [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
+- [1.8. Danh sách bảng](#18-danh-sách-bảng)
+- [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
+- [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
+- [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
+- [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
 
 <!--!======================================================-->
-
-# 1. 1.
 
 ## 1.1. Trang bìa
 
@@ -77,13 +74,21 @@ Giảng viên hướng dẫn
 
 ## 1.8. Danh sách bảng
 
+auto
+
 ## 1.9. Danh sách hình ảnh
+
+auto
 
 ## 1.10. Danh sách mã nguồn
 
+auto
+
 ## 1.11. Danh sách các cụm từ viết tắt
+<!-- @sau -->
 
 <!--STT; Từ viết tắt; Từ viết đầy đủ; Mô tả-->
+
 <!--API; Application Programming Interface; Giao diện lập trình ứng dụng-->
 <!--CI/CD; Continuous Integration (CI) and Continuous Delivery (CD) ; Quá trình tích hợp và chuyển giao liên tục-->
 <!--thiết kế hướng miền ; thiết kế hướng miền; Kỹ thuật thiết kế theo hướng miền-->
@@ -117,6 +122,9 @@ ORM
 SQL
 
 ## 1.12. Danh sách các thuật ngữ
+<!-- @sau -->
+
+<!-- STT; Tiếng Anh; Tiếng Việt -->
 
 <!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
 <!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
@@ -127,7 +135,6 @@ SQL
 <!--thiết kế hướng miền, thiết kế hướng miền-->
 <!--thiết kế hướng miền, thiết kế hướng miền-->
 
-STT; Tiếng Anh; Tiếng Việt
 1 thiết kế hướng miền
 Thiết kế hướng lĩnh vực
 2 Domain (không dịch)
@@ -136,7 +143,6 @@ Thiết kế hướng lĩnh vực
 
 <!--!======================================================-->
 
-[](0.5.DanhSach.md)
 [](1.0.GioiThieuChung.md)
 [](1.1.GioiThieuBaiToanHoaDonDienTu.md)
 [](1.2.GioiThieuVeKienTrucViDichVu.md)

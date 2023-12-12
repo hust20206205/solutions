@@ -11,8 +11,8 @@ CẤU HÌNH EMAIL ĐỂ GỬI HÓA ĐƠN CHO KHÁCH HÀNG
 Mật khẩu email
 CHỨC NĂNG DANH MỤC
 Giống với "Tổng cục Thuế Demo" gồm "Danh mục khách hàng" và "Danh mục hàng hóa"
-TRA CỨU HÓA ĐƠN:
-Có 3 cách tra cứu:
+TRA CỨU HÓA ĐƠN: 
+Có 3 cách tra cứu: 
 Tra cứu 1 hóa đơn theo "Mã hóa đơn".
 Tra cứu tất cả hóa đơn bán ra.
 Tra cứu tất cả hóa đơn mua vào.

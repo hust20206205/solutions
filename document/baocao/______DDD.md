@@ -60,7 +60,7 @@ Việc xác định các miền phụ liên quan đến việc chia nhỏ các k
 
 <!--@Phân loại các miền phụ-->
 
-Có 3 loại miền phụ:
+Có 3 loại miền phụ: 
 
 <!--@Miền phụ chung (Generic Subdomain)-->
 
@@ -98,11 +98,11 @@ Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghi�
 
 Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
 
-Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không?
+Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không? 
 
 Nếu không có giá trị kinh doanh thì chúng ta kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Nếu có thì có khả năng là miền phụ hỗ trợ. Nếu không thì đó là miền phụ chung.
 
-Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không?
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không? 
 
 Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
@@ -232,7 +232,7 @@ Ngôn ngữ chung được sử dụng bởi cả chuyên gia ngành và chuyên
 Có nhiều ngôn ngữ chung trong một tổ chức được mỗi nhóm tạo và quản lý một cách độc lập.
 Việc tạo ra ngôn ngữ chung là một quá trình liên tục. Ngôn ngữ chung phát triển theo thời gian thông qua sự cộng tác giữa doanh nghiệp và các chuyên gia công nghệ.
 
-Các thành viên phải sử dụng ngôn ngữ chung cho công việc và trong toàn bộ hệ thống như:
+Các thành viên phải sử dụng ngôn ngữ chung cho công việc và trong toàn bộ hệ thống như: 
 
 Sử dụng trong cuộc thảo luận trao đổi giữa các chuyên gia ngành và các chuyên gia công nghệ
 Sử dụng trong các tài liệu phát triển của nhóm
@@ -289,7 +289,7 @@ Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
-Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn:
+Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn: 
 
 Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
 Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác.
@@ -343,7 +343,7 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 
 <!--Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.-->
 
-Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau,
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, 
 
 Vì vậy, điều đó có nghĩa là lớp chống đổ vỡ cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
@@ -392,7 +392,7 @@ Thiết kế hướng mô hình cung cấp một khuôn khổ để hiện thự
 
 **Kiến trúc phân lớp**
 Khi phát triển ứng dụng phần mềm, một phần lớn thành phần không liên quan trực tiếp đến nghiệp vụ, nhưng chúng là một phần của hạ tầng. Ví dụ như truy cập CSDL, hạ tầng mạng, ... Trong một ứng dụng hướng đối tượng thuần túy, các đoạn mã lại được nhúng vào trong các hành vi của các đối tượng nghiệp vụ vì nó là cách dễ và nhanh chóng. Tuy nhiên, việc trộn lẫn các đoạn mã liên quan đến nghiệp vụ có thể làm cho việc refactor khó khăn, kém linh hoạt.
-=> Cần phân chia một chương trình phức tạp thành các lớp. Theo thiết kế hướng miền có 4 lớp:
+=> Cần phân chia một chương trình phức tạp thành các lớp. Theo thiết kế hướng miền có 4 lớp: 
 
 <!--Giao diện người dùng (User Interface)-->
 
@@ -579,7 +579,7 @@ Các dịch vụ ứng dụng hiển thị giao diện cho các thành phần b�
 
 là dịch vụ tương tác với tài nguyên bên ngoài để giải quyết một vấn đề mối quan tâm không thuộc phạm vi vấn đề chính.
 Nó xác định một hợp đồng được các đối tượng miền sử dụng để tương tác với các dịch vụ bên ngoài. Từ khóa ở đây là nguồn lực bên ngoài.
-VD:
+VD: 
 
 <!--Logging system e.g., Fluentd, ElastiSearch-->
 <!--Ví dụ: thông báo qua email hoặc SMS-->
@@ -660,7 +660,7 @@ Repository trong ORM
 
 , gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
 
-# Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
+# Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi, 
 
 <!---->
 

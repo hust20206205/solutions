@@ -93,7 +93,7 @@ Câu hỏi tiếp theo. Nhóm cho vay cá nhân đang sử dụng chức năng t
 
 8
 00: 01: 37, 590--> 00: 01: 44, 950
-Chúng ta sẽ đặt ra khuôn mẫu nào giữa các khoản vay cá nhân và tài khoản bán lẻ nếu chúng ta cần thêm thời gian để suy nghĩ?
+Chúng ta sẽ đặt ra khuôn mẫu nào giữa các khoản vay cá nhân và tài khoản bán lẻ nếu chúng ta cần thêm thời gian để suy nghĩ? 
 
 9
 00: 01: 44, 970--> 00: 02: 03, 420
@@ -105,7 +105,7 @@ Câu hỏi tiếp theo bao gồm hai phần. Nhóm quản lý khách hàng đang
 
 11
 00: 02: 15, 780--> 00: 02: 22, 620
-Nhưng bảo vệ bằng gì? Vậy các mô hình được sử dụng giữa quản lý khách hàng và nhà bán lẻ được gọi là gì?
+Nhưng bảo vệ bằng gì? Vậy các mô hình được sử dụng giữa quản lý khách hàng và nhà bán lẻ được gọi là gì? 
 
 12
 00: 02: 22, 950--> 00: 02: 32, 610
@@ -121,7 +121,7 @@ Nhóm cho vay cá nhân và thẻ tín dụng đã quyết định sử dụng c
 
 15
 00: 02: 52, 650--> 00: 03: 02, 640
-Vậy mối quan hệ giữa quản lý khách hàng và thẻ tín dụng, quản lý khách hàng và các khoản vay cá nhân sẽ đưa ra câu trả lời là gì?
+Vậy mối quan hệ giữa quản lý khách hàng và thẻ tín dụng, quản lý khách hàng và các khoản vay cá nhân sẽ đưa ra câu trả lời là gì? 
 
 16
 00: 03: 03, 240--> 00: 03: 12, 140
@@ -157,7 +157,7 @@ Do đó, tài khoản bán lẻ độc lập nhất với bối cảnh được 
 
 24
 00: 04: 36, 750--> 00: 04: 50, 360
-Câu hỏi cuối cùng. Tất cả những gì sẽ cần phải được điều chỉnh nếu có sự thay đổi trong mô hình tích hợp do Oireachtas đưa ra hoặc dịch vụ lưu trữ mở do nhóm quản lý khách hàng triển khai?
+Câu hỏi cuối cùng. Tất cả những gì sẽ cần phải được điều chỉnh nếu có sự thay đổi trong mô hình tích hợp do Oireachtas đưa ra hoặc dịch vụ lưu trữ mở do nhóm quản lý khách hàng triển khai? 
 
 25
 00: 04: 50, 510--> 00: 04: 59, 700
@@ -289,7 +289,7 @@ Nếu số dư khả dụng nhỏ hơn số tiền rút thì giao dịch sẽ b�
 
 20
 00: 03: 40, 140--> 00: 03: 49, 020
-Đã đến lúc làm một bài kiểm tra nhanh. Hãy nhìn vào thực thể tài khoản kiểm tra này. Chúng ta có nghĩ rằng thực thể này bộc lộ một số logic kinh doanh không?
+Đã đến lúc làm một bài kiểm tra nhanh. Hãy nhìn vào thực thể tài khoản kiểm tra này. Chúng ta có nghĩ rằng thực thể này bộc lộ một số logic kinh doanh không? 
 
 21
 00: 03: 50, 700--> 00: 03: 58, 350
@@ -359,7 +359,7 @@ Nói cách khác, giá trị, thuộc tính đối tượng và hành vi không 
 
 3
 00: 00: 24, 450--> 00: 00: 38, 770
-Tôi sẽ bắt đầu bài học này bằng một bài kiểm tra. Hãy xem xét khách hàng và đối tượng. Có một địa chỉ email do khách hàng cung cấp và câu hỏi đặt ra là chúng ta sẽ đặt logic xác thực cho địa chỉ email ở đâu?
+Tôi sẽ bắt đầu bài học này bằng một bài kiểm tra. Hãy xem xét khách hàng và đối tượng. Có một địa chỉ email do khách hàng cung cấp và câu hỏi đặt ra là chúng ta sẽ đặt logic xác thực cho địa chỉ email ở đâu? 
 
 4
 00: 00: 39, 510--> 00: 00: 47, 750
@@ -533,7 +533,7 @@ Khách hàng là cá nhân bắt đầu quá trình bán hàng, khách hàng đ�
 
 9
 00: 01: 47, 460--> 00: 01: 55, 260
-Vì vậy, bây giờ câu hỏi là dành cho chúng ta . Chúng ta sẽ đánh dấu khách hàng là đối tượng giá trị hay chúng ta sẽ đánh dấu khách hàng là một thực thể?
+Vì vậy, bây giờ câu hỏi là dành cho chúng ta . Chúng ta sẽ đánh dấu khách hàng là đối tượng giá trị hay chúng ta sẽ đánh dấu khách hàng là một thực thể? 
 
 10
 00: 01: 55, 950--> 00: 02: 10, 070
@@ -549,7 +549,7 @@ Thông thường, việc xác thực hoặc xác minh địa chỉ vật lý đ�
 
 13
 00: 02: 39, 480--> 00: 02: 53, 020
-Bây giờ, đây là yêu cầu kỹ thuật, không thực sự là yêu cầu kinh doanh. Vậy chúng ta sẽ đánh dấu thực thể địa chỉ như thế nào hoặc chúng ta sẽ phản đối nếu chúng ta nói, à, chúng ta phản đối quyền của mình?
+Bây giờ, đây là yêu cầu kỹ thuật, không thực sự là yêu cầu kinh doanh. Vậy chúng ta sẽ đánh dấu thực thể địa chỉ như thế nào hoặc chúng ta sẽ phản đối nếu chúng ta nói, à, chúng ta phản đối quyền của mình? 
 
 14
 00: 02: 53, 790--> 00: 03: 05, 210
@@ -601,7 +601,7 @@ Vì vậy, điều đó cho thấy rằng nó cần phải được lưu trữ l
 
 26
 00: 05: 24, 590--> 00: 05: 34, 210
-Và mỗi đề xuất này có một bản sắc riêng. Vậy ý kiến ​​của chúng ta là gì? Nó sẽ là một thực thể hay nó sẽ là một đối tượng giá trị?
+Và mỗi đề xuất này có một bản sắc riêng. Vậy ý kiến ​​của chúng ta là gì? Nó sẽ là một thực thể hay nó sẽ là một đối tượng giá trị? 
 
 27
 00: 05: 34, 820--> 00: 05: 52, 070
@@ -617,7 +617,7 @@ Các ưu đãi trong miền bán hàng chỉ được áp dụng trong bối c�
 
 30
 00: 06: 20, 480--> 00: 06: 30, 110
-Vậy chúng ta nghĩ gì trong bối cảnh bán hàng? Ưu đãi sẽ là một thực thể hay chúng ta sẽ tiếp thị như một đối tượng có giá trị?
+Vậy chúng ta nghĩ gì trong bối cảnh bán hàng? Ưu đãi sẽ là một thực thể hay chúng ta sẽ tiếp thị như một đối tượng có giá trị? 
 
 31
 00: 06: 30, 260--> 00: 06: 42, 620
@@ -645,7 +645,7 @@ Vì vậy, hãy nhớ rằng khách hàng cần được nhận dạng duy nhấ
 
 37
 00: 07: 42, 500--> 00: 07: 51, 290
-Các gói là một phần quan trọng của đề xuất từ ​​góc độ định giá. Vậy chúng ta nghĩ cái gì sẽ là một thực thể hay một đối tượng giá trị?
+Các gói là một phần quan trọng của đề xuất từ ​​góc độ định giá. Vậy chúng ta nghĩ cái gì sẽ là một thực thể hay một đối tượng giá trị? 
 
 38
 00: 07: 51, 320--> 00: 08: 01, 730
@@ -1195,7 +1195,7 @@ Trong bài học này, chúng ta sẽ tìm hiểu về hai tập sách mới, m�
 
 2
 00: 00: 10, 410--> 00: 00: 19, 590
-Tôi sẽ bắt đầu bài học này bằng một câu hỏi. Câu hỏi là, hãy nhìn vào đối tượng thực thể này. Đối tượng này có bộc lộ bất kỳ logic nghiệp vụ nào không?
+Tôi sẽ bắt đầu bài học này bằng một câu hỏi. Câu hỏi là, hãy nhìn vào đối tượng thực thể này. Đối tượng này có bộc lộ bất kỳ logic nghiệp vụ nào không? 
 
 3
 00: 00: 19, 620--> 00: 00: 28, 380
@@ -1319,7 +1319,7 @@ Một tác dụng phụ tích cực của việc có tất cả logic nghiệp v
 
 33
 00: 05: 49, 140--> 00: 06: 00, 970
-Tại thời điểm này, chúng ta có thể có một câu hỏi. Có phải mô hình thiếu máu luôn xấu? Nói cách khác, nếu chúng ta có một mô hình hiện tại đang thiếu máu, chúng ta có nên tiếp tục và lên kế hoạch biến nó thành một mô hình phong phú không?
+Tại thời điểm này, chúng ta có thể có một câu hỏi. Có phải mô hình thiếu máu luôn xấu? Nói cách khác, nếu chúng ta có một mô hình hiện tại đang thiếu máu, chúng ta có nên tiếp tục và lên kế hoạch biến nó thành một mô hình phong phú không? 
 
 34
 00: 06: 01, 020--> 00: 06: 20, 400
@@ -1553,7 +1553,7 @@ Thêm về chủ đề này trong một bài giảng sau. Việc hiện thực h
 
 45
 00: 08: 54, 440--> 00: 09: 01, 630
-Việc ánh xạ này có thể khá phức tạp và có thể khá cồng kềnh đối với các đối tượng lớn. Điều này liên quan đến đâu?
+Việc ánh xạ này có thể khá phức tạp và có thể khá cồng kềnh đối với các đối tượng lớn. Điều này liên quan đến đâu? 
 
 46
 00: 09: 01, 640--> 00: 09: 13, 820
@@ -1611,7 +1611,7 @@ Nó có thể được triển khai lại cho hệ thống tập tin. Và lợi 
 
 10
 00: 02: 22, 040--> 00: 02: 35, 700
-Mô hình bán hàng Acme nào được xác định cho tất cả các giao diện đối tượng kho lưu trữ trong gói, mô hình Commodore Achmat hoặc kho lưu trữ để kiểm tra các giao diện kho lưu trữ này?
+Mô hình bán hàng Acme nào được xác định cho tất cả các giao diện đối tượng kho lưu trữ trong gói, mô hình Commodore Achmat hoặc kho lưu trữ để kiểm tra các giao diện kho lưu trữ này? 
 
 11
 00: 02: 35, 720--> 00: 02: 46, 790
@@ -2187,7 +2187,7 @@ Tất cả các khoản phụ phí đều được cộng thêm và tất cả c
 
 13
 00: 02: 21, 550--> 00: 02: 29, 690
-Bây giờ chúng ta đã hiểu cách hoạt động của giá đề xuất, tôi có một câu hỏi dành cho chúng ta . Chúng ta sẽ dựa vào đối tượng mô hình nào?
+Bây giờ chúng ta đã hiểu cách hoạt động của giá đề xuất, tôi có một câu hỏi dành cho chúng ta . Chúng ta sẽ dựa vào đối tượng mô hình nào? 
 
 14
 00: 02: 29, 950--> 00: 02: 43, 480
@@ -2659,7 +2659,7 @@ Hai vi dịch vụ này được quản lý bởi hai nhóm độc lập và m�
 
 23
 00: 05: 17, 700--> 00: 05: 30, 360
-Kết quả là không có mối quan hệ nào giữa A và mô hình kinh doanh. Vì vậy, một câu hỏi khác dành cho chúng ta là nên sử dụng mô hình nào để liên lạc giữa A và B?
+Kết quả là không có mối quan hệ nào giữa A và mô hình kinh doanh. Vì vậy, một câu hỏi khác dành cho chúng ta là nên sử dụng mô hình nào để liên lạc giữa A và B? 
 
 24
 00: 05: 32, 530--> 00: 05: 40, 600
@@ -3813,7 +3813,7 @@ Do phản ứng với các sự kiện tích hợp, các sự kiện miền đư
 
 9
 00: 01: 55, 200--> 00: 02: 03, 210
-Nói cách khác, trong trường hợp các sự kiện tích hợp, nếu chúng ta sử dụng lệnh gọi hàm trực tiếp thì hãy đoán xem điều gì sẽ xảy ra?
+Nói cách khác, trong trường hợp các sự kiện tích hợp, nếu chúng ta sử dụng lệnh gọi hàm trực tiếp thì hãy đoán xem điều gì sẽ xảy ra? 
 
 10
 00: 02: 03, 210--> 00: 02: 13, 140
@@ -3971,7 +3971,7 @@ Và đôi khi các bộ phận này yêu cầu dữ liệu đặc biệt yêu c�
 
 13
 00: 02: 22, 110--> 00: 02: 28, 680
-Hãy bắt tay vào làm việc ngay bây giờ. Chúng ta sẽ đáp ứng những yêu cầu này như thế nào khi sử dụng mô hình này làm điểm khởi đầu?
+Hãy bắt tay vào làm việc ngay bây giờ. Chúng ta sẽ đáp ứng những yêu cầu này như thế nào khi sử dụng mô hình này làm điểm khởi đầu? 
 
 14
 00: 02: 28, 950--> 00: 02: 42, 570
@@ -4909,7 +4909,7 @@ Những khái niệm này hơi phức tạp so với các sự kiện trong mi�
 
 20
 00: 03: 59, 190--> 00: 04: 11, 850
-Vì chúng ta không có đủ bất động sản trên màn hình nên tôi sẽ chỉ tập trung vào ba sự kiện này để người điều phối có thể đặt câu hỏi Ai chịu trách nhiệm phê duyệt hoặc từ chối khoản vay?
+Vì chúng ta không có đủ bất động sản trên màn hình nên tôi sẽ chỉ tập trung vào ba sự kiện này để người điều phối có thể đặt câu hỏi Ai chịu trách nhiệm phê duyệt hoặc từ chối khoản vay? 
 
 21
 00: 04: 12, 000--> 00: 04: 20, 730
@@ -4965,7 +4965,7 @@ Người hướng dẫn sẽ dễ dàng xem các bức tranh hơn là trải ra 
 
 34
 00: 06: 33, 720--> 00: 06: 39, 480
-Vào cuối hội thảo, người hướng dẫn đã yêu cầu những người tham gia đưa ra phản hồi. Điều gì đã diễn ra tốt đẹp?
+Vào cuối hội thảo, người hướng dẫn đã yêu cầu những người tham gia đưa ra phản hồi. Điều gì đã diễn ra tốt đẹp? 
 
 35
 00: 06: 39, 810--> 00: 06: 48, 090
@@ -5091,7 +5091,7 @@ Hãy đặt tên cho khách hàng đang hoạt động này. Vì vậy, câu h�
 
 29
 00: 05: 07, 200--> 00: 05: 15, 330
-Đề xuất được tạo bằng lệnh thực hiện đề xuất. Vì vậy, đó là lệnh đầu tiên của chúng tôi. Và đề xuất được lựa chọn như thế nào?
+Đề xuất được tạo bằng lệnh thực hiện đề xuất. Vì vậy, đó là lệnh đầu tiên của chúng tôi. Và đề xuất được lựa chọn như thế nào? 
 
 30
 00: 05: 15, 510--> 00: 05: 27, 570
@@ -5115,7 +5115,7 @@ Hãy tạo một số không gian ở đây và thêm một chính sách. Bây g
 
 35
 00: 06: 20, 370--> 00: 06: 33, 300
-Vì vậy, tại thời điểm này, chúng tôi có một số nhận xét và chính sách cho các sự kiện được xác định ở bước đầu tiên. Vì vậy, câu hỏi bây giờ là khi khách hàng đưa ra đề xuất, điều gì sẽ xảy ra?
+Vì vậy, tại thời điểm này, chúng tôi có một số nhận xét và chính sách cho các sự kiện được xác định ở bước đầu tiên. Vì vậy, câu hỏi bây giờ là khi khách hàng đưa ra đề xuất, điều gì sẽ xảy ra? 
 
 36
 00: 06: 33, 420--> 00: 06: 48, 600
@@ -5135,7 +5135,7 @@ Khoản thanh toán nhận được là một sự kiện đến từ nguồn b�
 
 40
 00: 07: 17, 370--> 00: 07: 23, 030
-Vì vậy, điều đó có nghĩa là chúng ta cần giới thiệu một dịch vụ bên ngoài ở đây. Đây được gọi là Hủy đặt phòng thì sao?
+Vì vậy, điều đó có nghĩa là chúng ta cần giới thiệu một dịch vụ bên ngoài ở đây. Đây được gọi là Hủy đặt phòng thì sao? 
 
 41
 00: 07: 23, 250--> 00: 07: 38, 400
@@ -5699,7 +5699,7 @@ Mỗi lược đồ này sẽ được bảo vệ bằng các cơ chế kiểm s
 
 28
 00: 05: 32, 010--> 00: 05: 42, 090
-Mỗi Microsoft Office sẽ sở hữu và quản lý dữ liệu trong các lược đồ tương ứng của họ. Bây giờ, nếu chúng ta hỏi tôi một câu hỏi, chúng ta sẽ thực hiện nó như thế nào?
+Mỗi Microsoft Office sẽ sở hữu và quản lý dữ liệu trong các lược đồ tương ứng của họ. Bây giờ, nếu chúng ta hỏi tôi một câu hỏi, chúng ta sẽ thực hiện nó như thế nào? 
 
 29
 00: 05: 42, 480--> 00: 05: 54, 000
@@ -6633,7 +6633,7 @@ Hãy để tôi giải thích nó bằng một ví dụ phổ biến. Nếu chú
 
 11
 00: 01: 58, 830--> 00: 02: 07, 080
-Vì vậy, nó giống như một hành động cân bằng. Điều gì sẽ xảy ra nếu cả quyền và nội dung đọc đều có hiệu suất cao?
+Vì vậy, nó giống như một hành động cân bằng. Điều gì sẽ xảy ra nếu cả quyền và nội dung đọc đều có hiệu suất cao? 
 
 12
 00: 02: 07, 470--> 00: 02: 14, 660
@@ -7153,7 +7153,7 @@ Ví dụ, chúng ta có nhu cầu đơn giản hóa việc hòa giải không? C
 
 33
 00: 06: 49, 020--> 00: 06: 56, 970
-Hay chúng ta đang tìm cách tạo một kho lưu trữ dữ liệu có thể hỗ trợ các truy vấn lịch sử tạm thời hoặc phức tạp?
+Hay chúng ta đang tìm cách tạo một kho lưu trữ dữ liệu có thể hỗ trợ các truy vấn lịch sử tạm thời hoặc phức tạp? 
 
 34
 00: 06: 56, 970--> 00: 07: 14, 720
@@ -7481,7 +7481,7 @@ Làm cho khỏe lại. Và đây là hai đề xuất bộ sưu tập mới, th�
 
 32
 00: 06: 28, 020--> 00: 06: 38, 580
-Và nếu chúng ta nhìn vào bộ sưu tập đề xuất, chúng ta sẽ thấy dữ liệu chỉ dành cho đề xuất đó. Vậy tại thời điểm này, người đăng ký có hoạt động như mong đợi không?
+Và nếu chúng ta nhìn vào bộ sưu tập đề xuất, chúng ta sẽ thấy dữ liệu chỉ dành cho đề xuất đó. Vậy tại thời điểm này, người đăng ký có hoạt động như mong đợi không? 
 
 <!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000013.srt-->
 
@@ -8123,7 +8123,7 @@ Hãy xem xét tình huống trong đó bộ xử lý chẵn có thể xuất b�
 
 30
 00: 05: 39, 980--> 00: 05: 47, 660
-Vậy câu hỏi đặt ra là liệu có tác động gì về phía bên phải không? Và nếu có tác động về phía bên phải thì tác động sẽ như thế nào?
+Vậy câu hỏi đặt ra là liệu có tác động gì về phía bên phải không? Và nếu có tác động về phía bên phải thì tác động sẽ như thế nào? 
 
 31
 00: 05: 49, 790--> 00: 06: 04, 820
@@ -8147,11 +8147,11 @@ Kết quả là trang web sẽ nhận được cùng một sự kiện nhiều l
 
 36
 00: 06: 45, 290--> 00: 06: 52, 630
-Câu hỏi tiếp theo tại thời điểm này là bên nào nên đưa ra bản sửa lỗi để giải quyết vấn đề trùng lặp?
+Câu hỏi tiếp theo tại thời điểm này là bên nào nên đưa ra bản sửa lỗi để giải quyết vấn đề trùng lặp? 
 
 37
 00: 06: 52, 640--> 00: 07: 01, 630
-Nên là bên phải hay bên phải, đặc biệt nếu có hai nhóm khác nhau đang quản lý hai địa điểm này một cách độc lập?
+Nên là bên phải hay bên phải, đặc biệt nếu có hai nhóm khác nhau đang quản lý hai địa điểm này một cách độc lập? 
 
 38
 00: 07: 01, 790--> 00: 07: 14, 690
@@ -8353,7 +8353,7 @@ Nhiều trường hợp sử dụng vi dịch vụ trong đó Kafka phù hợp h
 
 1
 00: 00: 00, 390--> 00: 00: 06, 930
-COFCO, từng người một, giới thiệu nhanh về Kafka. Tôi sẽ bắt đầu bài học bằng việc trả lời câu hỏi Kafka là gì?
+COFCO, từng người một, giới thiệu nhanh về Kafka. Tôi sẽ bắt đầu bài học bằng việc trả lời câu hỏi Kafka là gì? 
 
 2
 00: 00: 07, 410--> 00: 00: 18, 910
@@ -9067,7 +9067,7 @@ M. Cupie của Courthouse, trong bài học này, Al Gore, sự khác biệt gi�
 
 2
 00: 00: 15, 660--> 00: 00: 22, 200
-Bây giờ chúng ta đã biết về Kafka và M Cupie, chúng ta sẽ sử dụng vi dịch vụ nào trong số này?
+Bây giờ chúng ta đã biết về Kafka và M Cupie, chúng ta sẽ sử dụng vi dịch vụ nào trong số này? 
 
 3
 00: 00: 22, 240--> 00: 00: 32, 160
@@ -9173,7 +9173,7 @@ Tôi sẽ hỏi chúng ta những câu hỏi dựa trên kịch bản. Và chún
 
 3
 00: 00: 19, 830--> 00: 00: 29, 040
-Tôi sẽ bắt đầu bài học này bằng cách xem lại câu hỏi tôi đã hỏi chúng ta ở bài giảng trước. Chúng ta sẽ sử dụng dịch vụ nào trong số này cho các vi dịch vụ?
+Tôi sẽ bắt đầu bài học này bằng cách xem lại câu hỏi tôi đã hỏi chúng ta ở bài giảng trước. Chúng ta sẽ sử dụng dịch vụ nào trong số này cho các vi dịch vụ? 
 
 4
 00: 00: 30, 400--> 00: 00: 40, 360
@@ -9245,7 +9245,7 @@ Vì vậy, đây là kịch bản số một. Microsoft cần nói chuyện vớ
 
 21
 00: 03: 46, 870--> 00: 03: 54, 250
-Giả sử số lượng tin nhắn nhỏ hơn nghìn mỗi giây. Chúng ta sẽ chọn cái nào?
+Giả sử số lượng tin nhắn nhỏ hơn nghìn mỗi giây. Chúng ta sẽ chọn cái nào? 
 
 22
 00: 03: 54, 400--> 00: 04: 02, 020
@@ -10205,7 +10205,7 @@ Hãy bắt đầu bằng một câu hỏi. Kiến trúc của chúng ta có yên
 
 3
 00: 00: 25, 470--> 00: 00: 35, 400
-Những ứng dụng này có thể không yên tĩnh, nhưng chúng có thể yên tĩnh như Orestis. Sau đó, câu hỏi hiển nhiên xuất hiện trong đầu là điều gì khiến một kiến ​​trúc trở nên hữu ích?
+Những ứng dụng này có thể không yên tĩnh, nhưng chúng có thể yên tĩnh như Orestis. Sau đó, câu hỏi hiển nhiên xuất hiện trong đầu là điều gì khiến một kiến ​​trúc trở nên hữu ích? 
 
 4
 00: 00: 35, 640--> 00: 00: 48, 830

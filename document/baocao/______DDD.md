@@ -153,8 +153,8 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 
 ![](pictures/CacMoHinhChienLuoc/0_CacMoHinhChienLuoc.png)
 
-<!-- $  Vẽ lại sau: -->
-<!-- Bối cảnh giới hạn (Bounded Context) -->
+<!--$ Vẽ lại sau:-->
+<!--Bối cảnh giới hạn (Bounded Context)-->
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 

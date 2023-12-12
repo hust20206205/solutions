@@ -190,7 +190,7 @@ Dựa vào trách nhiệm và hoạt động của chuyên gia ngành.
 
 <!--Một số đặc điểm:-->
 
-Mỗi liên hệ bị giới hạn phải được thể hiện thông qua một mô hình miền riêng biệt không có sự chia sẻ về mô hình.
+Mỗi liên hệ giới hạn phải được thể hiện thông qua một mô hình miền riêng biệt không có sự chia sẻ về mô hình.
 
 <!--$VD: Hình mỗi domain có mô hình riêng ... user(id, name) ở domain1, user(id, name, sdt) ở domain2-->
 
@@ -247,23 +247,23 @@ Symmetric Relationship: Separate ways, Partnership, Shared Kernel
 Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer
 One-to-Many Relationship: Open Host Service, Published Language
 
-<!-- @Bản đồ bối cảnh (Context Maps) -->
+<!--@Bản đồ bối cảnh (Context Maps)-->
 
-Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác quan hệ với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ. Nếu không thì các dịch vụ  sẽ mất khả năng hoạt động độc lập, tính nhất quán và tính linh hoạt.
+Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác quan hệ với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ. Nếu không thì các dịch vụ sẽ mất khả năng hoạt động độc lập, tính nhất quán và tính linh hoạt.
 => Do đó, các nhóm phải nỗ lực để ghi lại mối quan hệ giữa các quan hệ thông qua việc sử dụng bản đồ bối cảnh.
 
 Bản đồ bối cảnh (Context Maps) là sự thể hiện trực quan của hệ thống, thể hiện các thành phần, liên kết và mối quan hệ.
-  <!-- $VD:  Bản đồ bối cảnh -->
-![Alt text](pictures/BanDoBoiCanh/image.png)
+<!--$VD: Bản đồ bối cảnh-->
+![](pictures/BanDoBoiCanh/image.png)
 
-<!-- Lợi ích của Bản đồ bối cảnh: -->
+<!--Lợi ích của Bản đồ bối cảnh:-->
 
-Giúp   thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
-Giúp   nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ bị ràng buộc.
-Giúp các nhóm đánh giá mức độ hợp tác     với các nhóm khác.
-Giúp sàng lọc các liên hệ          giới hạn và các mô hình.
-Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
-<!-- ======================================================================== -->  
+Giúp thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
+Giúp nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .
+Giúp các nhóm đánh giá mức độ hợp tác với các nhóm khác.
+Giúp sàng lọc các liên hệ giới hạn và các mô hình.
+Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
+<!--========================================================================-->
 
 23
 00: 04: 32, 600--> 00: 04: 40, 730
@@ -272,11 +272,11 @@ Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mìn
 
 24
 00: 04: 41, 250--> 00: 04: 58, 940
-Ý tưởng là nếu chúng ta tạo quá nhiều sự phụ thuộc giữa các liên hệ bị ràng buộc, điều đó sẽ dẫn đến việc mất đi những lợi ích mà chúng ta mong đợi nhận được từ kiến ​​trúc vi dịch vụ .
+Ý tưởng là nếu chúng ta tạo quá nhiều sự phụ thuộc giữa các liên hệ giới hạn, điều đó sẽ dẫn đến việc mất đi những lợi ích mà chúng ta mong đợi nhận được từ kiến ​​trúc vi dịch vụ .
 
 25
 00: 04: 59, 270--> 00: 05: 09, 950
-Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, chúng ta phải sử dụng các mẫu thiết kế hướng miền được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
+Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, chúng ta phải sử dụng các mẫu thiết kế hướng miền được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
@@ -675,14 +675,14 @@ Nếu cần thay đổi và thay đổi không phải là một phần của mô
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
 **Hạt nhân dùng chung (Shared Kernel)**
 
-<!--Việc chia sẻ mô hình giữa các liên hệ bị chặn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
+<!--Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
 <!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->
 
 <!--Các nhóm có thể phát triển độc lập các dịch vụ sử dụng các thư viện dùng chung này. Các nhóm có thể sử dụng kernel dùng chung và Labrys dùng chung miễn là phạm vi chia sẻ.-->
 
 <!--Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.-->
 
-<!--Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ bị chặn.-->
+<!--Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .-->
 
 để giải quyết vấn đề
 **Mô hình hợp tác (Partnership Pattern)**
@@ -697,8 +697,8 @@ Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phố
 
 **Miền (Domain)**
 
-<!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ bị chặn.-->
-<!--!Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ bị ràng buộc.-->
+<!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ giới hạn .-->
+<!--!Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .-->
 <!--!Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình. Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
 <!--!Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.-->
 
@@ -731,9 +731,9 @@ Trong trường hợp Upstream hiển thị các mô hình mà không liên quan
 
 chống đổ vỡ
 bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
-quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh bị giới hạn.
+quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
 
-<!--Trong trường hợp đó, các mô hình từ ngữ cảnh bị chặn sẽ được hiển thị trong ngữ cảnh bị chặn. Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
+<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
 
 <!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng-->
 

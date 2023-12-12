@@ -47,7 +47,7 @@ Và điều đó có nghĩa là hai nhóm này có thể làm việc độc lậ
 
 12
 00: 01: 57, 300--> 00: 02: 16, 710
-Đôi khi chúng ta tìm thấy những liên hệ bị giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.
+Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.
 
 13
 00: 02: 16, 740--> 00: 02: 28, 290
@@ -79,11 +79,11 @@ Vì vậy, giả sử hai nhóm độc lập đang làm việc trên bối cản
 
 20
 00: 03: 39, 600--> 00: 03: 55, 740
-Ý tưởng là quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết. Vì vậy, điều đó có nghĩa là nếu cần thay đổi và thay đổi này không phải là một phần của mô hình được chia sẻ thì nhóm được chỉ định cho các liên hệ bị giới hạn có thể đưa ra quyết định độc lập.
+Ý tưởng là quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết. Vì vậy, điều đó có nghĩa là nếu cần thay đổi và thay đổi này không phải là một phần của mô hình được chia sẻ thì nhóm được chỉ định cho các liên hệ giới hạn có thể đưa ra quyết định độc lập.
 
 21
 00: 03: 55, 770--> 00: 04: 03, 360
-Tương tự, nếu có những thay đổi cần thiết bên ngoài các mô hình được chia sẻ và các liên hệ bị ràng buộc, hãy là nhóm được chỉ định cho các liên hệ liên kết.
+Tương tự, nếu có những thay đổi cần thiết bên ngoài các mô hình được chia sẻ và các liên hệ giới hạn, hãy là nhóm được chỉ định cho các liên hệ liên kết.
 
 22
 00: 04: 03, 360--> 00: 04: 12, 390
@@ -91,7 +91,7 @@ B có thể đưa ra những quyết định đó một cách độc lập. Như
 
 23
 00: 04: 12, 510--> 00: 04: 36, 180
-Việc chia sẻ mô hình giữa các liên hệ bị chặn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Carneal được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.
+Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Carneal được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.
 
 24
 00: 04: 36, 850--> 00: 04: 46, 560
@@ -107,15 +107,15 @@ Giữa các tiếp điểm liên kết được giới hạn ở một tập h�
 
 27
 00: 05: 16, 960--> 00: 05: 27, 070
-Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ bị chặn.
+Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .
 
 28
 00: 05: 27, 580--> 00: 05: 37, 570
-Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ bị chặn.
+Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ giới hạn .
 
 29
 00: 05: 37, 600--> 00: 05: 49, 840
-Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ bị ràng buộc.
+Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .
 
 30
 00: 05: 49, 960--> 00: 06: 13, 070
@@ -209,11 +209,11 @@ Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng qu
 
 21
 00: 04: 23, 940--> 00: 04: 32, 580
-Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh bị giới hạn.
+Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
 
 22
 00: 04: 32, 940--> 00: 04: 46, 710
-Trong trường hợp đó, các mô hình từ ngữ cảnh bị chặn sẽ được hiển thị trong ngữ cảnh bị chặn. Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .
+Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .
 
 23
 00: 04: 47, 070--> 00: 04: 59, 730
@@ -349,11 +349,11 @@ Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với d�
 
 1
 00: 00: 00, 090--> 00: 00: 17, 880
-Lập bản đồ ngữ cảnh cho ngân hàng trong bài tập này, mục tiêu là để chúng ta tìm hiểu cách thiết lập bản đồ ngữ cảnh và mục tiêu thứ hai là xác định tác động của những thay đổi trong một ngữ cảnh bị giới hạn lên ngữ cảnh liên kết khác, bằng cách sử dụng các bản đồ ngữ cảnh.
+Lập bản đồ ngữ cảnh cho ngân hàng trong bài tập này, mục tiêu là để chúng ta tìm hiểu cách thiết lập bản đồ ngữ cảnh và mục tiêu thứ hai là xác định tác động của những thay đổi trong một ngữ cảnh giới hạn lên ngữ cảnh liên kết khác, bằng cách sử dụng các bản đồ ngữ cảnh.
 
 2
 00: 00: 17, 880--> 00: 00: 26, 920
-Trong bài tập này, chúng ta sẽ sử dụng phiên bản đơn giản của ngữ cảnh bị chặn cho một ngân hàng. Có hai phần trong bài tập này.
+Trong bài tập này, chúng ta sẽ sử dụng phiên bản đơn giản của ngữ cảnh giới hạn cho một ngân hàng. Có hai phần trong bài tập này.
 
 3
 00: 00: 27, 120--> 00: 00: 44, 750
@@ -525,7 +525,7 @@ Và trong trường hợp thẻ tín dụng, bối cảnh giới hạn, chúng c
 
 8
 00: 01: 16, 500--> 00: 01: 31, 620
-Các thực thể này và danh tính của chúng chỉ có ý nghĩa trong bối cảnh giới hạn tương ứng của chúng. Một thực thể có một tập hợp các thuộc tính được xác định bởi ngôn ngữ chung cho ngữ cảnh bị chặn.
+Các thực thể này và danh tính của chúng chỉ có ý nghĩa trong bối cảnh giới hạn tương ứng của chúng. Một thực thể có một tập hợp các thuộc tính được xác định bởi ngôn ngữ chung cho ngữ cảnh giới hạn .
 
 9
 00: 01: 31, 930--> 00: 01: 41, 130
@@ -597,7 +597,7 @@ Ví dụ: thực thể khách hàng trong tài khoản bán lẻ có thể trôn
 
 26
 00: 04: 39, 660--> 00: 04: 53, 780
-Hãy nhớ rằng các thực thể được xác định duy nhất trong một ngữ cảnh bị giới hạn, nhưng đôi khi có thể xảy ra trường hợp cùng một thuộc tính được sử dụng để xác định duy nhất thực thể trong các liên hệ công việc.
+Hãy nhớ rằng các thực thể được xác định duy nhất trong một ngữ cảnh giới hạn, nhưng đôi khi có thể xảy ra trường hợp cùng một thuộc tính được sử dụng để xác định duy nhất thực thể trong các liên hệ công việc.
 
 27
 00: 04: 53, 790--> 00: 05: 05, 620
@@ -635,7 +635,7 @@ Hành vi này triển khai logic nghiệp vụ có thể thay đổi trạng th�
 
 1
 00: 00: 00, 150--> 00: 00: 15, 080
-Trong bài học này, chúng ta tìm hiểu về các đối tượng giá trị, đặc điểm của chúng và vòng đời của đối tượng giá trị. Đối tượng giá trị, không giống như thực thể, các đối tượng không có nhận dạng khái niệm trong ngữ cảnh bị ràng buộc.
+Trong bài học này, chúng ta tìm hiểu về các đối tượng giá trị, đặc điểm của chúng và vòng đời của đối tượng giá trị. Đối tượng giá trị, không giống như thực thể, các đối tượng không có nhận dạng khái niệm trong ngữ cảnh giới hạn .
 
 2
 00: 00: 15, 300--> 00: 00: 23, 900
@@ -751,7 +751,7 @@ Cách tốt nhất là chúng ta nên tạo một phiên bản mới của đố
 
 30
 00: 06: 18, 550--> 00: 06: 29, 920
-Tiếp theo, hãy nói về đối tượng giá trị và đối tượng giá trị ngữ cảnh bị chặn trong một ngữ cảnh bị chặn, có thể là một thực thể trong một ngữ cảnh bị chặn khác.
+Tiếp theo, hãy nói về đối tượng giá trị và đối tượng giá trị ngữ cảnh giới hạn trong một ngữ cảnh giới hạn, có thể là một thực thể trong một ngữ cảnh giới hạn khác.
 
 31
 00: 06: 30, 340--> 00: 06: 38, 560
@@ -779,7 +779,7 @@ Miền phụ và tài khoản cá nhân không thành vấn đề. Vì vậy, tr
 
 37
 00: 07: 33, 280--> 00: 07: 55, 180
-Các đối tượng giá trị không được tồn tại trong CSDL như một đối tượng độc lập. Nó được lưu trữ như một phần của đối tượng thực thể hoặc thậm chí nó không được lưu trữ trong CSDL, một thực thể trong một ngữ cảnh bị chặn, có thể là một đối tượng giá trị trong một ngữ cảnh bị chặn khác và ngược lại.
+Các đối tượng giá trị không được tồn tại trong CSDL như một đối tượng độc lập. Nó được lưu trữ như một phần của đối tượng thực thể hoặc thậm chí nó không được lưu trữ trong CSDL, một thực thể trong một ngữ cảnh giới hạn, có thể là một đối tượng giá trị trong một ngữ cảnh giới hạn khác và ngược lại.
 
 <!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000004.srt-->
 
@@ -809,7 +809,7 @@ Một điều khác mà chúng ta cần lưu ý là các đối tượng giá tr
 
 7
 00: 01: 10, 290--> 00: 01: 21, 090
-Trong ngữ cảnh bị chặn, chúng ta có thể thêm các đối tượng giá trị mới để hỗ trợ các thực thể của mình khi cần. Hãy bắt đầu với khách hàng.
+Trong ngữ cảnh giới hạn, chúng ta có thể thêm các đối tượng giá trị mới để hỗ trợ các thực thể của mình khi cần. Hãy bắt đầu với khách hàng.
 
 8
 00: 01: 21, 420--> 00: 01: 47, 020
@@ -2733,7 +2733,7 @@ Nói cách khác, không có sự chia sẻ tài nguyên điện toán hoặc b�
 
 8
 00: 01: 22, 050--> 00: 01: 34, 770
-Giao thức truyền thông mạng này có thể có tính chất đồng bộ hoặc không đồng bộ? Theo tính đồng bộ, điều đó có nghĩa là người gọi vẫn bị chặn cho đến khi nhận được phản hồi từ thành phần khác.
+Giao thức truyền thông mạng này có thể có tính chất đồng bộ hoặc không đồng bộ? Theo tính đồng bộ, điều đó có nghĩa là người gọi vẫn giới hạn cho đến khi nhận được phản hồi từ thành phần khác.
 
 9
 00: 01: 34, 980--> 00: 01: 43, 170
@@ -2845,7 +2845,7 @@ Trong trường hợp kiểu liên lạc không đồng bộ, người gọi s�
 
 36
 00: 06: 43, 820--> 00: 06: 56, 420
-Tức là nó không bị chặn. Các nền tảng nhắn tin như Kafka, Rabbit, MQ và Active Amcu thường được sử dụng để xây dựng các mẫu giao tiếp không đồng bộ.
+Tức là nó không giới hạn . Các nền tảng nhắn tin như Kafka, Rabbit, MQ và Active Amcu thường được sử dụng để xây dựng các mẫu giao tiếp không đồng bộ.
 
 37
 00: 06: 57, 080--> 00: 07: 07, 130
@@ -3169,7 +3169,7 @@ Chúng ta hãy nói về sự khác biệt giữa APA và kiến ​​​​tr�
 
 42
 00: 08: 12, 160--> 00: 08: 20, 350
-Người gọi bị chặn, trong khi trong trường hợp có sự kiện, nhà sản xuất chỉ là sự kiện của Emmet và tiếp tục.
+Người gọi giới hạn, trong khi trong trường hợp có sự kiện, nhà sản xuất chỉ là sự kiện của Emmet và tiếp tục.
 
 43
 00: 08: 21, 040--> 00: 08: 31, 110
@@ -3363,7 +3363,7 @@ Chúng tôi sẽ không sử dụng các sàn giao dịch mặc định này. Ch
 
 37
 00: 06: 59, 280--> 00: 07: 06, 330
-Tại thời điểm này, trao đổi chủ đề thử nghiệm của chúng tôi đã được tạo và như chúng ta có thể thấy ở đây, không có hàng đợi nào bị ràng buộc với nó.
+Tại thời điểm này, trao đổi chủ đề thử nghiệm của chúng tôi đã được tạo và như chúng ta có thể thấy ở đây, không có hàng đợi nào giới hạn với nó.
 
 38
 00: 07: 06, 360--> 00: 07: 12, 870
@@ -3403,7 +3403,7 @@ Bây giờ, một thử nghiệm khác sẽ được thực hiện là chúng t�
 
 47
 00: 08: 33, 360--> 00: 08: 44, 410
-Q2 sẽ không bị ràng buộc. Hãy liên kết lại Q2 bằng một khóa liên kết khác. Vì vậy, hãy gọi bài kiểm tra quan trọng này ra.
+Q2 sẽ không giới hạn . Hãy liên kết lại Q2 bằng một khóa liên kết khác. Vì vậy, hãy gọi bài kiểm tra quan trọng này ra.
 
 48
 00: 08: 44, 460--> 00: 08: 57, 570
@@ -3441,7 +3441,7 @@ Sau đó, tôi sẽ nói về bản chất giao dịch của các sự kiện tr
 
 3
 00: 00: 22, 260--> 00: 00: 40, 920
-Trong ví dụ này ở đây, mỗi người trong số 100 người liên hệ sẽ có các sự kiện được xác định rõ ràng và vì các sự kiện là một phần của mô hình có thể áp dụng trong ngữ cảnh bị giới hạn nên định nghĩa chẵn luôn được quản lý bằng ngôn ngữ chung cho ngữ cảnh ranh giới đó.
+Trong ví dụ này ở đây, mỗi người trong số 100 người liên hệ sẽ có các sự kiện được xác định rõ ràng và vì các sự kiện là một phần của mô hình có thể áp dụng trong ngữ cảnh giới hạn nên định nghĩa chẵn luôn được quản lý bằng ngôn ngữ chung cho ngữ cảnh ranh giới đó.
 
 4
 00: 00: 41, 040--> 00: 00: 53, 440
@@ -3461,7 +3461,7 @@ Hãy nhớ rằng có thể có các nguồn khác ngay cả trong một vi dị
 
 8
 00: 01: 31, 110--> 00: 01: 41, 580
-Đây là những sự kiện kỹ thuật và không phải là một phần của thiết kế hướng miền. Cuộc thảo luận của tôi trong khóa học này là về các sự kiện bị các thành phần bỏ qua trong ngữ cảnh bị chặn.
+Đây là những sự kiện kỹ thuật và không phải là một phần của thiết kế hướng miền. Cuộc thảo luận của tôi trong khóa học này là về các sự kiện bị các thành phần bỏ qua trong ngữ cảnh giới hạn .
 
 9
 00: 01: 42, 330--> 00: 01: 52, 830
@@ -3473,7 +3473,7 @@ Những người tiêu dùng này thậm chí có thể là một phần của c
 
 11
 00: 02: 04, 290--> 00: 02: 18, 300
-Các sự kiện bị nguồn sự kiện bỏ qua có thể được sử dụng bởi các dịch vụ MICROS khác. Vì vậy, điều đó có nghĩa là một sự kiện được xác định trong một ngữ cảnh bị chặn sẽ được sử dụng trong một ngữ cảnh bị chặn khác.
+Các sự kiện bị nguồn sự kiện bỏ qua có thể được sử dụng bởi các dịch vụ MICROS khác. Vì vậy, điều đó có nghĩa là một sự kiện được xác định trong một ngữ cảnh giới hạn sẽ được sử dụng trong một ngữ cảnh giới hạn khác.
 
 12
 00: 02: 18, 610--> 00: 02: 27, 960
@@ -3501,7 +3501,7 @@ Ngay cả một sự kiện miền cũng là một thông báo thông báo cho c
 
 18
 00: 03: 15, 540--> 00: 03: 36, 630
-Đây là phần quan trọng trong cùng một bối cảnh giới hạn. Bây giờ, khi một sự kiện miền được kích hoạt, nó sẽ biểu thị sự thay đổi trạng thái trong ngữ cảnh bị giới hạn và người tiêu dùng của sự kiện sẽ nhận được thông báo sự kiện và thực thi một số logic nghiệp vụ trong cùng một ngữ cảnh bị giới hạn.
+Đây là phần quan trọng trong cùng một bối cảnh giới hạn. Bây giờ, khi một sự kiện miền được kích hoạt, nó sẽ biểu thị sự thay đổi trạng thái trong ngữ cảnh giới hạn và người tiêu dùng của sự kiện sẽ nhận được thông báo sự kiện và thực thi một số logic nghiệp vụ trong cùng một ngữ cảnh giới hạn .
 
 19
 00: 03: 36, 660--> 00: 03: 46, 190
@@ -4109,7 +4109,7 @@ Nhưng trong trường hợp các sự kiện tích hợp, các cơ chế không
 
 12
 00: 02: 25, 590--> 00: 02: 36, 330
-Trong trường hợp có sự kiện tích hợp, người liên hệ bị giới hạn của người tiêu dùng phải quyết định về mẫu tích hợp mà nó sẽ sử dụng để tiêu thụ các sự kiện.
+Trong trường hợp có sự kiện tích hợp, người liên hệ giới hạn của người tiêu dùng phải quyết định về mẫu tích hợp mà nó sẽ sử dụng để tiêu thụ các sự kiện.
 
 13
 00: 02: 36, 660--> 00: 02: 51, 960
@@ -4125,7 +4125,7 @@ Ví dụ: chúng ta có thể thêm người tiêu dùng mới mà không ảnh 
 
 16
 00: 03: 10, 920--> 00: 03: 17, 940
-Nó giúp việc thiết lập mối quan hệ một-nhiều giữa các liên hệ bị chặn hoặc các vi dịch vụ trở nên dễ dàng hơn.
+Nó giúp việc thiết lập mối quan hệ một-nhiều giữa các liên hệ giới hạn hoặc các vi dịch vụ trở nên dễ dàng hơn.
 
 17
 00: 03: 17, 970--> 00: 03: 26, 430
@@ -4303,7 +4303,7 @@ Thậm chí điều này sẽ dẫn đến việc xuất bản một thông báo
 
 25
 00: 04: 57, 670--> 00: 05: 12, 410
-Cách tốt nhất là chúng tôi cần đảm bảo rằng mô hình của chúng tôi không bị ràng buộc với bất kỳ công nghệ cụ thể nào. Do đó, chúng tôi sẽ xác định một dịch vụ cơ sở hạ tầng sẽ cách ly mô hình khỏi công nghệ nhắn tin cơ bản.
+Cách tốt nhất là chúng tôi cần đảm bảo rằng mô hình của chúng tôi không giới hạn với bất kỳ công nghệ cụ thể nào. Do đó, chúng tôi sẽ xác định một dịch vụ cơ sở hạ tầng sẽ cách ly mô hình khỏi công nghệ nhắn tin cơ bản.
 
 26
 00: 05: 12, 730--> 00: 05: 27, 990
@@ -4425,7 +4425,7 @@ Vì vậy chúng ta cần cung cấp tên của email thông báo hàng đợi. 
 
 14
 00: 02: 24, 000--> 00: 02: 32, 330
-Tại thời điểm này, sàn giao dịch của chúng tôi có một hàng đợi bị ràng buộc bởi qinawi định tuyến này sẵn sàng kiểm tra.
+Tại thời điểm này, sàn giao dịch của chúng tôi có một hàng đợi giới hạn bởi qinawi định tuyến này sẵn sàng kiểm tra.
 
 15
 00: 02: 32, 340--> 00: 02: 41, 780
@@ -10537,7 +10537,7 @@ Ràng buộc này là tùy chọn. Vì vậy, điều đó có nghĩa là miễn
 
 15
 00: 02: 26, 700--> 00: 02: 44, 630
-Hãy nhớ lại rằng các API còn lại không bị giới hạn ở giao thức HTP. Vì vậy, nếu chúng ta đang sử dụng SCDP và nó tuân theo các ràng buộc về kiến ​​​​trúc thì nó được cho là API còn lại EDP hoặc khôi phục S2P.
+Hãy nhớ lại rằng các API còn lại không giới hạn ở giao thức HTP. Vì vậy, nếu chúng ta đang sử dụng SCDP và nó tuân theo các ràng buộc về kiến ​​​​trúc thì nó được cho là API còn lại EDP hoặc khôi phục S2P.
 
 <!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000003.srt-->
 
@@ -10615,7 +10615,7 @@ Nhưng đó không phải là định dạng duy nhất nó có thể được c
 
 19
 00: 02: 59, 400--> 00: 03: 06, 420
-Từ góc độ định dạng dữ liệu, điều này cho chúng ta biết rằng Anastacia không bị ràng buộc với bất kỳ định dạng dữ liệu cụ thể nào.
+Từ góc độ định dạng dữ liệu, điều này cho chúng ta biết rằng Anastacia không giới hạn với bất kỳ định dạng dữ liệu cụ thể nào.
 
 20
 00: 03: 06, 430--> 00: 03: 18, 000
@@ -10651,7 +10651,7 @@ Vì vậy, đây chỉ là một ví dụ về cách API có thể hỗ trợ nh
 
 28
 00: 04: 56, 310--> 00: 05: 20, 270
-Tất cả các API hiện đại đều sử dụng SCDP. Vì giao thức truyền thông và chúng tôi gọi các ứng dụng đó là SCDP Restabilize và lý do là vì bản thân kiểu Abia còn lại không bị ràng buộc với HDTV, chúng ta có thể xây dựng ứng dụng với các giao thức khác cũng như API lưu trữ, Expo và điểm cuối.
+Tất cả các API hiện đại đều sử dụng SCDP. Vì giao thức truyền thông và chúng tôi gọi các ứng dụng đó là SCDP Restabilize và lý do là vì bản thân kiểu Abia còn lại không giới hạn với HDTV, chúng ta có thể xây dựng ứng dụng với các giao thức khác cũng như API lưu trữ, Expo và điểm cuối.
 
 29
 00: 05: 20, 270--> 00: 05: 26, 940
@@ -10687,7 +10687,7 @@ Bây giờ là thời gian đố vui. Tôi muốn chúng ta trả lời câu h�
 
 37
 00: 06: 52, 640--> 00: 07: 06, 470
-Và đây là những lựa chọn sai lầm còn lại. Lợn vòi không bị ràng buộc với bất kỳ SJP công nghệ cụ thể nào hoặc không xác định bất kỳ tiêu chuẩn nào về tải trọng yêu cầu hoặc phản hồi cũng như cách ứng dụng phải như thế nào.
+Và đây là những lựa chọn sai lầm còn lại. Lợn vòi không giới hạn với bất kỳ SJP công nghệ cụ thể nào hoặc không xác định bất kỳ tiêu chuẩn nào về tải trọng yêu cầu hoặc phản hồi cũng như cách ứng dụng phải như thế nào.
 
 38
 00: 07: 06, 860--> 00: 07: 16, 130
@@ -11031,7 +11031,7 @@ Chúng ta sẽ tìm hiểu về các loạt đồ họa và khi kết thúc bài
 
 3
 00: 00: 22, 620--> 00: 00: 33, 960
-Hãy bắt đầu với đồ họa đồ họa là ngôn ngữ truy vấn dành cho các ứng dụng không bị ràng buộc với bất kỳ CSDL, công nghệ hoặc giao thức mạng cụ thể nào.
+Hãy bắt đầu với đồ họa đồ họa là ngôn ngữ truy vấn dành cho các ứng dụng không giới hạn với bất kỳ CSDL, công nghệ hoặc giao thức mạng cụ thể nào.
 
 4
 00: 00: 34, 380--> 00: 00: 47, 670

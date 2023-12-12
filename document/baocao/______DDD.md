@@ -213,8 +213,8 @@ Khi cùng vận hành và phát triển xung đột có thể xảy ra ở cùng
 => Vì vậy, cần sử dụng việc tích hợp liên tục tạo ra một quy trình tự động và liên tục từ việc tích hợp mã nguồn, kiểm thử tự động giúp tăng cường chất lượng phần mềm, giảm thời gian và rủi ro trong quá trình phát triển phần mềm.
 
 <!--$VD: jenkins-->
-<!-- unit test -->
-<!--  test tích hợp -->
+<!--unit test-->
+<!--test tích hợp-->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
@@ -273,10 +273,7 @@ Các nhóm phát triển không phải cộng tác hay phối hợp cho bất k�
 
 <!--$VD: trong trường hợp ngân hàng, thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
 <!--@Mô hình hạt nhân chung (Shared Kernel)-->
-Khi  các liên hệ trong bối cảnh giới hạn  có sự phụ thuộc lẫn nhau.      Sự phụ thuộc     này dẫn đến mức độ kết hợp cao.         Vì vậy, các nhóm  phát triển không thể hoạt động độc lập. 
-
-
-
+Khi các liên hệ trong bối cảnh giới hạn có sự phụ thuộc lẫn nhau. Sự phụ thuộc này dẫn đến mức độ kết hợp cao. Vì vậy, các nhóm phát triển không thể hoạt động độc lập.
 
 Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
 Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
@@ -286,10 +283,10 @@ Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phố
 
 <!--28-->
 
-<!--  đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
-<!-- Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác. -->
+<!--đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
+<!--Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.-->
 
-<!--12-->   
+<!--12-->
 
 <!--Bây giờ, câu hỏi hiển nhiên mà chúng ta có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.-->
 
@@ -310,7 +307,6 @@ Các nhóm có thể phát triển độc lập các dịch vụ sử dụng cá
 Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.
 
 Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .
-
 
 <!--@Mô hình hạt nhân chung (Shared Kernel)-->
 

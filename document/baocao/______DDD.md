@@ -282,6 +282,9 @@ Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng
 
 <!--!======================================================-->
 <!--các ký hiệu bản đồ ngữ cảnh.-->
+
+<!--mô hình tuân thủ-->
+<!--mô hình lớp chống tham nhũng-->
 <!--!mẫu phù hợp (Conformist Pattern)-->
 <!--mô hình tuân thủ-->
 
@@ -319,23 +322,13 @@ Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn ph�
 <!--$VD: Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A-->
 <!--@Mô hình khách hàng - nhà cung cấp (Customer - Supplier Pattern)-->
 Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
+Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng  để đảm bảo rằng  dịch vụ  của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
 
-
-Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
-<!--@=======================-->
-
-<!--mô hình tuân thủ-->
-<!--mô hình lớp chống tham nhũng-->
-
-<!--Hãy nghĩ về nó giống như một máy chủ khách, Pachon, trong đó máy chủ tạo ra các giao diện dựa trên nhu cầu của khách hàng.-->
-
-12
-00: 02: 31, 260--> 00: 02: 44, 910
-<!--Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.-->
+<!--@=======================-->      
 
 13
 00: 02: 45, 810--> 00: 02: 57, 060
-Hãy thảo luận về tùy chọn số hai, trong đó bối cảnh giới hạn ngược dòng hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu nào của bối cảnh giới hạn ngược dòng.
+<!-- Hãy thảo luận về tùy chọn số hai, trong đó bối cảnh giới hạn ngược dòng hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu nào của bối cảnh giới hạn ngược dòng. -->
 
 14
 00: 02: 57, 210--> 00: 03: 05, 430

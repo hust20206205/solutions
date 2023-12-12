@@ -117,3 +117,117 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
 <!--@Mô hình miền (Domain model)-->
+<!--@Mô hình miền (Domain Models)-->
+
+Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.
+
+Mô hình miền không phải là kiến thức của chuyên gia ngành, mà là sự trừu tượng hóa của cả nhóm.
+
+Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô hình của nhóm.
+
+Mô hình miền giúp nhóm hiểu và đồng thuận khi làm việc.
+
+<!--$VD: Ở đồ án này, mô hình miền là ...-->
+
+
+**Ngôn ngữ phổ biến (Ubiquitous Language)**
+
+
+
+Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Lập trình viên tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các nhóm có thể dẫn đến những thách thức về giao tiếp.
+
+Thách thức đặt ra khi một thuật ngữ có thể xuất hiện trong bối cảnh của các lĩnh vực kinh doanh khác nhau. Đối với ngôn ngữ kinh doanh được sử dụng trong nhiều miền, cùng một thuật ngữ có thể có ý nghĩa khác nhau gây ra nhầm lẫn.
+
+
+
+<!--=> Thiết kế hướng miền đề xuất sử dụng ngôn ngữ phổ biến để giải quyết những thách thức ngôn ngữ này.-->
+
+Ngôn ngữ phổ biến là một trong những mô hình chiến lược của thiết kế hướng miền, thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh.
+
+<!--Một số đặc điểm:-->
+
+
+
+
+
+
+
+
+Có nhiều ngôn ngữ phổ biến trong một tổ chức được mỗi nhóm sẽ tạo và quản lý một cách độc lập.
+
+Ngôn ngữ phổ biến được sử dụng bởi cả chuyên gia ngành và chuyên gia công nghệ.
+
+Ngôn ngữ phổ biến phát triển theo thời gian thông qua sự cộng tác giữa doanh nghiệp và các chuyên gia công nghệ.
+
+Việc tạo ra ngôn ngữ phổ biến là một quá trình liên tục.
+
+
+Đồng nhất trong mọi phần của hệ thống: Không chỉ giới hạn trong phạm vi của một module hay một thành phần cụ thể, mà được áp dụng đồng nhất trong toàn bộ hệ thống.
+![](image-1.png)
+
+
+
+<!--Hướng dẫn 5/7-->
+<!---->
+
+
+**Bối cảnh giới hạn (Bounded Context)**
+
+
+
+Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
+=> Bối cảnh giới hạn giúp định rõ các ranh giới, chia miền thành các phần độc lập để giải quyết sự phức tạp trong mô hình doanh nghiệp.
+<!--Một số đặc điểm:-->
+Mỗi liên hệ bị giới hạn phải được thể hiện thông qua một mô hình miền riêng biệt không có sự chia sẻ về mô hình.
+<!--$VD:--> mỗi domain có mô hình riêng ... user ở domain1, user ở domain2
+Những mô hình được tạo ra và quản lý độc lập bởi các nhóm công nghệ được phân công cho từng đơn vị chức năng cụ thể.
+<!--$VD:-->
+Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có tác dụng trong phạm vi giới hạn của nó.
+<!--$VD:-->
+![](image-2.png)
+<!--Hướng dẫn 5/10-->
+
+
+
+
+**Tích hợp Liên tục (CI/CD)**
+
+Khi một Bối cảnh giới hạn đã được định nghĩa, chúng ta cần đảm bảo rằng nó luôn mới và hoạt động tốt.
+
+Doanh nghiệp nhu cầu phát triển thay đổi liên tục và nhanh chóng.
+
+Ngay cả khi nhóm làm việc cùng trên một Bối cảnh giới hạn thì vẫn có thể có lỗi.
+
+=> Vì vậy, CI/CD tạo ra một quy trình tự động và liên tục từ việc tích hợp mã nguồn, kiểm thử tự động, đến quá trình triển khai, giúp tăng cường chất lượng phần mềm, giảm thời gian và rủi ro trong quá trình phát triển phần mềm.
+
+**Continuous Integration (CI): ** Đây là một phương pháp phát triển phần mềm mà ở đó, các thành viên trong nhóm phát triển tích hợp mã nguồn của họ vào một hệ thống chung thường xuyên - thường là hàng ngày. Mục tiêu của CI là giảm xung đột giữa các phiên bản mã nguồn khác nhau, giúp phát hiện và sửa lỗi sớm hơn. Khi một nhóm sử dụng CI, mã nguồn mới được tự động kiểm thử và xây dựng mỗi khi tích hợp vào hệ thống.
+
+**Continuous Delivery (CD): ** Sau khi mã nguồn đã được tích hợp, Continuous Delivery tập trung vào việc tự động hóa quá trình triển khai (deployment) để có thể triển khai ứng dụng vào môi trường sản xuất một cách nhanh chóng và đáng tin cậy. Điều này có nghĩa là mọi thay đổi trong mã nguồn có thể tự động triển khai vào môi trường thử nghiệm hoặc môi trường sản xuất mà không cần sự can thiệp thủ công.
+
+
+<!---->
+
+
+
+
+
+**Bản đồ bối cảnh (Context Maps)**
+
+Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ.
+
+=> Do đó, các nhóm phải nỗ lực để ghi lại mối quan hệ giữa các điểm tiếp xúc thông qua việc sử dụng Bản đồ bối cảnh.
+
+Bản đồ bối cảnh là sự thể hiện trực quan của hệ thống, thể hiện các thành phần, liên kết và mối quan hệ giữa chúng.
+
+Lợi ích của Bản đồ bối cảnh:
+
+Giúp các thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
+Giúp việc nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ bị ràng buộc.
+Giúp các nhóm đánh giá mức độ hợp tác cần thiết với các nhóm khác.
+Giúp sàng lọc các liên hệ được giới hạn và các mô hình.
+Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
+
+
+
+
+

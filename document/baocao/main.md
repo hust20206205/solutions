@@ -368,7 +368,7 @@ Yêu cầu nghiệp vụ Xác định nội dung, phạm vi, mục tiêu và ch�
 
 Trang web "https: //hoadondientu.gdt.gov.vn" là trang web do Tổng Cục Thuế quản lý và sử dụng để thực hiện các quy trình liên quan đến thuế điện tử. Thực tế, yêu cầu đăng ký chính thức từ Tổng Cục Thuế dành cho cá nhân và doanh nghiệp. Vì em không có tài khoản chính thức nên ở đồ án này, em sẽ tạo Tổng Cục Thuế Demo - một phiên bản giả lập của hệ thống chính thức, dành cho mục đích học tập phục vụ cho bài toán chính là "Xây dựng kiến trúc vi dịch vụ cho bài toán hóa đơn điện tử".
 
-<!--  -->
+<!---->
 
 Các chức năng tổng quan của Tổng Cục Thuế Demo
 
@@ -409,7 +409,7 @@ Hóa đơn bán hàng dự trữ quốc gia
 <!--CHƯƠNG V. THÔNG BÁO HÓA ĐƠN CÓ SAI SÓT.............................. 130-->
 <!--CHƯƠNG VI. ĐỀ NGHỊ CẤP HÓA ĐƠN THEO LẦN PHÁT SINH ..... 143-->
 <!--CHƯƠNG VII. QUẢN LÝ HÓA ĐƠN PHÁT SINH........................-->
-<!--  -->
+<!---->
 
 ## Mẫu mail
 
@@ -965,11 +965,11 @@ Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghi�
 
 Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
 
-Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không?
+Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không? 
 
 Nếu không có giá trị kinh doanh thì chúng ta kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Nếu có thì có khả năng là miền phụ hỗ trợ. Nếu không thì đó là miền phụ chung.
 
-Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không?
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không? 
 
 Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
@@ -1218,7 +1218,7 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 
 <!--Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.-->
 
-Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau,
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, 
 
 Vì vậy, điều đó có nghĩa là lớp chống đổ vỡ cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
@@ -1536,7 +1536,7 @@ Repository trong ORM
 
 , gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
 
-# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
+# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi, 
 
 <!---->
 

@@ -138,39 +138,24 @@ Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh
 Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
 
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
 
 ![](pictures/CacMoHinhChienLuoc/0_CacMoHinhChienLuoc.png)
 
-<!--@Ngôn ngữ chung (Ubiquitous Language)-->
+<!-- $  Vẽ lại sau: -->
+<!-- Bối cảnh giới hạn (Bounded Context) -->
 
-Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
-
-Trong các lĩnh vực kinh doanh khác nhau, một thuật ngữ có thể được sử dụng trong nhiều miền, cùng với ý nghĩa khác nhau gây ra sự nhầm lẫn và hiểu sai cho các người phát triển phần mềm cũng như các chuyên gia ngành.
-
-<!--=> Thiết kế hướng miền đề xuất sử dụng ngôn ngữ chung để giải quyết những thách thức ngôn ngữ.-->
-
-Ngôn ngữ chung (Ubiquitous Language) là một trong những mô hình chiến lược của thiết kế hướng miền, thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh.
-Ngôn ngữ chung được xác định bởi từ vựng và có định nghĩa rõ ràng về ngữ cảnh từ vựng áp dụng.
-
-<!--Một số đặc điểm:-->
-
-Ngôn ngữ chung được sử dụng bởi cả chuyên gia ngành và chuyên gia công nghệ.
-Có nhiều ngôn ngữ chung trong một tổ chức được mỗi nhóm tạo và quản lý một cách độc lập.
-Việc tạo ra ngôn ngữ chung là một quá trình liên tục. Ngôn ngữ chung phát triển theo thời gian thông qua sự cộng tác giữa doanh nghiệp và các chuyên gia công nghệ.
-
-Các thành viên phải sử dụng ngôn ngữ chung cho công việc và trong toàn bộ hệ thống như:
-
-Sử dụng trong cuộc thảo luận trao đổi giữa các chuyên gia ngành và các chuyên gia công nghệ
-Sử dụng trong các tài liệu phát triển của nhóm
-Sử dụng trong sản phẩm và kiểm thử phần mềm
-
-<!--$VD: Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.-->
-
-![](pictures/NgonNguChung/___NgonNguPhoBien.png)
-
-<!--Hướng dẫn 5/7-->
-
-<!--!======================================================-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
 Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
@@ -206,6 +191,36 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 
 <!--Hướng dẫn 5/10-->
 
+<!--@Ngôn ngữ chung (Ubiquitous Language)-->
+
+Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
+
+Trong các lĩnh vực kinh doanh khác nhau, một thuật ngữ có thể được sử dụng trong nhiều miền, cùng với ý nghĩa khác nhau gây ra sự nhầm lẫn và hiểu sai cho các người phát triển phần mềm cũng như các chuyên gia ngành.
+
+<!--=> Thiết kế hướng miền đề xuất sử dụng ngôn ngữ chung để giải quyết những thách thức ngôn ngữ.-->
+
+Ngôn ngữ chung (Ubiquitous Language) là một trong những mô hình chiến lược của thiết kế hướng miền, thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh.
+Ngôn ngữ chung được xác định bởi từ vựng và có định nghĩa rõ ràng về ngữ cảnh từ vựng áp dụng.
+
+<!--Một số đặc điểm:-->
+
+Ngôn ngữ chung được sử dụng bởi cả chuyên gia ngành và chuyên gia công nghệ.
+Có nhiều ngôn ngữ chung trong một tổ chức được mỗi nhóm tạo và quản lý một cách độc lập.
+Việc tạo ra ngôn ngữ chung là một quá trình liên tục. Ngôn ngữ chung phát triển theo thời gian thông qua sự cộng tác giữa doanh nghiệp và các chuyên gia công nghệ.
+
+Các thành viên phải sử dụng ngôn ngữ chung cho công việc và trong toàn bộ hệ thống như:
+
+Sử dụng trong cuộc thảo luận trao đổi giữa các chuyên gia ngành và các chuyên gia công nghệ
+Sử dụng trong các tài liệu phát triển của nhóm
+Sử dụng trong sản phẩm và kiểm thử phần mềm
+
+<!--$VD: Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.-->
+
+![](pictures/NgonNguChung/___NgonNguPhoBien.png)
+
+<!--Hướng dẫn 5/7-->
+
+<!--!======================================================-->
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 

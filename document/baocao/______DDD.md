@@ -46,7 +46,7 @@ Miền được tạo thành từ nhiều miền phụ.
 
 <!--$VD: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
-Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.  
+Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
 Việc xác định các miền phụ liên quan đến việc chia nhỏ các khả năng kinh doanh thành các đơn vị kinh doanh gắn kết.
 
 <!--@Phân loại các miền phụ .-->

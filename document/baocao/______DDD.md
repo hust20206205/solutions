@@ -167,27 +167,21 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--Hướng dẫn 5/7-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--!======================================================-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
-Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
+Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
 
-=> Bối cảnh giới hạn giúp định rõ các ranh giới, chia miền thành các phần độc lập để giải quyết sự phức tạp trong mô hình doanh nghiệp.
-Bối cảnh giới hạn thể hiện phạm vi kinh doanh của vi dịch vụ.
+=> Bối cảnh giới hạn (Bounded Context) giúp định rõ các ranh giới, chia miền thành các phần độc lập để giải quyết sự phức tạp trong mô hình doanh nghiệp.
+
+Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
+
+<!-- Một vài cách  xác định bối cảnh giới hạn: -->
+
 Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ trong miền kinh doanh.
+Dựa vào sơ đồ cấu trúc tổ chức của doanh nghiệp.
+Dựa vào modules của các ứng dụng kiến trúc nguyên khối hiện tại (nếu việc phân chia tốt).
+Dựa vào trách nhiệm và hoạt động của chuyên gia ngành.
 
 <!--Một số đặc điểm:-->
 

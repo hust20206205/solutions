@@ -671,7 +671,7 @@ Bối cảnh A ràng buộc với bối cảnh B thì:
 Bối cảnh A đóng vai trò là bối cảnh ranh giới hạ lưu (Downstream)
 Bối cảnh B đóng vai trò là bối cảnh ranh giới thượng nguồn (Upstream)
 Bối cảnh giới hạn A có kiến thức về các mô hình trong Bối cảnh giới hạn B
-Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh bị chặn A
+Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A
 
 <!--D-U-->
 <!--!Mô hình khách hàng-nhà cung cấp (Customer-Supplier Pattern)-->

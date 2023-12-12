@@ -37,7 +37,7 @@ Và sự phụ thuộc này sẽ dẫn đến mất đi tính linh hoạt, xung 
 
 11
 00: 01: 57, 630--> 00: 02: 06, 600
-<!-- Và đây là vấn đề với mô hình miền chung. Bằng cách chia miền thành các phần độc lập được gọi là bối cảnh bị chặn. -->
+<!--Và đây là vấn đề với mô hình miền chung. Bằng cách chia miền thành các phần độc lập được gọi là bối cảnh giới hạn .-->
 
 12
 00: 02: 06, 870--> 00: 02: 19, 350
@@ -749,7 +749,7 @@ Mối quan hệ bất đối xứng trong bài học này, chúng ta học hai t
 
 2
 00: 00: 15, 780--> 00: 00: 32, 100
-Trong bài giảng trước chúng ta đã học về mối quan hệ đối xứng. Trong bài giảng này tôi sẽ trình bày chi tiết về mối quan hệ bất đối xứng giữa bối cảnh bị chặn trong một mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác.
+Trong bài giảng trước chúng ta đã học về mối quan hệ đối xứng. Trong bài giảng này tôi sẽ trình bày chi tiết về mối quan hệ bất đối xứng giữa bối cảnh giới hạn trong một mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác.
 
 3
 00: 00: 32, 220--> 00: 00: 53, 910
@@ -761,7 +761,7 @@ Vì vậy, điều này mô tả một mối quan hệ trong đó bối cảnh g
 
 5
 00: 01: 03, 210--> 00: 01: 15, 530
-Nó có kiến ​​thức về các mô hình và bối cảnh giới hạn. B Và vì mối quan hệ là bối cảnh ranh giới bất đối xứng nên B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh bị chặn.
+Nó có kiến ​​thức về các mô hình và bối cảnh giới hạn. B Và vì mối quan hệ là bối cảnh ranh giới bất đối xứng nên B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn .
 
 6
 00: 01: 15, 540--> 00: 01: 24, 240
@@ -1255,7 +1255,7 @@ Trong bài học này, chúng ta tìm hiểu về các đối tượng giá tr�
 
 2
 00: 00: 15, 300--> 00: 00: 23, 900
-Nói cách khác, giá trị, thuộc tính đối tượng và hành vi không ánh xạ trực tiếp tới các khái niệm cốt lõi trong bối cảnh bị chặn.
+Nói cách khác, giá trị, thuộc tính đối tượng và hành vi không ánh xạ trực tiếp tới các khái niệm cốt lõi trong bối cảnh giới hạn .
 
 3
 00: 00: 24, 450--> 00: 00: 38, 770

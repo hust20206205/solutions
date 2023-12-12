@@ -130,7 +130,6 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
 <!--$VD: Ở đồ án này, mô hình miền của em bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
-<!--!======================================================-->
 
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--Thiết kế hướng miền cung cấp 2 loại mẫu:-->
@@ -139,15 +138,41 @@ Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh
 Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
 
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--!======================================================-->
+<!--@Ngôn ngữ chung (Ubiquitous Language)-->
+Có những thách thức về mặt ngôn ngữ.   Trong các miền phụ khác nhau    thách thức về ngôn ngữ   có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia ngành.
 
+<!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 
-<!--@Ngôn ngữ chung (Ubiquitous Language)-->
-<!--!======================================================-->
 
-<!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi chúng ta cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
-<!--Có ý nghĩa khác nhau trong các miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền.-->
+<!-- Nhóm kinh doanh sử dụng ngôn ngữ kinh doanh, trong khi nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. -->
 
+<!-- Sự khác biệt về ngôn ngữ giữa các nhóm kinh doanh và I.T. các nhóm có thể dẫn đến những thách thức về ngôn ngữ. -->
+
+<!-- Thiết kế hướng miền đề xuất sử dụng ngôn ngữ chung để giải quyết những thách thức ngôn ngữ này. Tôi sẽ bắt đầu bài học này bằng một bài tập vui nhộn nhanh chóng. -->
+
+<!-- Thông điệp ở đây là cùng một giọng điệu được sử dụng ở các khu vực khác nhau có thể dẫn đến nhầm lẫn và điều đó đúng ngay cả đối với ngôn ngữ kinh doanh được sử dụng trong nhiều miền. -->
+
+<!-- Điều đó có nghĩa là nếu chúng ta đang sử dụng các thuật ngữ kinh doanh từ miền này sang miền khác thì điều đó có thể dẫn đến nhầm lẫn và hiểu sai. -->  
+<!-- Vì vậy, rõ ràng để hiểu miền hoặc để có được kiến ​​thức về miền, người ta phải hiểu ngôn ngữ được sử dụng bởi các chuyên gia ngành . -->  
+<!-- Thách thức ở đây là để xây dựng các hệ thống phức tạp, I.T. các nhóm phải học nhiều ngôn ngữ kinh doanh được các chuyên gia sử dụng trong bối cảnh các miền hoặc miền phụ khác nhau. -->
+ 
+<!-- Thách thức thứ hai là cùng một thuật ngữ có thể xuất hiện trong bối cảnh các lĩnh vực kinh doanh khác nhau. Ví dụ, trong trường hợp tài khoản tiết kiệm và miền phụ thẻ tín dụng, chúng ta sẽ thấy có một thuật ngữ chung là tín dụng và ý nghĩa của thuật ngữ chung này là khác nhau. --> 
+Vì vậy, thách thức ở đây là cùng một thời điểm trên nhiều miền có thể có ý nghĩa khác nhau, tùy thuộc vào ngữ cảnh và điều này có thể gây nhầm lẫn giữa các mục.
+ 
+Thử thách thứ ba liên quan đến việc nó có biệt ngữ riêng. Getters và setters tạo và xóa đối tượng DBI và nhiều lần tương tự.   
+
+Và việc dịch qua lại này dẫn đến việc mất ý nghĩa và nhầm lẫn giữa ID và nhóm miền.
+
+Tại thời điểm này, chúng ta có thể nói, được rồi, tôi biết vấn đề sẽ cho tôi biết giải pháp. Thiết kế hướng miền gợi ý thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh và ngôn ngữ này được tất cả các bên liên quan sử dụng, bao gồm cả nhóm CNTT.
+
+Ngôn ngữ này được gọi là ngôn ngữ chung . Đây là một trong những mô hình chiến lược trong thiết kế Theo nhu cầu.
+
+Trong các bài học sau, chúng ta sẽ tìm hiểu chi tiết về ngôn ngữ chung và chúng ta cũng sẽ tìm hiểu cách nó giúp chia miền thành nhiều phần phù hợp để xây dựng các vi dịch vụ .
+
+Đã đến lúc bắt đầu với những bài học quan trọng từ bài học này. NÓ. các nhóm phải học ngôn ngữ kinh doanh. NÓ. các nhóm có I.T. biệt ngữ và sự nhầm lẫn xảy ra do sự dịch thuật giữa miền và thiết kế hướng miền ngôn ngữ IP, chẳng hạn như việc tạo ra một ngôn ngữ chung phải được sử dụng bởi tất cả các bên liên quan, bao gồm cả CNTT.
+<!--  -->
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Lập trình viên tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các nhóm có thể dẫn đến những thách thức về giao tiếp.
 
 Thách thức đặt ra khi một thuật ngữ có thể xuất hiện trong bối cảnh của các lĩnh vực kinh doanh khác nhau. Đối với ngôn ngữ kinh doanh được sử dụng trong nhiều miền, cùng một thuật ngữ có thể có ý nghĩa khác nhau gây ra nhầm lẫn.
@@ -170,6 +195,7 @@ Việc tạo ra ngôn ngữ chung là một quá trình liên tục.
 ![](image-1.png)
 
 <!--Hướng dẫn 5/7-->
+
 <!---->
 
 <!--@Bối cảnh-->

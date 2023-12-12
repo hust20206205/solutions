@@ -76,6 +76,7 @@ for file_path in file_paths:
     content = content.replace('Ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
     content = content.replace('ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
     content = content.replace('bạn', '      chúng ta     ')
+    content = content.replace('Bạn', '      Chúng ta     ')
     content = content.replace('tên miền', '       miền   ')
     content = content.replace('Tên miền', '       Miền   ')
     # content = content.replace('.' 

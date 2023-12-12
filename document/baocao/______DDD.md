@@ -142,36 +142,24 @@ quy trình làm việc và hoạt động cũng như các khái niệm chính.
 <!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 
 <!--@Mô hình kinh doanh (Business Model Canvas)-->
-<!-- Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh. -->
+<!--Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh.-->
 <!--!Phân khúc khách hàng (Customer Segments)-->
-<!-- Các phân khúc khách hàng là lý do doanh nghiệp tồn tại, vì vậy chúng ta cần  phải xem xét  cẩn thận   khách hàng là ai. -->
-  <!-- $VD: với bài toán hóa đơn điện tử        phân khúc  khách hàng là   cá nhân, doanh nghiệp gọi chung là người nộp thuế -->
-<!--! phương án giá trị (Value Propositions)-->
-
-
-
-Bây giờ, loại giá trị nào đang mang lại cho mỗi khách hàng này? Đó là điều chúng ta cần phải suy nghĩ.
-
-<!--VD: lợi ích hóa đơn điện tử: nhanh, cháy, .....-->
-
-<!--! nguồn tiềm lực chính (Key Resources)-->
-
-Có nhiều nguồn lực mà doanh nghiệp yêu cầu, nhưng chúng ta cần suy nghĩ về những nguồn lực cần thiết cho việc đề xuất giá trị.
-Nói cách khác, có thể có nhiều nguồn lực mà doanh nghiệp cần, nhưng hãy nghĩ về những nguồn lực quan trọng mà doanh nghiệp không thể tồn tại nếu không có.
-
-<!--Không có tài xế, Uber không thể mang lại giá trị cho khách hàng.-->
-
+<!--Các phân khúc khách hàng là lý do doanh nghiệp tồn tại, vì vậy chúng ta cần phải xem xét cẩn thận khách hàng là ai.-->
+<!--$VD: với bài toán hóa đơn điện tử phân khúc khách hàng là cá nhân, doanh nghiệp gọi chung là người nộp thuế-->
+<!--!phương án giá trị (Value Propositions)-->
+<!-- Chúng ta cần phân tích xem  giá trị nào   mang lại cho mỗi khách hàng. -->
+  <!-- $VD:  lợi ích hóa đơn điện tử: nhanh, cháy, ..... -->
+<!--! nguồn tiềm lực chính (Key Resources)--> 
+<!-- Có thể có nhiều nguồn lực mà doanh nghiệp cần, nhưng chúng ta cần suy nghĩ về những nguồn lực quan trọng mà doanh nghiệp không thể tồn tại nếu không có. -->
+  <!-- $VD:  Không có tài xế, Uber không thể mang lại giá trị cho khách hàng. -->
 <!--! Đối tác chính (Key Partnerships)-->
-
-Tiếp theo là các đối tác chính là nhà cung cấp các nguồn lực chính cho doanh nghiệp.
-
+<!-- Các đối tác chính là nhà cung cấp các nguồn lực chính cho doanh nghiệp. -->
+  <!-- $VD:  -->
 <!--Trong trường hợp của Uber, chính tài xế là người sở hữu ô tô và những tài xế này trao quyền cho khách hàng. Tiếp theo là các nhà cung cấp công nghệ.-->
 <!--Uber không tạo ra tất cả các công nghệ cần thiết cho nền tảng của mình. Nó mua công nghệ từ các nhà cung cấp hoặc đối tác khác, chẳng hạn như nhà cung cấp công nghệ lập bản đồ.-->
 <!--Nó cũng phải có được sự cho phép hoạt động từ cơ quan nhà nước. Nếu không có sự cho phép phù hợp, Uber sẽ không được phép hoạt động.-->
-
 <!--! công việc chính (Key Activities)-->
-
-Doanh nghiệp cần thực hiện nhiều hoạt động theo các hoạt động trọng tâm. Bạn cần suy nghĩ về những hoạt động mà doanh nghiệp thực hiện để tạo ra giá trị cho khách hàng.
+<!-- Doanh nghiệp cần thực hiện nhiều hoạt động theo các hoạt động trọng tâm. Bạn cần suy nghĩ về những hoạt động mà doanh nghiệp thực hiện để tạo ra giá trị cho khách hàng. -->
 
 <!--Uber xây dựng và duy trì nền tảng và phần mềm.
 Uber luôn tìm kiếm tài xế mới nên việc tuyển dụng tài xế là một trong những hoạt động trọng tâm.-->

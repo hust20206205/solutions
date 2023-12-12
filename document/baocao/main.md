@@ -1,41 +1,46 @@
 <!--!======================================================-->
 
 - [1. Đồ án 2](#1-đồ-án-2)
- - [1.1. Trang bìa](#11-trang-bìa)
- - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
- - [1.3. Mục lục](#13-mục-lục)
- - [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
- - [1.5. Lời mở đầu](#15-lời-mở-đầu)
- - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
- - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
- - [1.8. Danh sách bảng](#18-danh-sách-bảng)
- - [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
- - [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
- - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
- - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
+  - [1.1. Trang bìa](#11-trang-bìa)
+  - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
+  - [1.3. Mục lục](#13-mục-lục)
+  - [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
+  - [1.5. Lời mở đầu](#15-lời-mở-đầu)
+  - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
+  - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
+  - [1.8. Danh sách bảng](#18-danh-sách-bảng)
+  - [1.9. Danh sách hình ảnh](#19-danh-sách-hình-ảnh)
+  - [1.10. Danh sách mã nguồn](#110-danh-sách-mã-nguồn)
+  - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
+  - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
 - [2. Giới thiệu chung](#2-giới-thiệu-chung)
- - [2.1. Giới thiệu về bài toán hóa đơn điện tử](#21-giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
- - [2.1.1. Hóa đơn](#211-hóa-đơn)
- - [2.1.2. Hóa đơn điện tử](#212-hóa-đơn-điện-tử)
- - [2.1.3. Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.](#213-bắt-buộc-sử-dụng-hóa-đơn-điện-tử-từ-01072022)
- - [2.1.4. Bản thể hiện của hóa đơn điện tử:](#214-bản-thể-hiện-của-hóa-đơn-điện-tử)
- - [2.1.5. Lưu trữ hóa đơn điện tử](#215-lưu-trữ-hóa-đơn-điện-tử)
- - [2.1.6. Một số lợi ích của hóa đơn điện tử:](#216-một-số-lợi-ích-của-hóa-đơn-điện-tử)
- - [2.2. Giới thiệu về kiến trúc vi dịch vụ](#22-giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
- - [2.2.1. Kiến trúc nguyên khối](#221-kiến-trúc-nguyên-khối)
- - [2.2.2. Kiến trúc vi dịch vụ](#222-kiến-trúc-vi-dịch-vụ)
- - [2.2.3. Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ](#223-một-số-đặc-điểm-và-ưu-điểm-của-kiến-trúc-vi-dịch-vụ)
- - [2.2.4. Một số nhược điểm và thách thức của kiến trúc vi dịch vụ](#224-một-số-nhược-điểm-và-thách-thức-của-kiến-trúc-vi-dịch-vụ)
- - [2.3. Giới thiệu về thiết kế hướng miền](#23-giới-thiệu-về-thiết-kế-hướng-miền)
+  - [2.1. Giới thiệu về bài toán hóa đơn điện tử](#21-giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
+    - [2.1.1. Hóa đơn](#211-hóa-đơn)
+    - [2.1.2. Hóa đơn điện tử](#212-hóa-đơn-điện-tử)
+    - [2.1.3. Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.](#213-bắt-buộc-sử-dụng-hóa-đơn-điện-tử-từ-01072022)
+    - [2.1.4. Bản thể hiện của hóa đơn điện tử:](#214-bản-thể-hiện-của-hóa-đơn-điện-tử)
+    - [2.1.5. Lưu trữ hóa đơn điện tử](#215-lưu-trữ-hóa-đơn-điện-tử)
+    - [2.1.6. Một số lợi ích của hóa đơn điện tử:](#216-một-số-lợi-ích-của-hóa-đơn-điện-tử)
+  - [2.2. Giới thiệu về kiến trúc vi dịch vụ](#22-giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
+    - [2.2.1. Kiến trúc nguyên khối](#221-kiến-trúc-nguyên-khối)
+    - [2.2.2. Kiến trúc vi dịch vụ](#222-kiến-trúc-vi-dịch-vụ)
+    - [2.2.3. Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ](#223-một-số-đặc-điểm-và-ưu-điểm-của-kiến-trúc-vi-dịch-vụ)
+    - [2.2.4. Một số nhược điểm và thách thức của kiến trúc vi dịch vụ](#224-một-số-nhược-điểm-và-thách-thức-của-kiến-trúc-vi-dịch-vụ)
+  - [2.3. Giới thiệu về thiết kế hướng miền](#23-giới-thiệu-về-thiết-kế-hướng-miền)
 - [3. Yêu cầu nghiệp vụ](#3-yêu-cầu-nghiệp-vụ)
+- [Yêu cầu nghiệp vụ](#yêu-cầu-nghiệp-vụ)
+  - [Yêu cầu nghiệp vụ của bài toán phụ](#yêu-cầu-nghiệp-vụ-của-bài-toán-phụ)
+  - [Mẫu mail](#mẫu-mail)
+- [Chi tiết các chức năng của Tổng cục thuế Demo:](#chi-tiết-các-chức-năng-của-tổng-cục-thuế-demo)
+- [Tự động](#tự-động)
 - [4. Các sơ đồ phân tích thiết kế hệ thống](#4-các-sơ-đồ-phân-tích-thiết-kế-hệ-thống)
- - [4.1. UML Use Case Diagrams](#41-uml-use-case-diagrams)
- - [4.2. UML Activity Diagrams](#42-uml-activity-diagrams)
- - [4.3. UML Sequence Diagrams](#43-uml-sequence-diagrams)
- - [4.4. UML Class Diagrams](#44-uml-class-diagrams)
-- [5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi, ](#5- dịch vụ -mesh-cicd-microfe-api-gateway-cache-redis-log-xử-lí-lỗi)
+  - [4.1. UML Use Case Diagrams](#41-uml-use-case-diagrams)
+  - [4.2. UML Activity Diagrams](#42-uml-activity-diagrams)
+  - [4.3. UML Sequence Diagrams](#43-uml-sequence-diagrams)
+  - [4.4. UML Class Diagrams](#44-uml-class-diagrams)
+- [5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,](#5-service-mesh-cicd-microfe-api-gateway-cache-redis-log-xử-lí-lỗi)
 - [6. Container và Container Orchestration](#6-container-và-container-orchestration)
-- [7. Broker Pattern dịch vụ dicovery](#7-broker- mẫu -dịch-vụ-dicovery)
+- [7. Broker Pattern dịch vụ dicovery](#7-broker-pattern-dịch-vụ-dicovery)
 - [8. Dependency Injection](#8-dependency-injection)
 - [9. Kết luận tổng kết](#9-kết-luận-tổng-kết)
 - [10. Tài liệu tham khảo](#10-tài-liệu-tham-khảo)
@@ -355,6 +360,514 @@ Thiết kế hướng miền xác định và tổ chức các dịch vụ dựa
 
 Trình bày nội dung yêu cầu nghiệp vụ
 
+# Yêu cầu nghiệp vụ
+
+Yêu cầu nghiệp vụ Xác định nội dung, phạm vi, mục tiêu và chức năng mong muốn của hệ thống.
+
+## Yêu cầu nghiệp vụ của bài toán phụ
+
+Trang web "https: //hoadondientu.gdt.gov.vn" là trang web do Tổng Cục Thuế quản lý và sử dụng để thực hiện các quy trình liên quan đến thuế điện tử. Thực tế, yêu cầu đăng ký chính thức từ Tổng Cục Thuế dành cho cá nhân và doanh nghiệp. Vì em không có tài khoản chính thức nên ở đồ án này, em sẽ tạo Tổng Cục Thuế Demo - một phiên bản giả lập của hệ thống chính thức, dành cho mục đích học tập phục vụ cho bài toán chính là "Xây dựng kiến trúc vi dịch vụ cho bài toán hóa đơn điện tử".
+
+<!--  -->
+
+Các chức năng tổng quan của Tổng Cục Thuế Demo
+
+Để đơn giản hóa bài toán, các chức năng trong đồ án này đã thay đổi so với bài toán thực tế trong tài liệu hướng dẫn sử dụng cổng thông tin điện tử của Tổng Cục Thuế cho hóa đơn điện tử:
+
+<!--Bỏ qua xxxxxxxx-->
+<!--Bỏ qua xxxxxxxx-->
+<!--Bỏ qua xxxxxxxx-->
+
+<!--Hình thức hóa đơn:-->
+
+Có mã của cơ quan thuế
+Không có mã của cơ quan thuế
+
+<!--Loại hóa đơn khác nhau:-->
+
+Hóa đơn điện tử giá trị gia tăng
+Hóa đơn bán hàng
+Hóa đơn bán tài sản công
+Hóa đơn bán hàng dự trữ quốc gia
+...
+
+<!--Ký số: thông tin chứng thư số là chữ ký số theo đúng quy định của Bộ Thông tin và Truyền thông.-->
+
+<!--Ký hiệu hóa đơn-->
+
+<!--Chức năng: "Lập hóa đơn điều chỉnh"-->
+
+<!--Không có phê duyệt hóa đơn-->
+
+<!--Đọc hóa đơn XML-->
+
+<!--Có mã của cơ quan thuế-->
+<!--Không có mã của cơ quan thuế-->
+
+<!--Phát hành hóa đơn điện tử-->
+
+<!--CHƯƠNG V. THÔNG BÁO HÓA ĐƠN CÓ SAI SÓT.............................. 130-->
+<!--CHƯƠNG VI. ĐỀ NGHỊ CẤP HÓA ĐƠN THEO LẦN PHÁT SINH ..... 143-->
+<!--CHƯƠNG VII. QUẢN LÝ HÓA ĐƠN PHÁT SINH........................-->
+<!--  -->
+
+## Mẫu mail
+
+<!--// NNT nhận được thư điện tử của CQT thông báo tiếp nhận tờ khai đăng ký-->
+
+Trong thời gian 15 phút kể từ khi nhận được tờ khai đăng ký của NNT, Cổng điện tử gửi thư điện tử thông báo về việc tiếp nhận/không tiếp nhận tờ khai đăng ký của NNT.
+
+Nội dung mẫu:
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo về việc tiếp nhận tờ khai đăng ký sử dụng hóa đơn điện tử
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Căn cứ Tờ khai đăng ký sử dụng hóa đơn điện tử - Ban hành kèm theo Nghị định số 123/2020/NĐ-CP của người nộp thuế (NNT) gửi tới cơ quan thuế ngày {{Ngày nhận}}, cơ quan thuế tiếp nhận Tờ khai đăng ký sử dụng hóa đơn điện tử của NNT, cụ thể như sau:
+Tên tờ khai: Tờ khai đăng ký sử dụng hóa đơn điện tử
+Mã giao dịch điện tử: {{Mã số thuế + Thời gian}}
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+<!--NNT nhận được thư điện tử của CQT chấp nhận/không chấp nhận đăng ký sử dụng HĐĐT-->
+
+Trong thời gian 01 ngày làm việc kể từ ngày Cổng điện tử gửi thông báo về việc tiếp nhận, cơ quan thuế quản lý sẽ gửi thông báo về việc chấp nhận/không chấp nhận đăng ký sử dụng hóa đơn điện tử.
+
+Nội dung mẫu chấp nhận đăng ký sử dụng HĐĐT:
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo về việc chấp nhận đăng ký sử dụng hóa đơn điện tử
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Sau khi xem xét tờ khai đăng ký sử dụng hóa đơn điện tử của NNT gửi đến cơ quan thuế ngày {{Ngày nhận}}.
+Cơ quan thuế thông báo chấp nhận đề nghị đăng ký sử dụng hóa đơn điện tử của NNT.
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+Nội dung mẫu không chấp nhận đăng ký sử dụng HĐĐT:
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo về việc không chấp nhận đăng ký sử dụng hóa đơn điện tử
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Sau khi xem xét tờ khai đăng ký sử dụng hóa đơn điện tử của NNT gửi đến cơ quan thuế ngày {{Ngày nhận}}.
+Cơ quan thuế thông báo không chấp nhận đề nghị đăng ký sử dụng hóa đơn điện tử của NNT.
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+<!--NNT nhận được Thông báo tài khoản sử dụng tra cứu HĐĐT trên cổng thông tin điện tử của TCT-->
+
+Sau khi NNT nhận được thông báo về việc chấp nhận đăng ký sử dụng hóa đơn điện tử, cơ quan thuế gửi thông báo tài khoản sử dụng của NNT qua thư điện tử bao gồm Tên tài khoản và Mật khẩu.
+
+Nội dung mẫu:
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo tài khoản sử dụng tra cứu HĐĐT trên cổng thông tin điện tử của TCT
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Sau khi xem xét tờ khai đăng ký sử dụng hóa đơn điện tử cơ quan thuế tiếp nhận ngày {{Ngày nhận}}.
+Cơ quan thuế thông báo chấp nhận đề nghị đăng ký sử dụng hóa đơn điện tử của NNT và gửi thông tin tài khoản sử dụng tra cứu HĐĐT trên cổng thông tin điện tử của TCT như sau:
+Tên tài khoản: {{admin + Mã số thuế}}
+Mật khẩu: {{Mật khẩu}}
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!--NNT nhận được thư điện tử của CQT thông báo tiếp nhận tờ khai đăng ký thay đổi-->
+
+Trong thời gian 15 phút kể từ khi nhận được tờ khai đăng ký của NNT, Cổng điện tử gửi thư điện tử thông báo về việc tiếp nhận/không tiếp nhận tờ khai đăng ký thay đổi thông tin đăng ký sử dụng của NNT.
+
+Nội dung mẫu:
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo về việc tiếp nhận tờ khai đăng ký thay đổi thông tin đăng ký sử dụng của NNT
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Căn cứ Tờ khai đăng ký thay đổi thông tin đăng ký sử dụng của NNT gửi tới cơ quan thuế ngày {{Ngày nhận}}, cơ quan thuế tiếp nhận Tờ khai đăng ký sử dụng hóa đơn điện tử của NNT, cụ thể như sau:
+Tên tờ khai: Tờ khai đăng ký thay đổi thông tin đăng ký sử dụng của NNT
+Mã giao dịch điện tử: {{Mã số thuế + Thời gian}}
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+<!--NNT nhận được thư điện tử của CQT chấp nhận/không chấp nhận đăng ký sử dụng HĐĐT-->
+
+Trong thời gian 01 ngày làm việc kể từ ngày Cổng điện tử gửi thông báo về việc tiếp nhận, cơ quan thuế quản lý sẽ gửi thông báo về việc chấp nhận/không chấp nhận đăng ký thay đổi thông tin đăng ký sử dụng của NNT.
+
+Nội dung mẫu chấp nhận đăng ký thay đổi thông tin đăng ký sử dụng của NNT
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo về việc chấp nhận đăng ký thay đổi thông tin đăng ký sử dụng của NNT
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Sau khi xem xét tờ khai đăng ký thay đổi thông tin đăng ký sử dụng của NNT gửi đến cơ quan thuế ngày {{Ngày nhận}}.
+Cơ quan thuế thông báo chấp nhận đề nghị đăng ký thay đổi thông tin đăng ký sử dụng của NNT.
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+Nội dung mẫu không chấp nhận đăng ký thay đổi thông tin đăng ký sử dụng của NNT
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo về việc không chấp nhận đăng ký thay đổi thông tin đăng ký sử dụng của NNT
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Sau khi xem xét tờ khai đăng ký thay đổi thông tin đăng ký sử dụng của NNT gửi đến cơ quan thuế ngày {{Ngày nhận}}.
+Cơ quan thuế thông báo không chấp nhận đề nghị đăng ký thay đổi thông tin đăng ký sử dụng của NNT.
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!--Sau khi gửi yêu cầu lấy lại mật khẩu NNT sẽ nhận được thông báo của CQT qua gửi thư điện tử-->
+
+Nội dung mẫu:
+
+```
+Tiêu đề: (Tổng cục thuế Demo) Thông báo về việc lấy lại mật khẩu
+Kính gửi: {{Tên NNT}}
+Mã số thuế: {{Mã số thuế}}
+
+Sau khi xem xét yêu cầu lấy lại mật khẩu của NNT gửi đến cơ quan thuế ngày {{Ngày nhận}}.
+Cơ quan thuế gửi thông tin tài khoản sử dụng tra cứu HĐĐT trên cổng thông tin điện tử của TCT như sau:
+Tên tài khoản: {{Tên tài khoản}}
+Mật khẩu mới: {{Mật khẩu mới}}
+
+Cơ quan thuế thông báo để NNT được biết và thực hiện.
+```
+
+Các chức năng tổng quan của Tổng Cục Thuế Demo bao gồm:
+
+<!--QUẢN LÝ TÀI KHOẢN-->
+
+Đăng ký sử dụng hóa đơn điện tử
+Thay đổi đăng ký sử dụng hóa đơn điện tử
+Đăng nhập tài khoản
+Đăng xuất tài khoản
+Đổi mật khẩu
+Quên mật khẩu
+
+<!--QUẢN LÝ HỆ THỐNG-->
+
+Quản lý vai trò
+Quản lý người dùng
+
+<!--QUẢN LÝ DANH MỤC-->
+
+Danh mục khách hàng
+Danh mục hàng hóa
+
+<!--QUẢN LÝ HÓA ĐƠN ĐIỆN TỬ-->
+
+Lập hóa đơn mới
+Lập hóa đơn thay thế
+Hủy hóa đơn
+
+<!--TRA CỨU HÓA ĐƠN-->
+
+Tra cứu hóa đơn khi NNT chưa đăng nhập
+Tra cứu hóa đơn khi NNT đã đăng nhập
+
+<!--GỬI PHẢN HỒI QUA THƯ ĐIỆN TỬ-->
+
+Gửi thông tin của TCT đến NNT
+
+# Chi tiết các chức năng của Tổng cục thuế Demo:
+
+Chi tiết các chức năng của Tổng cục thuế Demo:
+
+QUẢN LÝ TÀI KHOẢN
+
+Quản lý tài khoản là một chức năng phổ biến trong nhiều ứng dụng. Chức năng này đảm bảo tính bảo mật và an toàn trong việc sử dụng tài khoản.
+
+<!--Chức năng: "Đăng ký sử dụng hóa đơn điện tử"-->
+
+NNT nhập MST có 10 ký tự cho cá nhân, doanh nghiệp hoặc 14 ký tự cho chi nhánh của doanh nghiệp với định dạng "Mã số thuế doanh nghiệp-Mã chi nhánh".
+Ví dụ:
+Mã số thuế 10 ký tự: 0123456789
+Mã số thuế 14 ký tự: 0123456789-001
+
+Hệ thống tự động hiển thị thông tin Đăng ký thuế của NNT bao gồm "Tên của NNT", "Mã cơ quan thuế quản lý" và "Tên cơ quan thuế quản lý".
+
+Tiếp theo, NNT nhập các thông tin hợp lệ: "Người liên hệ", "Điện thoại liên hệ", "Địa chỉ liên hệ", "Thư điện tử".
+
+Cuối cùng, NNT gửi đăng ký với thông tin "Ngày thực hiện" là ngày NNT đang đăng ký hóa đơn điện tử.
+
+Sau khi gửi thông tin đăng kí NNT sẽ nhận được thông báo làm việc của CQT qua gửi thư điện tử về việc tiếp nhận và chấp nhận đăng ký, cùng với tài khoản và mật khẩu cho NNT.
+
+<!--// Nếu mã số thuế không đúng định dạng, hệ thống sẽ thông báo: "Mã số thuế phải có độ dài 10 hoặc 14 ký tự và đúng định dạng".-->
+<!--// Nếu mã số thuế tồn tại, hệ thống kiểm tra xem NNT đã đăng ký sử dụng hóa đơn điện tử khác chưa. Nếu đã tồn tại tờ khai đăng ký, hệ thống thông báo: "Đã tồn tại tờ khai đăng ký sử dụng hóa đơn điện tử khác của NNT đã được cơ quan thuế chấp nhận".-->
+
+<!--// Người liên hệ: phải chứa một chuỗi kí tự và không được để trống.-->
+<!--// Điện thoại liên hệ: phải chứa một chuỗi kí tự số và dấu "+" ở đầu chuỗi (nếu có) và không được để trống.-->
+<!--// Địa chỉ liên hệ: phải chứa một chuỗi kí tự và không được để trống.-->
+<!--// Thư điện tử: phải chứa một chuỗi kí tự có định dạng email và không được để trống.-->
+
+<!--// Khi NNT nhấn nút "Ký gửi", hệ thống sẽ hiển thị thông báo hỏi "Xác nhận ký gửi" với hai lựa chọn là "Đồng ý" hoặc "Hủy bỏ".-->
+<!--// Nếu NNT chọn "Đồng ý", hệ thống sẽ thông báo: "Gửi thông tin đăng ký sử dụng hóa đơn điện tử cho cơ quan thuế thành công".-->
+
+<!---->
+<!--Chức năng: "Thay đổi đăng ký sử dụng hóa đơn điện tử"-->
+
+Trong quá trình sử dụng hóa đơn điện tử, khi NNT muốn thay đổi đăng ký sử dụng hóa đơn, họ có thể sử dụng chức năng "Thay đổi đăng ký sử dụng hóa đơn điện tử".
+
+NNT Nhập thông tin có thể thay đổi, bao gồm: Tên NNT, Người liên hệ, Điện thoại liên hệ, Địa chỉ liên hệ, Thư điện tử.
+Cuối cùng, NNT gửi đăng ký thay đổi với thông tin "Ngày thực hiện" là ngày NNT đang đăng ký thay đổi hóa đơn điện tử.
+
+Sau khi gửi thông tin thay đổi đăng ký, NNT sẽ nhận được thông báo làm việc từ cơ quan thuế qua thư điện tử về việc tiếp nhận và chấp nhận thay đổi đăng ký cho NNT.
+
+<!--Chức năng: "Đăng nhập tài khoản"-->
+
+Sau khi CQT gửi thư điện tử chứa tài khoản và mật khẩu cho NNT, NNT thực hiện nhập đầy đủ thông tin bao gồm: Tên đăng nhập, Mật khẩu để thực hiện việc đăng nhập vào tài khoản.
+
+<!--Chức năng: "Đăng xuất tài khoản"-->
+
+Chức năng để NNT đăng xuất tài khoản.
+
+<!--Chức năng: "Đổi mật khẩu"-->
+
+NNT cung cấp đầy đủ thông tin bao gồm: Mật khẩu cũ, Mật khẩu mới và Nhập lại mật khẩu mới để thực hiện việc thay đổi mật khẩu.
+
+<!--Chức năng: "Quên mật khẩu"-->
+
+NNT cung cấp đầy đủ thông tin bao gồm: Tên đăng nhập, Thư điện tử. Sau đó, nhấn "Quên mật khẩu" để khôi phục mật khẩu. CQT gửi mật khẩu mới về email của NNT.
+
+<!--QUẢN LÝ HỆ THỐNG-->
+
+<!--Chức năng: "Quản lý vai trò"-->
+
+Người quản trị hệ thống (admin) là một vai trò cố định được phép sử dụng tất cả các chức năng trên Cổng điện tử.
+Người quản trị hệ thống có thể thực hiện CRUD "Vai trò" với các thông tin bao gồm: "ID", "Tên vai trò" và "Quyền".
+
+Các quyền bao gồm:
+Thay đổi đăng ký sử dụng hóa đơn điện tử
+Quản lý vai trò
+Quản lý người dùng
+Quản lí danh mục
+Quản lí hóa đơn
+Tra cứu hóa đơn
+
+<!--Chức năng: "Quản lý người dùng"-->
+
+Người quản trị hệ thống có thể thực hiện CRUD "Người dùng" với các thông tin bao gồm: "Tên người dùng", "Mật khẩu", "Điện thoại", "Thư điện tử" và "Vai trò".
+
+<!--QUẢN LÝ DANH MỤC-->
+
+<!--Chức năng: "Danh mục khách hàng"-->
+
+Chức năng này thực hiện CRUD "Khách hàng" có các thông tin: "Mã khách hàng", "Tên khách hàng", "Mã số thuế", "Tên NNT", "Địa chỉ", "SĐT khách hàng", Số tài khoản, Ngân hàng
+
+<!--Chức năng: "Danh mục hàng hóa"-->
+
+Chức năng này thực hiện CRUD "Hàng hóa" có các thông tin: "Mã hàng hóa, dịch vụ", "Tên hàng hóa, dịch vụ", "Đơn vị tính", "Đơn giá", "Thuế suất".
+
+<!--QUẢN LÝ HÓA ĐƠN ĐIỆN TỬ-->
+
+<!--Chức năng: "Lập hóa đơn mới"-->
+
+Nhập thông tin người bán: MST người bán, Tên người bán, Địa chỉ người bán, Số điện thoại người bán.
+
+Nhập thông tin người mua: Mã khách hàng, Tên khách hàng, Mã số thuế, Địa chỉ khách hàng, SĐT khách hàng.
+
+Nhập thông tin hàng hóa, dịch vụ: "Số thứ tự", "Mã hàng hóa, dịch vụ", "Tên hàng hóa, dịch vụ", "Đơn vị tính", "Đơn giá", "Thuế suất" và "Số lượng".
+
+Hệ thống tự động tính toán:
+
+- Ngày lập hóa đơn sẽ tự động là ngày hiện tại khi người lập tạo hóa đơn mới.
+
+- Tổng tiền trước thuế.
+
+- Tổng tiền sau thuế.
+
+<!--Chức năng: "Lập hóa đơn thay thế"-->
+
+Chức năng này cho phép thay đổi các thông tin trong hóa đơn gốc.
+
+Lưu ý:
+
+- Hãy lưu trữ thông tin ID của hóa đơn thay thế trong trạng thái "Bị thay thế" của hóa đơn gốc.
+
+- Hãy lưu trữ thông tin ID của hóa đơn gốc trong trạng thái "Thay thế" của hóa đơn thay thế.
+
+<!--Chức năng: "Hủy hóa đơn"-->
+
+Chức năng này cho phép xóa hóa đơn và các hóa đơn thay thế liên quan.
+
+<!--TRA CỨU HÓA ĐƠN-->
+
+Người sử dụng có thể thực hiện tra cứu hóa đơn trên cổng thông tin điện tử theo 2 cách:
+Cách 1: Tra cứu hóa đơn khi NNT chưa đăng nhập
+Cách 2: Tra cứu hóa đơn khi NNT đã đăng nhập
+
+<!--Chức năng: "Tra cứu hóa đơn khi NNT chưa đăng nhập"-->
+
+<!--Tra cứu thông tin hóa đơn-->
+
+Người tra cứu nhập thông tin bao gồm: Mã số thuế người bán, Số hóa đơn, Tổng tiền thuế, Tổng tiền thanh toán, Ngày lập hóa đơn.
+
+<!--Kết quả:-->
+<!--- Nếu hóa đơn điện tử không hợp lệ, hệ thống sẽ hiển thị thông báo: "Không tồn tại hóa đơn có thông tin trùng khớp với các thông tin tổ chức, cá nhân tìm kiếm”.-->
+<!--- Nếu hóa đơn điện tử hợp lệ, hệ thống sẽ hiển thị thông báo: "Tồn tại hóa đơn có thông tin trùng khớp với các thông tin tổ chức, cá nhân tìm kiếm".-->
+<!--- Nếu hóa đơn tìm kiếm là hóa đơn thay thế, bị thay thế hệ thống sẽ hiển thị thông tin bổ sung về hóa đơn liên quan: "Hóa đơn này là hóa đơn thay thế cho hóa đơn có ID: {{ID}}" hoặc "Hóa đơn này là hóa đơn bị thay thế của hóa đơn có ID: {{ID}}".-->
+
+<!--Tra cứu thông tin "Mã số thuế"-->
+
+Người tra cứu nhập thông tin bao gồm: Mã số thuế.
+
+<!--Kết quả:-->
+<!--- Nếu đã đăng kí, hệ thống sẽ hiển thị thông báo: “MST 0107001729 đã đăng ký sử dụng hóa đơn điện tử theo Nghị định 123/2020/NĐ-CP".-->
+<!--- Nếu NNT chưa đăng kí hoặc đã đăng kí nhưng cơ quan thuế có thông báo về việc không được chấp nhận đăng kí sử dụng hóa đơn điện tử, hệ thống sẽ hiển thị thông báo: “MST 0107001728 chưa sử dụng hóa đơn điện tử theo Nghị định 123/2020/NĐ-CP".-->
+<!--Chức năng: "Tra cứu hóa đơn khi NNT đã đăng nhập"-->
+
+Cổng điện tử hỗ trợ tra cứu 2 loại hóa đơn là hóa đơn bán ra và hóa đơn mua vào.
+
+Người tra cứu nhập thông tin tra cứu bao gồm: Mã số thuế người bán, Ngày lập hóa đơn và Số hóa đơn.
+
+Cổng điện tử hỗ trợ các chức năng sau: Xem thông tin hóa đơn, In hóa đơn và Xuất hóa đơn (định dạng Excel, XML, PDF).
+
+<!--GỬI PHẢN HỒI QUA THƯ ĐIỆN TỬ-->
+
+<!--- Gửi thông tin làm việc của TCT cho yêu cầu của NNT-->
+
+<!--$ NNT nhận được thư điện tử của CQT thông báo tiếp nhận tờ khai đăng ký-->
+
+<!--$ NNT nhận được thư điện tử của CQT chấp nhận/không chấp nhận đăng ký sử dụng HĐĐT-->
+
+<!--$ NNT nhận được Thông báo tài khoản sử dụng tra cứu HĐĐT trên cổng thông tin điện tử của TCT-->
+
+<!--$ NNT nhận được thư điện tử của CQT thông báo tiếp nhận tờ khai đăng ký thay đổi-->
+
+<!--$ NNT nhận được thư điện tử của CQT chấp nhận/không chấp nhận đăng ký sử dụng HĐĐT-->
+<!--Yêu cầu nghiệp vụ của bài toán chính-->
+
+<!--Các chức năng của bài toán chính-->
+
+<!--THÔNG BÁO-->
+
+Chức năng CRUD "Thông báo" bao gồm các thông tin: ID, tiêu đề, nội dung, thời gian.
+
+<!--QUẢN LÝ TÀI KHOẢN-->
+
+Tương tự "Tổng Cục Thuế Demo" với các chức năng sau:
+
+Đăng ký
+Đăng nhập
+Đăng xuất
+Quên mật khẩu
+Xem thông tin
+Thay đổi thông tin
+Đổi mật khẩu
+
+<!--CẤU HÌNH EMAIL-->
+
+Cấu hình bao gồm:
+
+Địa chỉ email
+Mật khẩu email
+
+Loại email gửi:
+
+Xác nhận tài khoản mới
+Quên mật khẩu
+Gửi thông tin hóa đơn cho khách hàng
+
+<!--QUẢN LÝ DANH MỤC-->
+
+Tương tự "Tổng Cục Thuế Demo" bao gồm:
+
+Danh mục khách hàng
+Danh mục hàng hóa
+
+<!--QUẢN LÝ HỆ THỐNG-->
+
+Tương tự "Tổng Cục Thuế Demo" nhưng có thêm quyền "Cấu hình Email".
+
+<!--QUẢN LÝ HÓA ĐƠN ĐIỆN TỬ-->
+
+Tương tự "Tổng Cục Thuế Demo"
+
+<!--TRA CỨU HÓA ĐƠN-->
+
+Có 3 cách tra cứu:
+
+Tra cứu 1 hóa đơn theo "Mã hóa đơn"
+Tra cứu tất cả hóa đơn bán ra
+Tra cứu tất cả hóa đơn mua vào
+
+<!--BÁO CÁO VÀ PHÂN TÍCH HÓA ĐƠN-->
+
+Các chức năng bao gồm:
+
+Số lượng hóa đơn đã sử dụng
+Tổng tiền trước thuế
+Tổng tiền sau thuế
+Tổng số tiền thuế
+Số lượng khách hàng
+Số lượng sản phẩm
+
+# Tự động
+
+Nghiệp vụ của bài toán chính
+Các chức năng của bài toán chính
+THÔNG BÁO
+CRUD thông báo có (id, tiêu đề, nội dung, thời gian)
+TÀI KHOẢN
+Sử dụng tài khoản của "Tổng cục Thuế Demo" với các chức năng tương tự Đăng ký, Đăng nhập, Đăng xuất, Quên mật khẩu, Xem thông tin, Thay đổi thông tin, Đổi mật khẩu
+CẤU HÌNH EMAIL ĐỂ GỬI HÓA ĐƠN CHO KHÁCH HÀNG
+
+Địa chỉ email
+Mật khẩu email
+CHỨC NĂNG DANH MỤC
+Giống với "Tổng cục Thuế Demo" gồm "Danh mục khách hàng" và "Danh mục hàng hóa"
+TRA CỨU HÓA ĐƠN:
+Có 3 cách tra cứu:
+Tra cứu 1 hóa đơn theo "Mã hóa đơn".
+Tra cứu tất cả hóa đơn bán ra.
+Tra cứu tất cả hóa đơn mua vào.
+BÁO CÁO VÀ PHÂN TÍCH HÓA ĐƠN
+
+Số lượng hóa đơn đã sử dụng
+Tổng trước thuế
+Tổng sau thuế
+Tổng số tiền thuế
+Số lượng khách hàng
+Số lượng sản phẩm
+
+<!---->
+<!--Phân quyền-->
+<!--Thay đổi-->
+<!--Lập hóa đơn mới-->
+<!--Tra cứu-->
+<!--mail-->
+
 # 4. Các sơ đồ phân tích thiết kế hệ thống
 
 ## 4.1. UML Use Case Diagrams
@@ -452,11 +965,11 @@ Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghi�
 
 Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
 
-Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không? 
+Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không?
 
 Nếu không có giá trị kinh doanh thì chúng ta kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Nếu có thì có khả năng là miền phụ hỗ trợ. Nếu không thì đó là miền phụ chung.
 
-Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không? 
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không?
 
 Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
@@ -705,7 +1218,7 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 
 <!--Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.-->
 
-Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, 
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau,
 
 Vì vậy, điều đó có nghĩa là lớp chống đổ vỡ cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
@@ -1023,7 +1536,7 @@ Repository trong ORM
 
 , gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
 
-# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi, 
+# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
 
 <!---->
 

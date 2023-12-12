@@ -176,9 +176,7 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 <!--! Kênh cung cấp (Channels)-->
 <!--Tiếp theo là các kênh mà khách hàng muốn tiếp cận.-->
 <!--Đó là ứng dụng di động mà chúng tôi sẽ cung cấp và một số ứng dụng của bên thứ ba cho phép khách hàng sử dụng các dịch vụ.-->
-
-![](pictures/___KD.png)
-
+<!-- ![](pictures/___KD.png) -->
 <!--Xem video hướng dẫn phân tích: 4\3-->
 <!--https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020-->
 

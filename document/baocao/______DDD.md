@@ -50,7 +50,7 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 
 <!--$VD: Ở đồ án này, miền được xác định là bài toán giải pháp hóa đơn điện tử.-->
 
-<!--@ Miền phụ (Sub-Domain)-->
+<!--@Miền phụ (Sub-Domain)-->
 
 Miền được tạo thành từ nhiều miền phụ.
 
@@ -63,14 +63,14 @@ Việc xác định các miền phụ liên quan đến việc chia nhỏ các k
 
 Có 3 loại miền phụ:
 
-<!--@ Miền phụ chung (Generic Subdomain)-->
+<!--@Miền phụ chung (Generic Subdomain)-->
 
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
 <!--$? ? ? ? ? VD: Các miền phụ chung như các hoạt động quản lý nhân sự và quản lý cơ sở vật chất không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
 
-<!--@ Miền phụ cốt lõi (Core Subdomain)-->
+<!--@Miền phụ cốt lõi (Core Subdomain)-->
 
 Miền phụ cốt lõi là điểm khác biệt quan trọng cho doanh nghiệp.
 
@@ -80,7 +80,7 @@ Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi. Vì m
 
 <!--$? ? ? ? ? VD:-->
 
-<!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
+<!--@Miền phụ hỗ trợ (Supporting Subdomain)-->
 
 Các miền phụ cốt lõi phụ thuộc vào các miền phụ hỗ trợ.
 
@@ -141,9 +141,9 @@ Thiết kế hướng miền cung cấp 2 loại mẫu:
 Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
 Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
 
-<!--@ Các mô hình chiến lược (Strategic Patterns)-->
+<!--@Các mô hình chiến lược (Strategic Patterns)-->
 
-<!--@ Các mẫu kỹ thuật (Tactical Patterns)-->
+<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 <!--!======================================================-->
@@ -380,7 +380,7 @@ Có một số mối quan tâm chung liên quan đến các đối tượng kho 
 
 <!--hướng dẫn 7/11-->
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000012.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000012.srt-->
 <!--Domain Services dịch vụ miền-->
 <!--Domain Service Pattern-->
 <!--Characteristics of Domain Services đặc điểm-->
@@ -407,7 +407,7 @@ Tôi đã nói về dịch vụ miền và chúng ta cần phải biết những
 Đầu tiên là dịch vụ miền thực hiện hành vi miền không phù hợp một cách tự nhiên với các thực thể và đối tượng giá trị khác trong mô hình miền.
 Các đặc điểm khác là dịch vụ miền không có trạng thái, dịch vụ miền có tính Cohasset cao và dịch vụ miền với các dịch vụ miền khác.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000013.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000013.srt-->
 <!--Dịch vụ ứng dụng (app sẻvice)-->
 
 Chúng ta hãy xem lại định nghĩa về dịch vụ miền . Nó tuyên bố rằng dịch vụ miền là một đối tượng miền thực hiện chức năng miền.
@@ -442,7 +442,7 @@ Dịch vụ miền để cung cấp giao diện cho các thành phần bên ngo�
 Chúng cung cấp các dịch vụ cấp cao bằng cách phối hợp thực thi logic miền trong các đối tượng miền.
 Các dịch vụ ứng dụng hiển thị giao diện cho các thành phần bên ngoài. Nghĩa là, các thành phần nằm ngoài mô hình miền thông qua giao thức mạng như HTP và NQ.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000014.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000014.srt-->
 <!--Dịch vụ cơ sở hạ tầng-->
 
 là dịch vụ tương tác với tài nguyên bên ngoài để giải quyết một vấn đề mối quan tâm không thuộc phạm vi vấn đề chính.

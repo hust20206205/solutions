@@ -144,7 +144,7 @@ Trong các bài học sau, chúng ta sẽ tìm hiểu chi tiết về ngôn ng�
 00: 06: 47, 770--> 00: 07: 10, 500
 Đã đến lúc bắt đầu với những bài học quan trọng từ bài học này. NÓ. các nhóm phải học ngôn ngữ kinh doanh. NÓ. các nhóm có I.T. biệt ngữ và sự nhầm lẫn xảy ra do sự dịch thuật giữa miền và thiết kế hướng miền ngôn ngữ IP, chẳng hạn như việc tạo ra một ngôn ngữ chung phải được sử dụng bởi tất cả các bên liên quan, bao gồm cả CNTT.
 
-<!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000006.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 17, 010
@@ -302,7 +302,7 @@ Trong bài học này, chúng ta đã học về ngôn ngữ chung . Ba điểm 
 00: 07: 19, 980--> 00: 07: 26, 820
 ngôn ngữ chung không yêu cầu bất kỳ công cụ đặc biệt nào mà chúng ta có thể sử dụng bất kỳ nền tảng cộng tác tri thức nào.
 
-<!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000007.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000007.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 12, 060
@@ -444,7 +444,7 @@ Ngoài hai điều khoản này, cho đến nay không có sự trùng lặp nà
 00: 06: 20, 480--> 00: 06: 27, 350
 Chúng tôi tìm hiểu thêm các thuật ngữ và có khả năng trùng lặp giữa các thuật ngữ mới mà chúng tôi sẽ học từ chúng.
 
-<!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000008.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000008.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 10, 490
@@ -614,7 +614,7 @@ Các mô hình có thể được phát triển độc lập trong từng bối 
 00: 07: 39, 870--> 00: 07: 47, 580
 Mỗi bối cảnh giới hạn có ngôn ngữ chung riêng, ngôn ngữ này chỉ có ý nghĩa trong bối cảnh giới hạn đó.
 
-<!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 12, 870
@@ -756,7 +756,7 @@ Trong bài học này, tôi đã hướng dẫn chúng ta một loạt các bư�
 00: 06: 55, 510--> 00: 07: 04, 570
 Chúng ta cần chú ý đến ngôn ngữ kinh doanh và những manh mối ngôn ngữ sẽ giúp chúng ta phân định ranh giới của bối cảnh bị giới hạn.
 
-<!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000010.srt-->
+<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000010.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 11, 420
@@ -914,7 +914,7 @@ Sau đó, chúng tôi tập trung vào các hoạt động hỗ trợ và nhận
 00: 07: 59, 860--> 00: 08: 17, 020
 Khi chúng ta xem qua các hoạt động chính này, chúng ta tập hợp các nhóm kinh doanh. Sau đó, chúng tôi so sánh các điều khoản kinh doanh và nhận ra rằng việc chia các liên hệ hỗ trợ thành các liên hệ hỗ trợ khách hàng và cung cấp bối cảnh hỗ trợ là hợp lý.
 
-<!--@ \06BoundedContextRelationships_VVN\000000001.srt-->
+<!--@\06BoundedContextRelationships_VVN\000000001.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 17, 050
@@ -964,7 +964,7 @@ Quả bóng bùn lớn và các địa chỉ liên hệ, bản đồ, chúng ta 
 00: 02: 11, 260--> 00: 02: 18, 960
 Vì vậy, chúng ta sẽ có thể chọn một mẫu mối quan hệ thích hợp để xác định các phụ thuộc bối cảnh liên kết của mình.
 
-<!--@ \06BoundedContextRelationships_VVN\000000002.srt-->
+<!--@\06BoundedContextRelationships_VVN\000000002.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 24, 510
@@ -1066,7 +1066,7 @@ Với tư cách là người thiết kế các máy chủ vi mô, chúng ta ph�
 00: 04: 59, 270--> 00: 05: 09, 950
 Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, chúng ta phải sử dụng các mẫu DTT được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
 
-<!--@ \06BoundedContextRelationships_VVN\000000003.srt-->
+<!--@\06BoundedContextRelationships_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 17, 970
@@ -1192,7 +1192,7 @@ Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay
 00: 06: 13, 240--> 00: 06: 24, 940
 Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.
 
-<!--@ \06BoundedContextRelationships_VVN\000000004.srt-->
+<!--@\06BoundedContextRelationships_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 15, 200
@@ -1350,7 +1350,7 @@ Lớp chống tham nhũng này có logic để dịch các mô hình từ địn
 00: 08: 00, 200--> 00: 08: 09, 410
 Formic, theo hướng đó xuôi dòng. Bối cảnh bị ràng buộc không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.
 
-<!--@ \06BoundedContextRelationships_VVN\000000005.srt-->
+<!--@\06BoundedContextRelationships_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 17, 640
@@ -1412,7 +1412,7 @@ Không có sự khác biệt trong bài học này. Chúng ta đã tìm hiểu v
 00: 03: 10, 800--> 00: 03: 34, 110
 Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với dịch vụ lưu trữ mở. Trở lại ngược dòng, các liên hệ được giới hạn trên nhà cung cấp dịch vụ được lưu trữ mở sẽ hiển thị ngôn ngữ chung cho các dịch vụ chung và ngôn ngữ này được quản lý bởi nhóm chịu trách nhiệm về dịch vụ được lưu trữ mở, các liên hệ được giới hạn ở hạ nguồn ngoại trừ ngôn ngữ được xuất bản này.
 
-<!--@ \06BoundedContextRelationships_VVN\000000006.srt-->
+<!--@\06BoundedContextRelationships_VVN\000000006.srt-->
 
 1
 00: 00: 00, 090--> 00: 00: 17, 880
@@ -1526,7 +1526,7 @@ Bây giờ Lecomte cũng đang sử dụng việc mua hàng, nhưng vì nó đan
 00: 05: 21, 260--> 00: 05: 28, 310
 Và hợp đồng ngoại quan tài khoản bán lẻ sẽ không cần phải điều chỉnh. Tôi hy vọng chúng ta thích bài tập này.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000001.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 15, 560
@@ -1560,7 +1560,7 @@ Chúng ta sẽ tìm hiểu tất cả các mẫu chiến thuật này trong ph�
 00: 01: 27, 090--> 00: 01: 37, 980
 Tôi sẽ chỉ cho chúng ta cách lập mô hình các mẫu này cho các vi dịch vụ của chúng ta nói chung và cách xây dựng các mẫu kỹ thuật này bằng cách sử dụng các lớp Java cũ đơn giản.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000002.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000002.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 13, 890
@@ -1698,7 +1698,7 @@ Nơi chúng được xác định là các thực thể được xác định du
 00: 06: 27, 060--> 00: 06: 35, 700
 Hành vi này triển khai logic nghiệp vụ có thể thay đổi trạng thái của thực thể. Các thực thể được lưu trữ lâu dài.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000003.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000003.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 15, 080
@@ -1848,7 +1848,7 @@ Miền phụ và tài khoản cá nhân không thành vấn đề. Vì vậy, tr
 00: 07: 33, 280--> 00: 07: 55, 180
 Các đối tượng giá trị không được tồn tại trong CSDL như một đối tượng độc lập. Nó được lưu trữ như một phần của đối tượng thực thể hoặc thậm chí nó không được lưu trữ trong CSDL, một thực thể trong một ngữ cảnh bị chặn, có thể là một đối tượng giá trị trong một ngữ cảnh bị chặn khác và ngược lại.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000004.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000004.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 19, 900
@@ -2014,7 +2014,7 @@ Thực thể đề xuất có một hoặc nhiều đối tượng giá trị Ba
 00: 08: 22, 550--> 00: 08: 39, 050
 Hãy kết hợp mô hình đề xuất với mô hình khách hàng. Thực thể đề xuất đề cập đến thực thể khách hàng và đây là mô hình tổng thể mà chúng tôi đã đưa ra, với khái niệm được xác định trong bối cảnh bán hàng.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000005.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000005.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 15, 130
@@ -2236,7 +2236,7 @@ Cộng với đề xuất này. Bảng liệt kê trạng thái được sử d�
 00: 10: 21, 330--> 00: 10: 31, 820
 Vì vậy, đây là cách lớp đề xuất trông như thế nào. Tôi khuyên chúng ta nên tự mình xem các mô hình và thoải mái thực hiện các thay đổi để làm cho nó tốt hơn.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000006.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 07, 410
@@ -2350,7 +2350,7 @@ Vì vậy, hãy ghi nhớ điều đó trong trường hợp này cũng như khi
 00: 05: 15, 160--> 00: 05: 24, 640
 Tất cả các thay đổi đối với tổng hợp đều được lưu. Các đối tác nguyên tử và nhà máy thường được sử dụng để tạo các tập hợp miền phức tạp.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000007.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000007.srt-->
 
 1
 00: 00: 00, 460--> 00: 00: 14, 530
@@ -2444,7 +2444,7 @@ Nếu quá trình hoàn tiền không thành công, hãy khôi phục tất cả
 00: 03: 45, 620--> 00: 03: 53, 860
 Vì vậy, đây là một ví dụ trong đó việc triển khai lộ trình tổng hợp nhằm đảm bảo rằng tất cả các thay đổi đều mang tính nguyên tử.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000008.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000008.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 07, 680
@@ -2538,7 +2538,7 @@ Rõ ràng là có một số quy tắc kinh doanh nhất định mà chúng ta c
 00: 04: 41, 490--> 00: 04: 51, 960
 Khi đó, trạng thái sẽ thay đổi thành hủy và đó sẽ là sự kết thúc của vòng đời đặt chỗ. Sau đó, không thể thực hiện thay đổi nào đối với đối tượng xác nhận đặt phòng.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000009.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000009.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 09, 810
@@ -2724,7 +2724,7 @@ Một câu hỏi quan trọng mà tôi đã trả lời trong bài học này l�
 00: 08: 34, 620--> 00: 08: 55, 380
 Nó phụ thuộc vào yêu cầu của người dùng và các yếu tố khác. Xin lưu ý rằng đây là ý kiến ​​​​của tôi. Đề nghị của tôi dành cho chúng ta là chúng ta nên hình thành quan điểm của riêng mình bằng cách thực hiện thêm một số nghiên cứu, bằng cách xem xét các mô hình mà chúng ta đã phát triển trong quá khứ và kinh nghiệm của chúng ta trong việc quản lý các thay đổi đối với các mô hình đó.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000010.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000010.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 530
@@ -2922,7 +2922,7 @@ Các hoạt động CSDL trên tổng hợp phải là nguyên tử, đối tư�
 00: 09: 37, 670--> 00: 10: 01, 910
 Có một số mối quan tâm chung liên quan đến các đối tượng kho lưu trữ, nhưng những mối quan tâm chung này liên quan đến chức năng truy vấn có thể được giải quyết bằng cách hiển thị các hàm truy vấn cấp cao trong đối tượng kho lưu trữ bằng cách sử dụng các giải pháp bộ nhớ đệm như Radice và Memcache cũng như bằng cách tạo và hiển thị các hàm truy vấn bên ngoài của đối tượng kho lưu trữ.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000011.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000011.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 15, 310
@@ -3128,7 +3128,7 @@ Và sau đó, như mong đợi, xác nhận đặt phòng ở trạng thái ch�
 00: 10: 01, 380--> 00: 10: 11, 670
 Tôi khuyên chúng ta nên tự mình đi đến điểm số và dùng thử để cảm nhận cách hoạt động của các đối tượng kho lưu trữ và các thành phần mô hình khác.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000012.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000012.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 11, 760
@@ -3266,7 +3266,7 @@ Tôi đã nói về dịch vụ miền và chúng ta cần phải biết những
 00: 06: 41, 100--> 00: 06: 50, 310
 Các đặc điểm khác là dịch vụ miền không có trạng thái, dịch vụ miền có tính Cohasset cao và dịch vụ miền với các dịch vụ miền khác.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000013.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000013.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 920
@@ -3388,7 +3388,7 @@ Chúng cung cấp các dịch vụ cấp cao bằng cách phối hợp thực th
 00: 05: 57, 520--> 00: 06: 12, 070
 Các dịch vụ ứng dụng hiển thị giao diện cho các thành phần bên ngoài. Nghĩa là, các thành phần nằm ngoài mô hình miền thông qua giao thức mạng như HTP và NQ.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000014.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000014.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 25, 530
@@ -3486,7 +3486,7 @@ Trong bài giảng này, chúng ta đã tìm hiểu về các dịch vụ cơ s�
 00: 04: 56, 530--> 00: 05: 11, 950
 Các dịch vụ cơ sở hạ tầng cung cấp các tài nguyên bên ngoài thông qua giao diện tiêu chuẩn hoặc hợp đồng tiêu chuẩn và cơ chế hợp đồng tiêu chuẩn này bảo vệ mô hình miền khỏi những thay đổi trong dịch vụ bên ngoài.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000015.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000015.srt-->
 
 1
 00: 00: 00, 610--> 00: 00: 14, 470
@@ -3596,7 +3596,7 @@ Nếu có, tổng phụ phí sẽ được tính toán và cộng thêm. Tương
 00: 04: 59, 570--> 00: 05: 14, 730
 Việc trùng lặp sẽ được tính toán và cộng thêm khoản phụ phí tương tự vào khoản phụ phí của khu nghỉ dưỡng, sau đó thuế bán hàng sẽ được tính dựa trên quốc gia cư trú của khách hàng, giá cuối cùng sau đó sẽ được trả lại cho người gọi.
 
-<!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000016.srt-->
+<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000016.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 10, 530
@@ -3726,7 +3726,7 @@ Nếu chúng ta quan tâm, chúng ta có thể đi qua tòa án để thực hi�
 00: 06: 02, 880--> 00: 06: 12, 030
 Ngoài ra còn có bản triển khai thử nghiệm giao diện cổng thanh toán để cho thấy cách thực hiện giao diện cổng thanh toán.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000001.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000001.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 14, 790
@@ -3768,7 +3768,7 @@ MQ COFCO cũng rất phổ biến và chúng ta sẽ thấy cách sử dụng Ka
 00: 01: 36, 960--> 00: 01: 54, 480
 Chúng ta tìm hiểu về các loại sự kiện vi dịch vụ khác nhau. Tôi sẽ cung cấp cho chúng ta cái nhìn tổng quan về khái niệm AQAP liên quan đến việc triển khai cơ bản các sự kiện và chúng ta cũng sẽ thấy các sự kiện mô hình bán hàng đang hoạt động bằng cách sử dụng Java và Rabbit MQ.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000002.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000002.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 09, 920
@@ -3918,7 +3918,7 @@ Tức là nó không bị chặn. Các nền tảng nhắn tin như Kafka, Rabbi
 00: 06: 57, 080--> 00: 07: 07, 130
 Cửa sổ bật lên thường được sử dụng khi có nhiều người nhận tin nhắn. Trong bài giảng tiếp theo, chúng ta sẽ tìm hiểu cách các vi dịch vụ sử dụng các mẫu này.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000003.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000003.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 22, 140
@@ -4068,7 +4068,7 @@ Với tư cách là nhà thiết kế hoặc các vi dịch vụ, chúng ta sẽ
 00: 08: 56, 980--> 00: 09: 14, 530
 Đó là, giao tiếp dịch vụ. Chúng ta sẽ luôn sử dụng các ứng dụng và nhắn tin. Điều quan trọng nhất cần ghi nhớ là chúng ta cần đưa ra quyết định về việc quản lý sự phụ thuộc giữa các vi dịch vụ bằng cách sử dụng các mẫu tích hợp ngữ cảnh giới hạn.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000004.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000004.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 16, 620
@@ -4282,7 +4282,7 @@ Edir sử dụng giao tiếp không đồng bộ giữa nhà sản xuất và ng
 00: 10: 37, 520--> 00: 10: 47, 550
 Điều đó có nghĩa là tất cả các thành phần trong hệ thống đều có logic nghiệp vụ nhất định có thể được quản lý độc lập với các thành phần khác trong hệ thống.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000005.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000005.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 11, 630
@@ -4496,7 +4496,7 @@ Hãy đọc tin nhắn số hai, và đây là tin nhắn số hai, kiểm tra D
 00: 09: 37, 500--> 00: 09: 45, 840
 Tôi khuyên chúng ta nên tự mình thử trao đổi và liên kết hàng đợi để hiểu rõ hơn về cách hoạt động của Rabbit Amcu.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000006.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 300
@@ -4742,7 +4742,7 @@ Có hai loại sự kiện miền và sự kiện tích hợp. Các sự kiện 
 00: 11: 16, 810--> 00: 11: 27, 550
 Các sự kiện miền có thể được xử lý đồng bộ cũng như không đồng bộ. Nên sử dụng các quy ước đặt tên phù hợp để đặt tên cho các sự kiện và trình xử lý sự kiện.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000007.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000007.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 10, 180
@@ -4936,7 +4936,7 @@ Tuyến tổng hợp đã thực hiện hành động thành công và sau đó 
 00: 08: 18, 650--> 00: 08: 27, 050
 Con gái ông chủ đang ở trong lộ trình tổng hợp. Đề nghị chúng ta đi bộ đến tòa án và tự mình thử.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000008.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000008.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 18, 410
@@ -5062,7 +5062,7 @@ Hãy thực hiện nghiên cứu của riêng chúng ta và chia sẻ những ph
 00: 06: 02, 290--> 00: 06: 08, 290
 Nếu chúng ta không quan tâm đến việc xem qua mã và xem nó hoạt động như thế nào, chúng ta có thể bỏ qua bài giảng tiếp theo.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000009.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000009.srt-->
 
 1
 00: 00: 00, 300--> 00: 00: 09, 160
@@ -5128,7 +5128,7 @@ Ngay cả người xử lý sau đó cũng cập nhật tham chiếu đặt ch�
 00: 02: 57, 390--> 00: 03: 05, 640
 Đề xuất của tôi dành cho chúng ta là chúng ta nên tự mình xem mã này, kiểm tra mã và các lớp liên quan và cho tôi biết nếu chúng ta có bất kỳ câu hỏi nào.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000010.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000010.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 13, 860
@@ -5270,7 +5270,7 @@ Chúng ta hãy điểm qua những điểm chính từ bài học này. Các s�
 00: 06: 52, 510--> 00: 07: 05, 620
 Các vi dịch vụ tiêu dùng dành cho các sự kiện tích hợp có thể sử dụng Atheel hoặc lớp chống tham nhũng để tách biệt kiến ​​thức về bối cảnh giới hạn nguồn trước đó.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000011.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000011.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 250
@@ -5436,7 +5436,7 @@ Vì vậy, để bảo vệ mô hình khỏi bị hiểu biết về các công 
 00: 08: 13, 290--> 00: 08: 21, 330
 Vì vậy chúng tôi đã tạo ra dịch vụ cơ sở hạ tầng tin nhắn. Trong bài giảng tiếp theo, chúng ta sẽ thấy hoạt động của sự kiện xác nhận đặt chỗ đang diễn ra.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000012.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000012.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 12, 340
@@ -5602,7 +5602,7 @@ Và tôi sẽ chỉ nói từ tin nhắn đã xuất bản của chúng ta, tin 
 00: 07: 35, 750--> 00: 07: 46, 760
 Hãy thử một lần nữa. Tôi sẽ chỉ đặt tin nhắn được xuất bản thử nghiệm thứ hai và đây là thử nghiệm thứ hai của chúng tôi. Và lúc này, chúng ta cũng sẽ thấy tin nhắn trong thông báo qua email.
 
-<!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000013.srt-->
+<!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000013.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 11, 340
@@ -5700,7 +5700,7 @@ Thử nghiệm này tương tự như thử nghiệm trước đó, ngoại tr�
 00: 04: 13, 290--> 00: 04: 25, 830
 Như chúng ta có thể thấy ở đây, một sự kiện đã được nêu ra. Hãy kiểm tra Q và trong Q, như mong đợi, chúng ta thấy một thông báo và nếu nhận được thông báo, chúng ta sẽ thấy nội dung thông báo cho sự kiện.
 
-<!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000001.srt-->
+<!--@\09EventStormingforcreatingsharedknowledge_VVN\000000001.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 12, 960
@@ -5730,7 +5730,7 @@ Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Đến cu�
 00: 01: 17, 160--> 00: 01: 35, 580
 Chúng ta có thể mô tả quá trình được sử dụng để tạo ra các mô hình kiến ​​thức. Chúng ta sẽ học cách chuẩn bị và tiến hành hội thảo gây bão sự kiện và trong bài giảng cuối cùng, chúng ta sẽ thấy cách sử dụng các công cụ cộng tác để tiến hành và hội thảo trực tuyến, thậm chí là gây bão.
 
-<!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000002.srt-->
+<!--@\09EventStormingforcreatingsharedknowledge_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 15, 630
@@ -5876,7 +5876,7 @@ Mục tiêu là không thể trả lời tất cả các câu hỏi. Và nó kh�
 00: 07: 06, 140--> 00: 07: 15, 020
 Ngay cả việc gây bão cũng được thực hiện dưới hình thức hội thảo được hỗ trợ và có thể được tiến hành trực tiếp hoặc trực tuyến.
 
-<!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000003.srt-->
+<!--@\09EventStormingforcreatingsharedknowledge_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 10, 030
@@ -6058,7 +6058,7 @@ Tác động của sự kiện miền được hiện thực hóa bằng chính 
 00: 08: 13, 500--> 00: 08: 20, 960
 Miền thậm chí còn có một số dữ liệu có giá trị đối với các bên liên quan. Dữ liệu có giá trị này được thể hiện bằng cách reboard.
 
-<!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000004.srt-->
+<!--@\09EventStormingforcreatingsharedknowledge_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 850
@@ -6180,7 +6180,7 @@ Một trong những vai trò quan trọng của người điều phối là đ�
 00: 06: 35, 670--> 00: 06: 45, 930
 Người tham gia phải cảm thấy gắn bó. Người tham gia phải tích cực trong suốt hội thảo. Vì vậy, người điều phối phải ghi nhớ những khía cạnh đó.
 
-<!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000005.srt-->
+<!--@\09EventStormingforcreatingsharedknowledge_VVN\000000005.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 10, 170
@@ -6326,7 +6326,7 @@ Những gì cần phải được thay đổi? Kỳ vọng là người điều 
 00: 06: 48, 360--> 00: 07: 09, 030
 Trong vòng hai đến ba ngày. Người điều phối củng cố Kiến thức và chia sẻ mô hình kiến ​​thức với tất cả những người tham gia Người điều phối yêu cầu người tham gia xem lại mô hình kiến ​​thức để đảm bảo tính chính xác của nó Người điều phối quyết định các bước tiếp theo và đảm bảo rằng tất cả các hạng mục trong bãi đậu xe đều được giải quyết.
 
-<!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000006.srt-->
+<!--@\09EventStormingforcreatingsharedknowledge_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 09, 390
@@ -6532,7 +6532,7 @@ Vì vậy, đây là trạng thái cuối cùng của mô hình kiến ​​th�
 00: 09: 23, 940--> 00: 09: 38, 880
 Mục đích của tôi chỉ là cung cấp cho chúng ta ý tưởng về cách hoạt động của hội thảo thậm chí còn gây bão. Cuối cùng, mô hình kiến ​​thức này sẽ được mở rộng để bao gồm việc xử lý nhiều sự kiện ở đây và các chi tiết khác.
 
-<!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000001.srt-->
+<!--@\10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000001.srt-->
 
 1
 00: 00: 00, 190--> 00: 00: 07, 960
@@ -6562,7 +6562,7 @@ Tôi sẽ thảo luận về một số thách thức này trong phần này và
 00: 01: 21, 660--> 00: 01: 30, 300
 Các phần mà tôi sẽ đề cập trong phần này là parathion CSDL dùng chung, parathion CSDL Sopra và mẫu hình tam giác này.
 
-<!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000002.srt-->
+<!--@\10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 13, 140
@@ -6672,7 +6672,7 @@ Vì vậy, việc đưa các nhà phát triển mới vào nhóm sẽ là một 
 00: 05: 18, 900--> 00: 05: 29, 130
 Nhưng hóa ra SOA giống như một phương tiện hỗ trợ cho một vấn đề lớn hơn là một giải pháp. Trong bài giảng tiếp theo, tôi sẽ nói về kiến ​​trúc hướng dịch vụ.
 
-<!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000003.srt-->
+<!--@\10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000003.srt-->
 
 1
 00: 00: 00, 060--> 00: 00: 20, 040
@@ -6718,7 +6718,7 @@ Dịch vụ Azor không phải là một vi dịch vụ . Hãy suy nghĩ về n�
 00: 02: 11, 930--> 00: 02: 19, 000
 Hãy tóm tắt những gì chúng ta đã học được trong bài học này. Các dịch vụ xã hội cách ly các ứng dụng khỏi những thay đổi CSDL .
 
-<!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000004.srt-->
+<!--@\10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000004.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 12, 480
@@ -6804,7 +6804,7 @@ Hãy cùng chuyển sang điểm chính trong bài giảng này cho Greenfield, 
 00: 03: 55, 470--> 00: 04: 05, 490
 Mỗi Microsoft Office đều có phiên bản CSDL riêng. Hiện tại, đôi khi có thể không áp dụng được mẫu CSDL riêng biệt.
 
-<!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000005.srt-->
+<!--@\10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000005.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 690
@@ -6938,7 +6938,7 @@ Mẫu Strangler có thể được sử dụng để chuyển từ việc triể
 00: 06: 43, 750--> 00: 06: 54, 670
 Trong bài giảng tiếp theo, chúng ta sẽ tìm hiểu về cách tái cấu trúc CSDL và phân tách logic các CSDL trong đó CSDL dùng chung được giữ lại ở trạng thái đích.
 
-<!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000006.srt-->
+<!--@\10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 290
@@ -7128,7 +7128,7 @@ Chúng ta sẽ cần xem xét công nghệ, độ phức tạp, kỹ năng mà c
 00: 09: 19, 340--> 00: 09: 28, 610
 Và sau đó dựa trên kết quả phân tích này, chúng ta sẽ có hai lựa chọn. Chúng ta có thể thực hiện thay đổi thiết kế và thực hiện tái cấu trúc CSDL .
 
-<!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000007.srt-->
+<!--@\10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000007.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 11, 190
@@ -7298,7 +7298,7 @@ Suy giảm hiệu suất do phân phối dữ liệu có thể được giải q
 00: 08: 04, 990--> 00: 08: 12, 220
 Trong phần tiếp theo, chúng ta tìm hiểu về mẫu Securus, thậm chí tìm nguồn cung cấp thông điệp thích hợp và đáng tin cậy cho Saagar.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000001.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 10, 470
@@ -7348,7 +7348,7 @@ Và để đạt được điều này, cần có thêm các mẫu trong phần 
 00: 02: 11, 740--> 00: 02: 29, 860
 Trên nhiều CSDL . Chúng ta sẽ học lệnh, phân tách truy vấn. Chúng ta sẽ tìm hiểu lệnh, trách nhiệm truy vấn, mẫu phân tách, thậm chí cả mẫu tìm nguồn cung ứng và chúng ta sẽ thấy các mẫu này hoạt động như một phần của quá trình triển khai khả năng đề xuất bán hàng.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000002.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 16, 140
@@ -7430,7 +7430,7 @@ Thông thường, các lệnh và truy vấn trong mẫu trình tự là một p
 00: 04: 05, 390--> 00: 04: 25, 290
 Chúng ta hãy đi với những điểm chính từ bài học này. Các lệnh thể hiện các hành động hoặc truy vấn ý định, do đó, dữ liệu miền và các mẫu phân tách truy vấn lệnh gợi ý rằng hoạt động được đối tượng miền hiển thị phải là một lệnh hoặc một truy vấn.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000003.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000003.srt-->
 
 1
 00: 00: 00, 360--> 00: 00: 14, 490
@@ -7620,7 +7620,7 @@ Và sau đó chúng ta có mệnh đề đẳng thức này và là kết quả 
 00: 09: 37, 420--> 00: 09: 52, 960
 Và bây giờ chúng tôi có ba quy tắc khuyên chúng ta nên thử thực hiện các thay đổi đối với lớp kiểm tra báo cáo GBC để xem cách thực thi các phần tiếp theo bằng cách sử dụng các hàm được hiển thị trong lớp dựa trên Geremek.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000004.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 07, 850
@@ -7734,7 +7734,7 @@ Các chỉ mục thường được sử dụng để thực hiện các truy v�
 00: 05: 33, 640--> 00: 05: 41, 110
 Các miền cộng tác có ít sự chấp nhận đối với quy định về hiệu suất và đối với các miền cộng tác cũng vậy.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000005.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 07, 950
@@ -7940,7 +7940,7 @@ Phải. Bấm vào lớp Lệnh kiểm tra và chạy lệnh kiểm tra. Lệnh 
 00: 10: 20, 080--> 00: 10: 31, 240
 Tôi bấm vào truy vấn kiểm tra và chạy truy vấn kiểm tra. Chúng tôi đang nhận được tất cả các đề xuất cho khách hàng và đây là tất cả các đề xuất cho khách hàng.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000006.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 11, 140
@@ -8082,7 +8082,7 @@ Có một số cân nhắc nhất định mà chúng ta cần lưu ý khi quyế
 00: 06: 57, 840--> 00: 07: 16, 280
 Đã đến lúc ôn lại những điểm chính của bài học này. Chúng ta có thể cân nhắc sử dụng Securus cho các miền cộng tác với Securus, với Securus, bên phải và bên phải có thể được quản lý độc lập từ góc độ hiệu suất, khả năng mở rộng và thay đổi.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000007.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000007.srt-->
 
 1
 00: 00: 00, 330--> 00: 00: 19, 590
@@ -8148,7 +8148,7 @@ Bài giảng trong phần này sẽ cho chúng ta thấy cơ chế hoạt độn
 00: 03: 13, 590--> 00: 03: 28, 320
 Ứng dụng này có thể đồng bộ hoặc không đồng bộ. Chúng ta sẽ cần xem xét các yêu cầu cụ thể và công nghệ hỗ trợ của mình để quyết định công nghệ sao chép nào sẽ phù hợp hơn với trường hợp sử dụng của chúng ta .
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000008.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000008.srt-->
 
 1
 00: 00: 00, 510--> 00: 00: 13, 170
@@ -8262,7 +8262,7 @@ Một truy vấn được con người gọi ra đối với giao diện ngườ
 00: 06: 16, 520--> 00: 06: 25, 670
 Trong phần này, chúng ta sẽ thấy cách triển khai bảo mật End-To-End mà tôi đã thảo luận trong bài học này.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000009.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000009.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 08, 130
@@ -8372,7 +8372,7 @@ Hãy tới Rabbitt MQ. Mở trình quản lý thỏ Amcu trong trình quản lý
 00: 05: 50, 830--> 00: 06: 04, 570
 Hãy tiếp tục và đọc tin nhắn. Nhấp vào đề xuất, đọc Q, cuộn xuống và nhấp vào Nhận tin nhắn và đây là thông báo đề xuất của chúng tôi đã được lệnh xuất bản.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000010.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000010.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 11, 930
@@ -8538,7 +8538,7 @@ Lợi ích của việc kiên trì như vậy là chúng ta sẽ thoát khỏi c
 00: 08: 18, 040--> 00: 08: 27, 100
 Các sự kiện được lưu trữ và thậm chí được lưu trữ. Đó có thể là CSDL truyền thống như RDBMS hoặc CSDL cuộc gọi dễ dàng.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000011.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000011.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 10, 080
@@ -8704,7 +8704,7 @@ Và như chúng ta có thể thấy, bước đầu tiên đã thành công ở 
 00: 07: 45, 760--> 00: 07: 51, 880
 Đây là dữ liệu mà chúng tôi vừa chèn đề xuất chúng ta nên tự mình thử lớp học dựa trên Mongo TV.
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000012.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000012.srt-->
 
 1
 00: 00: 00, 390--> 00: 00: 11, 700
@@ -8834,7 +8834,7 @@ Làm cho khỏe lại. Và đây là hai đề xuất bộ sưu tập mới, th�
 00: 06: 28, 020--> 00: 06: 38, 580
 Và nếu chúng ta nhìn vào bộ sưu tập đề xuất, chúng ta sẽ thấy dữ liệu chỉ dành cho đề xuất đó. Vậy tại thời điểm này, người đăng ký có hoạt động như mong đợi không?
 
-<!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000013.srt-->
+<!--@\11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000013.srt-->
 
 1
 00: 00: 00, 250--> 00: 00: 13, 010
@@ -8884,7 +8884,7 @@ Jason, hãy tiếp tục và chạy truy vấn thử nghiệm. Phải, nhấp v�
 00: 02: 04, 230--> 00: 02: 15, 120
 Một điều chúng ta cần lưu ý ở đây là cấu trúc liền kề cho phiên bản hai của truy vấn khác với cấu trúc liền kề của phiên bản, một trong những cách triển khai truy vấn.
 
-<!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000001.srt-->
+<!--@\12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000001.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 08, 940
@@ -8922,7 +8922,7 @@ Trong phần này, chúng ta sẽ học cách giải quyết hai tình huống t
 00: 01: 35, 880--> 00: 01: 48, 270
 Chúng ta tìm hiểu nguyên tắc thiết kế cho lỗi sẽ xem xét mẫu thông báo đáng tin cậy. Chúng ta học cách xử lý các tin nhắn trùng lặp và khi chúng ta tiếp tục các bài giảng, sẽ đề cập đến đề xuất của Ackmann.
 
-<!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000002.srt-->
+<!--@\12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000002.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 09, 680
@@ -9120,7 +9120,7 @@ Nhưng hãy nhớ, có nhiều thách thức trong việc sử dụng truyện t
 00: 10: 23, 530--> 00: 10: 33, 010
 Chúng ta có thể sử dụng mẫu tin nhắn đáng tin cậy. Trong một số bài giảng tiếp theo, chúng ta sẽ thấy mô hình nhắn tin đáng tin cậy đang hoạt động.
 
-<!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000003.srt-->
+<!--@\12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000003.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 12, 070
@@ -9354,7 +9354,7 @@ Và đây là thông điệp của chúng tôi. Hãy đi tới trình duyệt ph
 00: 11: 51, 710--> 00: 12: 02, 690
 Và như chúng ta có thể thấy ở đây, chúng ta có một sự kiện ở đây và quy trình được đặt thành đúng. Đây là tải trọng 64 và quý tốt nhất cho sự kiện.
 
-<!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000004.srt-->
+<!--@\12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000004.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 16, 980
@@ -9548,7 +9548,7 @@ Với logic này, các sự kiện trùng lặp sẽ bị bỏ qua và không ba
 00: 09: 05, 390--> 00: 09: 17, 630
 Tác động có thể được cảm nhận bởi các hệ thống hoặc thành phần hạ nguồn. Điều thứ hai là mỗi nhóm trong hệ thống phân tán phải thiết kế để xử lý các lỗi.
 
-<!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000005.srt-->
+<!--@\12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000005.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 15, 390
@@ -9674,7 +9674,7 @@ Hãy xem thuê bao đã làm gì, thuê bao khi nhận được điện thoại 
 00: 05: 40, 900--> 00: 05: 49, 330
 Kết quả là nó chỉ bỏ qua sự kiện đó. Và do đó, việc quyết định lại sẽ đảm bảo rằng các sự kiện trùng lặp sẽ bị bỏ qua.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000001.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000001.srt-->
 
 1
 00: 00: 00, 390--> 00: 00: 18, 390
@@ -9700,7 +9700,7 @@ Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Chúng ta s
 00: 01: 15, 870--> 00: 01: 26, 100
 Nhiều trường hợp sử dụng vi dịch vụ trong đó Kafka phù hợp hơn nhiều so với cupie và chúng ta sẽ thấy Kafka hoạt động.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000002.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000002.srt-->
 
 1
 00: 00: 00, 390--> 00: 00: 06, 930
@@ -9774,7 +9774,7 @@ Trong bài học này, tôi đã cung cấp cho chúng ta một cái nhìn tổn
 00: 03: 30, 800--> 00: 03: 44, 270
 Vui lòng bỏ qua các bài giảng về khái niệm Kafka, nhưng vui lòng theo dõi các bài giảng về trải nghiệm thực tế với Kafka vì anh ấy sẽ tạo ra một cụm Kafka mà chúng ta sẽ sử dụng trong các bài giảng sau.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000003.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000003.srt-->
 
 1
 00: 00: 00, 660--> 00: 00: 09, 790
@@ -9988,7 +9988,7 @@ Kafka duy trì phần bù của tin nhắn cuối cùng trên cơ sở người 
 00: 11: 08, 140--> 00: 11: 21, 820
 Người tiêu dùng có thể đọc tin nhắn từ một chủ đề dưới dạng nhóm bằng ID nhóm. Trong bài giảng tiếp theo, chúng ta sẽ tạo một cụm Kafka và chúng ta sẽ thấy tất cả các khái niệm này đang hoạt động.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000004.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000004.srt-->
 
 1
 00: 00: 00, 510--> 00: 00: 09, 300
@@ -10142,7 +10142,7 @@ Nhấp vào các nhà môi giới để kiểm tra các nhà môi giới trong c
 00: 06: 09, 040--> 00: 06: 31, 030
 Tôi khuyên chúng ta nên tạo một chủ đề và để làm điều đó, hãy quay lại bảng điều khiển cloud craft của chúng ta, nhấp vào chủ đề, cung cấp tên chủ đề ở đây, đặt tham số và chỉ cần tạo thời gian để xuất bản một số thông báo cho chủ đề đó và bắt đầu người tiêu dùng trong trình duyệt để xem mọi thứ hoạt động như thế nào.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000005.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000005.srt-->
 
 1
 00: 00: 00, 480--> 00: 00: 10, 110
@@ -10252,7 +10252,7 @@ Và phân vùng cũng như thông tin về các tin nhắn đã xuất bản đ�
 00: 05: 05, 820--> 00: 05: 19, 740
 Một tin nhắn không có chìa khóa và một tin nhắn khác có chìa khóa. Hãy quay trở lại trình duyệt. Và như chúng ta có thể thấy ở đây, người tiêu dùng đã nhận được hai thông báo đề nghị chúng ta tự mình thử lớp nhà sản xuất.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000006.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 23, 520
@@ -10410,7 +10410,7 @@ Hãy chú ý đến phân vùng được chỉ định và chúng ta sẽ thấy
 00: 07: 58, 440--> 00: 08: 06, 600
 Vì vậy, đây là minh chứng cho thấy cách Kafka thực hiện việc tái cân bằng một cách tự động trong một nhóm người tiêu dùng.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000007.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000007.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 15, 420
@@ -10512,7 +10512,7 @@ Họ được giữ lại. Kafka không hỗ trợ các khái niệm cupie như 
 00: 05: 00, 570--> 00: 05: 10, 710
 Điều đó có nghĩa là không có nền tảng nào khác đang sử dụng giao thức Cafcass. Cafcass chỉ hỗ trợ các tin nhắn bật lên và đầy đủ.
 
-<!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000008.srt-->
+<!--@\13 kiến trúc vi dịch vụ andKafka_VVN\000000008.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 09, 570
@@ -10666,7 +10666,7 @@ Vì vậy, chúng ta tiếp cận nhóm của mình và thảo luận xem nên s
 00: 06: 55, 800--> 00: 07: 04, 290
 Bây giờ, với giả định này, chúng ta thích cái nào hơn? Kafka hay Thỏ? MQ Tại sao? Tôi sẽ đi với Rabbit Amcu.
 
-<!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000001.srt-->
+<!--@\14ManagingDistributedTransactionswithSAGA_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 08, 640
@@ -10692,7 +10692,7 @@ Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Chúng ta h
 00: 00: 46, 110--> 00: 00: 51, 420
 Có nhiều cân nhắc triển khai mà chúng ta cần lưu ý khi xây dựng sagas.
 
-<!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000002.srt-->
+<!--@\14ManagingDistributedTransactionswithSAGA_VVN\000000002.srt-->
 
 1
 00: 00: 00, 420--> 00: 00: 12, 560
@@ -10846,7 +10846,7 @@ Mẫu Saga được sử dụng để quản lý tính nhất quán của dữ l
 00: 07: 52, 450--> 00: 08: 00, 250
 Cơ sở dữ liệu thay đổi trong bài học tiếp theo. Tôi sẽ thảo luận về những cách khác nhau mà mô hình Taga có thể được hiện thực hóa.
 
-<!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000003.srt-->
+<!--@\14ManagingDistributedTransactionswithSAGA_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 130
@@ -10984,7 +10984,7 @@ Trong bài học này, tôi đã nói về cách xây dựng Saga bằng cách s
 00: 06: 48, 430--> 00: 07: 01, 600
 Một đối tượng miền có thể hoạt động như câu chuyện. Điều phối viên thực thi cho một máy tính bên ngoài như quy trình làm việc, công cụ hoặc khung có thể được sử dụng làm điều phối viên thực thi saga.
 
-<!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000004.srt-->
+<!--@\14ManagingDistributedTransactionswithSAGA_VVN\000000004.srt-->
 
 1
 00: 00: 00, 450--> 00: 00: 28, 550
@@ -11058,7 +11058,7 @@ Nhắn tin được ưu tiên hơn cho việc liên lạc giữa các dịch v�
 00: 03: 53, 190--> 00: 04: 07, 170
 Điều đó có nghĩa là một số giao dịch có thể được thực hiện nhiều lần mà không làm mất tính nhất quán của dữ liệu. Giao dịch có thể thất bại, nhưng nếu giao dịch thất bại thì giao dịch bù đắp phải được thực hiện.
 
-<!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000005.srt-->
+<!--@\14ManagingDistributedTransactionswithSAGA_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 10, 270
@@ -11316,7 +11316,7 @@ Vì vậy, câu chuyện của chúng tôi dường như đã có tác dụng tr
 00: 11: 30, 190--> 00: 11: 38, 260
 Tôi cũng sẽ chỉ cho chúng ta các bước mà chúng tôi cần thực hiện để thử nghiệm tầng này tại địa phương. Vậy hãy cùng tôi tham gia bài học tiếp theo nhé.
 
-<!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000006.srt-->
+<!--@\14ManagingDistributedTransactionswithSAGA_VVN\000000006.srt-->
 
 1
 00: 00: 00, 090--> 00: 00: 08, 970
@@ -11502,7 +11502,7 @@ Mỗi trong số này có một chức năng chính trong bước tiếp theo. T
 00: 08: 52, 320--> 00: 09: 04, 470
 Quan sát dòng chẵn trong người tiêu dùng. Chúng ta cũng sẽ có thể kiểm tra dữ liệu và các bộ sưu tập trong CSDL của Akhmatova trên phiên bản được hỗ trợ trên đám mây.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000001.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000001.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 18, 150
@@ -11544,7 +11544,7 @@ Sự khác biệt giữa hai điều này là ở cách họ xác định hợp 
 00: 01: 57, 780--> 00: 02: 09, 630
 Tôi hy vọng rằng đến cuối phần này, chúng ta sẽ có thể quyết định nên sử dụng API còn lại hay sử dụng đồ họa cho AP được hiển thị bởi các vi dịch vụ của chúng ta .
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000002.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000002.srt-->
 
 1
 00: 00: 00, 340--> 00: 00: 10, 860
@@ -11606,7 +11606,7 @@ Ràng buộc này là tùy chọn. Vì vậy, điều đó có nghĩa là miễn
 00: 02: 26, 700--> 00: 02: 44, 630
 Hãy nhớ lại rằng các API còn lại không bị giới hạn ở giao thức HTP. Vì vậy, nếu chúng ta đang sử dụng SCDP và nó tuân theo các ràng buộc về kiến ​​​​trúc thì nó được cho là API còn lại EDP hoặc khôi phục S2P.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000003.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000003.srt-->
 
 1
 00: 00: 00, 330--> 00: 00: 12, 840
@@ -11760,7 +11760,7 @@ Và đây là những lựa chọn sai lầm còn lại. Lợn vòi không bị 
 00: 07: 06, 860--> 00: 07: 16, 130
 Ít heo vòi hơn có thể sử dụng bất kỳ giao thức truyền thông và bất kỳ định dạng dữ liệu nào. Nó không gắn liền với HTP và Jason, đây là một quan niệm sai lầm phổ biến.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000004.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 18, 270
@@ -11886,7 +11886,7 @@ Các vi dịch vụ cung cấp API và người tiêu dùng không kết nối t
 00: 06: 27, 460--> 00: 06: 37, 050
 Vì những mối quan tâm chung này được giải quyết bằng nền tảng quản lý API nên các vi dịch vụ chỉ triển khai logic nghiệp vụ cho ứng dụng.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000005.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 19, 360
@@ -11968,7 +11968,7 @@ API đau khổ có thể được phát triển bằng các ngôn ngữ khác nh
 00: 04: 06, 920--> 00: 04: 15, 620
 Trong bài giảng tiếp theo, tôi sẽ hướng dẫn chúng ta cách triển khai API sản phẩm và nhà cung cấp được triển khai bằng Java và Springboard.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000006.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 21, 120
@@ -12086,7 +12086,7 @@ Như chúng ta có thể thấy, nó là một bộ điều khiển bàn đạp.
 00: 05: 54, 100--> 00: 06: 01, 900
 Trước khi học lớp này, tôi khuyên chúng ta nên xem phần hướng dẫn về cách triển khai ứng dụng bằng Springboard.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000007.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000007.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 10, 400
@@ -12288,7 +12288,7 @@ Một máy chủ đồ họa, thực hiện đồ họa đặc biệt. Holidays,
 00: 10: 12, 290--> 00: 10: 19, 040
 Loại thành phần mà nhà phát triển phải kết hợp với nhau tùy thuộc vào máy chủ đồ họa đang sử dụng.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000008.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000008.srt-->
 
 1
 00: 00: 00, 330--> 00: 00: 10, 960
@@ -12486,7 +12486,7 @@ Sarah sử dụng lược đồ để xác thực yêu cầu hoạt động đ�
 00: 09: 13, 120--> 00: 09: 20, 890
 Máy khách sử dụng lược đồ để tạo tải trọng yêu cầu và phân tích các phản hồi mà nó nhận được từ máy chủ.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000009.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000009.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 15, 700
@@ -12588,7 +12588,7 @@ Tôi khuyên chúng ta nên xem xét đối tượng miền được xác địn
 00: 04: 41, 910--> 00: 04: 52, 170
 Tương tự, nhà cung cấp có cùng một bộ thuộc tính có trong các lớp nhà cung cấp. Trong bài học tiếp theo, chúng ta sẽ thấy những truy vấn này hoạt động như thế nào.
 
-<!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000010.srt-->
+<!--@\15 kiến trúc vi dịch vụ andAPI_VVN\000000010.srt-->
 
 1
 00: 00: 00, 630--> 00: 00: 08, 320

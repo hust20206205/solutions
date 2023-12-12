@@ -1,4 +1,4 @@
- 
+
 <!--@ \04UnderstandingtheBusinessDomain_VVN\000000002.srt-->
 
 1

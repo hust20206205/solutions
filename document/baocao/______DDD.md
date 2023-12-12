@@ -56,7 +56,7 @@ Không có gì đặc biệt về những tên miền phụ này và các phươ
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong tên miền phụ chung.
 
 <!--$VD:-->
-<!-- Ví dụ về các tên miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp. -->
+<!--Ví dụ về các tên miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
 
 
 <!--@Tên miền phụ cốt lõi (Core Subdomain)**-->
@@ -115,23 +115,21 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 
 <!--@Mô hình miền (Domain Models)-->
 
-<!--Để tạo một phần mềm tốt, bạn cần phải hiểu rõ về chính phần mềm đó.-->
-<!--để có thể hiểu miền nhanh và tạo ra các mô hình miền.-->
+Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó.   Trong domain driven design   để có thể hiểu miền nhanh , chúng ta tạo ra các mô hình miền.
 
-<!--Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.-->
+Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.
 
-<!--Mô hình miền không phải là kiến thức của chuyên gia ngành, mà là sự trừu tượng hóa của cả nhóm.-->
+Mô hình miền không phải là kiến thức của chuyên gia ngành, mà là sự trừu tượng hóa của cả nhóm.
 
-<!--Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô hình của nhóm.-->
+Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô hình của nhóm.
 
-<!--Mô hình miền giúp nhóm hiểu và đồng thuận khi làm việc.-->
+Mô hình miền giúp nhóm hiểu  ccoong việc  và đồng thuận khi làm việc.
 
 <!--Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.-->
 <!--$VD: Ở đồ án này, mô hình miền là ...-->
 
-<!--@Bối cảnh giới hạn (Bounded Context)-->
 
-<!-- @Ngôn ngữ chung  (Ubiquitous Language) -->
+<!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 <!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi bạn cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
 <!--Có ý nghĩa khác nhau trong các tên miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền.-->
@@ -160,6 +158,7 @@ Việc tạo ra ngôn ngữ chung là một quá trình liên tục.
 <!--Hướng dẫn 5/7-->
 <!---->
 
+<!--@Bối cảnh giới hạn (Bounded Context)-->
 **Bối cảnh giới hạn (Bounded Context)**
 
 Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.

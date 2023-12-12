@@ -309,6 +309,13 @@ ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B 
 Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
 <!--: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn:
 
 Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
@@ -322,119 +329,62 @@ Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn ph�
 <!--$VD: Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A-->
 <!--@Mô hình khách hàng - nhà cung cấp (Customer - Supplier Pattern)-->
 Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
-Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
+Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng. 
+Đối với mô hình này   cần tạo một bộ kiểm thử tích hợp tự động  của nhóm  nhà cung cấp,  nhằm kiểm tra tính đúng đắn theo     nhu cầu nhóm khách hàng. 
 
+ 
+ 
 <!--@=======================-->
 
-13
-00: 02: 45, 810--> 00: 02: 57, 060
 <!--Hãy thảo luận về tùy chọn số hai, trong đó bối cảnh giới hạn ngược dòng hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu nào của bối cảnh giới hạn ngược dòng.-->
-
-14
 00: 02: 57, 210--> 00: 03: 05, 430
+
 Trong kịch bản, bối cảnh giới hạn xuôi dòng ngoại trừ các mô hình được hiển thị bởi bối cảnh giới hạn ngược dòng.
 
-15
-00: 03: 05, 550--> 00: 03: 31, 770
 Kiểu quan hệ này được gọi là mô hình tuân thủ. Trong mẫu này, bối cảnh ranh giới hạ lưu tuân theo các mô hình bối cảnh giới hạn thượng nguồn để mô tả mối quan hệ này, chữ D bên cạnh bối cảnh giới hạn hạ lưu được thay thế bằng ghế F, do đó, trong bối cảnh giới hạn sơ đồ này, nó phù hợp với các mô hình được biểu thị bởi bối cảnh giới hạn .
 
-16
-00: 03: 31, 770--> 00: 03: 40, 800
 B Một điểm quan trọng cần lưu ý ở đây là cả hai bối cảnh được giới hạn đều sử dụng cùng một mô hình. Để cho chúng ta một ví dụ từ lĩnh vực ngân hàng.
 
-17
-00: 03: 40, 950--> 00: 03: 54, 450
 Giả sử có thẻ tín dụng ngữ cảnh giới hạn và bối cảnh giới hạn để quản lý khách hàng. Đội ngũ quản lý khách hàng phát triển và làm chủ mô hình cho khách hàng và ranh giới quản lý khách hàng.
 
-18
-00: 03: 54, 460--> 00: 04: 06, 210
 Ngữ cảnh đóng vai trò ngược dòng đối với thẻ tín dụng. Nhóm thẻ tín dụng quyết định áp dụng mô hình do nhóm quản lý khách hàng tạo ra và quản lý.
 
-19
-00: 04: 06, 540--> 00: 04: 14, 850
 Trong trường hợp đó, họ sẽ không cần dịch đối tượng khách hàng giữa các liên hệ được giới hạn.
 
-20
-00: 04: 15, 360--> 00: 04: 23, 940
 Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
 
-21
-00: 04: 23, 940--> 00: 04: 32, 580
 Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
 
-22
-00: 04: 32, 940--> 00: 04: 46, 710
 Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .
 
-23
-00: 04: 47, 070--> 00: 04: 59, 730
 Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng và mô hình này còn được gọi là Antichrist.
 
-24
-00: 05: 00, 860--> 00: 05: 11, 530
 Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. Loại mối quan hệ này được mô tả bằng cách thay thế ACL.
 
-25
-00: 05: 11, 600--> 00: 05: 18, 620
 Vì vậy, ở đây chúng tôi đang mô tả mối quan hệ giữa A và B trong mỗi bối cảnh liên kết này, có mô hình riêng.
 
-26
-00: 05: 18, 620--> 00: 05: 31, 750
 Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.
 
-27
-00: 05: 32, 120--> 00: 05: 46, 790
 Giả sử nhóm quản lý khách hàng quyết định mô tả khách hàng bằng ba thuộc tính này và nhóm thẻ tín dụng quyết định gọi khách hàng là chủ tài khoản trong bối cảnh thẻ tín dụng.
 
-28
-00: 05: 47, 030--> 00: 06: 01, 890
 Và đây là những thuộc tính mà họ quyết định sử dụng để mô tả nhóm thẻ tín dụng của chủ tài khoản đã quyết định tận dụng một số chức năng từ bộ phận quản lý khách hàng và liên hệ với bộ phận chống tham nhũng.
 
-29
-00: 06: 02, 510--> 00: 06: 17, 630
 Vì vậy, trong kịch bản này, lớp chống tham nhũng sẽ có logic dịch thuật để chuyển đổi khách hàng từ bối cảnh quản lý khách hàng sang chủ tài khoản trong bối cảnh thẻ tín dụng.
 
-30
-00: 06: 17, 930--> 00: 06: 33, 880
 Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, chẳng hạn như tên, họ. Và ở đây, như chúng ta có thể thấy, có một số loại thuộc tính nhận dạng chính phủ được ánh xạ tới SSN hoặc số An sinh xã hội của khách hàng.
 
-31
-00: 06: 33, 890--> 00: 06: 46, 050
 Và ánh xạ này cũng liên quan đến việc đặt loại nhận dạng thành SSN. Vì vậy, đây là ví dụ về logic dịch thuật được tích hợp trong ACL hoặc lớp chống tham nhũng.
 
-32
-00: 06: 46, 460--> 00: 06: 55, 430
 Vì vậy, điều đó có nghĩa là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
-33
-00: 06: 55, 760--> 00: 07: 07, 580
 Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
 
-34
-00: 07: 08, 720--> 00: 07: 16, 310
-Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.
 
-35
-00: 07: 16, 490--> 00: 07: 23, 480
-Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.
 
-36
-00: 07: 23, 480--> 00: 07: 40, 430
-Bối cảnh giới hạn ngược dòng điều chỉnh các mô hình theo nhu cầu của bối cảnh giới hạn xuôi dòng, trong khi ở mẫu tuân thủ, bối cảnh giới hạn ngược dòng không liên quan đến nhu cầu của bối cảnh giới hạn xuôi dòng.
 
-37
-00: 07: 40, 430--> 00: 07: 52, 310
-Và do đó, bối cảnh ranh giới phía hạ nguồn phù hợp với các mô hình thượng nguồn. Để bảo vệ bối cảnh ranh giới hạ nguồn, các nhóm sẽ quyết định sử dụng lớp chống tham nhũng.
 
-38
-00: 07: 52, 470--> 00: 08: 00, 200
-Lớp chống tham nhũng này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng.
 
-39
-00: 08: 00, 200--> 00: 08: 09, 410
-Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.
 
-<!--@=======================-->
 
 <!--!Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
 <!--!Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.-->
@@ -442,6 +392,7 @@ Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có ki�
 <!--!Và do đó, bối cảnh ranh giới phía hạ nguồn phù hợp với các mô hình thượng nguồn. Để bảo vệ bối cảnh ranh giới hạ nguồn, các nhóm sẽ quyết định sử dụng lớp chống tham nhũng.-->
 <!--!Lớp chống tham nhũng này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng.-->
 <!--!Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
+<!--@=======================-->
 
 <!--// C: \Users\ionships_VVN\000000005.srt-->
 

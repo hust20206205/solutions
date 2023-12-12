@@ -33,12 +33,12 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 
 Miền được tạo thành từ nhiều miền phụ.
 Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
-Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết.
-Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các miền phụ trong tên miền lớn hơn.
+Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó.
+Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các miền phụ trong tên miền lớn hơn.
 
+<!-- Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết. -->
 
-  <!-- $VD:   Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
-
+<!--$VD: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
 Một miền doanh nghiệp bao gồm nhiều miền phụ .
 
@@ -510,7 +510,6 @@ Repository trong ORM
 Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà chúng ta dự định giải quyết bằng thiết kế hướng miền .
 
 <!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
-
 
 <!--Bounded Context: Bối cảnh bị ràng buộc là gì?-->
 

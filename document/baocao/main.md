@@ -22,11 +22,13 @@
     - [2.1.5. Lưu trữ hóa đơn điện tử](#215-lưu-trữ-hóa-đơn-điện-tử)
     - [2.1.6. Một số lợi ích của hóa đơn điện tử:](#216-một-số-lợi-ích-của-hóa-đơn-điện-tử)
   - [2.2. Giới thiệu về kiến trúc vi dịch vụ](#22-giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
-    - [Kiến trúc nguyên khối](#kiến-trúc-nguyên-khối)
-    - [Kiến trúc vi dịch vụ](#kiến-trúc-vi-dịch-vụ)
-    - [Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ](#một-số-đặc-điểm-và-ưu-điểm-của-kiến-trúc-vi-dịch-vụ)
-    - [Một số nhược điểm và thách thức của kiến trúc vi dịch vụ](#một-số-nhược-điểm-và-thách-thức-của-kiến-trúc-vi-dịch-vụ)
+    - [2.2.1. Kiến trúc nguyên khối](#221-kiến-trúc-nguyên-khối)
+    - [2.2.2. Kiến trúc vi dịch vụ](#222-kiến-trúc-vi-dịch-vụ)
+    - [2.2.3. Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ](#223-một-số-đặc-điểm-và-ưu-điểm-của-kiến-trúc-vi-dịch-vụ)
+    - [2.2.4. Một số nhược điểm và thách thức của kiến trúc vi dịch vụ](#224-một-số-nhược-điểm-và-thách-thức-của-kiến-trúc-vi-dịch-vụ)
   - [2.3. Giới thiệu về thiết kế hướng miền](#23-giới-thiệu-về-thiết-kế-hướng-miền)
+- [3. Kết luận tổng kết](#3-kết-luận-tổng-kết)
+- [4. Tài liệu tham khảo](#4-tài-liệu-tham-khảo)
 
 <!--!======================================================-->
 
@@ -232,7 +234,7 @@ Thể hiện tính minh bạch trong quá trình kinh doanh (bảo vệ quyền 
 
 ## 2.2. Giới thiệu về kiến trúc vi dịch vụ
 
-### Kiến trúc nguyên khối
+### 2.2.1. Kiến trúc nguyên khối
 
 Trước khi kiến trúc vi dịch vụ trở nên phổ biến, kiến trúc nguyên khối đã được áp dụng rộng rãi trong kiến trúc phần mềm truyền thống. Kiến trúc nguyên khối là kiến trúc phần mềm trong đó toàn bộ dự án được xây dựng và triển khai như một đơn vị duy nhất.
 
@@ -242,7 +244,7 @@ Mô hình (Model): Đại diện cho dữ liệu và logic xử lý dữ liệu.
 Giao diện (View): Đại diện cho giao diện người dùng.
 Bộ điều khiển (Controller): Nhận yêu cầu người dùng thông qua View, sau đó tương tác với Model để làm việc với dữ liệu.
 
-### Kiến trúc vi dịch vụ
+### 2.2.2. Kiến trúc vi dịch vụ
 
 Kiến trúc vi dịch vụ chia dự án thành các thành phần nhỏ hơn được gọi là các dịch vụ.
 Các dịch vụ này chịu trách nhiệm cho một chức năng cụ thể nhằm hiện thực hóa khả năng kinh doanh cụ thể.
@@ -253,7 +255,7 @@ Các dịch vụ này tương tác với nhau qua hạ tầng mạng.
 ![](pictures/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu.jpg)
 ![](pictures/AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png)
 
-### Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ
+### 2.2.3. Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ
 
 Kiến trúc vi dịch vụ có nhiều ưu điểm đặc biệt với các dự án có quy mô lớn và phức tạp.
 
@@ -280,7 +282,7 @@ Ví dụ: Mỗi dịch vụ sử dụng ngôn ngữ lập trình nhau khác như
 
 ![](pictures/DaNgonNgu/_DaNgonNgu.png)
 
-### Một số nhược điểm và thách thức của kiến trúc vi dịch vụ
+### 2.2.4. Một số nhược điểm và thách thức của kiến trúc vi dịch vụ
 
 Tuy nhiên, kiến trúc vi dịch vụ cũng có nhiều thách thức.
 
@@ -340,11 +342,6 @@ Và từ đó, mẫu thiết kế hướng miền sử dụng để phân tích 
 Thiết kế hướng miền xác định và tổ chức các dịch vụ dựa trên việc hiểu rõ về lĩnh vực kinh doanh, giúp dự án phản ánh đúng các quy trình và quy tắc kinh doanh.
 
 <!--!======================================================-->
-<!---->
-
-[](2.0.YeuCauNghiepVu.md)
-
-<!---->
 
 [](3.0.ChiTietVaApDungTKHM.md)
 
@@ -353,3 +350,60 @@ Thiết kế hướng miền xác định và tổ chức các dịch vụ dựa
 
 [](3.3.MoHinhMien.md)
 [](3.4.TenMienPhu.md)
+
+# 3. Kết luận tổng kết
+
+Kiến trúc vi dịch vụ, với việc tách biệt hệ thống thành các thành phần nhỏ quản lý độc lập, mang lại tính linh hoạt và khả năng mở rộng.
+
+thiết kế hướng miền giúp xây dựng mô hình chính xác và nhất quán của lĩnh vực kinh doanh, giúp đảm bảo rằng hệ thống phản ánh đúng yêu cầu nghiệp vụ.
+
+# 4. Tài liệu tham khảo
+
+http
+
+<!--Căn cứ pháp lý-->
+<!--Thông tư 78/2021/TT-BTC-->
+<!--Nghị định 123/2020/NĐ-CP-->
+<!--Thông tư 78/2021/TT-BTC-->
+
+Thông tư 32/2011/TT-BTC: https: //thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-32-2011-TT-BTC-huong-dan-ve-khoi-tao-phat-hanh-su-dung-hoa-don-dien-tu-120233.aspx
+
+<!--https: //vanban.chinhphu.vn/default.aspx? pageid=27160&docid=99887-->
+
+Thông tư 78/2021/TT-BTC: https: //thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-78-2022-TT-BTC-du-toan-ngan-sach-Nha-nuoc-2023-547888.aspx
+
+<!--https: //vanban.chinhphu.vn/default.aspx? pageid=27160&docid=204200-->
+
+Nghị định 123/2020/NĐ-CP: https: //thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Nghi-dinh-123-2020-ND-CP-quy-dinh-hoa-don-chung-tu-445980.aspx
+
+<!--https: //vanban.chinhphu.vn/? pageid=27160&docid=201365-->
+
+<!--https: //hoadondientu.gdt.gov.vn-->
+
+<!--https: //en.wikipedia.org/wiki/kiến trúc vi dịch vụ-->
+<!--https: //en.wikipedia.org/wiki/Domain-driven_design-->
+
+<!--https: //kiến trúc vi dịch vụ.io-->
+<!--2. Richardson, C. (2018). _kiến trúc vi dịch vụ Patterns: With Examples in Java._ O'Reilly Media.-->
+<!--https: //refactoring.guru/design-mẫu/catalog-->
+
+<!--https: //www.infoq.com/minibooks/domain-driven-design-quickly-->
+<!--“thiết kế hướng miền: Tackling Complexity in the Heart of Software”, nhà xuất bản AddisonWesley, ISBN: 0-321-12521-5.-->
+<!--1. Evans, E. (2003). _thiết kế hướng miền: Tackling Complexity in the Heart of Software._ Addison-Wesley.-->
+
+<!--https: //learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design-->
+
+<!--https: //learn.microsoft.com/en-us/dotnet/architecture/kiến trúc vi dịch vụ/kiến trúc vi dịch vụ- thiết kế hướng miền -cqrs-mẫu/ thiết kế hướng miền -oriented-kiến trúc vi dịch vụ-->
+
+<!--3. Newman, S. (2015). _Building kiến trúc vi dịch vụ: Designing Fine-Grained Systems._ O'Reilly Media.-->
+
+<!--https: //github.com/GoogleCloudPlatform/kiến trúc vi dịch vụ-demo-->
+
+<!--https: //www.uml-diagrams.org-->
+
+<!--https: //www.udemy.com/course/domain-driven-design-and-kiến trúc vi dịch vụ-->
+
+https: //viblo.asia/p/tim-hieu-ve-kiến trúc vi dịch vụ-phan-1-kiến trúc vi dịch vụ-la-gi-63vKjVjyK2R
+
+https: //viblo.asia/p/domain-driven-design-phan-1-mrDGMOExkzL
+https: //en.wikipedia.org/wiki/Business_Model_Canvas

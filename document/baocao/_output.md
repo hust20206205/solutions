@@ -1,4 +1,4 @@
-  Ngôn ngữ không bị áp đặt bởi các chuyên gia. 
+Ngôn ngữ không bị áp đặt bởi các chuyên gia.
 19
 00: 03: 25, 230--> 00: 03: 36, 750
 Hãy coi nó như một ngôn ngữ nhóm, một ngôn ngữ bộ lạc phát triển hoặc phát triển theo thời gian thông qua sự cộng tác giữa doanh nghiệp và các chuyên gia công nghệ.

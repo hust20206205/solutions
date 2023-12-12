@@ -139,7 +139,7 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 
-![Alt text](pictures/CacMoHinhChienLuoc/0_CacMoHinhChienLuoc.png)
+![](pictures/CacMoHinhChienLuoc/0_CacMoHinhChienLuoc.png)
 
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 

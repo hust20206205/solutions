@@ -35,7 +35,7 @@
   - [4.4. UML Class Diagrams](#44-uml-class-diagrams)
 - [5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,](#5-service-mesh-cicd-microfe-api-gateway-cache-redis-log-xử-lí-lỗi)
 - [6. Container và Container Orchestration](#6-container-và-container-orchestration)
-- [7. Broker Pattern services dicovery](#7-broker-pattern-services-dicovery)
+- [7. Broker Pattern dịch vụ dicovery](#7-broker-pattern-dịch-vụ-dicovery)
 - [8. Dependency Injection](#8-dependency-injection)
 - [9. Kết luận tổng kết](#9-kết-luận-tổng-kết)
 - [10. Tài liệu tham khảo](#10-tài-liệu-tham-khảo)
@@ -1200,7 +1200,7 @@ Docker and Kubernetes (often abbreviated as K8s) are two powerful technologies c
 
 In summary, Docker is used to containerize applications, and Kubernetes is used to orchestrate and manage these containers in a production environment. Together, they provide a powerful and scalable solution for deploying and managing containerized applications.
 
-# 7. Broker Pattern services dicovery
+# 7. Broker Pattern dịch vụ dicovery
 
 https: //www.youtube.com/watch? v=UXHzxX4png0
 

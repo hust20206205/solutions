@@ -152,9 +152,13 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 
 ![](pictures/CacMoHinhChienLuoc/0_CacMoHinhChienLuoc.png)
-
+<!-- Sơ đồ về  các mô hình chiến lược -->
 <!--$ Vẽ lại sau:-->
 <!--Bối cảnh giới hạn (Bounded Context)-->
+<!--[Giữ cho mô hình thống nhất] Tích hợp Liên tục (CI/CD) -->
+<!-- [Tính nhất quán trong   trao đổi] Ngôn ngữ chung (Ubiquitous Language) -->
+
+<!-- [Tổng quan mối quan hệ]    Bản đồ bối cảnh (Context Maps)  -->
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
@@ -191,6 +195,20 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 
 <!--Hướng dẫn 5/10-->
 
+<!--@Tích hợp Liên tục (CI/CD) -->
+
+Khi một bối cảnh giới hạn đã được định nghĩa, chúng ta cần đảm bảo rằng nó luôn         mới và hoạt động tốt.
+
+Doanh nghiệp nhu cầu phát triển thay đổi liên tục và nhanh chóng.
+
+Ngay cả khi nhóm làm việc cùng trên một Bối cảnh giới hạn thì vẫn có thể có lỗi.
+
+=> Vì vậy, CI/CD tạo ra một quy trình tự động và liên tục từ việc tích hợp mã nguồn, kiểm thử tự động, đến quá trình triển khai, giúp tăng cường chất lượng phần mềm, giảm thời gian và rủi ro trong quá trình phát triển phần mềm.
+
+**Continuous Integration (CI): ** Đây là một phương pháp phát triển phần mềm mà ở đó, các thành viên trong nhóm phát triển tích hợp mã nguồn của họ vào một hệ thống chung thường xuyên - thường là hàng ngày. Mục tiêu của CI là giảm xung đột giữa các phiên bản mã nguồn khác nhau, giúp phát hiện và sửa lỗi sớm hơn. Khi một nhóm sử dụng CI, mã nguồn mới được tự động kiểm thử và xây dựng mỗi khi tích hợp vào hệ thống.
+
+**Continuous Delivery (CD): ** Sau khi mã nguồn đã được tích hợp, Continuous Delivery tập trung vào việc tự động hóa quá trình triển khai (deployment) để có thể triển khai ứng dụng vào môi trường sản xuất một cách nhanh chóng và đáng tin cậy. Điều này có nghĩa là mọi thay đổi trong mã nguồn có thể tự động triển khai vào môi trường thử nghiệm hoặc môi trường sản xuất mà không cần sự can thiệp thủ công.
+
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
@@ -223,20 +241,6 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 <!--!======================================================-->
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-
-**Tích hợp Liên tục (CI/CD)**
-
-Khi một Bối cảnh giới hạn đã được định nghĩa, chúng ta cần đảm bảo rằng nó luôn mới và hoạt động tốt.
-
-Doanh nghiệp nhu cầu phát triển thay đổi liên tục và nhanh chóng.
-
-Ngay cả khi nhóm làm việc cùng trên một Bối cảnh giới hạn thì vẫn có thể có lỗi.
-
-=> Vì vậy, CI/CD tạo ra một quy trình tự động và liên tục từ việc tích hợp mã nguồn, kiểm thử tự động, đến quá trình triển khai, giúp tăng cường chất lượng phần mềm, giảm thời gian và rủi ro trong quá trình phát triển phần mềm.
-
-**Continuous Integration (CI): ** Đây là một phương pháp phát triển phần mềm mà ở đó, các thành viên trong nhóm phát triển tích hợp mã nguồn của họ vào một hệ thống chung thường xuyên - thường là hàng ngày. Mục tiêu của CI là giảm xung đột giữa các phiên bản mã nguồn khác nhau, giúp phát hiện và sửa lỗi sớm hơn. Khi một nhóm sử dụng CI, mã nguồn mới được tự động kiểm thử và xây dựng mỗi khi tích hợp vào hệ thống.
-
-**Continuous Delivery (CD): ** Sau khi mã nguồn đã được tích hợp, Continuous Delivery tập trung vào việc tự động hóa quá trình triển khai (deployment) để có thể triển khai ứng dụng vào môi trường sản xuất một cách nhanh chóng và đáng tin cậy. Điều này có nghĩa là mọi thay đổi trong mã nguồn có thể tự động triển khai vào môi trường thử nghiệm hoặc môi trường sản xuất mà không cần sự can thiệp thủ công.
 
 <!---->
 

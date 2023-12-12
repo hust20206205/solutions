@@ -56,8 +56,8 @@ Không có gì đặc biệt về những tên miền phụ này và các phươ
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong tên miền phụ chung.
 
 <!--$VD:-->
+<!-- Ví dụ về các tên miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp. -->
 
-Ví dụ về các tên miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.
 
 <!--@Tên miền phụ cốt lõi (Core Subdomain)**-->
 
@@ -84,7 +84,7 @@ Tên miền phụ hỗ trợ không có mức độ phức tạp cao về logic 
 <!---->
 <!---->
 <!---->
-<!--@Xác định các tên miền phụ-->
+<!--@Cách xác định các tên miền phụ-->
 
 Sơ đồ:
 ![](pictures/XacDinhTenMienPhu/_XacDinhTenMienPhu.png)
@@ -102,7 +102,7 @@ Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả nă
 
 <!--$VD: Sau khi phân tích em có cccccccc-->
 
-<!--Tại sao cần phân loại các tên miền phụ?-->
+<!--@Tại sao cần phân loại các tên miền phụ?-->
 
 Việc phân loại tên miền phụ giúp doanh nghiệp đưa ra quyết định với từng loại tên miền phụ khác nhau.
 
@@ -131,8 +131,7 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
-** ngôn ngữ chung (ngôn ngữ chung)**
-**Ngôn ngữ phổ biến (UbiquitousLanguage)**
+<!-- @Ngôn ngữ chung  (Ubiquitous Language) -->
 
 <!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi bạn cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
 <!--Có ý nghĩa khác nhau trong các tên miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền.-->

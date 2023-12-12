@@ -73,7 +73,6 @@ for file_path in file_paths:
     content = content.replace('chuyên gia nghiệp vụ', '           chuyên gia ngành     ')
     content = content.replace('chuyên gia tên miền', '           chuyên gia ngành     ')
 
-    content = content.replace('Ubiquitous Language', '      ngôn ngữ chung     ')
     content = content.replace('Ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
     content = content.replace('ngôn ngữ phổ biến', '      ngôn ngữ chung     ')
     # content = content.replace('.' 

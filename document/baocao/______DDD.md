@@ -8,7 +8,7 @@ Thiết kế hướng miền được Eric Evans giới thiệu trong cuốn sá
 
 Thiết kế hướng miền là một phương pháp thiết kế phần mềm tập trung vào việc hiểu và mô hình hóa lĩnh vực kinh doanh của một tổ chức.
 
-Thiết kế hướng miền nhấn mạnh việc sử dụng lĩnh vực nghiệp vụ kinh doanh để thảo luận và đề xuất giải pháp đáp ứng nhu cầu. Vì để tạo một phần mềm tốt, bạn cần phải hiểu rõ về chính phần mềm đó. Chính vì vậy mà để đạt được kết quả như mong đợi, chúng ta thường bắt đầu từ yêu cầu nghiệp vụ.
+Thiết kế hướng miền nhấn mạnh việc sử dụng lĩnh vực nghiệp vụ kinh doanh để thảo luận và đề xuất giải pháp đáp ứng nhu cầu. Vì để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Chính vì vậy mà để đạt được kết quả như mong đợi, chúng ta thường bắt đầu từ yêu cầu nghiệp vụ.
 
 <!--!======================================================-->
 Trong ứng dụng điển hình khó tương thích với lập trình hướng đối tượng vì có nhiều phần code xử lý các công việc không liên quan đến vấn đề nghiệp vụ như truy cập file, hạ tầng mạng, CSDL, ... được nhúng trực tiếp vào đối tượng nghiệp vụ kinh doanh. Cách này giúp tốc độ hoàn thiện ứng dụng nhanh. Tuy nhiên, cách này làm cho thiết kế bị mất đi tính hướng đối tượng trong thực tế với mức độ doanh nghiệp lớn. Đây là lý do thiết kế hướng miền trở nên quan trọng.
@@ -130,7 +130,7 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
-<!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi bạn cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
+<!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi chúng ta cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
 <!--Có ý nghĩa khác nhau trong các tên miền phụ khác nhau trong tổ chức và những thách thức về ngôn ngữ này có thể gây ra sự nhầm lẫn lớn cho các nhóm phát triển phần mềm cũng như các chuyên gia về miền.-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Lập trình viên tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các nhóm có thể dẫn đến những thách thức về giao tiếp.
@@ -256,7 +256,7 @@ Một điểm khác biệt quan trọng giữa các thực thể và đối tư�
 
 
 <!--VD-->
-<!--bạn sẽ đặt logic xác thực cho địa chỉ email ở đâu?-->
+<!--chúng ta sẽ đặt logic xác thực cho địa chỉ email ở đâu?-->
 <!--xác nhận kỹ thuật không liên quan đến bất kỳ khái niệm kinh doanh nào.-->
 <!--tạo một đối tượng giá trị để xác thực địa chỉ email.-->
 <!--Kết quả là, thực thể khách hàng sẽ sạch hơn và đơn giản hơn nhiều trong việc thực hiện.-->
@@ -298,7 +298,7 @@ Aggregate phải cung cấp các giao diện để vận hành trên các đối
 
 
 <!--!Mẫu nhà xưởng (Factory Pattern)-->
-<!--Mẫu thiết kế nhà máy là một mẫu phổ biến để xây dựng các tập hợp miền phức tạp. Cách thức hoạt động là bạn xác định một đối tượng có tất cả logic để tạo tổng hợp miền.-->
+<!--Mẫu thiết kế nhà máy là một mẫu phổ biến để xây dựng các tập hợp miền phức tạp. Cách thức hoạt động là chúng ta xác định một đối tượng có tất cả logic để tạo tổng hợp miền.-->
 
 Nhà máy này hiển thị một chức năng có thể được gọi bằng mã và hiển thị chức năng để tạo các bộ tổng hợp có liên quan trong nhà máy, nhà máy đọc.
 Dữ liệu tổng hợp từ bộ lưu trữ liên tục sẽ tạo tổng hợp và trả về cột.
@@ -347,13 +347,13 @@ một số tùy chọn hiện thực hóa cho kho lưu trữ
 <!--Tất cả logic để tương tác với bộ lưu trữ dữ liệu được gói gọn bởi đối tượng kho lưu trữ.-->
 <!--kho lưu trữ đóng vai trò là nơi chứa tập hợp các đối tượng tổng hợp.-->
 
-<!--đối với mỗi tổng hợp được xác định trong mô hình miền, bạn có một và chỉ một kho lưu trữ.-->
+<!--đối với mỗi tổng hợp được xác định trong mô hình miền, chúng ta có một và chỉ một kho lưu trữ.-->
 <!--Các đối tượng kho lưu trữ được quản lý như một phần của lớp miền. Ngoài các chức năng thẻ điển hình, kho lưu trữ cũng có thể hiển thị các chức năng cấp cao hơn, chủ yếu dành cho truy vấn.-->
 
 <!--Nhìn chung, lợi ích chính của việc sử dụng kho lưu trữ là nó giữ cho mô hình miền độc lập với lớp lưu trữ.-->
 
-<!--Mô hình miền độc lập với mô hình lưu trữ. Vì vậy, ví dụ: nếu bạn đang sử dụng RDBMS thì mô hình miền không cần phải biết về cấu trúc bảng và cột.-->
-<!--Nó giữ cho mô hình miền độc lập với công nghệ bạn có thể đang sử dụng và RDBMS không bằng nhau-->
+<!--Mô hình miền độc lập với mô hình lưu trữ. Vì vậy, ví dụ: nếu chúng ta đang sử dụng RDBMS thì mô hình miền không cần phải biết về cấu trúc bảng và cột.-->
+<!--Nó giữ cho mô hình miền độc lập với công nghệ chúng ta có thể đang sử dụng và RDBMS không bằng nhau-->
 
 <!--Kho lưu trữ giữ cho mô hình miền độc lập với cơ sở hạ tầng-->
 <!--giúp kiểm tra và mô phỏng đơn vị.-->
@@ -361,7 +361,7 @@ một số tùy chọn hiện thực hóa cho kho lưu trữ
 
 <!--Việc hiện thực hóa kho lưu trữ yêu cầu nhà phát triển phải ánh xạ giữa đối tượng miền và CSDL và ngược lại.-->
 
-Trong bài học này, bạn đã tìm hiểu về các đối tượng kho lưu trữ mẫu kho lưu trữ làm cho mô hình miền độc lập với lớp CSDL.
+Trong bài học này, chúng ta đã tìm hiểu về các đối tượng kho lưu trữ mẫu kho lưu trữ làm cho mô hình miền độc lập với lớp CSDL.
 Các hoạt động CSDL trên tổng hợp phải là nguyên tử, đối tượng kho lưu trữ và các lực lượng. Các đối tượng kho lưu trữ nguyên tử cũng có thể được sử dụng để thử nghiệm và mô phỏng đơn vị.
 Có một số mối quan tâm chung liên quan đến các đối tượng kho lưu trữ, nhưng những mối quan tâm chung này liên quan đến chức năng truy vấn có thể được giải quyết bằng cách hiển thị các hàm truy vấn cấp cao trong đối tượng kho lưu trữ bằng cách sử dụng các giải pháp bộ nhớ đệm như Radice và Memcache cũng như bằng cách tạo và hiển thị các hàm truy vấn bên ngoài của đối tượng kho lưu trữ.
 
@@ -374,7 +374,7 @@ Có một số mối quan tâm chung liên quan đến các đối tượng kho 
 
 <!--Một định nghĩa chính thức hơn về dịch vụ miền là đối tượng miền thực hiện chức năng hoặc khái niệm miền có thể không được mô hình hóa một cách tự nhiên như một hành vi trong bất kỳ dịch vụ miền, thực thể hoặc đối tượng giá trị nào như một phần của mô hình miền, vì có các loại dịch vụ khác nhau.-->
 
-<!--Điều quan trọng là bạn phải hiểu các đặc điểm của dịch vụ tên miền.-->
+<!--Điều quan trọng là chúng ta phải hiểu các đặc điểm của dịch vụ tên miền.-->
 <!--Dịch vụ miền luôn thực hiện hành vi kinh doanh cho miền.-->
 <!--Dịch vụ miền không có trạng thái, dịch vụ miền có tính gắn kết cao.-->
 <!--Dịch vụ miền có thể tương tác với các dịch vụ miền khác.-->
@@ -390,7 +390,7 @@ Dịch vụ miền độc lập với công nghệ được sử dụng để g�
 
 Thông tin thêm về chủ đề này khi chúng ta tiến bộ trong suốt khóa học. Đã đến lúc bắt đầu với những điểm chính mà chúng ta đã đề cập trong bài học này.
 
-Tôi đã nói về dịch vụ miền và bạn cần phải biết những đặc điểm của dịch vụ miền giúp phân biệt nó với các loại dịch vụ khác.
+Tôi đã nói về dịch vụ miền và chúng ta cần phải biết những đặc điểm của dịch vụ miền giúp phân biệt nó với các loại dịch vụ khác.
 Đầu tiên là dịch vụ miền thực hiện hành vi miền không phù hợp một cách tự nhiên với các thực thể và đối tượng giá trị khác trong mô hình miền.
 Các đặc điểm khác là dịch vụ miền không có trạng thái, dịch vụ miền có tính Cohasset cao và dịch vụ miền với các dịch vụ miền khác.
 
@@ -425,7 +425,7 @@ Nó có thể là Jason Ximo, CSFI hoặc bất kỳ định dạng nào khác. 
 
 Các thành phần bên ngoài có thể có hoặc không có kiến ​​thức về đối tượng miền hoặc cấu trúc của chúng. Tiếp theo, tôi sẽ thảo luận về mối quan hệ giữa dịch vụ ứng dụng và dịch vụ miền và dịch vụ ứng dụng có thể hiển thị dịch vụ miền với thành phần bên ngoài.
 
-Dịch vụ miền để cung cấp giao diện cho các thành phần bên ngoài. Đã đến lúc đi vào những điểm chính trong bài học này bạn đã học về các ứng dụng, dịch vụ, ứng dụng, dịch vụ không triển khai bất kỳ hành vi miền nào.
+Dịch vụ miền để cung cấp giao diện cho các thành phần bên ngoài. Đã đến lúc đi vào những điểm chính trong bài học này chúng ta đã học về các ứng dụng, dịch vụ, ứng dụng, dịch vụ không triển khai bất kỳ hành vi miền nào.
 Chúng cung cấp các dịch vụ cấp cao bằng cách phối hợp thực thi logic miền trong các đối tượng miền.
 Các dịch vụ ứng dụng hiển thị giao diện cho các thành phần bên ngoài. Nghĩa là, các thành phần nằm ngoài mô hình miền thông qua giao thức mạng như HTP và NQ.
 
@@ -484,7 +484,7 @@ Dịch vụ cơ sở hạ tầng tuân theo nguyên tắc trách nhiệm duy nh�
 
 Thay đổi này sẽ chỉ yêu cầu thay đổi trong dịch vụ email và sẽ không có tác động đến bất kỳ dịch vụ miền nào sử dụng dịch vụ email nội dung hiển thị theo hợp đồng tiêu chuẩn và do đó mô hình miền được cách ly khỏi các thay đổi tài nguyên bên ngoài.
 
-Trong bài giảng này, bạn đã tìm hiểu về các dịch vụ cơ sở hạ tầng. Các dịch vụ cơ sở hạ tầng như dịch vụ ứng dụng không thực hiện bất kỳ hành vi miền nào.
+Trong bài giảng này, chúng ta đã tìm hiểu về các dịch vụ cơ sở hạ tầng. Các dịch vụ cơ sở hạ tầng như dịch vụ ứng dụng không thực hiện bất kỳ hành vi miền nào.
 Các dịch vụ cơ sở hạ tầng cung cấp các tài nguyên bên ngoài thông qua giao diện tiêu chuẩn hoặc hợp đồng tiêu chuẩn và cơ chế hợp đồng tiêu chuẩn này bảo vệ mô hình miền khỏi những thay đổi trong dịch vụ bên ngoài.
 
 <!--Hướng dẫn 7/15-->
@@ -530,13 +530,13 @@ thiết kế hướng miền là một cách tiếp cận để phát triển nh
 
 <!--Problem Space / Business Domain: Không gian vấn đề / Lĩnh vực kinh doanh-->
 
-Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà bạn dự định giải quyết bằng thiết kế hướng miền .
+Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà chúng ta dự định giải quyết bằng thiết kế hướng miền .
 
 <!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
 
 <!--Sub-Domains: Tên miền phụ-->
 
-Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của bạn thành các đơn vị chức năng kinh doanh gắn kết.
+Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết.
 
 <!--Ví dụ: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
@@ -544,7 +544,7 @@ Việc xác định các miền phụ về cơ bản liên quan đến việc ch
 
 Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
 
-Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà bạn cần trong miền kinh doanh và giữa các miền phụ của bạn.
+Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
 
 <!--Domain Model: Mô hình miền-->
 
@@ -570,15 +570,15 @@ Theo ngôn ngữ kỹ thuật trong thế giới thiết kế hướng miền, �
 
 <!--Aggregates/Entities/Value Objects-->
 
-Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh bị ràng buộc của bạn và xác định phạm vi nhất quán trong bối cảnh bị ràng buộc đó.
-Tổng hợp = Mã định danh chính của Bối cảnh bị ràng buộc của bạn
+Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh bị ràng buộc của chúng ta và xác định phạm vi nhất quán trong bối cảnh bị ràng buộc đó.
+Tổng hợp = Mã định danh chính của Bối cảnh bị ràng buộc của chúng ta
 
 Đối tượng thực thể có bản sắc riêng nhưng không thể
 tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 được tạo khi tập hợp gốc được tạo và bị hủy khi tập
 hợp gốc bị phá hủy.
 
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của bạn
+Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
 
 <!---->
 
@@ -652,7 +652,7 @@ SQL
 
 Business Model Canvas
 
-<!--mục đích của bài giảng này là cung cấp cho bạn cái nhìn tổng quan về bức vẽ mô hình kinh doanh.-->
+<!--mục đích của bài giảng này là cung cấp cho chúng ta cái nhìn tổng quan về bức vẽ mô hình kinh doanh.-->
 
 <!--! phân khúc khách hàng (Customer Segments)-->
 
@@ -668,7 +668,7 @@ Bây giờ, loại giá trị nào đang mang lại cho mỗi khách hàng này?
 
 <!--! nguồn tiềm lực chính (Key Resources)-->
 
-Có nhiều nguồn lực mà doanh nghiệp yêu cầu, nhưng bạn cần suy nghĩ về những nguồn lực cần thiết cho việc đề xuất giá trị.
+Có nhiều nguồn lực mà doanh nghiệp yêu cầu, nhưng chúng ta cần suy nghĩ về những nguồn lực cần thiết cho việc đề xuất giá trị.
 Nói cách khác, có thể có nhiều nguồn lực mà doanh nghiệp cần, nhưng hãy nghĩ về những nguồn lực quan trọng mà doanh nghiệp không thể tồn tại nếu không có.
 
 <!--Không có tài xế, Uber không thể mang lại giá trị cho khách hàng.-->
@@ -687,11 +687,11 @@ Doanh nghiệp cần thực hiện nhiều hoạt động theo các hoạt độ
 
 <!--Uber xây dựng và duy trì nền tảng và phần mềm.
 Uber luôn tìm kiếm tài xế mới nên việc tuyển dụng tài xế là một trong những hoạt động trọng tâm.-->
-<!--Và sau đó là các vấn đề pháp lý. Ý tôi là, nếu bạn chú ý đến tin tức trên Google, bạn sẽ thấy rằng Uber luôn tham gia vào một số cuộc chiến pháp lý với chính quyền tiểu bang và thành phố.-->
+<!--Và sau đó là các vấn đề pháp lý. Ý tôi là, nếu chúng ta chú ý đến tin tức trên Google, chúng ta sẽ thấy rằng Uber luôn tham gia vào một số cuộc chiến pháp lý với chính quyền tiểu bang và thành phố.-->
 
 <!--! Quan hệ khách hàng (Customer Relationships)-->
 
-Giữ chân khách hàng là một trong những điều quan trọng nhất đối với bất kỳ doanh nghiệp nào. Và để giữ chân khách hàng, bạn cần đảm bảo rằng khách hàng hài lòng với dịch vụ bạn đang cung cấp và mối quan hệ mà bạn có với họ.
+Giữ chân khách hàng là một trong những điều quan trọng nhất đối với bất kỳ doanh nghiệp nào. Và để giữ chân khách hàng, chúng ta cần đảm bảo rằng khách hàng hài lòng với dịch vụ chúng ta đang cung cấp và mối quan hệ mà chúng ta có với họ.
 Vì vậy, trong mối quan hệ khách hàng, người ta phải suy nghĩ về loại mối quan hệ được cung cấp cho từng phân khúc khách hàng.
 
 <!--Vì vậy, trong trường hợp đó là ai, hệ thống xếp hạng và phản hồi dành cho khách hàng và tài xế, thì sẽ có một cơ chế tự phục vụ để khách hàng và tài xế có thể nhận được dịch vụ và hỗ trợ từ bên kia.-->
@@ -859,7 +859,7 @@ trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có
 ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
 
-<!--!Trong bài học này, bạn đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
+<!--!Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
 <!--!Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.-->
 <!--!Bối cảnh giới hạn ngược dòng điều chỉnh các mô hình theo nhu cầu của bối cảnh giới hạn xuôi dòng, trong khi ở mẫu tuân thủ, bối cảnh giới hạn ngược dòng không liên quan đến nhu cầu của bối cảnh giới hạn xuôi dòng.-->
 <!--!Và do đó, bối cảnh ranh giới phía hạ nguồn phù hợp với các mô hình thượng nguồn. Để bảo vệ bối cảnh ranh giới hạ nguồn, các nhóm sẽ quyết định sử dụng lớp chống tham nhũng.-->

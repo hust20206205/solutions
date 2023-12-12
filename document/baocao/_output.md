@@ -3,7 +3,7 @@
 
 1
 00: 00: 00, 210--> 00: 00: 09, 230
-Canvas mô hình kinh doanh, trong bài học này, bạn tìm hiểu canvas mô hình kinh doanh là gì và mô tả các khối xây dựng của canvas mô hình kinh doanh.
+Canvas mô hình kinh doanh, trong bài học này, chúng ta tìm hiểu canvas mô hình kinh doanh là gì và mô tả các khối xây dựng của canvas mô hình kinh doanh.
 
 2
 00: 00: 09, 630--> 00: 00: 24, 390
@@ -23,19 +23,19 @@ Và đây là chín khối xây dựng cơ bản được sắp xếp dưới d�
 
 6
 00: 00: 53, 850--> 00: 01: 05, 250
-Tôi sẽ giải thích cho bạn những gì cấu thành nên từng khối xây dựng này và tôi sẽ lấy Uber làm ví dụ. Vì vậy, đến cuối bài giảng này, chúng ta sẽ có được bức vẽ mô hình kinh doanh cho oboH.
+Tôi sẽ giải thích cho chúng ta những gì cấu thành nên từng khối xây dựng này và tôi sẽ lấy Uber làm ví dụ. Vì vậy, đến cuối bài giảng này, chúng ta sẽ có được bức vẽ mô hình kinh doanh cho oboH.
 
 7
 00: 01: 05, 490--> 00: 01: 11, 750
-Xin lưu ý rằng mục đích của bài giảng này là cung cấp cho bạn cái nhìn tổng quan về bức vẽ mô hình kinh doanh.
+Xin lưu ý rằng mục đích của bài giảng này là cung cấp cho chúng ta cái nhìn tổng quan về bức vẽ mô hình kinh doanh.
 
 8
 00: 01: 11, 760--> 00: 01: 19, 250
-Tôi sẽ khuyến khích bạn thực hiện nghiên cứu của riêng bạn. Có rất nhiều trang web hay giúp bạn tìm hiểu sâu hơn về mô hình mô hình kinh doanh.
+Tôi sẽ khuyến khích chúng ta thực hiện nghiên cứu của riêng chúng ta . Có rất nhiều trang web hay giúp chúng ta tìm hiểu sâu hơn về mô hình mô hình kinh doanh.
 
 9
 00: 01: 19, 290--> 00: 01: 27, 690
-Đề nghị bạn bắt đầu bằng cách đọc trang Wikipedia về mô hình kinh doanh. Khối xây dựng đầu tiên mà tôi thảo luận là khách hàng.
+Đề nghị chúng ta bắt đầu bằng cách đọc trang Wikipedia về mô hình kinh doanh. Khối xây dựng đầu tiên mà tôi thảo luận là khách hàng.
 
 10
 00: 01: 27, 690--> 00: 01: 34, 680
@@ -63,7 +63,7 @@ Trong trường hợp của Uber, khách hàng sẽ nhận được sự tiện 
 
 16
 00: 02: 13, 560--> 00: 02: 23, 190
-Có nhiều nguồn lực mà doanh nghiệp yêu cầu, nhưng bạn cần suy nghĩ về những nguồn lực cần thiết cho việc đề xuất giá trị.
+Có nhiều nguồn lực mà doanh nghiệp yêu cầu, nhưng chúng ta cần suy nghĩ về những nguồn lực cần thiết cho việc đề xuất giá trị.
 
 17
 00: 02: 23, 200--> 00: 02: 30, 990
@@ -99,11 +99,11 @@ Uber xây dựng và duy trì nền tảng và phần mềm. Uber luôn tìm ki�
 
 25
 00: 03: 49, 320--> 00: 04: 01, 200
-Và sau đó là các vấn đề pháp lý. Ý tôi là, nếu bạn chú ý đến tin tức trên Google, bạn sẽ thấy rằng Uber luôn tham gia vào một số cuộc chiến pháp lý với chính quyền tiểu bang và thành phố.
+Và sau đó là các vấn đề pháp lý. Ý tôi là, nếu chúng ta chú ý đến tin tức trên Google, chúng ta sẽ thấy rằng Uber luôn tham gia vào một số cuộc chiến pháp lý với chính quyền tiểu bang và thành phố.
 
 26
 00: 04: 01, 860--> 00: 04: 16, 680
-Giữ chân khách hàng là một trong những điều quan trọng nhất đối với bất kỳ doanh nghiệp nào. Và để giữ chân khách hàng, bạn cần đảm bảo rằng khách hàng hài lòng với dịch vụ bạn đang cung cấp và mối quan hệ mà bạn có với họ.
+Giữ chân khách hàng là một trong những điều quan trọng nhất đối với bất kỳ doanh nghiệp nào. Và để giữ chân khách hàng, chúng ta cần đảm bảo rằng khách hàng hài lòng với dịch vụ chúng ta đang cung cấp và mối quan hệ mà chúng ta có với họ.
 
 27
 00: 04: 17, 280--> 00: 04: 26, 250
@@ -143,7 +143,7 @@ Trong bài học này, tôi đã trình bày sơ đồ mô hình kinh doanh, đ�
 
 36
 00: 05: 59, 940--> 00: 06: 08, 850
-Có chín phần trong mô hình kinh doanh của chúng tôi. Là một phần của bài học này, tôi đã hướng dẫn bạn cái nhìn đơn giản về sơ đồ mô hình kinh doanh của Uber.
+Có chín phần trong mô hình kinh doanh của chúng tôi. Là một phần của bài học này, tôi đã hướng dẫn chúng ta cái nhìn đơn giản về sơ đồ mô hình kinh doanh của Uber.
 
 37
 00: 06: 09, 000--> 00: 06: 16, 350
@@ -173,15 +173,15 @@ Uber kiếm tiền bằng hoa hồng phù hợp, các chuyến đi cao cấp, gi
 
 1
 00: 00: 00, 210--> 00: 00: 14, 310
-Mô hình kinh doanh, canvas cho du lịch, trong bài giảng này, bạn sẽ tìm hiểu canvas mô hình kinh doanh đã được tạo ra như thế nào và đến cuối bài giảng này, chúng ta sẽ có canvas mô hình kinh doanh cho các chuyến đi của ACMC để tận dụng tối đa bài giảng này.
+Mô hình kinh doanh, canvas cho du lịch, trong bài giảng này, chúng ta sẽ tìm hiểu canvas mô hình kinh doanh đã được tạo ra như thế nào và đến cuối bài giảng này, chúng ta sẽ có canvas mô hình kinh doanh cho các chuyến đi của ACMC để tận dụng tối đa bài giảng này.
 
 2
 00: 00: 14, 460--> 00: 00: 21, 160
-Tôi khuyên bạn nên làm theo và tạo ra bức vẽ mô hình kinh doanh cho tổ chức mà bạn đang làm việc.
+Tôi khuyên chúng ta nên làm theo và tạo ra bức vẽ mô hình kinh doanh cho tổ chức mà chúng ta đang làm việc.
 
 3
 00: 00: 21, 480--> 00: 00: 36, 880
-Vì vậy, đối với mỗi khối trong số chín khối xây dựng, hãy nghĩ về tổ chức của riêng bạn, dán một số miếng dán lên một tờ giấy và nếu bạn muốn xem lại nó với tôi, hãy đưa nó ra dưới dạng hình ảnh và câu hỏi cũng như câu trả lời sẽ rất vui được thảo luận Nó.
+Vì vậy, đối với mỗi khối trong số chín khối xây dựng, hãy nghĩ về tổ chức của riêng chúng ta, dán một số miếng dán lên một tờ giấy và nếu chúng ta muốn xem lại nó với tôi, hãy đưa nó ra dưới dạng hình ảnh và câu hỏi cũng như câu trả lời sẽ rất vui được thảo luận Nó.
 
 4
 00: 00: 37, 380--> 00: 00: 45, 050
@@ -209,7 +209,7 @@ Mặc dù họ có thể không phải là chuyên gia ngành nhưng có những
 
 10
 00: 01: 35, 090--> 00: 01: 47, 990
-Vì lợi ích của bài giảng này, với tư cách là bạn, chúng tôi đã phỏng vấn các chuyên gia ngành của Achmea Travels và dựa trên thông tin đầu vào mà chúng tôi nhận được từ các chuyên gia này, chúng tôi đã tạo ra khung vẽ mô hình kinh doanh của mình.
+Vì lợi ích của bài giảng này, với tư cách là chúng ta, chúng tôi đã phỏng vấn các chuyên gia ngành của Achmea Travels và dựa trên thông tin đầu vào mà chúng tôi nhận được từ các chuyên gia này, chúng tôi đã tạo ra khung vẽ mô hình kinh doanh của mình.
 
 11
 00: 01: 49, 380--> 00: 01: 57, 430
@@ -379,15 +379,15 @@ Mẫu chiến lược áp dụng trên nhiều bối cảnh bị giới hạn, t
 
 6
 00: 01: 11, 790--> 00: 01: 27, 140
-Điều này sẽ trở nên rõ ràng khi bạn hiểu rõ hơn về các mô hình chiến lược và chiến thuật. Đây là các mẫu chiến lược thiết kế theo miền trong phần chúng tôi sẽ đề cập đến phần ngữ cảnh bị giới hạn và mẫu ngôn ngữ chung .
+Điều này sẽ trở nên rõ ràng khi chúng ta hiểu rõ hơn về các mô hình chiến lược và chiến thuật. Đây là các mẫu chiến lược thiết kế theo miền trong phần chúng tôi sẽ đề cập đến phần ngữ cảnh bị giới hạn và mẫu ngôn ngữ chung .
 
 7
 00: 01: 27, 570--> 00: 01: 51, 960
-Vì vậy, câu hỏi bạn có thể đặt ra là thiết kế miền khác nhau như thế nào liên quan đến các vi dịch vụ? Ý tưởng là phương pháp thiết kế hướng miền dẫn đến các mô hình miền độc lập nhỏ hơn có thể được xây dựng dưới dạng tập hợp các vi dịch vụ độc lập và có tính tách rời cao để mô hình chiến lược mà chúng tôi đang xác định ranh giới cho các vi dịch vụ .
+Vì vậy, câu hỏi chúng ta có thể đặt ra là thiết kế miền khác nhau như thế nào liên quan đến các vi dịch vụ? Ý tưởng là phương pháp thiết kế hướng miền dẫn đến các mô hình miền độc lập nhỏ hơn có thể được xây dựng dưới dạng tập hợp các vi dịch vụ độc lập và có tính tách rời cao để mô hình chiến lược mà chúng tôi đang xác định ranh giới cho các vi dịch vụ .
 
 8
 00: 01: 52, 920--> 00: 02: 02, 000
-Chúng ta hãy xem qua các mục tiêu của phần ở cuối phần này, bạn sẽ có thể xác định và phân loại các tên miền phụ trong một miền doanh nghiệp.
+Chúng ta hãy xem qua các mục tiêu của phần ở cuối phần này, chúng ta sẽ có thể xác định và phân loại các tên miền phụ trong một miền doanh nghiệp.
 
 9
 00: 02: 02, 400--> 00: 02: 12, 690
@@ -395,7 +395,7 @@ Bạn biết tại sao việc hiểu bối cảnh kinh doanh lại quan trọng.
 
 10
 00: 02: 13, 080--> 00: 02: 20, 070
-Và bạn cũng sẽ có thể mô tả quy trình có thể được sử dụng để khám phá các liên hệ được liên kết trong một miền.
+Và chúng ta cũng sẽ có thể mô tả quy trình có thể được sử dụng để khám phá các liên hệ được liên kết trong một miền.
 
 <!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000002.srt-->
 
@@ -425,7 +425,7 @@ Nó có thể chỉ cung cấp tài khoản bán lẻ cho khách hàng của h�
 
 7
 00: 01: 12, 420--> 00: 01: 28, 410
-Kết quả là cấu trúc tên miền phụ của ngân hàng ở đây và Ngân hàng B sẽ trông khác nhau. Bây giờ, nếu bạn nghĩ về điều đó, những tên miền phụ này có thể được chia thành các tên miền phụ nhỏ hơn và đây là những gì tôi gọi là mức độ chi tiết của tên miền phụ.
+Kết quả là cấu trúc tên miền phụ của ngân hàng ở đây và Ngân hàng B sẽ trông khác nhau. Bây giờ, nếu chúng ta nghĩ về điều đó, những tên miền phụ này có thể được chia thành các tên miền phụ nhỏ hơn và đây là những gì tôi gọi là mức độ chi tiết của tên miền phụ.
 
 8
 00: 01: 28, 410--> 00: 01: 45, 420
@@ -541,7 +541,7 @@ Bạn phải bắt đầu bằng cách xem xét khả năng kinh doanh trong tê
 
 36
 00: 07: 06, 650--> 00: 07: 16, 460
-Và nếu câu trả lời là có thì tên miền phụ có thể là do di truyền. Nếu không, bạn cần kiểm tra xem tên miền phụ có thêm bất kỳ giá trị kinh doanh nào không.
+Và nếu câu trả lời là có thì tên miền phụ có thể là do di truyền. Nếu không, chúng ta cần kiểm tra xem tên miền phụ có thêm bất kỳ giá trị kinh doanh nào không.
 
 37
 00: 07: 16, 460--> 00: 07: 26, 300
@@ -553,7 +553,7 @@ Và nếu câu trả lời là không thì bước kiểm tra tiếp theo là xe
 
 39
 00: 07: 33, 290--> 00: 07: 43, 340
-Và câu trả lời đó là có thì rất có thể đó là một subdomain hỗ trợ. Và nếu câu trả lời là không thì đó là tên miền phụ chung mà bạn có thể cần xây dựng giải pháp.
+Và câu trả lời đó là có thì rất có thể đó là một subdomain hỗ trợ. Và nếu câu trả lời là không thì đó là tên miền phụ chung mà chúng ta có thể cần xây dựng giải pháp.
 
 40
 00: 07: 43, 430--> 00: 07: 51, 920
@@ -565,11 +565,11 @@ Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả nă
 
 42
 00: 07: 58, 430--> 00: 08: 05, 930
-Nếu không thì nó có thể là một khóa học của miền. Đề xuất của tôi dành cho bạn là hãy đăng một video và tự mình xem qua biểu đồ này.
+Nếu không thì nó có thể là một khóa học của miền. Đề xuất của tôi dành cho chúng ta là hãy đăng một video và tự mình xem qua biểu đồ này.
 
 43
 00: 08: 06, 290--> 00: 08: 12, 350
-Một câu hỏi rõ ràng có thể xuất hiện trong đầu bạn vào thời điểm này là tại sao chúng ta cần phân loại các tên miền phụ?
+Một câu hỏi rõ ràng có thể xuất hiện trong đầu chúng ta vào thời điểm này là tại sao chúng ta cần phân loại các tên miền phụ?
 
 44
 00: 08: 12, 800--> 00: 08: 27, 590
@@ -623,7 +623,7 @@ Và doanh nghiệp nhận được lợi tức đầu tư cao nhất bằng các
 
 1
 00: 00: 00, 150--> 00: 00: 09, 150
-Trong bài tập này, tôi sẽ cung cấp cho bạn một số thông tin về tên miền phụ ACMS và bạn sẽ cần xác định loại tên miền phụ đó.
+Trong bài tập này, tôi sẽ cung cấp cho chúng ta một số thông tin về tên miền phụ ACMS và chúng ta sẽ cần xác định loại tên miền phụ đó.
 
 2
 00: 00: 09, 660--> 00: 00: 24, 340
@@ -631,7 +631,7 @@ Mục tiêu của bài tập này là chỉ định một danh mục cho từng 
 
 3
 00: 00: 24, 660--> 00: 00: 34, 050
-Bây giờ, bạn có thể nghĩ rằng mình sẽ cần thêm một số thông tin về từng tên miền phụ này để phân loại chúng và đó là lúc chúng tôi sẽ nhờ sự trợ giúp của John.
+Bây giờ, chúng ta có thể nghĩ rằng mình sẽ cần thêm một số thông tin về từng tên miền phụ này để phân loại chúng và đó là lúc chúng tôi sẽ nhờ sự trợ giúp của John.
 
 4
 00: 00: 34, 140--> 00: 00: 47, 430
@@ -651,7 +651,7 @@ Và đây là lúc Acme dành phần lớn thời gian để suy nghĩ về nh�
 
 8
 00: 01: 12, 480--> 00: 01: 22, 890
-Vậy bạn nghĩ quản lý sản phẩm và kế toán làm gì? Toàn bộ tòa án hỗ trợ hoặc tên miền phụ di truyền tạm dừng video, suy nghĩ một chút và ghi câu trả lời ra một tờ giấy.
+Vậy chúng ta nghĩ quản lý sản phẩm và kế toán làm gì? Toàn bộ tòa án hỗ trợ hoặc tên miền phụ di truyền tạm dừng video, suy nghĩ một chút và ghi câu trả lời ra một tờ giấy.
 
 9
 00: 01: 22, 920--> 00: 01: 34, 230
@@ -683,7 +683,7 @@ Thách thức với việc quản lý đối tác là các hợp đồng rất p
 
 16
 00: 02: 30, 510--> 00: 02: 37, 100
-Vậy bạn nghĩ như thế nào? Hỗ trợ khách hàng và quản lý đối tác? Phân loại của mỗi người theo chủ nghĩa thực chứng này là gì?
+Vậy chúng ta nghĩ như thế nào? Hỗ trợ khách hàng và quản lý đối tác? Phân loại của mỗi người theo chủ nghĩa thực chứng này là gì?
 
 17
 00: 02: 37, 110--> 00: 02: 45, 630
@@ -715,7 +715,7 @@ Kênh bán hàng là cách Acme bán sản phẩm của mình tới người ti�
 
 24
 00: 03: 44, 970--> 00: 03: 59, 990
-Họ la tuyệt nhât. Vậy bạn nghĩ như thế nào? Kênh bán hàng và nguồn nhân lực? Tôi nghĩ rằng kênh bán hàng nên thuộc danh mục cốt lõi vì nhóm ngũ bán hàng của Acme luôn tìm kiếm những cách sáng tạo để bán sản phẩm và nguồn nhân lực của họ.
+Họ la tuyệt nhât. Vậy chúng ta nghĩ như thế nào? Kênh bán hàng và nguồn nhân lực? Tôi nghĩ rằng kênh bán hàng nên thuộc danh mục cốt lõi vì nhóm ngũ bán hàng của Acme luôn tìm kiếm những cách sáng tạo để bán sản phẩm và nguồn nhân lực của họ.
 
 25
 00: 04: 00, 000--> 00: 04: 10, 640
@@ -741,19 +741,19 @@ Nhưng việc quản lý sản phẩm và chức năng của kênh bán hàng l�
 
 1
 00: 00: 00, 500--> 00: 00: 13, 190
-Bối cảnh kinh doanh, khi kết thúc bài giảng này, bạn sẽ có thể giải thích bối cảnh là gì, bối cảnh kinh doanh là gì và tại sao nó lại quan trọng đối với CNTT. nhóm để hiểu bối cảnh kinh doanh?
+Bối cảnh kinh doanh, khi kết thúc bài giảng này, chúng ta sẽ có thể giải thích bối cảnh là gì, bối cảnh kinh doanh là gì và tại sao nó lại quan trọng đối với CNTT. nhóm để hiểu bối cảnh kinh doanh?
 
 2
 00: 00: 13, 670--> 00: 00: 25, 730
-Hãy bắt đầu bằng một câu hỏi. Giả sử bạn gặp một người và tên anh ta là Jack và Jack, hãy hỏi bạn, tôi nên thích một tài khoản có lãi suất cao hay tôi nên thích một tài khoản có lãi suất thấp?
+Hãy bắt đầu bằng một câu hỏi. Giả sử chúng ta gặp một người và tên anh ta là Jack và Jack, hãy hỏi chúng ta, tôi nên thích một tài khoản có lãi suất cao hay tôi nên thích một tài khoản có lãi suất thấp?
 
 3
 00: 00: 26, 060--> 00: 00: 33, 770
-Và tại thời điểm này, bạn cần trả lời câu hỏi sẽ giúp Jack đưa ra quyết định. Bạn sẽ bảo Jack làm gì?
+Và tại thời điểm này, chúng ta cần trả lời câu hỏi sẽ giúp Jack đưa ra quyết định. Bạn sẽ bảo Jack làm gì?
 
 4
 00: 00: 34, 760--> 00: 00: 47, 900
-Điều thú vị về bài tập này là cả hai lựa chọn đều tốt. Ví dụ: nếu Jack hỏi bạn câu hỏi này vì anh ấy muốn mở một tài khoản tiết kiệm, thì lựa chọn số một là phù hợp.
+Điều thú vị về bài tập này là cả hai lựa chọn đều tốt. Ví dụ: nếu Jack hỏi chúng ta câu hỏi này vì anh ấy muốn mở một tài khoản tiết kiệm, thì lựa chọn số một là phù hợp.
 
 5
 00: 00: 48, 140--> 00: 01: 10, 030
@@ -761,15 +761,15 @@ Nghĩa là, anh ta nên chọn một tài khoản tiết kiệm có lãi suất 
 
 6
 00: 01: 10, 310--> 00: 01: 21, 230
-Vì vậy, lý do tôi hỏi bạn câu hỏi này là để nói về thực tế là để đưa ra quyết định khách quan, bạn sẽ cần thêm thông tin hoặc sự kiện về tình huống đó.
+Vì vậy, lý do tôi hỏi chúng ta câu hỏi này là để nói về thực tế là để đưa ra quyết định khách quan, chúng ta sẽ cần thêm thông tin hoặc sự kiện về tình huống đó.
 
 7
 00: 01: 21, 620--> 00: 01: 31, 190
-Đó là, bạn sẽ cần bối cảnh. Tại sao Jack lại hỏi câu hỏi này? Ý định của anh ấy là gì? Jack định mở loại tài khoản nào?
+Đó là, chúng ta sẽ cần bối cảnh. Tại sao Jack lại hỏi câu hỏi này? Ý định của anh ấy là gì? Jack định mở loại tài khoản nào?
 
 8
 00: 01: 31, 490--> 00: 01: 46, 340
-Đó là những gì bạn cần để giúp anh ấy đưa ra quyết định. Định nghĩa từ điển về ngữ cảnh là chính những hoàn cảnh hoặc sự kiện này hình thành nên bối cảnh cho một tuyên bố hay một ý tưởng?
+Đó là những gì chúng ta cần để giúp anh ấy đưa ra quyết định. Định nghĩa từ điển về ngữ cảnh là chính những hoàn cảnh hoặc sự kiện này hình thành nên bối cảnh cho một tuyên bố hay một ý tưởng?
 
 9
 00: 01: 46, 790--> 00: 01: 54, 860
@@ -777,15 +777,15 @@ Chúng ta hãy xem lại câu hỏi một lần nữa. Nhưng lần này chúng 
 
 10
 00: 01: 55, 040--> 00: 02: 06, 770
-Bạn sẽ nói gì với anh ấy? Rõ ràng, lần này bạn ở vị trí có thể hướng dẫn Jack với mức độ tin cậy cao và bạn sẽ nói với anh ấy rằng anh ấy nên chọn một tài khoản có lãi suất thấp.
+Bạn sẽ nói gì với anh ấy? Rõ ràng, lần này chúng ta ở vị trí có thể hướng dẫn Jack với mức độ tin cậy cao và chúng ta sẽ nói với anh ấy rằng anh ấy nên chọn một tài khoản có lãi suất thấp.
 
 11
 00: 02: 06, 860--> 00: 02: 18, 590
-Bây giờ, bạn chắc hẳn đang thắc mắc, điều này liên quan thế nào đến tình hình kinh doanh? Ý tưởng là với tư cách là một nhóm CNTT, bạn và đồng nghiệp của mình sẽ thực hiện bài tập thu thập kiến ​​thức.
+Bây giờ, chúng ta chắc hẳn đang thắc mắc, điều này liên quan thế nào đến tình hình kinh doanh? Ý tưởng là với tư cách là một nhóm CNTT, chúng ta và đồng nghiệp của mình sẽ thực hiện bài tập thu thập kiến ​​thức.
 
 12
 00: 02: 18, 890--> 00: 02: 26, 390
-Và để thực hiện bài tập nghiền ngẫm kiến ​​thức này trong quá trình thiết lập doanh nghiệp, bạn phải nhận thức được bối cảnh kinh doanh.
+Và để thực hiện bài tập nghiền ngẫm kiến ​​thức này trong quá trình thiết lập doanh nghiệp, chúng ta phải nhận thức được bối cảnh kinh doanh.
 
 13
 00: 02: 26, 390--> 00: 02: 40, 580
@@ -817,7 +817,7 @@ Khách hàng gửi tiền vào tài khoản tiết kiệm và họ sẽ đưa ra
 
 20
 00: 03: 55, 460--> 00: 04: 13, 250
-Bây giờ, nếu bạn đang nghĩ tại sao tôi lại chú trọng nhiều đến các mối liên hệ kinh doanh thì đó là vì việc thiếu hiểu biết về các mối liên hệ kinh doanh có thể dẫn đến nhầm lẫn và hiểu sai, đồng thời dẫn đến việc trình bày sai về các mô hình miền.
+Bây giờ, nếu chúng ta đang nghĩ tại sao tôi lại chú trọng nhiều đến các mối liên hệ kinh doanh thì đó là vì việc thiếu hiểu biết về các mối liên hệ kinh doanh có thể dẫn đến nhầm lẫn và hiểu sai, đồng thời dẫn đến việc trình bày sai về các mô hình miền.
 
 21
 00: 04: 13, 730--> 00: 04: 25, 280
@@ -843,23 +843,23 @@ Thiết kế hướng miền đề xuất sử dụng ngôn ngữ chung để gi
 
 4
 00: 00: 27, 570--> 00: 00: 36, 540
-Nếu tôi nói từ cá ngừ, bạn sẽ nghĩ đến điều gì? Và nếu bạn đang nghĩ về cá thì bạn đã đúng, vì trong tiếng Nhật, cá ngừ có nghĩa là cá lớn.
+Nếu tôi nói từ cá ngừ, chúng ta sẽ nghĩ đến điều gì? Và nếu chúng ta đang nghĩ về cá thì chúng ta đã đúng, vì trong tiếng Nhật, cá ngừ có nghĩa là cá lớn.
 
 5
 00: 00: 37, 110--> 00: 00: 46, 900
-Nhưng nếu bạn ở một quốc gia nói tiếng Tây Ban Nha và yêu cầu cá ngừ, bạn sẽ không nhận được cá mà sẽ nhận được một cây xương rồng vì trong tiếng Tây Ban Nha, cá ngừ có nghĩa là xương rồng.
+Nhưng nếu chúng ta ở một quốc gia nói tiếng Tây Ban Nha và yêu cầu cá ngừ, chúng ta sẽ không nhận được cá mà sẽ nhận được một cây xương rồng vì trong tiếng Tây Ban Nha, cá ngừ có nghĩa là xương rồng.
 
 6
 00: 00: 46, 950--> 00: 00: 54, 960
-Thế còn mì ống thì sao? Bây giờ, nếu bạn đang nghĩ về một loại mì nào đó thì bạn đã đúng, vì trong tiếng Ý mì ống có nghĩa là mì.
+Thế còn mì ống thì sao? Bây giờ, nếu chúng ta đang nghĩ về một loại mì nào đó thì chúng ta đã đúng, vì trong tiếng Ý mì ống có nghĩa là mì.
 
 7
 00: 00: 55, 120--> 00: 01: 02, 020
-Nhưng nếu bạn yêu cầu mì ống ở Ba Lan, bạn sẽ nhận được kem đánh răng vì trong tiếng Ba Lan, mì ống có nghĩa là kem đánh răng.
+Nhưng nếu chúng ta yêu cầu mì ống ở Ba Lan, chúng ta sẽ nhận được kem đánh răng vì trong tiếng Ba Lan, mì ống có nghĩa là kem đánh răng.
 
 8
 00: 01: 02, 260--> 00: 01: 09, 900
-Không, tôi khá chắc chắn rằng bạn biết từ hôn. Đừng yêu cầu điều đó ở Thụy Điển vì trong tiếng Thụy Điển, kess có nghĩa là đái.
+Không, tôi khá chắc chắn rằng chúng ta biết từ hôn. Đừng yêu cầu điều đó ở Thụy Điển vì trong tiếng Thụy Điển, kess có nghĩa là đái.
 
 9
 00: 01: 10, 170--> 00: 01: 21, 850
@@ -867,7 +867,7 @@ Thông điệp ở đây là cùng một giọng điệu được sử dụng �
 
 10
 00: 01: 21, 990--> 00: 01: 31, 830
-Điều đó có nghĩa là nếu bạn đang sử dụng các thuật ngữ kinh doanh từ tên miền này sang tên miền khác thì điều đó có thể dẫn đến nhầm lẫn và hiểu sai.
+Điều đó có nghĩa là nếu chúng ta đang sử dụng các thuật ngữ kinh doanh từ tên miền này sang tên miền khác thì điều đó có thể dẫn đến nhầm lẫn và hiểu sai.
 
 11
 00: 01: 32, 100--> 00: 01: 43, 030
@@ -887,7 +887,7 @@ Và mỗi loại kế toán viên chuyên ngành khác nhau này có những b�
 
 15
 00: 02: 18, 810--> 00: 02: 36, 400
-Nếu bạn nghĩ về một doanh nghiệp có nhiều bộ phận, nhiều phòng ban hoặc nhiều nhóm thì các nhóm này trong Doanh nghiệp có biệt ngữ riêng và các chuyên gia trong các nhóm này sử dụng ngôn ngữ của nhóm cũng như mọi hoạt động giao tiếp của họ.
+Nếu chúng ta nghĩ về một doanh nghiệp có nhiều bộ phận, nhiều phòng ban hoặc nhiều nhóm thì các nhóm này trong Doanh nghiệp có biệt ngữ riêng và các chuyên gia trong các nhóm này sử dụng ngôn ngữ của nhóm cũng như mọi hoạt động giao tiếp của họ.
 
 16
 00: 02: 36, 780--> 00: 02: 52, 290
@@ -915,7 +915,7 @@ Thách thức ở đây là để xây dựng các hệ thống phức tạp, I.
 
 22
 00: 03: 49, 440--> 00: 04: 06, 810
-Thách thức thứ hai là cùng một thuật ngữ có thể xuất hiện trong bối cảnh các lĩnh vực kinh doanh khác nhau. Ví dụ, trong trường hợp tài khoản tiết kiệm và tên miền phụ thẻ tín dụng, bạn sẽ thấy có một thuật ngữ chung là tín dụng và ý nghĩa của thuật ngữ chung này là khác nhau.
+Thách thức thứ hai là cùng một thuật ngữ có thể xuất hiện trong bối cảnh các lĩnh vực kinh doanh khác nhau. Ví dụ, trong trường hợp tài khoản tiết kiệm và tên miền phụ thẻ tín dụng, chúng ta sẽ thấy có một thuật ngữ chung là tín dụng và ý nghĩa của thuật ngữ chung này là khác nhau.
 
 23
 00: 04: 06, 810--> 00: 04: 17, 940
@@ -963,7 +963,7 @@ Và việc dịch qua lại này dẫn đến việc mất ý nghĩa và nhầm 
 
 34
 00: 06: 09, 220--> 00: 06: 25, 640
-Tại thời điểm này, bạn có thể nói, được rồi, tôi biết vấn đề sẽ cho tôi biết giải pháp. Thiết kế hướng miền gợi ý thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh và ngôn ngữ này được tất cả các bên liên quan sử dụng, bao gồm cả nhóm CNTT.
+Tại thời điểm này, chúng ta có thể nói, được rồi, tôi biết vấn đề sẽ cho tôi biết giải pháp. Thiết kế hướng miền gợi ý thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh và ngôn ngữ này được tất cả các bên liên quan sử dụng, bao gồm cả nhóm CNTT.
 
 35
 00: 06: 25, 690--> 00: 06: 34, 110
@@ -971,7 +971,7 @@ Ngôn ngữ này được gọi là ngôn ngữ chung . Đây là một trong nh
 
 36
 00: 06: 34, 210--> 00: 06: 47, 750
-Trong các bài học sau, bạn sẽ tìm hiểu chi tiết về ngôn ngữ chung và bạn cũng sẽ tìm hiểu cách nó giúp chia miền thành nhiều phần phù hợp để xây dựng các vi dịch vụ .
+Trong các bài học sau, chúng ta sẽ tìm hiểu chi tiết về ngôn ngữ chung và chúng ta cũng sẽ tìm hiểu cách nó giúp chia miền thành nhiều phần phù hợp để xây dựng các vi dịch vụ .
 
 37
 00: 06: 47, 770--> 00: 07: 10, 500
@@ -981,7 +981,7 @@ Trong các bài học sau, bạn sẽ tìm hiểu chi tiết về ngôn ngữ ch
 
 1
 00: 00: 00, 150--> 00: 00: 17, 010
-Ở bài trước tôi giới thiệu với các bạn thuật ngữ ngôn ngữ chung trong bài giảng này, Al Gore, đặc điểm của ngôn ngữ chung thảo luận về cách xây dựng và quản lý ngôn ngữ chung và ngôn ngữ chung được sử dụng ở đâu.
+Ở bài trước tôi giới thiệu với các chúng ta thuật ngữ ngôn ngữ chung trong bài giảng này, Al Gore, đặc điểm của ngôn ngữ chung thảo luận về cách xây dựng và quản lý ngôn ngữ chung và ngôn ngữ chung được sử dụng ở đâu.
 
 2
 00: 00: 17, 460--> 00: 00: 29, 190
@@ -1009,7 +1009,7 @@ Bảng thuật ngữ này chứa các thuật ngữ và từ viết tắt phổ 
 
 8
 00: 01: 21, 150--> 00: 01: 28, 770
-Tại thời điểm này, bạn có thể nói rằng nó trông giống như Từ điển Doanh nghiệp Doanh nghiệp và bạn đã đúng ở một mức độ nào đó.
+Tại thời điểm này, chúng ta có thể nói rằng nó trông giống như Từ điển Doanh nghiệp Doanh nghiệp và chúng ta đã đúng ở một mức độ nào đó.
 
 9
 00: 01: 28, 770--> 00: 01: 42, 120
@@ -1073,7 +1073,7 @@ Bạn có thể sử dụng bất kỳ công cụ nào miễn là nó giúp tấ
 
 24
 00: 04: 28, 980--> 00: 04: 42, 930
-Xin lưu ý rằng đây không phải là công cụ cộng tác và chia sẻ kiến ​​thức duy nhất. Bất kỳ công cụ nào có sẵn trong tổ chức của bạn sẽ giúp các thành viên trong nhóm của chúng tôi có thể dễ dàng tiếp cận ngôn ngữ chung này.
+Xin lưu ý rằng đây không phải là công cụ cộng tác và chia sẻ kiến ​​thức duy nhất. Bất kỳ công cụ nào có sẵn trong tổ chức của chúng ta sẽ giúp các thành viên trong nhóm của chúng tôi có thể dễ dàng tiếp cận ngôn ngữ chung này.
 
 25
 00: 04: 43, 650--> 00: 04: 51, 000
@@ -1093,7 +1093,7 @@ ngôn ngữ chung phải đóng vai trò là nguồn thông tin chính xác cho 
 
 29
 00: 05: 27, 270--> 00: 05: 38, 050
-Cuối cùng nhưng không kém phần quan trọng, các nhóm phải sử dụng ngôn ngữ chung trong tất cả các cuộc trò chuyện của mình. Vì vậy, tại thời điểm này bạn có thể hỏi lợi ích của việc làm đó là gì?
+Cuối cùng nhưng không kém phần quan trọng, các nhóm phải sử dụng ngôn ngữ chung trong tất cả các cuộc trò chuyện của mình. Vì vậy, tại thời điểm này chúng ta có thể hỏi lợi ích của việc làm đó là gì?
 
 30
 00: 05: 38, 490--> 00: 05: 49, 260
@@ -1125,7 +1125,7 @@ Những phần nhỏ hơn của bối cảnh này được gọi là bối cản
 
 37
 00: 07: 02, 880--> 00: 07: 11, 490
-Trong bài học này, bạn đã học về ngôn ngữ chung . Ba điểm chính cần ghi nhớ. ngôn ngữ chung phát triển trong một khoảng thời gian.
+Trong bài học này, chúng ta đã học về ngôn ngữ chung . Ba điểm chính cần ghi nhớ. ngôn ngữ chung phát triển trong một khoảng thời gian.
 
 38
 00: 07: 11, 760--> 00: 07: 19, 800
@@ -1133,7 +1133,7 @@ Trong bài học này, bạn đã học về ngôn ngữ chung . Ba điểm chí
 
 39
 00: 07: 19, 980--> 00: 07: 26, 820
-ngôn ngữ chung không yêu cầu bất kỳ công cụ đặc biệt nào mà bạn có thể sử dụng bất kỳ nền tảng cộng tác tri thức nào.
+ngôn ngữ chung không yêu cầu bất kỳ công cụ đặc biệt nào mà chúng ta có thể sử dụng bất kỳ nền tảng cộng tác tri thức nào.
 
 <!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000007.srt-->
 
@@ -1143,7 +1143,7 @@ Mục tiêu của bài tập này là xác định các thuật ngữ ngôn ng�
 
 2
 00: 00: 12, 090--> 00: 00: 21, 140
-Giả sử bạn là I.T. trưởng nhóm đã phỏng vấn hai chuyên gia từ lĩnh vực kinh doanh Acme.
+Giả sử chúng ta là I.T. trưởng nhóm đã phỏng vấn hai chuyên gia từ lĩnh vực kinh doanh Acme.
 
 3
 00: 00: 21, 150--> 00: 00: 28, 740
@@ -1159,11 +1159,11 @@ John hiểu nhu cầu của khách hàng và dựa trên mong muốn, ngân sác
 
 6
 00: 00: 51, 990--> 00: 01: 01, 890
-Bây giờ, giả sử rằng bạn, với tư cách là I.T. người đứng đầu đã phỏng vấn John và bạn đã bị bắt. Tất cả các chi tiết cuộc phỏng vấn trong một bảng điểm tại thời điểm này.
+Bây giờ, giả sử rằng chúng ta, với tư cách là I.T. người đứng đầu đã phỏng vấn John và chúng ta đã bị bắt. Tất cả các chi tiết cuộc phỏng vấn trong một bảng điểm tại thời điểm này.
 
 7
 00: 01: 02, 010--> 00: 01: 10, 280
-Mục tiêu của bạn là xác định tất cả các thuật ngữ ngôn ngữ yếu trong bản ghi đó. Vì vậy, đây là bản ghi.
+Mục tiêu của chúng ta là xác định tất cả các thuật ngữ ngôn ngữ yếu trong bản ghi đó. Vì vậy, đây là bản ghi.
 
 8
 00: 01: 10, 470--> 00: 01: 16, 950
@@ -1223,11 +1223,11 @@ Và những đối tác quan trọng này là các hãng hàng không, tàu du l
 
 22
 00: 03: 51, 810--> 00: 04: 07, 890
-Vì vậy anh ấy đóng một vai trò cực kỳ quan trọng trong bài tập này. Bạn sẽ xem qua bản ghi mà bạn đã ghi lại làm người dẫn đầu và xác định càng nhiều thuật ngữ ngôn ngữ chung càng tốt tại thời điểm này.
+Vì vậy anh ấy đóng một vai trò cực kỳ quan trọng trong bài tập này. Bạn sẽ xem qua bản ghi mà chúng ta đã ghi lại làm người dẫn đầu và xác định càng nhiều thuật ngữ ngôn ngữ chung càng tốt tại thời điểm này.
 
 23
 00: 04: 08, 040--> 00: 04: 15, 810
-Vui lòng tiếp tục và tạm dừng video. Tiếp theo, tôi sẽ thảo luận về giải pháp. Được rồi. Hy vọng rằng bạn đã chọn được tất cả các điều khoản có liên quan.
+Vui lòng tiếp tục và tạm dừng video. Tiếp theo, tôi sẽ thảo luận về giải pháp. Được rồi. Hy vọng rằng chúng ta đã chọn được tất cả các điều khoản có liên quan.
 
 24
 00: 04: 16, 170--> 00: 04: 24, 540
@@ -1281,7 +1281,7 @@ Chúng tôi tìm hiểu thêm các thuật ngữ và có khả năng trùng lặ
 
 1
 00: 00: 00, 180--> 00: 00: 10, 490
-Bối cảnh liên kết trong một trong những bài giảng trước đây tôi đã giới thiệu với bạn với Tom Bodett, bối cảnh và bối cảnh là một trong những mô hình chiến lược trong thiết kế hướng miền.
+Bối cảnh liên kết trong một trong những bài giảng trước đây tôi đã giới thiệu với chúng ta với Tom Bodett, bối cảnh và bối cảnh là một trong những mô hình chiến lược trong thiết kế hướng miền.
 
 2
 00: 00: 10, 740--> 00: 00: 18, 870
@@ -1341,11 +1341,11 @@ Nếu có một sự thay đổi chính trị ở bất kỳ quốc gia nào, n�
 
 16
 00: 02: 58, 350--> 00: 03: 13, 620
-Nói cách khác, bạn không thể mã hóa luật cho Đức ở Nga để biện minh cho trường hợp của mình. Và cuối cùng nhưng không kém phần quan trọng, văn hóa, chuẩn mực xã hội và ngôn ngữ ở mỗi quốc gia đều được hiểu rõ trong ranh giới của quốc gia đó.
+Nói cách khác, chúng ta không thể mã hóa luật cho Đức ở Nga để biện minh cho trường hợp của mình. Và cuối cùng nhưng không kém phần quan trọng, văn hóa, chuẩn mực xã hội và ngôn ngữ ở mỗi quốc gia đều được hiểu rõ trong ranh giới của quốc gia đó.
 
 17
 00: 03: 13, 930--> 00: 03: 24, 360
-Vì vậy, ví dụ, nếu bạn nói tiếng Ba Lan trong ranh giới Ba Lan, bạn sẽ giỏi. Nhưng nếu bạn cố gắng sử dụng tiếng Ba Lan và chẳng hạn như Pháp, bạn sẽ gặp khó khăn.
+Vì vậy, ví dụ, nếu chúng ta nói tiếng Ba Lan trong ranh giới Ba Lan, chúng ta sẽ giỏi. Nhưng nếu chúng ta cố gắng sử dụng tiếng Ba Lan và chẳng hạn như Pháp, chúng ta sẽ gặp khó khăn.
 
 18
 00: 03: 24, 960--> 00: 03: 33, 390
@@ -1361,7 +1361,7 @@ Vì vậy, chúng tôi có các mối liên hệ giới hạn ở đây về ng�
 
 21
 00: 03: 49, 290--> 00: 04: 03, 900
-Bây giờ, bạn có thể nói rằng chỉ thử những ranh giới xung quanh những khả năng này là không đủ. Và bạn nói đúng, có một số đặc điểm nhất định phải được đáp ứng để những khả năng bị giới hạn này được gọi là bối cảnh bị giới hạn.
+Bây giờ, chúng ta có thể nói rằng chỉ thử những ranh giới xung quanh những khả năng này là không đủ. Và chúng ta nói đúng, có một số đặc điểm nhất định phải được đáp ứng để những khả năng bị giới hạn này được gọi là bối cảnh bị giới hạn.
 
 22
 00: 04: 04, 260--> 00: 04: 14, 070
@@ -1385,11 +1385,11 @@ Nói cách khác, mỗi bối cảnh bom nhỏ đều có ngôn ngữ chung củ
 
 27
 00: 04: 56, 490--> 00: 05: 07, 360
-Trong ví dụ về ngân hàng, chúng ta có những giới hạn này. Bây giờ, nếu bạn nghĩ về điều đó, mỗi khả năng này có các yêu cầu về mô hình hóa hoặc yêu cầu về mô hình khác nhau.
+Trong ví dụ về ngân hàng, chúng ta có những giới hạn này. Bây giờ, nếu chúng ta nghĩ về điều đó, mỗi khả năng này có các yêu cầu về mô hình hóa hoặc yêu cầu về mô hình khác nhau.
 
 28
 00: 05: 07, 680--> 00: 05: 25, 850
-Nếu bạn quay lại phần trình bày đối tượng khách hàng của chúng ta, ngân hàng bán lẻ có thể chỉ cần thông tin nhân khẩu học, thông tin về khách hàng và thông tin nhân viên để mở tài khoản ngân hàng hoặc quản lý tài khoản ngân hàng, trong khi thẻ tín dụng có thể cần một cách trình bày khác về đối tượng khách hàng. khách hàng.
+Nếu chúng ta quay lại phần trình bày đối tượng khách hàng của chúng ta, ngân hàng bán lẻ có thể chỉ cần thông tin nhân khẩu học, thông tin về khách hàng và thông tin nhân viên để mở tài khoản ngân hàng hoặc quản lý tài khoản ngân hàng, trong khi thẻ tín dụng có thể cần một cách trình bày khác về đối tượng khách hàng. khách hàng.
 
 29
 00: 05: 25, 980--> 00: 05: 34, 970
@@ -1397,7 +1397,7 @@ Nếu bạn quay lại phần trình bày đối tượng khách hàng của ch�
 
 30
 00: 05: 35, 340--> 00: 05: 51, 540
-Như bạn có thể thấy, ngân hàng bán lẻ và thẻ tín dụng, các bộ phận chức năng đều có những nhu cầu riêng và tương tự, các bộ phận chức năng khác trong ngân hàng sẽ có những nhu cầu riêng và chúng sẽ cần có đại diện riêng cho đối tượng khách hàng.
+Như chúng ta có thể thấy, ngân hàng bán lẻ và thẻ tín dụng, các bộ phận chức năng đều có những nhu cầu riêng và tương tự, các bộ phận chức năng khác trong ngân hàng sẽ có những nhu cầu riêng và chúng sẽ cần có đại diện riêng cho đối tượng khách hàng.
 
 31
 00: 05: 51, 570--> 00: 05: 59, 580
@@ -1421,7 +1421,7 @@ Và tất cả đều tóm gọn lại một điều, đó là các mô hình c�
 
 36
 00: 06: 35, 280--> 00: 06: 46, 890
-Đặc điểm thứ ba của ngữ cảnh kết hợp là có một ngôn ngữ chứa đựng ý nghĩa trong ngữ cảnh bị ràng buộc và bạn đã biết ngôn ngữ này được gọi là gì.
+Đặc điểm thứ ba của ngữ cảnh kết hợp là có một ngôn ngữ chứa đựng ý nghĩa trong ngữ cảnh bị ràng buộc và chúng ta đã biết ngôn ngữ này được gọi là gì.
 
 37
 00: 06: 47, 130--> 00: 06: 58, 740
@@ -1433,7 +1433,7 @@ Vì vậy, ví dụ: nhóm bán lẻ sẽ tạo ngôn ngữ chung của riêng m
 
 39
 00: 07: 09, 750--> 00: 07: 17, 730
-Trong bài học này, bạn đã tìm hiểu về DTT ngữ cảnh bị giới hạn, chẳng hạn như chia không gian bài toán thành các liên hệ bị giới hạn.
+Trong bài học này, chúng ta đã tìm hiểu về DTT ngữ cảnh bị giới hạn, chẳng hạn như chia không gian bài toán thành các liên hệ bị giới hạn.
 
 40
 00: 07: 18, 000--> 00: 07: 26, 880
@@ -1455,23 +1455,23 @@ Khám phá các liên hệ được liên kết trong bài học này, tôi sẽ
 
 2
 00: 00: 13, 110--> 00: 00: 22, 800
-Tôi sẽ bắt đầu bài học này về khám phá các liên hệ ngoại quan bằng cách nói rằng không có viên đạn bạc nào có thể giúp bạn khám phá các liên hệ ngoại quan trong miền của bạn.
+Tôi sẽ bắt đầu bài học này về khám phá các liên hệ ngoại quan bằng cách nói rằng không có viên đạn bạc nào có thể giúp chúng ta khám phá các liên hệ ngoại quan trong miền của chúng ta .
 
 3
 00: 00: 23, 010--> 00: 00: 33, 330
-Bây giờ, điều này nghe có vẻ sáo rỗng đối với bạn, nhưng tôi đồng ý với các chuyên gia khi họ nói rằng việc khám phá 100 địa chỉ liên hệ trong một miền là một nghệ thuật chứ không phải khoa học.
+Bây giờ, điều này nghe có vẻ sáo rỗng đối với chúng ta, nhưng tôi đồng ý với các chuyên gia khi họ nói rằng việc khám phá 100 địa chỉ liên hệ trong một miền là một nghệ thuật chứ không phải khoa học.
 
 4
 00: 00: 33, 720--> 00: 00: 43, 200
-Tại thời điểm này, bạn có thể thắc mắc nếu không có quy trình xác định để khám phá bối cảnh liên kết, thì Raj sẽ thảo luận điều gì trong bài học này?
+Tại thời điểm này, chúng ta có thể thắc mắc nếu không có quy trình xác định để khám phá bối cảnh liên kết, thì Raj sẽ thảo luận điều gì trong bài học này?
 
 5
 00: 00: 43, 320--> 00: 01: 03, 270
-Vâng, tôi sẽ chia sẻ với bạn hướng dẫn thực hiện quy trình khám phá đối với những người liên hệ Bundrick. Và tôi đã tổng hợp hướng dẫn này dựa trên kinh nghiệm cá nhân của mình cũng như kinh nghiệm được các chuyên gia và học viên chia sẻ để khám phá những mối liên hệ gắn kết trong một miền.
+Vâng, tôi sẽ chia sẻ với chúng ta hướng dẫn thực hiện quy trình khám phá đối với những người liên hệ Bundrick. Và tôi đã tổng hợp hướng dẫn này dựa trên kinh nghiệm cá nhân của mình cũng như kinh nghiệm được các chuyên gia và học viên chia sẻ để khám phá những mối liên hệ gắn kết trong một miền.
 
 6
 00: 01: 03, 450--> 00: 01: 12, 540
-Bạn cần tận dụng các tài sản hiện có và bạn cần hợp tác với các chuyên gia trong lĩnh vực, hãy bắt đầu bằng cách xem xét cơ cấu tổ chức.
+Bạn cần tận dụng các tài sản hiện có và chúng ta cần hợp tác với các chuyên gia trong lĩnh vực, hãy bắt đầu bằng cách xem xét cơ cấu tổ chức.
 
 7
 00: 01: 12, 660--> 00: 01: 25, 200
@@ -1483,11 +1483,11 @@ Xác định các chuyên gia ngành trong các lĩnh vực cốt lõi và hợp
 
 9
 00: 01: 36, 840--> 00: 01: 48, 590
-Đi sâu hơn vào một số hoạt động chính khi bạn thực hiện hai nhiệm vụ này, hãy chú ý tìm kiếm manh mối trong ngôn ngữ kinh doanh được các chuyên gia trong lĩnh vực sử dụng.
+Đi sâu hơn vào một số hoạt động chính khi chúng ta thực hiện hai nhiệm vụ này, hãy chú ý tìm kiếm manh mối trong ngôn ngữ kinh doanh được các chuyên gia trong lĩnh vực sử dụng.
 
 10
 00: 01: 48, 600--> 00: 01: 58, 770
-Nếu tổ chức của bạn đã đầu tư vào các ứng dụng nguyên khối, mô-đun, được thiết kế tốt thì chúng cũng có thể đóng vai trò là điểm khởi đầu cho bài tập này.
+Nếu tổ chức của chúng ta đã đầu tư vào các ứng dụng nguyên khối, mô-đun, được thiết kế tốt thì chúng cũng có thể đóng vai trò là điểm khởi đầu cho bài tập này.
 
 11
 00: 01: 58, 860--> 00: 02: 09, 180
@@ -1499,15 +1499,15 @@ Nhìn chung, ý tưởng là thu thập manh mối từ các bài tập này và
 
 13
 00: 02: 24, 060--> 00: 02: 35, 390
-Tôi sẽ sử dụng ví dụ về một ngân hàng. Nhưng trước điểm quan trọng đó, xin đừng bận tâm đến việc tìm ra ranh giới hoàn hảo cho bối cảnh bị giới hạn của bạn vì việc này sẽ mất thời gian.
+Tôi sẽ sử dụng ví dụ về một ngân hàng. Nhưng trước điểm quan trọng đó, xin đừng bận tâm đến việc tìm ra ranh giới hoàn hảo cho bối cảnh bị giới hạn của chúng ta vì việc này sẽ mất thời gian.
 
 14
 00: 02: 35, 730--> 00: 02: 46, 480
-Sau đó, bạn có thể bắt đầu với một số ranh giới. Đây là gợi ý của tôi cho bạn. Hầu hết các tổ chức đều giỏi ghi chép và duy trì cơ cấu tổ chức của họ.
+Sau đó, chúng ta có thể bắt đầu với một số ranh giới. Đây là gợi ý của tôi cho chúng ta . Hầu hết các tổ chức đều giỏi ghi chép và duy trì cơ cấu tổ chức của họ.
 
 15
 00: 02: 46, 500--> 00: 02: 58, 490
-Vì vậy, nếu bạn đang bắt đầu lại từ đầu trong một tổ chức để hiểu bối cảnh giới hạn, thì tốt nhất bạn nên chú ý đến các chức năng kinh doanh được mô tả trong cơ cấu tổ chức.
+Vì vậy, nếu chúng ta đang bắt đầu lại từ đầu trong một tổ chức để hiểu bối cảnh giới hạn, thì tốt nhất chúng ta nên chú ý đến các chức năng kinh doanh được mô tả trong cơ cấu tổ chức.
 
 16
 00: 02: 58, 620--> 00: 03: 07, 460
@@ -1523,11 +1523,11 @@ Vì vậy, trong trường hợp ngân hàng, chúng ta có thẻ ngân hàng ti
 
 19
 00: 03: 29, 430--> 00: 03: 39, 030
-Hãy nhớ rằng đây là điểm khởi đầu và bạn cần nghiên cứu sâu hơn về từng khả năng kinh doanh này để tinh chỉnh các ranh giới này hơn nữa.
+Hãy nhớ rằng đây là điểm khởi đầu và chúng ta cần nghiên cứu sâu hơn về từng khả năng kinh doanh này để tinh chỉnh các ranh giới này hơn nữa.
 
 20
 00: 03: 39, 450--> 00: 03: 51, 480
-Bước tiếp theo, bạn có thể xem xét trách nhiệm của từng chuyên gia ngành và lưu ý rằng những chuyên gia ngành này có thể chịu trách nhiệm về nhiều chức năng.
+Bước tiếp theo, chúng ta có thể xem xét trách nhiệm của từng chuyên gia ngành và lưu ý rằng những chuyên gia ngành này có thể chịu trách nhiệm về nhiều chức năng.
 
 21
 00: 03: 51, 690--> 00: 04: 00, 420
@@ -1535,7 +1535,7 @@ Ví dụ, chuyên gia ngân hàng tiêu dùng trong ngân hàng có thể chịu
 
 22
 00: 04: 00, 540--> 00: 04: 10, 620
-Và khi bạn đang thu thập thông tin và kiến ​​thức từ các chuyên gia ngành này, hãy chú ý đến ngôn ngữ kinh doanh mà các chuyên gia này đang sử dụng.
+Và khi chúng ta đang thu thập thông tin và kiến ​​thức từ các chuyên gia ngành này, hãy chú ý đến ngôn ngữ kinh doanh mà các chuyên gia này đang sử dụng.
 
 23
 00: 04: 11, 040--> 00: 04: 19, 280
@@ -1555,11 +1555,11 @@ Bạn, với tư cách là chuyên gia CNTT, cần cộng tác với các chuyê
 
 27
 00: 04: 59, 130--> 00: 05: 18, 970
-Và như bạn. Việc thực hiện các hoạt động này đảm bảo rằng bạn nắm bắt được ngôn ngữ kinh doanh được sử dụng cho từng hoạt động này, việc sử dụng luồng của các hoạt động chính này và manh mối ngôn ngữ sẽ giúp bạn xác định các mối liên hệ gắn kết từ góc độ kinh doanh, trường hợp sử dụng và quy trình.
+Và như chúng ta . Việc thực hiện các hoạt động này đảm bảo rằng chúng ta nắm bắt được ngôn ngữ kinh doanh được sử dụng cho từng hoạt động này, việc sử dụng luồng của các hoạt động chính này và manh mối ngôn ngữ sẽ giúp chúng ta xác định các mối liên hệ gắn kết từ góc độ kinh doanh, trường hợp sử dụng và quy trình.
 
 28
 00: 05: 19, 810--> 00: 05: 35, 290
-Nếu bạn làm việc cho một tổ chức đã đầu tư vào việc xây dựng các ứng dụng mô-đun nguyên khối, được thiết kế tốt thì bạn thật may mắn vì bạn có thể sử dụng các ứng dụng được thiết kế tốt này để xác định các liên hệ được liên kết.
+Nếu chúng ta làm việc cho một tổ chức đã đầu tư vào việc xây dựng các ứng dụng mô-đun nguyên khối, được thiết kế tốt thì chúng ta thật may mắn vì chúng ta có thể sử dụng các ứng dụng được thiết kế tốt này để xác định các liên hệ được liên kết.
 
 29
 00: 05: 35, 560--> 00: 05: 50, 980
@@ -1575,19 +1575,19 @@ Tương tự, thẻ tín dụng và tài khoản vay được triển khai trong
 
 32
 00: 06: 13, 300--> 00: 06: 24, 530
-Nói tóm lại, không nên bỏ qua các ứng dụng nguyên khối hiện có và chúng có thể được sử dụng làm điểm khởi đầu để tạo các liên hệ được liên kết trong miền doanh nghiệp của bạn.
+Nói tóm lại, không nên bỏ qua các ứng dụng nguyên khối hiện có và chúng có thể được sử dụng làm điểm khởi đầu để tạo các liên hệ được liên kết trong miền doanh nghiệp của chúng ta .
 
 33
 00: 06: 24, 940--> 00: 06: 33, 670
-Trong bài học này, tôi đã hướng dẫn bạn một loạt các bước mà bạn có thể thực hiện để khám phá các liên hệ được liên kết trong miền của mình.
+Trong bài học này, tôi đã hướng dẫn chúng ta một loạt các bước mà chúng ta có thể thực hiện để khám phá các liên hệ được liên kết trong miền của mình.
 
 34
 00: 06: 33, 820--> 00: 06: 55, 480
-Đề xuất là tận dụng các tài sản sẵn có, chẳng hạn như cơ cấu tổ chức, các ứng dụng nguyên khối, được thiết kế tốt hiện có để xác định các liên hệ bị ràng buộc và những thứ khác mà bạn với tư cách là I.T. điều chuyên gia cần làm là hợp tác với các chuyên gia ngành để hiểu trách nhiệm và hoạt động chính của họ khi bạn làm việc chặt chẽ với chuyên gia ngành .
+Đề xuất là tận dụng các tài sản sẵn có, chẳng hạn như cơ cấu tổ chức, các ứng dụng nguyên khối, được thiết kế tốt hiện có để xác định các liên hệ bị ràng buộc và những thứ khác mà chúng ta với tư cách là I.T. điều chuyên gia cần làm là hợp tác với các chuyên gia ngành để hiểu trách nhiệm và hoạt động chính của họ khi chúng ta làm việc chặt chẽ với chuyên gia ngành .
 
 35
 00: 06: 55, 510--> 00: 07: 04, 570
-Bạn cần chú ý đến ngôn ngữ kinh doanh và những manh mối ngôn ngữ sẽ giúp bạn phân định ranh giới của bối cảnh bị giới hạn.
+Bạn cần chú ý đến ngôn ngữ kinh doanh và những manh mối ngôn ngữ sẽ giúp chúng ta phân định ranh giới của bối cảnh bị giới hạn.
 
 <!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000010.srt-->
 
@@ -1755,7 +1755,7 @@ Bối cảnh liên kết, các mối quan hệ, không liên kết với các li
 
 2
 00: 00: 17, 250--> 00: 00: 25, 650
-Tiền đề cơ bản đằng sau điều này là khi bạn xây dựng các vi dịch vụ, chúng sẽ không tự đáp ứng tất cả các yêu cầu của hệ thống.
+Tiền đề cơ bản đằng sau điều này là khi chúng ta xây dựng các vi dịch vụ, chúng sẽ không tự đáp ứng tất cả các yêu cầu của hệ thống.
 
 3
 00: 00: 25, 940--> 00: 00: 38, 010
@@ -1779,29 +1779,29 @@ Có nhiều mẫu mối quan hệ phân phối. Các mẫu mối quan hệ này 
 
 8
 00: 01: 24, 600--> 00: 01: 38, 280
-Bạn sẽ học tất cả các mẫu hình mối quan hệ trong phần này. Big bowl of Maat là một đối cực trong quá trình phát triển phần mềm và với tư cách là nhà thiết kế các vi dịch vụ, bạn phải tránh tạo ra một bối cảnh lớn.
+Bạn sẽ học tất cả các mẫu hình mối quan hệ trong phần này. Big bowl of Maat là một đối cực trong quá trình phát triển phần mềm và với tư cách là nhà thiết kế các vi dịch vụ, chúng ta phải tránh tạo ra một bối cảnh lớn.
 
 9
 00: 01: 38, 280--> 00: 01: 49, 560
-Có lẽ là sự thể hiện trực quan về mối quan hệ giữa các điểm tiếp xúc bị chặn mà bạn sẽ học về các điểm tiếp xúc, bản đồ và quả cầu bùn lớn trong bài giảng tiếp theo.
+Có lẽ là sự thể hiện trực quan về mối quan hệ giữa các điểm tiếp xúc bị chặn mà chúng ta sẽ học về các điểm tiếp xúc, bản đồ và quả cầu bùn lớn trong bài giảng tiếp theo.
 
 10
 00: 01: 50, 580--> 00: 01: 56, 380
-Hãy cùng điểm qua các mục tiêu học tập của phần này để bạn có thể giải thích được.
+Hãy cùng điểm qua các mục tiêu học tập của phần này để chúng ta có thể giải thích được.
 
 11
 00: 01: 56, 410--> 00: 02: 11, 100
-Quả bóng bùn lớn và các địa chỉ liên hệ, bản đồ, bạn sẽ có thể mô tả những thách thức liên quan đến quả bóng bùn lớn và cách lập bản đồ ngữ cảnh có thể giúp bạn tìm hiểu tất cả các mẫu chi tiết liên quan đến mối quan hệ.
+Quả bóng bùn lớn và các địa chỉ liên hệ, bản đồ, chúng ta sẽ có thể mô tả những thách thức liên quan đến quả bóng bùn lớn và cách lập bản đồ ngữ cảnh có thể giúp chúng ta tìm hiểu tất cả các mẫu chi tiết liên quan đến mối quan hệ.
 
 12
 00: 02: 11, 260--> 00: 02: 18, 960
-Vì vậy, bạn sẽ có thể chọn một mẫu mối quan hệ thích hợp để xác định các phụ thuộc bối cảnh liên kết của mình.
+Vì vậy, chúng ta sẽ có thể chọn một mẫu mối quan hệ thích hợp để xác định các phụ thuộc bối cảnh liên kết của mình.
 
 <!--@ \06BoundedContextRelationships_VVN\000000002.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 24, 510
-Quản lý mối quan hệ giữa các liên hệ liên kết trong bài học này, Alcoa và Antiproton được gọi là quả bóng bùn lớn, bạn cũng sẽ tìm hiểu về những thách thức liên quan đến các liên hệ liên kết, sự phụ thuộc và bạn tìm hiểu về các liên hệ, bản đồ có thể giúp quản lý BONARD sự phụ thuộc vào bối cảnh, các liên hệ bị giới hạn không được quản lý, mối quan hệ dẫn đến một cục bùn lớn.
+Quản lý mối quan hệ giữa các liên hệ liên kết trong bài học này, Alcoa và Antiproton được gọi là quả bóng bùn lớn, chúng ta cũng sẽ tìm hiểu về những thách thức liên quan đến các liên hệ liên kết, sự phụ thuộc và chúng ta tìm hiểu về các liên hệ, bản đồ có thể giúp quản lý BONARD sự phụ thuộc vào bối cảnh, các liên hệ bị giới hạn không được quản lý, mối quan hệ dẫn đến một cục bùn lớn.
 
 2
 00: 00: 24, 510--> 00: 00: 41, 210
@@ -1809,7 +1809,7 @@ Quả bóng bùn lớn đề cập đến các mô hình có cấu trúc hiện 
 
 3
 00: 00: 41, 340--> 00: 00: 53, 080
-Bát bùn lớn trong bối cảnh thiết kế hướng miền đề cập đến một mô hình hoạt động. Với tư cách là người thiết kế một dịch vụ, bạn nên đảm bảo rằng mình không tạo ra một quả bùn lớn.
+Bát bùn lớn trong bối cảnh thiết kế hướng miền đề cập đến một mô hình hoạt động. Với tư cách là người thiết kế một dịch vụ, chúng ta nên đảm bảo rằng mình không tạo ra một quả bùn lớn.
 
 4
 00: 00: 53, 730--> 00: 01: 00, 750
@@ -1825,7 +1825,7 @@ Chúng ta hãy vượt qua những thử thách này. Hãy xem xét kịch bản
 
 7
 00: 01: 22, 590--> 00: 01: 33, 540
-Bây giờ, giả sử hiện có sự phụ thuộc giữa A và B. Nó phụ thuộc vào B, có nghĩa là bạn sẽ có khả năng hiển thị các mô hình này.
+Bây giờ, giả sử hiện có sự phụ thuộc giữa A và B. Nó phụ thuộc vào B, có nghĩa là chúng ta sẽ có khả năng hiển thị các mô hình này.
 
 8
 00: 01: 33, 870--> 00: 01: 48, 930
@@ -1877,7 +1877,7 @@ Hãy để tôi giải thích bản đồ bối cảnh là gì. Bản đồ bố
 
 20
 00: 03: 55, 640--> 00: 04: 08, 060
-Đây là một ví dụ về cách bản đồ liên hệ của chúng tôi trông giống như mối quan hệ giữa các liên hệ được liên kết được mô tả bằng các chữ cái này trong khối, bạn sẽ tìm hiểu các ký hiệu bản đồ ngữ cảnh.
+Đây là một ví dụ về cách bản đồ liên hệ của chúng tôi trông giống như mối quan hệ giữa các liên hệ được liên kết được mô tả bằng các chữ cái này trong khối, chúng ta sẽ tìm hiểu các ký hiệu bản đồ ngữ cảnh.
 
 21
 00: 04: 08, 300--> 00: 04: 18, 010
@@ -1893,17 +1893,17 @@ Bản đồ liên hệ cũng giúp sàng lọc các liên hệ được giới h
 
 24
 00: 04: 41, 250--> 00: 04: 58, 940
-Với tư cách là người thiết kế các máy chủ vi mô, bạn phải tránh tạo ra một cục bùn lớn. Ý tưởng là nếu bạn tạo quá nhiều sự phụ thuộc giữa các liên hệ bị ràng buộc, điều đó sẽ dẫn đến việc mất đi những lợi ích mà bạn mong đợi nhận được từ kiến ​​trúc vi dịch vụ .
+Với tư cách là người thiết kế các máy chủ vi mô, chúng ta phải tránh tạo ra một cục bùn lớn. Ý tưởng là nếu chúng ta tạo quá nhiều sự phụ thuộc giữa các liên hệ bị ràng buộc, điều đó sẽ dẫn đến việc mất đi những lợi ích mà chúng ta mong đợi nhận được từ kiến ​​trúc vi dịch vụ .
 
 25
 00: 04: 59, 270--> 00: 05: 09, 950
-Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, bạn phải sử dụng các mẫu DTT được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
+Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, chúng ta phải sử dụng các mẫu DTT được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
 
 <!--@ \06BoundedContextRelationships_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 17, 970
-Mối quan hệ đối xứng trong bài học này, bạn đã học về ba mô hình chiến lược mới, các cách thức riêng biệt, mô hình hợp tác và mô hình hạt nhân chung, có thể xảy ra tình huống trong đó các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác.
+Mối quan hệ đối xứng trong bài học này, chúng ta đã học về ba mô hình chiến lược mới, các cách thức riêng biệt, mô hình hợp tác và mô hình hạt nhân chung, có thể xảy ra tình huống trong đó các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác.
 
 2
 00: 00: 18, 180--> 00: 00: 29, 440
@@ -1947,7 +1947,7 @@ Và điều đó có nghĩa là hai nhóm này có thể làm việc độc lậ
 
 12
 00: 01: 57, 300--> 00: 02: 16, 710
-Đôi khi bạn tìm thấy những liên hệ bị giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.
+Đôi khi chúng ta tìm thấy những liên hệ bị giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.
 
 13
 00: 02: 16, 740--> 00: 02: 28, 290
@@ -1971,7 +1971,7 @@ Cuối cùng, điều này có nghĩa là các nhóm trong mối quan hệ kiể
 
 18
 00: 03: 15, 090--> 00: 03: 25, 670
-Bây giờ, câu hỏi hiển nhiên mà bạn có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
+Bây giờ, câu hỏi hiển nhiên mà chúng ta có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
 
 19
 00: 03: 26, 040--> 00: 03: 39, 400
@@ -2029,11 +2029,11 @@ Nói cách khác, nếu nhóm đang thực hiện những thay đổi không li�
 
 1
 00: 00: 00, 180--> 00: 00: 15, 200
-Mối quan hệ bất đối xứng trong bài học này, bạn học hai thuật ngữ mới, bối cảnh ranh giới thượng nguồn và bối cảnh ranh giới hạ lưu, đồng thời tôi sẽ đề cập đến ba mô hình mô hình cung ứng khách hàng, mô hình tuân thủ và mô hình lớp chống tham nhũng.
+Mối quan hệ bất đối xứng trong bài học này, chúng ta học hai thuật ngữ mới, bối cảnh ranh giới thượng nguồn và bối cảnh ranh giới hạ lưu, đồng thời tôi sẽ đề cập đến ba mô hình mô hình cung ứng khách hàng, mô hình tuân thủ và mô hình lớp chống tham nhũng.
 
 2
 00: 00: 15, 780--> 00: 00: 32, 100
-Trong bài giảng trước bạn đã học về mối quan hệ đối xứng. Trong bài giảng này tôi sẽ trình bày chi tiết về mối quan hệ bất đối xứng giữa bối cảnh bị chặn trong một mối quan hệ bất đối xứng, một bối cảnh bị ràng buộc có sự phụ thuộc vào một bối cảnh bị ràng buộc khác.
+Trong bài giảng trước chúng ta đã học về mối quan hệ đối xứng. Trong bài giảng này tôi sẽ trình bày chi tiết về mối quan hệ bất đối xứng giữa bối cảnh bị chặn trong một mối quan hệ bất đối xứng, một bối cảnh bị ràng buộc có sự phụ thuộc vào một bối cảnh bị ràng buộc khác.
 
 3
 00: 00: 32, 220--> 00: 00: 53, 910
@@ -2089,7 +2089,7 @@ Kiểu quan hệ này được gọi là mô hình tuân thủ. Trong mẫu này
 
 16
 00: 03: 31, 770--> 00: 03: 40, 800
-B Một điểm quan trọng cần lưu ý ở đây là cả hai bối cảnh được giới hạn đều sử dụng cùng một mô hình. Để cho bạn một ví dụ từ lĩnh vực ngân hàng.
+B Một điểm quan trọng cần lưu ý ở đây là cả hai bối cảnh được giới hạn đều sử dụng cùng một mô hình. Để cho chúng ta một ví dụ từ lĩnh vực ngân hàng.
 
 17
 00: 03: 40, 950--> 00: 03: 54, 450
@@ -2145,7 +2145,7 @@ Vì vậy, trong kịch bản này, lớp chống tham nhũng sẽ có logic d�
 
 30
 00: 06: 17, 930--> 00: 06: 33, 880
-Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, chẳng hạn như tên, họ. Và ở đây, như bạn có thể thấy, có một số loại thuộc tính nhận dạng chính phủ được ánh xạ tới SSN hoặc số An sinh xã hội của khách hàng.
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, chẳng hạn như tên, họ. Và ở đây, như chúng ta có thể thấy, có một số loại thuộc tính nhận dạng chính phủ được ánh xạ tới SSN hoặc số An sinh xã hội của khách hàng.
 
 31
 00: 06: 33, 890--> 00: 06: 46, 050
@@ -2161,7 +2161,7 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 
 34
 00: 07: 08, 720--> 00: 07: 16, 310
-Trong bài học này, bạn đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.
+Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.
 
 35
 00: 07: 16, 490--> 00: 07: 23, 480
@@ -2231,7 +2231,7 @@ Các nhóm khác có thể xây dựng dịch vụ của riêng họ bằng các
 
 12
 00: 02: 44, 220--> 00: 02: 52, 220
-Và nhìn vào sơ đồ này, bạn có thể nói rằng bạn đã tạo API chính xác theo cách này và bạn hoàn toàn đúng.
+Và nhìn vào sơ đồ này, chúng ta có thể nói rằng chúng ta đã tạo API chính xác theo cách này và chúng ta hoàn toàn đúng.
 
 13
 00: 02: 52, 230--> 00: 02: 58, 230
@@ -2249,7 +2249,7 @@ Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với d�
 
 1
 00: 00: 00, 090--> 00: 00: 17, 880
-Lập bản đồ ngữ cảnh cho ngân hàng trong bài tập này, mục tiêu là để bạn tìm hiểu cách thiết lập bản đồ ngữ cảnh và mục tiêu thứ hai là xác định tác động của những thay đổi trong một ngữ cảnh bị giới hạn lên ngữ cảnh liên kết khác, bằng cách sử dụng các bản đồ ngữ cảnh.
+Lập bản đồ ngữ cảnh cho ngân hàng trong bài tập này, mục tiêu là để chúng ta tìm hiểu cách thiết lập bản đồ ngữ cảnh và mục tiêu thứ hai là xác định tác động của những thay đổi trong một ngữ cảnh bị giới hạn lên ngữ cảnh liên kết khác, bằng cách sử dụng các bản đồ ngữ cảnh.
 
 2
 00: 00: 17, 880--> 00: 00: 26, 920
@@ -2257,7 +2257,7 @@ Trong bài tập này, chúng ta sẽ sử dụng phiên bản đơn giản củ
 
 3
 00: 00: 27, 120--> 00: 00: 44, 750
-Hãy bắt đầu với phần một. Trong phần một, tôi sẽ hỏi bạn một câu hỏi và câu hỏi này sẽ mô tả mối quan hệ giữa bối cảnh liên kết và bạn sẽ cần quyết định xem bạn sẽ sử dụng mẫu nào để giải quyết các mối quan hệ mong muốn giữa bối cảnh liên kết.
+Hãy bắt đầu với phần một. Trong phần một, tôi sẽ hỏi chúng ta một câu hỏi và câu hỏi này sẽ mô tả mối quan hệ giữa bối cảnh liên kết và chúng ta sẽ cần quyết định xem chúng ta sẽ sử dụng mẫu nào để giải quyết các mối quan hệ mong muốn giữa bối cảnh liên kết.
 
 4
 00: 00: 44, 970--> 00: 01: 03, 650
@@ -2265,11 +2265,11 @@ Hãy bắt đầu với phần một. Trong phần một, tôi sẽ hỏi bạn 
 
 5
 00: 01: 03, 780--> 00: 01: 10, 580
-Vậy mối quan hệ giữa thẻ tín dụng và tài khoản bán lẻ sẽ như thế nào? Vui lòng đăng video nếu bạn cần một chút thời gian.
+Vậy mối quan hệ giữa thẻ tín dụng và tài khoản bán lẻ sẽ như thế nào? Vui lòng đăng video nếu chúng ta cần một chút thời gian.
 
 6
 00: 01: 11, 400--> 00: 01: 26, 280
-Đến đây chắc chắn bạn đã có câu trả lời. Câu trả lời là các liên hệ giới hạn thẻ tín dụng sẽ tuân thủ tài khoản bán lẻ và lý do là vì nhóm thẻ tín dụng đã quyết định chấp nhận mô hình từ tài khoản.
+Đến đây chắc chắn chúng ta đã có câu trả lời. Câu trả lời là các liên hệ giới hạn thẻ tín dụng sẽ tuân thủ tài khoản bán lẻ và lý do là vì nhóm thẻ tín dụng đã quyết định chấp nhận mô hình từ tài khoản.
 
 7
 00: 01: 27, 000--> 00: 01: 37, 440
@@ -2277,7 +2277,7 @@ Câu hỏi tiếp theo. Nhóm cho vay cá nhân đang sử dụng chức năng t
 
 8
 00: 01: 37, 590--> 00: 01: 44, 950
-Bạn sẽ đặt ra khuôn mẫu nào giữa các khoản vay cá nhân và tài khoản bán lẻ nếu bạn cần thêm thời gian để suy nghĩ?
+Bạn sẽ đặt ra khuôn mẫu nào giữa các khoản vay cá nhân và tài khoản bán lẻ nếu chúng ta cần thêm thời gian để suy nghĩ?
 
 9
 00: 01: 44, 970--> 00: 02: 03, 420
@@ -2313,7 +2313,7 @@ Câu trả lời là vì cả hai đều đã quyết định chấp nhận mô 
 
 17
 00: 03: 12, 450--> 00: 03: 31, 080
-Vì vậy, đây là một ví dụ về bối cảnh. Bản đồ cho ngân hàng, sẵn sàng cho phần hai. Tôi sẽ mô tả sự thay đổi đối với một trong các liên hệ được liên kết và dựa trên ánh xạ ngữ cảnh, bạn cần quyết định tác động của thay đổi đó đối với các liên hệ được liên kết khác.
+Vì vậy, đây là một ví dụ về bối cảnh. Bản đồ cho ngân hàng, sẵn sàng cho phần hai. Tôi sẽ mô tả sự thay đổi đối với một trong các liên hệ được liên kết và dựa trên ánh xạ ngữ cảnh, chúng ta cần quyết định tác động của thay đổi đó đối với các liên hệ được liên kết khác.
 
 18
 00: 03: 31, 530--> 00: 03: 40, 620
@@ -2321,7 +2321,7 @@ Câu hỏi số một và phần hai, bối cảnh kết hợp nào được cho
 
 19
 00: 03: 40, 800--> 00: 03: 54, 360
-Và tại sao bạn lại sẵn sàng cho câu trả lời? Câu trả lời là bối cảnh kết hợp thẻ tín dụng sẽ bị ảnh hưởng nhiều nhất vì nó phụ thuộc vào việc quản lý khách hàng và tài khoản bán lẻ.
+Và tại sao chúng ta lại sẵn sàng cho câu trả lời? Câu trả lời là bối cảnh kết hợp thẻ tín dụng sẽ bị ảnh hưởng nhiều nhất vì nó phụ thuộc vào việc quản lý khách hàng và tài khoản bán lẻ.
 
 20
 00: 03: 54, 670--> 00: 04: 03, 630
@@ -2345,7 +2345,7 @@ Câu hỏi cuối cùng. Tất cả những gì sẽ cần phải được đi�
 
 25
 00: 04: 50, 510--> 00: 04: 59, 700
-Vui lòng đăng video nếu bạn cần thêm thời gian. Được rồi. Câu trả lời là thẻ tín dụng và các khoản vay cá nhân, liên lạc ngoại quan đều có.
+Vui lòng đăng video nếu chúng ta cần thêm thời gian. Được rồi. Câu trả lời là thẻ tín dụng và các khoản vay cá nhân, liên lạc ngoại quan đều có.
 
 26
 00: 04: 59, 930--> 00: 05: 09, 940
@@ -2357,13 +2357,13 @@ Bây giờ Lecomte cũng đang sử dụng việc mua hàng, nhưng vì nó đan
 
 28
 00: 05: 21, 260--> 00: 05: 28, 310
-Và hợp đồng ngoại quan tài khoản bán lẻ sẽ không cần phải điều chỉnh. Tôi hy vọng bạn thích bài tập này.
+Và hợp đồng ngoại quan tài khoản bán lẻ sẽ không cần phải điều chỉnh. Tôi hy vọng chúng ta thích bài tập này.
 
 <!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 15, 560
-Các mẫu thiết kế kỹ thuật trong hai phần cuối, bạn học cách sử dụng các mẫu chiến lược để phân tách các miền phức tạp thành các miền nhỏ hơn và để xác định mối quan hệ giữa các miền nhỏ hơn này.
+Các mẫu thiết kế kỹ thuật trong hai phần cuối, chúng ta học cách sử dụng các mẫu chiến lược để phân tách các miền phức tạp thành các miền nhỏ hơn và để xác định mối quan hệ giữa các miền nhỏ hơn này.
 
 2
 00: 00: 16, 080--> 00: 00: 25, 560
@@ -2391,13 +2391,13 @@ Bạn sẽ tìm hiểu tất cả các mẫu chiến thuật này trong phần n
 
 8
 00: 01: 27, 090--> 00: 01: 37, 980
-Tôi sẽ chỉ cho bạn cách lập mô hình các mẫu này cho các vi dịch vụ của bạn nói chung và cách xây dựng các mẫu kỹ thuật này bằng cách sử dụng các lớp Java cũ đơn giản.
+Tôi sẽ chỉ cho chúng ta cách lập mô hình các mẫu này cho các vi dịch vụ của chúng ta nói chung và cách xây dựng các mẫu kỹ thuật này bằng cách sử dụng các lớp Java cũ đơn giản.
 
 <!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000002.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 13, 890
-Trong bài học này, bạn sẽ tìm hiểu về mẫu thực thể khi kết thúc bài giảng này, bạn sẽ có thể thảo luận về các đặc điểm của thực thể và mối quan hệ giữa logic nghiệp vụ và các đối tượng thực thể.
+Trong bài học này, chúng ta sẽ tìm hiểu về mẫu thực thể khi kết thúc bài giảng này, chúng ta sẽ có thể thảo luận về các đặc điểm của thực thể và mối quan hệ giữa logic nghiệp vụ và các đối tượng thực thể.
 
 2
 00: 00: 14, 070--> 00: 00: 23, 020
@@ -2409,7 +2409,7 @@ Ví dụ, trong trường hợp ngân hàng, có các thực thể như tài kho
 
 4
 00: 00: 30, 360--> 00: 00: 42, 270
-Trong trường hợp bán lẻ, có các thực thể như đơn hàng, sản phẩm và hóa đơn. Lần tới tôi sẽ hướng dẫn bạn các đặc điểm của các thực thể giúp phân biệt chúng với các đối tượng kinh doanh khác.
+Trong trường hợp bán lẻ, có các thực thể như đơn hàng, sản phẩm và hóa đơn. Lần tới tôi sẽ hướng dẫn chúng ta các đặc điểm của các thực thể giúp phân biệt chúng với các đối tượng kinh doanh khác.
 
 5
 00: 00: 42, 570--> 00: 00: 56, 700
@@ -2489,7 +2489,7 @@ Các thực thể logic chỉ có ý nghĩa trong bối cảnh ranh giới mà c
 
 24
 00: 04: 21, 630--> 00: 04: 29, 200
-Nhưng bạn phải nhớ rằng định nghĩa của thực thể trong bối cảnh bị ràng buộc này không được đảm bảo giữ nguyên.
+Nhưng chúng ta phải nhớ rằng định nghĩa của thực thể trong bối cảnh bị ràng buộc này không được đảm bảo giữ nguyên.
 
 25
 00: 04: 29, 310--> 00: 04: 39, 300
@@ -2535,7 +2535,7 @@ Hành vi này triển khai logic nghiệp vụ có thể thay đổi trạng th�
 
 1
 00: 00: 00, 150--> 00: 00: 15, 080
-Trong bài học này, bạn tìm hiểu về các đối tượng giá trị, đặc điểm của chúng và vòng đời của đối tượng giá trị. Đối tượng giá trị, không giống như thực thể, các đối tượng không có nhận dạng khái niệm trong ngữ cảnh bị ràng buộc.
+Trong bài học này, chúng ta tìm hiểu về các đối tượng giá trị, đặc điểm của chúng và vòng đời của đối tượng giá trị. Đối tượng giá trị, không giống như thực thể, các đối tượng không có nhận dạng khái niệm trong ngữ cảnh bị ràng buộc.
 
 2
 00: 00: 15, 300--> 00: 00: 23, 900
@@ -2543,7 +2543,7 @@ Nói cách khác, giá trị, thuộc tính đối tượng và hành vi không 
 
 3
 00: 00: 24, 450--> 00: 00: 38, 770
-Tôi sẽ bắt đầu bài học này bằng một bài kiểm tra. Hãy xem xét khách hàng và đối tượng. Có một địa chỉ email do khách hàng cung cấp và câu hỏi đặt ra là bạn sẽ đặt logic xác thực cho địa chỉ email ở đâu?
+Tôi sẽ bắt đầu bài học này bằng một bài kiểm tra. Hãy xem xét khách hàng và đối tượng. Có một địa chỉ email do khách hàng cung cấp và câu hỏi đặt ra là chúng ta sẽ đặt logic xác thực cho địa chỉ email ở đâu?
 
 4
 00: 00: 39, 510--> 00: 00: 47, 750
@@ -2615,7 +2615,7 @@ Chúng tôi sẽ phải kiểm tra loại nhận dạng và nếu loại đơn g
 
 21
 00: 04: 08, 840--> 00: 04: 18, 340
-Vì vậy, như bạn có thể thấy, bạn sẽ phải thực hiện so sánh cấp độ thuộc tính để đưa ra quyết định xem có nên coi trọng các đối tượng bằng nhau hay không.
+Vì vậy, như chúng ta có thể thấy, chúng ta sẽ phải thực hiện so sánh cấp độ thuộc tính để đưa ra quyết định xem có nên coi trọng các đối tượng bằng nhau hay không.
 
 22
 00: 04: 18, 670--> 00: 04: 27, 910
@@ -2627,7 +2627,7 @@ Là một đối tượng độc lập, đối tượng giá trị đã tồn t�
 
 24
 00: 04: 40, 570--> 00: 04: 50, 800
-Trong trường hợp ví dụ về danh tính chính phủ, chúng tôi sẽ không lưu trữ danh tính chính phủ. Vâng, bạn phản đối việc lưu trữ lâu dài.
+Trong trường hợp ví dụ về danh tính chính phủ, chúng tôi sẽ không lưu trữ danh tính chính phủ. Vâng, chúng ta phản đối việc lưu trữ lâu dài.
 
 25
 00: 04: 50, 950--> 00: 05: 29, 340
@@ -2639,7 +2639,7 @@ Tại thời điểm này, thực thể khách hàng được cung cấp cho CSD
 
 27
 00: 05: 45, 670--> 00: 05: 54, 100
-Và như bạn thấy ở đây, đối tượng nhận dạng Gaudron không còn tồn tại như một phần của thực thể khách hàng.
+Và như chúng ta thấy ở đây, đối tượng nhận dạng Gaudron không còn tồn tại như một phần của thực thể khách hàng.
 
 28
 00: 05: 54, 790--> 00: 06: 06, 280
@@ -2647,7 +2647,7 @@ Các đối tượng giá trị được coi là đối tượng bất biến. T
 
 29
 00: 06: 06, 640--> 00: 06: 17, 510
-Cách tốt nhất là bạn nên tạo một phiên bản mới của đối tượng giá trị thay vì sử dụng lại các phiên bản hiện có.
+Cách tốt nhất là chúng ta nên tạo một phiên bản mới của đối tượng giá trị thay vì sử dụng lại các phiên bản hiện có.
 
 30
 00: 06: 18, 550--> 00: 06: 29, 920
@@ -2655,7 +2655,7 @@ Tiếp theo, hãy nói về đối tượng giá trị và đối tượng giá 
 
 31
 00: 06: 30, 340--> 00: 06: 38, 560
-Tôi sẽ cho bạn một ví dụ. Hãy suy nghĩ về tài khoản bán lẻ. Tên miền phụ trong tài khoản ngân hàng. Trong tài khoản bán lẻ.
+Tôi sẽ cho chúng ta một ví dụ. Hãy suy nghĩ về tài khoản bán lẻ. Tên miền phụ trong tài khoản ngân hàng. Trong tài khoản bán lẻ.
 
 32
 00: 06: 38, 570--> 00: 06: 46, 930
@@ -2675,7 +2675,7 @@ Tên miền phụ và tài khoản cá nhân không thành vấn đề. Vì vậ
 
 36
 00: 07: 21, 910--> 00: 07: 33, 100
-Đã đến lúc xem xét nhanh. Trong bài học này bạn đã học về các đối tượng giá trị. Các đối tượng giá trị không có nhận dạng khái niệm trong bối cảnh bị giới hạn.
+Đã đến lúc xem xét nhanh. Trong bài học này chúng ta đã học về các đối tượng giá trị. Các đối tượng giá trị không có nhận dạng khái niệm trong bối cảnh bị giới hạn.
 
 37
 00: 07: 33, 280--> 00: 07: 55, 180
@@ -2689,11 +2689,11 @@ Mục tiêu của bài tập này là xác định các thực thể và đối 
 
 2
 00: 00: 20, 100--> 00: 00: 35, 700
-Một số thuật ngữ này sẽ được dịch sang các thực thể và đối tượng giá trị. Bây giờ, nếu bạn đã quên bài tập đó, tôi khuyên bạn nên xem lại bài giảng đó hoặc bạn có thể tạm dừng video và đọc qua bản ghi cuộc phỏng vấn này.
+Một số thuật ngữ này sẽ được dịch sang các thực thể và đối tượng giá trị. Bây giờ, nếu chúng ta đã quên bài tập đó, tôi khuyên chúng ta nên xem lại bài giảng đó hoặc chúng ta có thể tạm dừng video và đọc qua bản ghi cuộc phỏng vấn này.
 
 3
 00: 00: 36, 120--> 00: 00: 43, 800
-Và khi bạn đã sẵn sàng, hãy chuyển sang bài tập tiếp theo. Trong bài tập này, bạn sẽ tập trung vào các thuật ngữ này.
+Và khi chúng ta đã sẵn sàng, hãy chuyển sang bài tập tiếp theo. Trong bài tập này, chúng ta sẽ tập trung vào các thuật ngữ này.
 
 4
 00: 00: 44, 160--> 00: 00: 54, 810
@@ -2705,11 +2705,11 @@ Và lý do chúng ta cần tập trung vào điều này là vì các thực th�
 
 6
 00: 01: 03, 570--> 00: 01: 10, 110
-Một điều khác mà bạn cần lưu ý là các đối tượng giá trị có thể không có nhận dạng khái niệm.
+Một điều khác mà chúng ta cần lưu ý là các đối tượng giá trị có thể không có nhận dạng khái niệm.
 
 7
 00: 01: 10, 290--> 00: 01: 21, 090
-Trong ngữ cảnh bị chặn, bạn có thể thêm các đối tượng giá trị mới để hỗ trợ các thực thể của mình khi cần. Hãy bắt đầu với khách hàng.
+Trong ngữ cảnh bị chặn, chúng ta có thể thêm các đối tượng giá trị mới để hỗ trợ các thực thể của mình khi cần. Hãy bắt đầu với khách hàng.
 
 8
 00: 01: 21, 420--> 00: 01: 47, 020
@@ -2717,11 +2717,11 @@ Khách hàng là cá nhân bắt đầu quá trình bán hàng, khách hàng đ�
 
 9
 00: 01: 47, 460--> 00: 01: 55, 260
-Vì vậy, bây giờ câu hỏi là dành cho bạn. Bạn sẽ đánh dấu khách hàng là đối tượng giá trị hay bạn sẽ đánh dấu khách hàng là một thực thể?
+Vì vậy, bây giờ câu hỏi là dành cho chúng ta . Bạn sẽ đánh dấu khách hàng là đối tượng giá trị hay chúng ta sẽ đánh dấu khách hàng là một thực thể?
 
 10
 00: 01: 55, 950--> 00: 02: 10, 070
-Nếu bạn nói thực thể, bạn đã đúng, bởi vì khách hàng có danh tính khái niệm trong bối cảnh bán hàng và nó cần được duy trì với danh tính duy nhất trong kho lưu trữ lâu dài.
+Nếu chúng ta nói thực thể, chúng ta đã đúng, bởi vì khách hàng có danh tính khái niệm trong bối cảnh bán hàng và nó cần được duy trì với danh tính duy nhất trong kho lưu trữ lâu dài.
 
 11
 00: 02: 10, 080--> 00: 02: 25, 830
@@ -2733,11 +2733,11 @@ Thông thường, việc xác thực hoặc xác minh địa chỉ vật lý đ�
 
 13
 00: 02: 39, 480--> 00: 02: 53, 020
-Bây giờ, đây là yêu cầu kỹ thuật, không thực sự là yêu cầu kinh doanh. Vậy bạn sẽ đánh dấu thực thể địa chỉ như thế nào hoặc bạn sẽ phản đối nếu bạn nói, à, bạn phản đối quyền của mình?
+Bây giờ, đây là yêu cầu kỹ thuật, không thực sự là yêu cầu kinh doanh. Vậy chúng ta sẽ đánh dấu thực thể địa chỉ như thế nào hoặc chúng ta sẽ phản đối nếu chúng ta nói, à, chúng ta phản đối quyền của mình?
 
 14
 00: 02: 53, 790--> 00: 03: 05, 210
-Câu hỏi tiếp theo tôi dành cho bạn là, đối tượng giá trị này có cần phải bền bỉ không? Câu trả lời là có với tư cách là một phần của thực thể khách hàng, không phải là một đối tượng độc lập trong CSDL .
+Câu hỏi tiếp theo tôi dành cho chúng ta là, đối tượng giá trị này có cần phải bền bỉ không? Câu trả lời là có với tư cách là một phần của thực thể khách hàng, không phải là một đối tượng độc lập trong CSDL .
 
 15
 00: 03: 05, 220--> 00: 03: 15, 380
@@ -2753,7 +2753,7 @@ Mục đích của việc này chỉ là để đảm bảo rằng địa chỉ 
 
 18
 00: 03: 31, 080--> 00: 03: 42, 870
-Câu hỏi dành cho bạn là, đối tượng giá trị này có cần được duy trì không? Câu trả lời là không, vì nó chỉ là một đối tượng tiện ích dùng để xác thực địa chỉ email và số điện thoại.
+Câu hỏi dành cho chúng ta là, đối tượng giá trị này có cần được duy trì không? Câu trả lời là không, vì nó chỉ là một đối tượng tiện ích dùng để xác thực địa chỉ email và số điện thoại.
 
 19
 00: 03: 43, 050--> 00: 04: 02, 430
@@ -2773,7 +2773,7 @@ Và sau đó còn có các loại khác. Ngoài ra, gói kỳ nghỉ còn có c�
 
 23
 00: 04: 43, 500--> 00: 05: 06, 350
-Vậy bạn nghĩ gói kỳ nghỉ nên được đánh dấu là một thực thể hay một đối tượng giá trị? Gói kỳ nghỉ sẽ là một thực thể vì nó có nhận dạng khái niệm trong miền bán hàng và đó là đề xuất có thể nhận dạng duy nhất được tạo cho khách hàng, cho một gói cụ thể.
+Vậy chúng ta nghĩ gói kỳ nghỉ nên được đánh dấu là một thực thể hay một đối tượng giá trị? Gói kỳ nghỉ sẽ là một thực thể vì nó có nhận dạng khái niệm trong miền bán hàng và đó là đề xuất có thể nhận dạng duy nhất được tạo cho khách hàng, cho một gói cụ thể.
 
 24
 00: 05: 06, 380--> 00: 05: 15, 980
@@ -2785,7 +2785,7 @@ Vì vậy, điều đó cho thấy rằng nó cần phải được lưu trữ l
 
 26
 00: 05: 24, 590--> 00: 05: 34, 210
-Và mỗi đề xuất này có một bản sắc riêng. Vậy ý kiến ​​của bạn là gì? Nó sẽ là một thực thể hay nó sẽ là một đối tượng giá trị?
+Và mỗi đề xuất này có một bản sắc riêng. Vậy ý kiến ​​của chúng ta là gì? Nó sẽ là một thực thể hay nó sẽ là một đối tượng giá trị?
 
 27
 00: 05: 34, 820--> 00: 05: 52, 070
@@ -2801,11 +2801,11 @@ Các ưu đãi trong miền bán hàng chỉ được áp dụng trong bối c�
 
 30
 00: 06: 20, 480--> 00: 06: 30, 110
-Vậy bạn nghĩ gì trong bối cảnh bán hàng? Ưu đãi sẽ là một thực thể hay bạn sẽ tiếp thị như một đối tượng có giá trị?
+Vậy chúng ta nghĩ gì trong bối cảnh bán hàng? Ưu đãi sẽ là một thực thể hay chúng ta sẽ tiếp thị như một đối tượng có giá trị?
 
 31
 00: 06: 30, 260--> 00: 06: 42, 620
-Bây giờ đây là một chút khó khăn. Nếu bạn nghĩ về nó. Danh tính duy nhất do nhóm sản phẩm chỉ định và các ưu đãi thực sự được nhóm sản phẩm duy trì và quản lý.
+Bây giờ đây là một chút khó khăn. Nếu chúng ta nghĩ về nó. Danh tính duy nhất do nhóm sản phẩm chỉ định và các ưu đãi thực sự được nhóm sản phẩm duy trì và quản lý.
 
 32
 00: 06: 43, 100--> 00: 07: 00, 150
@@ -2829,7 +2829,7 @@ Vì vậy, hãy nhớ rằng khách hàng cần được nhận dạng duy nhấ
 
 37
 00: 07: 42, 500--> 00: 07: 51, 290
-Các gói là một phần quan trọng của đề xuất từ ​​góc độ định giá. Vậy bạn nghĩ cái gì sẽ là một thực thể hay một đối tượng giá trị?
+Các gói là một phần quan trọng của đề xuất từ ​​góc độ định giá. Vậy chúng ta nghĩ cái gì sẽ là một thực thể hay một đối tượng giá trị?
 
 38
 00: 07: 51, 320--> 00: 08: 01, 730
@@ -2855,7 +2855,7 @@ Trong bài học này, chúng ta sẽ mô hình hóa các thực thể và đố
 
 2
 00: 00: 15, 360--> 00: 00: 28, 620
-Bạn cũng sẽ tìm hiểu về mối quan hệ giữa các thực thể và đối tượng giá trị khác nhau này. Mục tiêu của tôi ở đây là chỉ cho bạn cách bạn có thể lập mô hình các đối tượng cốt lõi trong miền bán hàng.
+Bạn cũng sẽ tìm hiểu về mối quan hệ giữa các thực thể và đối tượng giá trị khác nhau này. Mục tiêu của tôi ở đây là chỉ cho chúng ta cách chúng ta có thể lập mô hình các đối tượng cốt lõi trong miền bán hàng.
 
 3
 00: 00: 28, 920--> 00: 00: 41, 580
@@ -2863,11 +2863,11 @@ Các đối tượng mà chúng ta sẽ làm mẫu trong bài học này đã đ
 
 4
 00: 00: 41, 610--> 00: 00: 47, 250
-Bạn cũng sẽ tìm thấy mã Java cho các đối tượng cốt lõi này. Tôi sẽ không hướng dẫn bạn qua mã đó.
+Bạn cũng sẽ tìm thấy mã Java cho các đối tượng cốt lõi này. Tôi sẽ không hướng dẫn chúng ta qua mã đó.
 
 5
 00: 00: 47, 490--> 00: 00: 57, 780
-Nếu bạn quan tâm đến. Bạn có thể tự mình xem qua mã. Nó rất đơn giản và ánh xạ trực tiếp đến mô hình đối tượng cốt lõi mà bạn sẽ học trong bài giảng này.
+Nếu chúng ta quan tâm đến. Bạn có thể tự mình xem qua mã. Nó rất đơn giản và ánh xạ trực tiếp đến mô hình đối tượng cốt lõi mà chúng ta sẽ học trong bài giảng này.
 
 6
 00: 00: 57, 810--> 00: 01: 08, 480
@@ -2927,7 +2927,7 @@ Vì vậy, có nhiều sự kết hợp khác nhau được xác định trong g
 
 20
 00: 03: 34, 950--> 00: 03: 43, 080
-Tôi đã quyết định tạo một hệ thống phân cấp lớp được gọi là đặt chỗ. Tiếp theo, tôi sẽ hướng dẫn bạn đến mô hình để đặt chỗ.
+Tôi đã quyết định tạo một hệ thống phân cấp lớp được gọi là đặt chỗ. Tiếp theo, tôi sẽ hướng dẫn chúng ta đến mô hình để đặt chỗ.
 
 21
 00: 03: 44, 290--> 00: 03: 57, 130
@@ -3003,7 +3003,7 @@ Vì vậy, đây là chức năng sẽ tạo ra các đối tượng giữ chỗ
 
 39
 00: 07: 17, 920--> 00: 07: 33, 240
-Tiếp theo, tôi sẽ hướng dẫn bạn trình tự đề xuất và sơ đồ lớp đề xuất tại đây. Như bạn có thể thấy, khách hàng bắt đầu liên hệ với nhóm bán hàng Acme Sales Acme, sau đó tạo một hoặc nhiều đề xuất.
+Tiếp theo, tôi sẽ hướng dẫn chúng ta trình tự đề xuất và sơ đồ lớp đề xuất tại đây. Như chúng ta có thể thấy, khách hàng bắt đầu liên hệ với nhóm bán hàng Acme Sales Acme, sau đó tạo một hoặc nhiều đề xuất.
 
 40
 00: 07: 33, 520--> 00: 07: 45, 430
@@ -3067,13 +3067,13 @@ Cộng với đề xuất này. Bảng liệt kê trạng thái được sử d�
 
 55
 00: 10: 21, 330--> 00: 10: 31, 820
-Vì vậy, đây là cách lớp đề xuất trông như thế nào. Tôi khuyên bạn nên tự mình xem các mô hình và thoải mái thực hiện các thay đổi để làm cho nó tốt hơn.
+Vì vậy, đây là cách lớp đề xuất trông như thế nào. Tôi khuyên chúng ta nên tự mình xem các mô hình và thoải mái thực hiện các thay đổi để làm cho nó tốt hơn.
 
 <!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 07, 410
-Trong bài học này, bạn sẽ tìm hiểu về tổng hợp và mẫu nhà máy. Hãy bắt đầu với định nghĩa về tổng hợp.
+Trong bài học này, chúng ta sẽ tìm hiểu về tổng hợp và mẫu nhà máy. Hãy bắt đầu với định nghĩa về tổng hợp.
 
 2
 00: 00: 07, 590--> 00: 00: 19, 320
@@ -3109,11 +3109,11 @@ Họ không có danh tính duy nhất bên ngoài tài khoản ngân hàng. Kế
 
 10
 00: 01: 33, 990--> 00: 01: 41, 910
-Vì vậy, đây là một ví dụ về tổng hợp. Bây giờ giả sử bạn phải thao tác trên một trong các đối tượng để không thực hiện việc này.
+Vì vậy, đây là một ví dụ về tổng hợp. Bây giờ giả sử chúng ta phải thao tác trên một trong các đối tượng để không thực hiện việc này.
 
 11
 00: 01: 42, 270--> 00: 01: 55, 920
-Bạn có thể sử dụng cơ chế này trong đó bạn có thể gọi hàm get trên tổng hợp, ví dụ: get người được đề cử để lấy đối tượng được đề cử và sau đó bạn có thể gọi hàm trực tiếp trên đối tượng.
+Bạn có thể sử dụng cơ chế này trong đó chúng ta có thể gọi hàm get trên tổng hợp, ví dụ: get người được đề cử để lấy đối tượng được đề cử và sau đó chúng ta có thể gọi hàm trực tiếp trên đối tượng.
 
 12
 00: 01: 56, 040--> 00: 02: 07, 080
@@ -3129,7 +3129,7 @@ Mã bên ngoài tổng hợp sẽ gọi hàm và hàm này gói gọn tất cả
 
 15
 00: 02: 36, 240--> 00: 02: 51, 660
-Với tư cách là người thiết kế tổng hợp, bạn có trách nhiệm đảm bảo rằng tất cả hành vi cần thiết để vận hành trên đối tượng bên trong được hiển thị dưới dạng các hàm của đối tượng gốc tổng hợp.
+Với tư cách là người thiết kế tổng hợp, chúng ta có trách nhiệm đảm bảo rằng tất cả hành vi cần thiết để vận hành trên đối tượng bên trong được hiển thị dưới dạng các hàm của đối tượng gốc tổng hợp.
 
 16
 00: 02: 52, 840--> 00: 03: 07, 900
@@ -3145,11 +3145,11 @@ Giả sử trong trường hợp đếm, khi hàm được gọi, nhiều đối
 
 19
 00: 03: 35, 260--> 00: 03: 47, 770
-Về mặt nguyên tử, tất cả các thay đổi đều thành công hoặc tất cả các thay đổi đều được khôi phục. Vì vậy, đơn vị công việc là yếu tố quan trọng cần cân nhắc khi bạn thiết kế các tập hợp của mình.
+Về mặt nguyên tử, tất cả các thay đổi đều thành công hoặc tất cả các thay đổi đều được khôi phục. Vì vậy, đơn vị công việc là yếu tố quan trọng cần cân nhắc khi chúng ta thiết kế các tập hợp của mình.
 
 20
 00: 03: 48, 490--> 00: 04: 02, 630
-Mẫu thiết kế nhà máy là một mẫu phổ biến để xây dựng các tập hợp miền phức tạp. Cách thức hoạt động là bạn xác định một đối tượng có tất cả logic để tạo tổng hợp miền.
+Mẫu thiết kế nhà máy là một mẫu phổ biến để xây dựng các tập hợp miền phức tạp. Cách thức hoạt động là chúng ta xác định một đối tượng có tất cả logic để tạo tổng hợp miền.
 
 21
 00: 04: 02, 680--> 00: 04: 13, 060
@@ -3173,7 +3173,7 @@ Nhưng hãy nhớ rằng nó cũng có thể được gọi là nhóm tổng h�
 
 26
 00: 04: 55, 120--> 00: 05: 02, 690
-Vì vậy, hãy ghi nhớ điều đó trong trường hợp này cũng như khi đọc bất kỳ bài viết hoặc blog nào bạn có thể tìm thấy trên Internet.
+Vì vậy, hãy ghi nhớ điều đó trong trường hợp này cũng như khi đọc bất kỳ bài viết hoặc blog nào chúng ta có thể tìm thấy trên Internet.
 
 27
 00: 05: 02, 980--> 00: 05: 14, 890
@@ -3289,15 +3289,15 @@ Tôi cũng sẽ thảo luận về cuốn sách trong Trạng thái xác nhận 
 
 3
 00: 00: 19, 890--> 00: 00: 33, 120
-Mục tiêu của tôi ở đây là đi đến đối tượng cốt lõi trong miền bán hàng Atmeh. Các tệp mô hình và mã đạo đức có sẵn trong nhánh kỹ thuật get và nếu quan tâm, bạn có thể tự mình xem qua mã.
+Mục tiêu của tôi ở đây là đi đến đối tượng cốt lõi trong miền bán hàng Atmeh. Các tệp mô hình và mã đạo đức có sẵn trong nhánh kỹ thuật get và nếu quan tâm, chúng ta có thể tự mình xem qua mã.
 
 4
 00: 00: 33, 270--> 00: 00: 41, 910
-Phần này là tùy chọn và xin lưu ý rằng mô hình đã được giữ đơn giản để bạn có thể dễ dàng làm theo.
+Phần này là tùy chọn và xin lưu ý rằng mô hình đã được giữ đơn giản để chúng ta có thể dễ dàng làm theo.
 
 5
 00: 00: 42, 120--> 00: 00: 55, 320
-Đây là một mô hình hoàn chỉnh và bạn có thể coi nó như bản phác thảo đầu tiên của mô hình. Đối tượng xác nhận sẽ được tạo trong gói Kondor Akhmad hoặc mô hình thanh toán chấm bán hàng.
+Đây là một mô hình hoàn chỉnh và chúng ta có thể coi nó như bản phác thảo đầu tiên của mô hình. Đối tượng xác nhận sẽ được tạo trong gói Kondor Akhmad hoặc mô hình thanh toán chấm bán hàng.
 
 6
 00: 00: 55, 560--> 00: 01: 04, 470
@@ -3341,7 +3341,7 @@ Sẽ có một bảng liệt kê xác định các giai đoạn khác nhau của
 
 16
 00: 03: 09, 420--> 00: 03: 24, 090
-Tiếp theo, tôi sẽ hướng dẫn bạn sơ đồ bất động sản cho đối tượng xác nhận đặt phòng. Phiên bản đối tượng xác nhận đặt phòng được tạo khi khách hàng chọn đề xuất nhưng chưa thanh toán.
+Tiếp theo, tôi sẽ hướng dẫn chúng ta sơ đồ bất động sản cho đối tượng xác nhận đặt phòng. Phiên bản đối tượng xác nhận đặt phòng được tạo khi khách hàng chọn đề xuất nhưng chưa thanh toán.
 
 17
 00: 03: 24, 090--> 00: 03: 36, 540
@@ -3375,7 +3375,7 @@ Khi đó, trạng thái sẽ thay đổi thành hủy và đó sẽ là sự k�
 
 1
 00: 00: 00, 150--> 00: 00: 09, 810
-Trong bài học này, bạn sẽ tìm hiểu về hai tập sách mới, mô hình thiếu máu và mô hình phong phú. Những thuật ngữ này được sử dụng để mô tả hành vi của mô hình.
+Trong bài học này, chúng ta sẽ tìm hiểu về hai tập sách mới, mô hình thiếu máu và mô hình phong phú. Những thuật ngữ này được sử dụng để mô tả hành vi của mô hình.
 
 2
 00: 00: 10, 410--> 00: 00: 19, 590
@@ -3399,15 +3399,15 @@ Nghĩa là, các hoạt động áp dụng cho khái niệm miền bị thiếu.
 
 7
 00: 01: 05, 730--> 00: 01: 15, 000
-Tôi đề nghị rằng nếu bạn chưa từng nghe đến cái tên Martin Fowler, hãy tiếp tục tra Google tên của anh ấy và bạn sẽ tìm thấy rất nhiều blog và bài báo thú vị.
+Tôi đề nghị rằng nếu chúng ta chưa từng nghe đến cái tên Martin Fowler, hãy tiếp tục tra Google tên của anh ấy và chúng ta sẽ tìm thấy rất nhiều blog và bài báo thú vị.
 
 8
 00: 01: 15, 990--> 00: 01: 30, 260
-Bây giờ, chắc hẳn bạn đang thắc mắc, tại sao con vật này lại được sử dụng ở đây? Vâng, thiếu máu là tình trạng cơ thể không có đủ hồng cầu để mang đủ oxy đến các mô và cơ quan khác nhau.
+Bây giờ, chắc hẳn chúng ta đang thắc mắc, tại sao con vật này lại được sử dụng ở đây? Vâng, thiếu máu là tình trạng cơ thể không có đủ hồng cầu để mang đủ oxy đến các mô và cơ quan khác nhau.
 
 9
 00: 01: 30, 720--> 00: 01: 40, 000
-Và như bạn có thể tưởng tượng, đó là một tình trạng tồi tệ. Những người mắc bệnh này cảm thấy yếu đuối. Họ có làn da nhợt nhạt và mắc nhiều bệnh khác nhau.
+Và như chúng ta có thể tưởng tượng, đó là một tình trạng tồi tệ. Những người mắc bệnh này cảm thấy yếu đuối. Họ có làn da nhợt nhạt và mắc nhiều bệnh khác nhau.
 
 10
 00: 01: 40, 440--> 00: 01: 47, 850
@@ -3423,19 +3423,19 @@ Và vì vậy nó không tốt. Và trong trường hợp một mô hình, nếu
 
 13
 00: 02: 07, 230--> 00: 02: 16, 980
-Vâng, cuộc thảo luận của chúng ta về bệnh thiếu máu đã đủ rồi. Hãy quay trở lại cuộc thảo luận về các mô hình. Hãy thảo luận về cách bạn chẩn đoán một mô hình thiếu máu.
+Vâng, cuộc thảo luận của chúng ta về bệnh thiếu máu đã đủ rồi. Hãy quay trở lại cuộc thảo luận về các mô hình. Hãy thảo luận về cách chúng ta chẩn đoán một mô hình thiếu máu.
 
 14
 00: 02: 16, 990--> 00: 02: 24, 370
-Nói cách khác, giả sử bạn đã có một mô hình và bạn muốn xác định xem đó là mô hình thiếu máu hay mô hình phong phú.
+Nói cách khác, giả sử chúng ta đã có một mô hình và chúng ta muốn xác định xem đó là mô hình thiếu máu hay mô hình phong phú.
 
 15
 00: 02: 24, 690--> 00: 02: 36, 330
-Điều đầu tiên bạn sẽ xem xét là điều hiển nhiên. Các thực thể có thích hành vi này không? Nếu các thực thể thích hành vi đó thì rất có thể đó là một mô hình thiếu máu.
+Điều đầu tiên chúng ta sẽ xem xét là điều hiển nhiên. Các thực thể có thích hành vi này không? Nếu các thực thể thích hành vi đó thì rất có thể đó là một mô hình thiếu máu.
 
 16
 00: 02: 36, 720--> 00: 02: 47, 130
-Và nếu thực thể có một số chức năng thì điều đầu tiên bạn nên xem xét là các chức năng này không chỉ dành cho các hoạt động hiện tại.
+Và nếu thực thể có một số chức năng thì điều đầu tiên chúng ta nên xem xét là các chức năng này không chỉ dành cho các hoạt động hiện tại.
 
 17
 00: 02: 47, 430--> 00: 02: 56, 570
@@ -3443,7 +3443,7 @@ Nghĩa là, chúng không chỉ là các hàm getters, setters, cập nhật và
 
 18
 00: 02: 56, 940--> 00: 03: 05, 610
-Và điều thứ ba bạn cần tìm là việc triển khai logic nghiệp vụ bên ngoài các đối tượng thực thể.
+Và điều thứ ba chúng ta cần tìm là việc triển khai logic nghiệp vụ bên ngoài các đối tượng thực thể.
 
 19
 00: 03: 05, 820--> 00: 03: 12, 380
@@ -3487,7 +3487,7 @@ Loại tình huống này nên tránh bằng mọi giá. Nhưng thật không ma
 
 29
 00: 04: 53, 130--> 00: 05: 06, 930
-Không phải là bạn hiểu triệu chứng của người mẫu thiếu máu. Hãy nói về cách một mô hình phong phú trông giống như mô hình phong phú triển khai hành vi của mô hình vốn là một phần của đối tượng thực thể.
+Không phải là chúng ta hiểu triệu chứng của người mẫu thiếu máu. Hãy nói về cách một mô hình phong phú trông giống như mô hình phong phú triển khai hành vi của mô hình vốn là một phần của đối tượng thực thể.
 
 30
 00: 05: 07, 140--> 00: 05: 18, 420
@@ -3503,7 +3503,7 @@ Một tác dụng phụ tích cực của việc có tất cả logic nghiệp v
 
 33
 00: 05: 49, 140--> 00: 06: 00, 970
-Tại thời điểm này, bạn có thể có một câu hỏi. Có phải mô hình thiếu máu luôn xấu? Nói cách khác, nếu bạn có một mô hình hiện tại đang thiếu máu, bạn có nên tiếp tục và lên kế hoạch biến nó thành một mô hình phong phú không?
+Tại thời điểm này, chúng ta có thể có một câu hỏi. Có phải mô hình thiếu máu luôn xấu? Nói cách khác, nếu chúng ta có một mô hình hiện tại đang thiếu máu, chúng ta có nên tiếp tục và lên kế hoạch biến nó thành một mô hình phong phú không?
 
 34
 00: 06: 01, 020--> 00: 06: 20, 400
@@ -3511,7 +3511,7 @@ Câu trả lời của tôi cho câu hỏi này là không thực sự, đặc b
 
 35
 00: 06: 20, 400--> 00: 06: 28, 740
-Nếu mô hình của bạn chỉ đơn giản cung cấp các dịch vụ dữ liệu chung là Criado-Perez, thì bạn đồng ý với mô hình thiếu máu.
+Nếu mô hình của chúng ta chỉ đơn giản cung cấp các dịch vụ dữ liệu chung là Criado-Perez, thì chúng ta đồng ý với mô hình thiếu máu.
 
 36
 00: 06: 28, 740--> 00: 06: 36, 260
@@ -3519,11 +3519,11 @@ Và sau đó, có những tình huống hoặc trường hợp sử dụng trong
 
 37
 00: 06: 36, 270--> 00: 06: 43, 380
-Trong kịch bản này. Ngoài ra, có thể có một mô hình thiếu máu. Vì vậy, như bạn có thể thấy, không có câu trả lời đơn giản.
+Trong kịch bản này. Ngoài ra, có thể có một mô hình thiếu máu. Vì vậy, như chúng ta có thể thấy, không có câu trả lời đơn giản.
 
 38
 00: 06: 43, 380--> 00: 07: 00, 270
-Các mô hình thiếu máu có thể được xem xét và Antipater trong một số trường hợp, nhưng không phải tất cả. Bạn phải xem xét trường hợp sử dụng cụ thể của mình theo kịch bản cụ thể và đưa ra phán quyết về việc liệu bạn sẽ xây dựng một mô hình hay liệu bạn có đồng ý với một mô hình thiếu máu hay không.
+Các mô hình thiếu máu có thể được xem xét và Antipater trong một số trường hợp, nhưng không phải tất cả. Bạn phải xem xét trường hợp sử dụng cụ thể của mình theo kịch bản cụ thể và đưa ra phán quyết về việc liệu chúng ta sẽ xây dựng một mô hình hay liệu chúng ta có đồng ý với một mô hình thiếu máu hay không.
 
 39
 00: 07: 00, 540--> 00: 07: 13, 020
@@ -3543,11 +3543,11 @@ Chỉ tất cả logic nghiệp vụ được triển khai trong chức năng h�
 
 43
 00: 07: 46, 500--> 00: 08: 03, 930
-Nói cách khác, các thành phần bên ngoài không có quyền truy cập trực tiếp vào thực thể xác nhận thanh toán. Đã đến lúc kết thúc bài học này trong bài học này bạn đã học về các mô hình thiếu máu và mô hình Eric đề cập đến các mô hình trong đó các thực thể được triển khai mà không có hành vi.
+Nói cách khác, các thành phần bên ngoài không có quyền truy cập trực tiếp vào thực thể xác nhận thanh toán. Đã đến lúc kết thúc bài học này trong bài học này chúng ta đã học về các mô hình thiếu máu và mô hình Eric đề cập đến các mô hình trong đó các thực thể được triển khai mà không có hành vi.
 
 44
 00: 08: 04, 050--> 00: 08: 23, 580
-Đối lập với mô hình thiếu máu là mô hình giàu có. Để xác định các mô hình thiếu máu, bạn cần tìm kiếm các triệu chứng, chẳng hạn như các thực thể không thực hiện hành vi, các thực thể chỉ thực hiện các chức năng thẻ và logic nghiệp vụ cũng như thành phần bên ngoài thay vì có trong các thực thể.
+Đối lập với mô hình thiếu máu là mô hình giàu có. Để xác định các mô hình thiếu máu, chúng ta cần tìm kiếm các triệu chứng, chẳng hạn như các thực thể không thực hiện hành vi, các thực thể chỉ thực hiện các chức năng thẻ và logic nghiệp vụ cũng như thành phần bên ngoài thay vì có trong các thực thể.
 
 45
 00: 08: 23, 880--> 00: 08: 34, 290
@@ -3555,7 +3555,7 @@ Một câu hỏi quan trọng mà tôi đã trả lời trong bài học này l�
 
 46
 00: 08: 34, 620--> 00: 08: 55, 380
-Nó phụ thuộc vào yêu cầu của người dùng và các yếu tố khác. Xin lưu ý rằng đây là ý kiến ​​​​của tôi. Đề nghị của tôi dành cho bạn là bạn nên hình thành quan điểm của riêng mình bằng cách thực hiện thêm một số nghiên cứu, bằng cách xem xét các mô hình mà bạn đã phát triển trong quá khứ và kinh nghiệm của bạn trong việc quản lý các thay đổi đối với các mô hình đó.
+Nó phụ thuộc vào yêu cầu của người dùng và các yếu tố khác. Xin lưu ý rằng đây là ý kiến ​​​​của tôi. Đề nghị của tôi dành cho chúng ta là chúng ta nên hình thành quan điểm của riêng mình bằng cách thực hiện thêm một số nghiên cứu, bằng cách xem xét các mô hình mà chúng ta đã phát triển trong quá khứ và kinh nghiệm của chúng ta trong việc quản lý các thay đổi đối với các mô hình đó.
 
 <!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000010.srt-->
 
@@ -3605,11 +3605,11 @@ Ví dụ: người gọi gọi hàm ADD để thêm hoặc cập nhật tổng h
 
 12
 00: 02: 04, 640--> 00: 02: 14, 010
-Tìm Appia. Điều quan trọng cần lưu ý ở đây là máy khách hoặc người gọi hàm đối tượng kho lưu trữ không biết gì về dữ liệu của bạn.
+Tìm Appia. Điều quan trọng cần lưu ý ở đây là máy khách hoặc người gọi hàm đối tượng kho lưu trữ không biết gì về dữ liệu của chúng ta .
 
 13
 00: 02: 14, 540--> 00: 02: 28, 410
-Tiếp theo, tôi sẽ thảo luận về các đặc điểm của đối tượng kho lưu trữ hoặc mẫu kho lưu trữ. Điều đầu tiên là đối với mỗi tổng hợp được xác định trong mô hình miền, bạn có một và chỉ một kho lưu trữ.
+Tiếp theo, tôi sẽ thảo luận về các đặc điểm của đối tượng kho lưu trữ hoặc mẫu kho lưu trữ. Điều đầu tiên là đối với mỗi tổng hợp được xác định trong mô hình miền, chúng ta có một và chỉ một kho lưu trữ.
 
 14
 00: 02: 28, 640--> 00: 02: 39, 050
@@ -3677,19 +3677,19 @@ Và điều này có thể xảy ra nếu có bất kỳ lỗi nào trong hoạt
 
 30
 00: 05: 37, 490--> 00: 05: 50, 180
-Mô hình miền độc lập với mô hình lưu trữ. Vì vậy, ví dụ: nếu bạn đang sử dụng RDBMS thì mô hình miền không cần phải biết về cấu trúc bảng và cột.
+Mô hình miền độc lập với mô hình lưu trữ. Vì vậy, ví dụ: nếu chúng ta đang sử dụng RDBMS thì mô hình miền không cần phải biết về cấu trúc bảng và cột.
 
 31
 00: 05: 50, 480--> 00: 06: 00, 620
-Nó giữ cho mô hình miền độc lập với công nghệ bạn có thể đang sử dụng và RDBMS không bằng nhau hoặc thậm chí là một hệ thống tệp để lưu trữ tổng hợp.
+Nó giữ cho mô hình miền độc lập với công nghệ chúng ta có thể đang sử dụng và RDBMS không bằng nhau hoặc thậm chí là một hệ thống tệp để lưu trữ tổng hợp.
 
 32
 00: 06: 00, 620--> 00: 06: 18, 680
-Nhưng mô hình miền không cần biết về nó. Kho lưu trữ giữ cho mô hình miền độc lập với cơ sở hạ tầng mà bạn có thể đang sử dụng để bận rộn đưa ra các câu lệnh của phần tiếp theo đối với RDBMS hoặc bạn có thể đang sử dụng SDK để kết nối với CSDL không có phần tiếp theo.
+Nhưng mô hình miền không cần biết về nó. Kho lưu trữ giữ cho mô hình miền độc lập với cơ sở hạ tầng mà chúng ta có thể đang sử dụng để bận rộn đưa ra các câu lệnh của phần tiếp theo đối với RDBMS hoặc chúng ta có thể đang sử dụng SDK để kết nối với CSDL không có phần tiếp theo.
 
 33
 00: 06: 19, 250--> 00: 06: 33, 040
-Các. Ý tưởng của bạn là bất kỳ thay đổi nào đối với CSDL, bạn sẽ bị cô lập với đối tượng kho lưu trữ và sẽ không có tác động đến kho lưu trữ mô hình miền của bạn cũng có thể giúp kiểm tra và mô phỏng đơn vị.
+Các. Ý tưởng của chúng ta là bất kỳ thay đổi nào đối với CSDL, chúng ta sẽ bị cô lập với đối tượng kho lưu trữ và sẽ không có tác động đến kho lưu trữ mô hình miền của chúng ta cũng có thể giúp kiểm tra và mô phỏng đơn vị.
 
 34
 00: 06: 33, 170--> 00: 06: 42, 350
@@ -3729,7 +3729,7 @@ Ngoài ra, có thể có trường hợp cần dữ liệu từ nhiều tập h�
 
 43
 00: 08: 26, 260--> 00: 08: 39, 970
-Có hai cách để bạn có thể giải quyết mối lo ngại này. Đầu tiên là hiển thị các hàm cấp cao trong kho lưu trữ và thứ hai là hiển thị các truy vấn bổ sung bên ngoài kho lưu trữ.
+Có hai cách để chúng ta có thể giải quyết mối lo ngại này. Đầu tiên là hiển thị các hàm cấp cao trong kho lưu trữ và thứ hai là hiển thị các truy vấn bổ sung bên ngoài kho lưu trữ.
 
 44
 00: 08: 40, 180--> 00: 08: 54, 380
@@ -3745,7 +3745,7 @@ Bạn có thể cân nhắc sử dụng các khung ánh xạ có sẵn ở đó.
 
 47
 00: 09: 14, 420--> 00: 09: 24, 140
-Trong bài học này, bạn đã tìm hiểu về các đối tượng kho lưu trữ mẫu kho lưu trữ làm cho mô hình miền độc lập với lớp CSDL .
+Trong bài học này, chúng ta đã tìm hiểu về các đối tượng kho lưu trữ mẫu kho lưu trữ làm cho mô hình miền độc lập với lớp CSDL .
 
 48
 00: 09: 24, 440--> 00: 09: 37, 390
@@ -3759,19 +3759,19 @@ Có một số mối quan tâm chung liên quan đến các đối tượng kho 
 
 1
 00: 00: 00, 240--> 00: 00: 15, 310
-Trong bài học này, chúng ta sẽ lập mô hình các đối tượng kho lưu trữ trong mô hình Acme, sau đó tôi sẽ hướng dẫn bạn một số mã kiểm tra và bạn cũng sẽ thấy mã kiểm tra hoạt động ở cuối bài giảng này.
+Trong bài học này, chúng ta sẽ lập mô hình các đối tượng kho lưu trữ trong mô hình Acme, sau đó tôi sẽ hướng dẫn chúng ta một số mã kiểm tra và chúng ta cũng sẽ thấy mã kiểm tra hoạt động ở cuối bài giảng này.
 
 2
 00: 00: 16, 080--> 00: 00: 28, 150
-Mục tiêu của tôi đằng sau mô hình và hướng dẫn mã là cung cấp cho bạn ý tưởng về kho lưu trữ, tất cả các tệp mã và mô hình có sẵn trong cảnh tượng nhánh get.
+Mục tiêu của tôi đằng sau mô hình và hướng dẫn mã là cung cấp cho chúng ta ý tưởng về kho lưu trữ, tất cả các tệp mã và mô hình có sẵn trong cảnh tượng nhánh get.
 
 3
 00: 00: 28, 530--> 00: 00: 39, 070
-Tôi sẽ hướng dẫn bạn một số tệp mã, nhưng không phải tất cả. Bạn có thể tự mình xem qua các tệp mã khác và chỉ cần lưu ý rằng đó là tùy chọn.
+Tôi sẽ hướng dẫn chúng ta một số tệp mã, nhưng không phải tất cả. Bạn có thể tự mình xem qua các tệp mã khác và chỉ cần lưu ý rằng đó là tùy chọn.
 
 4
 00: 00: 39, 870--> 00: 00: 52, 030
-Như tôi đã nói trước đó, mục đích là giúp bạn hiểu rõ về kho lưu trữ. Thay vì dạy bạn Java, bạn có thể triển khai các mô hình mà tôi đã thảo luận trong khóa học này bằng bất kỳ ngôn ngữ nào.
+Như tôi đã nói trước đó, mục đích là giúp chúng ta hiểu rõ về kho lưu trữ. Thay vì dạy chúng ta Java, chúng ta có thể triển khai các mô hình mà tôi đã thảo luận trong khóa học này bằng bất kỳ ngôn ngữ nào.
 
 5
 00: 00: 52, 260--> 00: 01: 00, 570
@@ -3827,7 +3827,7 @@ Việc triển khai giả mạo giao diện báo cáo này nằm trong gói mô 
 
 18
 00: 04: 12, 960--> 00: 04: 23, 050
-Chúng ta hãy xem cách triển khai Java cho hai phần mềm này trong gói repo. Mở mã repo khách hàng và tại đây bạn sẽ tìm thấy chức năng quảng cáo để lấy chức năng.
+Chúng ta hãy xem cách triển khai Java cho hai phần mềm này trong gói repo. Mở mã repo khách hàng và tại đây chúng ta sẽ tìm thấy chức năng quảng cáo để lấy chức năng.
 
 19
 00: 04: 23, 070--> 00: 04: 29, 370
@@ -3835,7 +3835,7 @@ Chức năng nhận cấp cao để truy xuất khách hàng dựa trên email h
 
 20
 00: 04: 29, 370--> 00: 04: 39, 270
-Việc triển khai giả mạo có sẵn trong quá trình thử nghiệm. Fake không repo khách hàng repo giả. Và như bạn có thể thấy ở đây, lớp này triển khai giao diện repo khách hàng.
+Việc triển khai giả mạo có sẵn trong quá trình thử nghiệm. Fake không repo khách hàng repo giả. Và như chúng ta có thể thấy ở đây, lớp này triển khai giao diện repo khách hàng.
 
 21
 00: 04: 39, 270--> 00: 04: 47, 850
@@ -3855,7 +3855,7 @@ Và sau đó có hai chức năng xóa này để xóa khách hàng khỏi bộ 
 
 25
 00: 05: 15, 570--> 00: 05: 24, 170
-Tôi khuyên bạn nên xem các mô hình để đề xuất gói kỳ nghỉ và tự mình xác nhận đặt phòng sau khi hoàn tất.
+Tôi khuyên chúng ta nên xem các mô hình để đề xuất gói kỳ nghỉ và tự mình xác nhận đặt phòng sau khi hoàn tất.
 
 26
 00: 05: 24, 470--> 00: 05: 36, 000
@@ -3863,7 +3863,7 @@ Hãy xem nhanh cách triển khai mã Java cho các mô hình này. Vì vậy, v
 
 27
 00: 05: 37, 710--> 00: 05: 45, 060
-Được rồi, hy vọng bạn đã tìm thấy mô hình và báo giá, dễ làm theo và chúng ta đã sẵn sàng chuyển sang bước tiếp theo.
+Được rồi, hy vọng chúng ta đã tìm thấy mô hình và báo giá, dễ làm theo và chúng ta đã sẵn sàng chuyển sang bước tiếp theo.
 
 28
 00: 05: 45, 450--> 00: 05: 52, 440
@@ -3879,7 +3879,7 @@ Ngân sách, v.v., tạo ra các đề xuất. Khách hàng thích một trong n
 
 31
 00: 06: 15, 240--> 00: 06: 24, 300
-Tiếp theo, tôi sẽ chỉ cho bạn cách triển khai trình tự này trong mã Java. Rõ ràng, nó chỉ nhằm mục đích thử nghiệm mã Java.
+Tiếp theo, tôi sẽ chỉ cho chúng ta cách triển khai trình tự này trong mã Java. Rõ ràng, nó chỉ nhằm mục đích thử nghiệm mã Java.
 
 32
 00: 06: 24, 420--> 00: 06: 35, 390
@@ -3887,7 +3887,7 @@ Tôi đang sử dụng các mô hình bán hàng Acme mà chúng tôi đã phát
 
 33
 00: 06: 35, 400--> 00: 06: 50, 050
-Tên của tệp Java là repo bộ sưu tập test. Ở đây trong đoạn mã này, bạn sẽ thấy rằng tôi đang tạo bốn kho lưu trữ giả và tiến hành khởi tạo các kho lưu trữ này trong hàm tĩnh.
+Tên của tệp Java là repo bộ sưu tập test. Ở đây trong đoạn mã này, chúng ta sẽ thấy rằng tôi đang tạo bốn kho lưu trữ giả và tiến hành khởi tạo các kho lưu trữ này trong hàm tĩnh.
 
 34
 00: 06: 50, 070--> 00: 07: 02, 050
@@ -3899,7 +3899,7 @@ Tương tự, trong hàm tạo gói kỳ nghỉ, tạo kho lưu trữ gói kỳ 
 
 36
 00: 07: 14, 940--> 00: 07: 33, 610
-Và sau đó là tạo đề xuất và tạo xác nhận đặt chỗ để tạo dữ liệu giả cho các đề xuất, cũng như để xác nhận đặt chỗ, luồng đó được trích dẫn trong chức năng chính ở đây, bạn sẽ thấy rằng chúng tôi đang đồng hóa trình tự từ đầu đến cuối mà tôi đã thảo luận.
+Và sau đó là tạo đề xuất và tạo xác nhận đặt chỗ để tạo dữ liệu giả cho các đề xuất, cũng như để xác nhận đặt chỗ, luồng đó được trích dẫn trong chức năng chính ở đây, chúng ta sẽ thấy rằng chúng tôi đang đồng hóa trình tự từ đầu đến cuối mà tôi đã thảo luận.
 
 37
 00: 07: 33, 720--> 00: 07: 43, 350
@@ -3947,7 +3947,7 @@ Vì vậy, đây là đầu ra của chúng tôi. Chúng tôi có thông tin v�
 
 48
 00: 09: 32, 040--> 00: 09: 40, 500
-Vì vậy, ở đây, như bạn có thể thấy, khách hàng sẽ lưu trú tại Khách sạn Western tốt nhất vào những ngày được chỉ định trong đặt phòng.
+Vì vậy, ở đây, như chúng ta có thể thấy, khách hàng sẽ lưu trú tại Khách sạn Western tốt nhất vào những ngày được chỉ định trong đặt phòng.
 
 49
 00: 09: 40, 500--> 00: 09: 49, 440
@@ -3959,13 +3959,13 @@ Và sau đó, như mong đợi, xác nhận đặt phòng ở trạng thái ch�
 
 51
 00: 10: 01, 380--> 00: 10: 11, 670
-Tôi khuyên bạn nên tự mình đi đến điểm số và dùng thử để cảm nhận cách hoạt động của các đối tượng kho lưu trữ và các thành phần mô hình khác.
+Tôi khuyên chúng ta nên tự mình đi đến điểm số và dùng thử để cảm nhận cách hoạt động của các đối tượng kho lưu trữ và các thành phần mô hình khác.
 
 <!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000012.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 11, 760
-Trong bài học này, bạn sẽ tìm hiểu về các dịch vụ miền và đặc điểm của chúng, giả sử có một ngân hàng cung cấp ba loại sản phẩm tài khoản tiết kiệm, tài khoản séc và tài khoản vay.
+Trong bài học này, chúng ta sẽ tìm hiểu về các dịch vụ miền và đặc điểm của chúng, giả sử có một ngân hàng cung cấp ba loại sản phẩm tài khoản tiết kiệm, tài khoản séc và tài khoản vay.
 
 2
 00: 00: 12, 150--> 00: 00: 24, 810
@@ -3977,7 +3977,7 @@ Hiện tại, yêu cầu cụ thể này không thể được coi là hành vi 
 
 4
 00: 00: 35, 490--> 00: 00: 44, 010
-Vì vậy, câu hỏi dành cho bạn là bạn sẽ xây dựng chức năng này ở đâu? Đây là nơi dịch vụ tên miền xuất hiện.
+Vì vậy, câu hỏi dành cho chúng ta là chúng ta sẽ xây dựng chức năng này ở đâu? Đây là nơi dịch vụ tên miền xuất hiện.
 
 5
 00: 00: 44, 490--> 00: 00: 54, 770
@@ -4001,7 +4001,7 @@ Một định nghĩa chính thức hơn về dịch vụ miền là đối tư�
 
 10
 00: 02: 00, 150--> 00: 02: 09, 390
-Điều quan trọng là bạn phải hiểu các đặc điểm của dịch vụ tên miền. Dịch vụ miền luôn thực hiện hành vi kinh doanh cho miền.
+Điều quan trọng là chúng ta phải hiểu các đặc điểm của dịch vụ tên miền. Dịch vụ miền luôn thực hiện hành vi kinh doanh cho miền.
 
 11
 00: 02: 09, 540--> 00: 02: 17, 830
@@ -4029,11 +4029,11 @@ Vì vậy, dịch vụ miền cách ly người gọi hoặc mã máy khách kh�
 
 17
 00: 03: 15, 770--> 00: 03: 26, 430
-Điều đó có nghĩa là nếu bạn đang gọi dịch vụ miền thì không có biến trạng thái hoặc cơ chế duy trì trực tiếp nào được tích hợp trong dịch vụ miền.
+Điều đó có nghĩa là nếu chúng ta đang gọi dịch vụ miền thì không có biến trạng thái hoặc cơ chế duy trì trực tiếp nào được tích hợp trong dịch vụ miền.
 
 18
 00: 03: 26, 460--> 00: 03: 33, 030
-Bây giờ bạn có thể lập luận rằng có những trường hợp logic kinh doanh thực hiện tính bền bỉ và bạn đã đúng.
+Bây giờ chúng ta có thể lập luận rằng có những trường hợp logic kinh doanh thực hiện tính bền bỉ và chúng ta đã đúng.
 
 19
 00: 03: 33, 300--> 00: 03: 57, 150
@@ -4073,7 +4073,7 @@ Nếu khách hàng đủ điều kiện vay, dịch vụ đăng ký khoản vay 
 
 28
 00: 05: 32, 670--> 00: 05: 44, 010
-Vì vậy, như bạn có thể thấy ở đây, một dịch vụ miền có thể gọi hoạt động trên các dịch vụ miền khác. Trước khi kết thúc bài học này, tôi muốn nhấn mạnh một điểm quan trọng.
+Vì vậy, như chúng ta có thể thấy ở đây, một dịch vụ miền có thể gọi hoạt động trên các dịch vụ miền khác. Trước khi kết thúc bài học này, tôi muốn nhấn mạnh một điểm quan trọng.
 
 29
 00: 05: 44, 010--> 00: 05: 54, 930
@@ -4089,7 +4089,7 @@ Thông tin thêm về chủ đề này khi chúng ta tiến bộ trong suốt kh
 
 32
 00: 06: 20, 520--> 00: 06: 29, 280
-Tôi đã nói về dịch vụ miền và bạn cần phải biết những đặc điểm của dịch vụ miền giúp phân biệt nó với các loại dịch vụ khác.
+Tôi đã nói về dịch vụ miền và chúng ta cần phải biết những đặc điểm của dịch vụ miền giúp phân biệt nó với các loại dịch vụ khác.
 
 33
 00: 06: 29, 620--> 00: 06: 40, 740
@@ -4103,7 +4103,7 @@ Các đặc điểm khác là dịch vụ miền không có trạng thái, dịc
 
 1
 00: 00: 00, 180--> 00: 00: 11, 920
-Dịch vụ ứng dụng, trong bài học này, bạn sẽ tìm hiểu dịch vụ ứng dụng khác với dịch vụ miền như thế nào và bạn cũng sẽ tìm hiểu về các đặc điểm của dịch vụ ứng dụng.
+Dịch vụ ứng dụng, trong bài học này, chúng ta sẽ tìm hiểu dịch vụ ứng dụng khác với dịch vụ miền như thế nào và chúng ta cũng sẽ tìm hiểu về các đặc điểm của dịch vụ ứng dụng.
 
 2
 00: 00: 12, 630--> 00: 00: 26, 820
@@ -4111,7 +4111,7 @@ Dịch vụ ứng dụng, trong bài học này, bạn sẽ tìm hiểu dịch v
 
 3
 00: 00: 26, 850--> 00: 00: 42, 710
-Câu hỏi dành cho bạn là liệu bạn có triển khai nó như một dịch vụ miền không? Câu trả lời ngắn gọn là bạn sẽ không triển khai dịch vụ này dưới dạng dịch vụ miền vì nó không có bất kỳ chức năng miền nào.
+Câu hỏi dành cho chúng ta là liệu chúng ta có triển khai nó như một dịch vụ miền không? Câu trả lời ngắn gọn là chúng ta sẽ không triển khai dịch vụ này dưới dạng dịch vụ miền vì nó không có bất kỳ chức năng miền nào.
 
 4
 00: 00: 43, 100--> 00: 00: 52, 520
@@ -4211,7 +4211,7 @@ Bây giờ hãy nhớ lại chúng ta đã thảo luận và đăng ký trên d�
 
 28
 00: 05: 32, 710--> 00: 05: 47, 820
-Dịch vụ miền để cung cấp giao diện cho các thành phần bên ngoài. Đã đến lúc đi vào những điểm chính trong bài học này bạn đã học về các ứng dụng, dịch vụ, ứng dụng, dịch vụ không triển khai bất kỳ hành vi miền nào.
+Dịch vụ miền để cung cấp giao diện cho các thành phần bên ngoài. Đã đến lúc đi vào những điểm chính trong bài học này chúng ta đã học về các ứng dụng, dịch vụ, ứng dụng, dịch vụ không triển khai bất kỳ hành vi miền nào.
 
 29
 00: 05: 48, 010--> 00: 05: 57, 370
@@ -4225,7 +4225,7 @@ Các dịch vụ ứng dụng hiển thị giao diện cho các thành phần b�
 
 1
 00: 00: 00, 150--> 00: 00: 25, 530
-Dịch vụ cơ sở hạ tầng, trong bài học này, bạn tìm hiểu xem dịch vụ cơ sở hạ tầng khác với dịch vụ miền và dịch vụ ứng dụng như thế nào, bạn cũng sẽ tìm hiểu về các đặc điểm của dịch vụ cơ sở hạ tầng và dịch vụ cơ sở hạ tầng được định nghĩa là dịch vụ tương tác với tài nguyên bên ngoài để giải quyết một vấn đề mối quan tâm không thuộc phạm vi vấn đề chính.
+Dịch vụ cơ sở hạ tầng, trong bài học này, chúng ta tìm hiểu xem dịch vụ cơ sở hạ tầng khác với dịch vụ miền và dịch vụ ứng dụng như thế nào, chúng ta cũng sẽ tìm hiểu về các đặc điểm của dịch vụ cơ sở hạ tầng và dịch vụ cơ sở hạ tầng được định nghĩa là dịch vụ tương tác với tài nguyên bên ngoài để giải quyết một vấn đề mối quan tâm không thuộc phạm vi vấn đề chính.
 
 2
 00: 00: 25, 680--> 00: 00: 35, 840
@@ -4313,7 +4313,7 @@ Thay đổi này sẽ chỉ yêu cầu thay đổi trong dịch vụ email và s
 
 23
 00: 04: 46, 390--> 00: 04: 56, 530
-Trong bài giảng này, bạn đã tìm hiểu về các dịch vụ cơ sở hạ tầng. Các dịch vụ cơ sở hạ tầng như dịch vụ ứng dụng không thực hiện bất kỳ hành vi miền nào.
+Trong bài giảng này, chúng ta đã tìm hiểu về các dịch vụ cơ sở hạ tầng. Các dịch vụ cơ sở hạ tầng như dịch vụ ứng dụng không thực hiện bất kỳ hành vi miền nào.
 
 24
 00: 04: 56, 530--> 00: 05: 11, 950
@@ -4323,7 +4323,7 @@ Các dịch vụ cơ sở hạ tầng cung cấp các tài nguyên bên ngoài t
 
 1
 00: 00: 00, 610--> 00: 00: 14, 470
-Bây giờ chúng ta cần phát triển một số dịch vụ trong mô hình bán hàng Achmea trong bài học này, bạn sẽ tìm hiểu về một lỗ hổng trong trình tự tạo đề xuất mà tôi đã thảo luận trong một số bài giảng trước đó.
+Bây giờ chúng ta cần phát triển một số dịch vụ trong mô hình bán hàng Achmea trong bài học này, chúng ta sẽ tìm hiểu về một lỗ hổng trong trình tự tạo đề xuất mà tôi đã thảo luận trong một số bài giảng trước đó.
 
 2
 00: 00: 14, 920--> 00: 00: 25, 300
@@ -4335,23 +4335,23 @@ Bạn đã chuẩn bị sơ đồ trình tự cho quá trình tạo đề xuất
 
 4
 00: 00: 38, 260--> 00: 00: 51, 540
-Vì vậy, bạn quyết định cùng John John xem qua sơ đồ trình tự này, giống như công việc bạn đã làm. Nhưng anh ấy nhận ra rằng chúng tôi đã bỏ lỡ bước định giá đề xuất trong sơ đồ trình tự này.
+Vì vậy, chúng ta quyết định cùng John John xem qua sơ đồ trình tự này, giống như công việc chúng ta đã làm. Nhưng anh ấy nhận ra rằng chúng tôi đã bỏ lỡ bước định giá đề xuất trong sơ đồ trình tự này.
 
 5
 00: 00: 51, 700--> 00: 01: 05, 020
-Vì vậy, rõ ràng câu hỏi tiếp theo của bạn là điều gì liên quan đến việc định giá đề xuất? John nói với chúng tôi rằng giá trọn gói được nêu trong gói kỳ nghỉ là giá cá nhân của chúng tôi.
+Vì vậy, rõ ràng câu hỏi tiếp theo của chúng ta là điều gì liên quan đến việc định giá đề xuất? John nói với chúng tôi rằng giá trọn gói được nêu trong gói kỳ nghỉ là giá cá nhân của chúng tôi.
 
 6
 00: 01: 05, 620--> 00: 01: 15, 670
-Và mức giá nêu trong gói kỳ nghỉ này chưa bao gồm thuế và phụ phí. Vì vậy, tại thời điểm này, bạn quyết định làm hai việc.
+Và mức giá nêu trong gói kỳ nghỉ này chưa bao gồm thuế và phụ phí. Vì vậy, tại thời điểm này, chúng ta quyết định làm hai việc.
 
 7
 00: 01: 15, 940--> 00: 01: 27, 670
-Bạn sẽ thêm phụ phí và các điều khoản về giá mỗi người vào từ vựng kinh doanh vốn là ngôn ngữ chung của bạn và một số phụ phí là một thuật ngữ mới.
+Bạn sẽ thêm phụ phí và các điều khoản về giá mỗi người vào từ vựng kinh doanh vốn là ngôn ngữ chung của chúng ta và một số phụ phí là một thuật ngữ mới.
 
 8
 00: 01: 28, 060--> 00: 01: 35, 470
-Bạn muốn hiểu nó tốt hơn. Vì vậy, bạn đã yêu cầu John cung cấp cho bạn thông tin chi tiết về cách tính các khoản phụ phí.
+Bạn muốn hiểu nó tốt hơn. Vì vậy, chúng ta đã yêu cầu John cung cấp cho chúng ta thông tin chi tiết về cách tính các khoản phụ phí.
 
 9
 00: 01: 35, 620--> 00: 01: 46, 480
@@ -4371,15 +4371,15 @@ Tất cả các khoản phụ phí đều được cộng thêm và tất cả c
 
 13
 00: 02: 21, 550--> 00: 02: 29, 690
-Bây giờ bạn đã hiểu cách hoạt động của giá đề xuất, tôi có một câu hỏi dành cho bạn. Bạn sẽ dựa vào đối tượng mô hình nào?
+Bây giờ chúng ta đã hiểu cách hoạt động của giá đề xuất, tôi có một câu hỏi dành cho chúng ta . Bạn sẽ dựa vào đối tượng mô hình nào?
 
 14
 00: 02: 29, 950--> 00: 02: 43, 480
-Chức năng định giá? Các lựa chọn của bạn nằm ở thực thể xác nhận đặt chỗ, dịch vụ miền, dịch vụ ứng dụng hoặc dịch vụ cơ sở hạ tầng.
+Chức năng định giá? Các lựa chọn của chúng ta nằm ở thực thể xác nhận đặt chỗ, dịch vụ miền, dịch vụ ứng dụng hoặc dịch vụ cơ sở hạ tầng.
 
 15
 00: 02: 43, 780--> 00: 02: 52, 150
-Vui lòng đăng video nếu bạn cần chút thời gian. Hãy thảo luận về các lựa chọn này. Phương án A không áp dụng được.
+Vui lòng đăng video nếu chúng ta cần chút thời gian. Hãy thảo luận về các lựa chọn này. Phương án A không áp dụng được.
 
 16
 00: 02: 52, 150--> 00: 03: 08, 800
@@ -4437,11 +4437,11 @@ Trong bài học này chúng ta sẽ tiếp tục xây dựng một số dịch 
 
 2
 00: 00: 11, 040--> 00: 00: 25, 260
-Tôi sẽ bắt đầu bài giảng này bằng một câu đố. Giả sử bạn phải tạo hai dịch vụ, một dịch vụ xử lý thẻ tín dụng thông qua nhà cung cấp bên ngoài và một dịch vụ khác để cung cấp lịch sử khách hàng.
+Tôi sẽ bắt đầu bài giảng này bằng một câu đố. Giả sử chúng ta phải tạo hai dịch vụ, một dịch vụ xử lý thẻ tín dụng thông qua nhà cung cấp bên ngoài và một dịch vụ khác để cung cấp lịch sử khách hàng.
 
 3
 00: 00: 25, 530--> 00: 00: 41, 710
-Lựa chọn của bạn là liệu bạn có thể triển khai các dịch vụ này trong một dịch vụ ứng dụng hay không, b, bạn có thể triển khai các dịch vụ này trong một dịch vụ cơ sở hạ tầng, dịch vụ có các tùy chọn loại dịch vụ và B, vui lòng đăng video nếu bạn cần thêm thời gian.
+Lựa chọn của chúng ta là liệu chúng ta có thể triển khai các dịch vụ này trong một dịch vụ ứng dụng hay không, b, chúng ta có thể triển khai các dịch vụ này trong một dịch vụ cơ sở hạ tầng, dịch vụ có các tùy chọn loại dịch vụ và B, vui lòng đăng video nếu chúng ta cần thêm thời gian.
 
 4
 00: 00: 41, 940--> 00: 00: 50, 990
@@ -4553,7 +4553,7 @@ Chức năng thứ ba trong Dịch vụ Cổng thanh toán là chức năng chi 
 
 31
 00: 05: 55, 930--> 00: 06: 02, 290
-Nếu bạn quan tâm, bạn có thể đi qua tòa án để thực hiện hai dịch vụ mà tôi đã thảo luận trong bài học này.
+Nếu chúng ta quan tâm, chúng ta có thể đi qua tòa án để thực hiện hai dịch vụ mà tôi đã thảo luận trong bài học này.
 
 32
 00: 06: 02, 880--> 00: 06: 12, 030
@@ -4563,7 +4563,7 @@ Ngoài ra còn có bản triển khai thử nghiệm giao diện cổng thanh to
 
 1
 00: 00: 00, 240--> 00: 00: 14, 790
-Cho đến nay, bạn đã biết rằng có các mối quan hệ giữa các liên hệ được liên kết, các liên hệ được liên kết này được chuyển thành các vi dịch vụ và các mối quan hệ này được chuyển thành các tương tác giữa các vi dịch vụ .
+Cho đến nay, chúng ta đã biết rằng có các mối quan hệ giữa các liên hệ được liên kết, các liên hệ được liên kết này được chuyển thành các vi dịch vụ và các mối quan hệ này được chuyển thành các tương tác giữa các vi dịch vụ .
 
 2
 00: 00: 15, 120--> 00: 00: 22, 800
@@ -4591,21 +4591,21 @@ Các sự kiện có bản chất không đồng bộ và việc thực hiện c
 
 8
 00: 01: 14, 610--> 00: 01: 21, 240
-Có nhiều công nghệ nhắn tin có sẵn cho mục đích này. Trong phần này bạn sẽ thấy cách sử dụng Rabbitt.
+Có nhiều công nghệ nhắn tin có sẵn cho mục đích này. Trong phần này chúng ta sẽ thấy cách sử dụng Rabbitt.
 
 9
 00: 01: 21, 240--> 00: 01: 36, 660
-MQ COFCO cũng rất phổ biến và bạn sẽ thấy cách sử dụng Kafka ở phần sau. Chúng ta hãy xem qua các mục tiêu học tập trong phần bạn sẽ tìm hiểu về các vi dịch vụ, các kiểu giao tiếp, kiến ​​trúc hướng sự kiện.
+MQ COFCO cũng rất phổ biến và chúng ta sẽ thấy cách sử dụng Kafka ở phần sau. Chúng ta hãy xem qua các mục tiêu học tập trong phần chúng ta sẽ tìm hiểu về các vi dịch vụ, các kiểu giao tiếp, kiến ​​trúc hướng sự kiện.
 
 10
 00: 01: 36, 960--> 00: 01: 54, 480
-Bạn tìm hiểu về các loại sự kiện vi dịch vụ khác nhau. Tôi sẽ cung cấp cho bạn cái nhìn tổng quan về khái niệm AQAP liên quan đến việc triển khai cơ bản các sự kiện và bạn cũng sẽ thấy các sự kiện mô hình bán hàng đang hoạt động bằng cách sử dụng Java và Rabbit MQ.
+Bạn tìm hiểu về các loại sự kiện vi dịch vụ khác nhau. Tôi sẽ cung cấp cho chúng ta cái nhìn tổng quan về khái niệm AQAP liên quan đến việc triển khai cơ bản các sự kiện và chúng ta cũng sẽ thấy các sự kiện mô hình bán hàng đang hoạt động bằng cách sử dụng Java và Rabbit MQ.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000002.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 09, 920
-Các mẫu giao tiếp cơ bản, đến cuối bài giảng này, bạn sẽ có thể giải thích các mẫu giao tiếp Đồng bộ và không đồng bộ phổ biến.
+Các mẫu giao tiếp cơ bản, đến cuối bài giảng này, chúng ta sẽ có thể giải thích các mẫu giao tiếp Đồng bộ và không đồng bộ phổ biến.
 
 2
 00: 00: 10, 200--> 00: 00: 25, 300
@@ -4645,7 +4645,7 @@ Bởi không đồng bộ, điều đó có nghĩa là người gọi không ch�
 
 11
 00: 01: 58, 800--> 00: 02: 09, 030
-Nếu bạn muốn biết thêm về M cupie, chỉ cần truy cập và cupie dot org. Và đó cũng là một bài viết hay về AM Cupie trên Wikipedia.
+Nếu chúng ta muốn biết thêm về M cupie, chỉ cần truy cập và cupie dot org. Và đó cũng là một bài viết hay về AM Cupie trên Wikipedia.
 
 12
 00: 02: 10, 470--> 00: 02: 18, 930
@@ -4669,7 +4669,7 @@ Việc sử dụng các giao thức Đồng bộ và không đồng bộ tùy th
 
 17
 00: 03: 11, 610--> 00: 03: 22, 980
-Ứng dụng ngân hàng sẽ tạo thành phần tài khoản. Nhưng giao thức không đồng bộ như SCDP, bạn sẽ luôn có giao tiếp 1-1, giao tiếp 1-1.
+Ứng dụng ngân hàng sẽ tạo thành phần tài khoản. Nhưng giao thức không đồng bộ như SCDP, chúng ta sẽ luôn có giao tiếp 1-1, giao tiếp 1-1.
 
 18
 00: 03: 22, 980--> 00: 03: 30, 410
@@ -4749,7 +4749,7 @@ Tức là nó không bị chặn. Các nền tảng nhắn tin như Kafka, Rabbi
 
 37
 00: 06: 57, 080--> 00: 07: 07, 130
-Cửa sổ bật lên thường được sử dụng khi có nhiều người nhận tin nhắn. Trong bài giảng tiếp theo, bạn sẽ tìm hiểu cách các vi dịch vụ sử dụng các mẫu này.
+Cửa sổ bật lên thường được sử dụng khi có nhiều người nhận tin nhắn. Trong bài giảng tiếp theo, chúng ta sẽ tìm hiểu cách các vi dịch vụ sử dụng các mẫu này.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000003.srt-->
 
@@ -4767,7 +4767,7 @@ Tất cả các tương tác xảy ra bằng cách gọi hàm trực tiếp. Đ�
 
 4
 00: 00: 54, 870--> 00: 01: 18, 660
-Quyết định này được đưa ra nhằm đạt được mức độ tách rời cao và khả năng mở rộng trong tương lai. Nói cách khác, giả sử nếu bạn có một thành phần trong vi dịch vụ mà bạn dự kiến ​​sẽ chuyển ra khỏi Microsoft Office sau này thì bạn có thể triển khai các tương tác với thành phần đó bằng giao thức mạng.
+Quyết định này được đưa ra nhằm đạt được mức độ tách rời cao và khả năng mở rộng trong tương lai. Nói cách khác, giả sử nếu chúng ta có một thành phần trong vi dịch vụ mà chúng ta dự kiến ​​sẽ chuyển ra khỏi Microsoft Office sau này thì chúng ta có thể triển khai các tương tác với thành phần đó bằng giao thức mạng.
 
 5
 00: 01: 19, 020--> 00: 01: 28, 510
@@ -4775,23 +4775,23 @@ Quyết định này được đưa ra nhằm đạt được mức độ tách 
 
 6
 00: 01: 28, 920--> 00: 01: 40, 500
-Nhược điểm của việc thay thế các lệnh gọi hàm trực tiếp này bằng các giao thức mạng là sẽ có một số mức chi phí mạng mà bạn sẽ phải giải quyết.
+Nhược điểm của việc thay thế các lệnh gọi hàm trực tiếp này bằng các giao thức mạng là sẽ có một số mức chi phí mạng mà chúng ta sẽ phải giải quyết.
 
 7
 00: 01: 40, 720--> 00: 01: 58, 900
-Vì vậy, đó là cái giá bạn sẽ phải trả. Giao tiếp giữa các dịch vụ ở đây đề cập đến giao tiếp giữa các vi dịch vụ khác nhau hoặc giữa các địa chỉ liên hệ được liên kết khác nhau, bạn sẽ luôn sử dụng các giao thức mạng để thực hiện các loại giao tiếp này.
+Vì vậy, đó là cái giá chúng ta sẽ phải trả. Giao tiếp giữa các dịch vụ ở đây đề cập đến giao tiếp giữa các vi dịch vụ khác nhau hoặc giữa các địa chỉ liên hệ được liên kết khác nhau, chúng ta sẽ luôn sử dụng các giao thức mạng để thực hiện các loại giao tiếp này.
 
 8
 00: 01: 58, 920--> 00: 02: 24, 560
-Hãy nhớ rằng việc sử dụng tính năng nhắn tin hoặc HTP sẽ tùy thuộc vào trường hợp sử dụng và các yêu cầu khác. Quyết định sẽ dựa trên việc giao tiếp được yêu cầu đồng bộ hay không đồng bộ hay bạn đang muốn phân phối tin nhắn đến nhiều người nhận hay chỉ có một người nhận tin nhắn.
+Hãy nhớ rằng việc sử dụng tính năng nhắn tin hoặc HTP sẽ tùy thuộc vào trường hợp sử dụng và các yêu cầu khác. Quyết định sẽ dựa trên việc giao tiếp được yêu cầu đồng bộ hay không đồng bộ hay chúng ta đang muốn phân phối tin nhắn đến nhiều người nhận hay chỉ có một người nhận tin nhắn.
 
 9
 00: 02: 24, 600--> 00: 02: 31, 110
-Vì vậy, trong trường hợp Synchronoss, bạn sẽ luôn sử dụng giao thức mạng đồng bộ như Resto hoặc HTP.
+Vì vậy, trong trường hợp Synchronoss, chúng ta sẽ luôn sử dụng giao thức mạng đồng bộ như Resto hoặc HTP.
 
 10
 00: 02: 31, 530--> 00: 02: 40, 850
-Trong trường hợp có nhiều bộ thu, bạn sẽ luôn sử dụng kiểu mẫu bật lên. Tiếp theo, tương tác các dịch vụ bên ngoài của Alcoa.
+Trong trường hợp có nhiều bộ thu, chúng ta sẽ luôn sử dụng kiểu mẫu bật lên. Tiếp theo, tương tác các dịch vụ bên ngoài của Alcoa.
 
 11
 00: 02: 41, 130--> 00: 02: 58, 460
@@ -4831,7 +4831,7 @@ Kết hợp với giao thức giao thức PC. Baphomet là một cơ chế tuầ
 
 20
 00: 04: 42, 740--> 00: 04: 58, 430
-Nếu bạn muốn tìm hiểu thêm về nó, vui lòng xem liên kết tại đây. Hãy nhớ rằng bộ đệm giao thức và cơ chế giao tiếp dựa trên quyền riêng tư của bạn phù hợp với các giao diện vi dịch vụ yêu cầu hiệu suất và thông lượng cao.
+Nếu chúng ta muốn tìm hiểu thêm về nó, vui lòng xem liên kết tại đây. Hãy nhớ rằng bộ đệm giao thức và cơ chế giao tiếp dựa trên quyền riêng tư của chúng ta phù hợp với các giao diện vi dịch vụ yêu cầu hiệu suất và thông lượng cao.
 
 21
 00: 05: 00, 090--> 00: 05: 06, 820
@@ -4843,11 +4843,11 @@ Hai vi dịch vụ này được quản lý bởi hai nhóm độc lập và m�
 
 23
 00: 05: 17, 700--> 00: 05: 30, 360
-Kết quả là không có mối quan hệ nào giữa A và mô hình kinh doanh. Vì vậy, một câu hỏi khác dành cho bạn là nên sử dụng mô hình nào để liên lạc giữa A và B?
+Kết quả là không có mối quan hệ nào giữa A và mô hình kinh doanh. Vì vậy, một câu hỏi khác dành cho chúng ta là nên sử dụng mô hình nào để liên lạc giữa A và B?
 
 24
 00: 05: 32, 530--> 00: 05: 40, 600
-Câu trả lời là tùy thuộc vào cách bạn muốn quản lý sự phụ thuộc giữa A và B.
+Câu trả lời là tùy thuộc vào cách chúng ta muốn quản lý sự phụ thuộc giữa A và B.
 
 25
 00: 05: 42, 110--> 00: 05: 50, 900
@@ -4855,7 +4855,7 @@ Việc quản lý phụ thuộc cho các vi dịch vụ này được thực hi�
 
 26
 00: 05: 51, 230--> 00: 06: 00, 180
-Tôi đã đề cập đến các mô hình tích hợp này trong các bài giảng trước và nếu bạn quên nó, tôi khuyên bạn nên xem lại các video đó.
+Tôi đã đề cập đến các mô hình tích hợp này trong các bài giảng trước và nếu chúng ta quên nó, tôi khuyên chúng ta nên xem lại các video đó.
 
 27
 00: 06: 00, 410--> 00: 06: 11, 990
@@ -4891,21 +4891,21 @@ Nhóm của Microsoft có thể áp dụng mô hình lớp chống tham nhũng t
 
 35
 00: 08: 22, 060--> 00: 08: 44, 640
-Chúng ta hãy điểm qua những điểm chính từ bài học này để xây dựng các tương tác trong bối cảnh liên kết hoặc một hoặc dịch vụ là giao tiếp giữa các dịch vụ, bạn có thể sử dụng chức năng gọi là API và nhắn tin trong trường hợp các dịch vụ bên ngoài, Microsoft, điều này phụ thuộc vào giao diện dịch vụ bên ngoài và giao thức mạng.
+Chúng ta hãy điểm qua những điểm chính từ bài học này để xây dựng các tương tác trong bối cảnh liên kết hoặc một hoặc dịch vụ là giao tiếp giữa các dịch vụ, chúng ta có thể sử dụng chức năng gọi là API và nhắn tin trong trường hợp các dịch vụ bên ngoài, Microsoft, điều này phụ thuộc vào giao diện dịch vụ bên ngoài và giao thức mạng.
 
 36
 00: 08: 44, 680--> 00: 08: 56, 980
-Với tư cách là nhà thiết kế hoặc các vi dịch vụ, bạn sẽ sử dụng các dịch vụ cơ sở hạ tầng để ánh xạ các giao diện do dịch vụ bên ngoài cung cấp nhằm thực hiện giao tiếp giữa các vi dịch vụ .
+Với tư cách là nhà thiết kế hoặc các vi dịch vụ, chúng ta sẽ sử dụng các dịch vụ cơ sở hạ tầng để ánh xạ các giao diện do dịch vụ bên ngoài cung cấp nhằm thực hiện giao tiếp giữa các vi dịch vụ .
 
 37
 00: 08: 56, 980--> 00: 09: 14, 530
-Đó là, giao tiếp dịch vụ. Bạn sẽ luôn sử dụng các ứng dụng và nhắn tin. Điều quan trọng nhất cần ghi nhớ là bạn cần đưa ra quyết định về việc quản lý sự phụ thuộc giữa các vi dịch vụ bằng cách sử dụng các mẫu tích hợp ngữ cảnh giới hạn.
+Đó là, giao tiếp dịch vụ. Bạn sẽ luôn sử dụng các ứng dụng và nhắn tin. Điều quan trọng nhất cần ghi nhớ là chúng ta cần đưa ra quyết định về việc quản lý sự phụ thuộc giữa các vi dịch vụ bằng cách sử dụng các mẫu tích hợp ngữ cảnh giới hạn.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000004.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 16, 620
-Kiến trúc được định hướng chẵn cung cấp nền tảng để thiết kế các tương tác vi dịch vụ trong bài giảng này, bạn tìm hiểu về các sự kiện, bạn tìm hiểu về kiến ​​trúc được định hướng chẵn và tôi sẽ so sánh những quả táo với kiến ​​trúc thậm chí có liên quan.
+Kiến trúc được định hướng chẵn cung cấp nền tảng để thiết kế các tương tác vi dịch vụ trong bài giảng này, chúng ta tìm hiểu về các sự kiện, chúng ta tìm hiểu về kiến ​​trúc được định hướng chẵn và tôi sẽ so sánh những quả táo với kiến ​​trúc thậm chí có liên quan.
 
 2
 00: 00: 17, 430--> 00: 00: 24, 980
@@ -4929,7 +4929,7 @@ Và tất cả các hệ thống con quan tâm đến việc nhận thông báo 
 
 7
 00: 01: 09, 030--> 00: 01: 24, 240
-Hãy để tôi cung cấp cho bạn một định nghĩa chính thức hơn về các sự kiện. Sự kiện là dấu hiệu cho thấy điều gì đó có ý nghĩa đã xảy ra tại một thời điểm so với điều gì đó đã xảy ra trong quá khứ.
+Hãy để tôi cung cấp cho chúng ta một định nghĩa chính thức hơn về các sự kiện. Sự kiện là dấu hiệu cho thấy điều gì đó có ý nghĩa đã xảy ra tại một thời điểm so với điều gì đó đã xảy ra trong quá khứ.
 
 8
 00: 01: 24, 390--> 00: 01: 30, 490
@@ -4961,7 +4961,7 @@ Bạn có thể nghĩ về nó như một thành phần vật chất. Nó đư�
 
 15
 00: 02: 37, 580--> 00: 02: 47, 760
-Tôi khuyên bạn nên thực hiện nghiên cứu của riêng mình trên Google. Bạn sẽ tìm thấy rất nhiều thông tin. Điều quan trọng cần ghi nhớ là về mặt khái niệm chúng giống nhau.
+Tôi khuyên chúng ta nên thực hiện nghiên cứu của riêng mình trên Google. Bạn sẽ tìm thấy rất nhiều thông tin. Điều quan trọng cần ghi nhớ là về mặt khái niệm chúng giống nhau.
 
 16
 00: 02: 47, 990--> 00: 03: 01, 760
@@ -5001,7 +5001,7 @@ Khi một tài khoản mới được tạo trong thành phần tài khoản, n�
 
 25
 00: 04: 22, 530--> 00: 04: 35, 340
-Khi đó Kafka sẽ thông báo cho tất cả những người đăng ký này về sự kiện tài khoản mới. Bây giờ, nếu bạn đang nghĩ rằng kiểu nhắn tin này giống với kiểu nhắn tin phổ biến thì bạn đã đúng.
+Khi đó Kafka sẽ thông báo cho tất cả những người đăng ký này về sự kiện tài khoản mới. Bây giờ, nếu chúng ta đang nghĩ rằng kiểu nhắn tin này giống với kiểu nhắn tin phổ biến thì chúng ta đã đúng.
 
 26
 00: 04: 35, 760--> 00: 04: 53, 460
@@ -5029,11 +5029,11 @@ Bạn sẽ sử dụng cả dữ liệu trạng thái và siêu dữ liệu tron
 
 32
 00: 05: 54, 060--> 00: 06: 04, 950
-Nếu kích thước phương thức quá lớn thì có thể có những thách thức liên quan đến độ trễ. Vì vậy, trong trường hợp đó, bạn có thể cân nhắc chỉ sử dụng siêu dữ liệu trong tin nhắn của mình.
+Nếu kích thước phương thức quá lớn thì có thể có những thách thức liên quan đến độ trễ. Vì vậy, trong trường hợp đó, chúng ta có thể cân nhắc chỉ sử dụng siêu dữ liệu trong tin nhắn của mình.
 
 33
 00: 06: 05, 100--> 00: 06: 19, 840
-Nếu người tiêu dùng đang dẫn đến nhiều cuộc trò chuyện trong ứng dụng của bạn vì họ đang liên hệ với nhà sản xuất để lấy dữ liệu trạng thái, thì có lẽ bạn nên xem qua dữ liệu trạng thái trong thông báo sự kiện.
+Nếu người tiêu dùng đang dẫn đến nhiều cuộc trò chuyện trong ứng dụng của chúng ta vì họ đang liên hệ với nhà sản xuất để lấy dữ liệu trạng thái, thì có lẽ chúng ta nên xem qua dữ liệu trạng thái trong thông báo sự kiện.
 
 34
 00: 06: 20, 700--> 00: 06: 30, 930
@@ -5089,7 +5089,7 @@ Có mức độ kết nối tương đối cao giữa trình gọi API và đi�
 
 47
 00: 09: 09, 880--> 00: 09: 27, 430
-Và lý do là bạn có thể thêm hoặc bớt người tiêu dùng mà không ảnh hưởng đến nhà sản xuất dưới bất kỳ hình thức nào. Thông thường với API, logic nghiệp vụ được tập trung hóa, trong khi đó trong trường hợp có sự kiện, logic nghiệp vụ có thể được trải rộng trên nhiều thành phần.
+Và lý do là chúng ta có thể thêm hoặc bớt người tiêu dùng mà không ảnh hưởng đến nhà sản xuất dưới bất kỳ hình thức nào. Thông thường với API, logic nghiệp vụ được tập trung hóa, trong khi đó trong trường hợp có sự kiện, logic nghiệp vụ có thể được trải rộng trên nhiều thành phần.
 
 48
 00: 09: 27, 430--> 00: 09: 35, 650
@@ -5101,7 +5101,7 @@ Có thể dễ dàng hiểu được lỗ hổng vì logic nghiệp vụ đượ
 
 50
 00: 09: 47, 170--> 00: 10: 08, 920
-Đã đến lúc làm một bài kiểm tra nhanh. Bạn sẽ sử dụng kiến ​​trúc nào cho các vi dịch vụ của mình? Câu trả lời là EDI được ưu tiên cho các vi dịch vụ, nhưng bạn có thể sử dụng cả ứng dụng và sự kiện trong các vi dịch vụ của mình và quyết định sẽ tùy thuộc vào trường hợp sử dụng cũng như các yêu cầu cụ thể của bạn.
+Đã đến lúc làm một bài kiểm tra nhanh. Bạn sẽ sử dụng kiến ​​trúc nào cho các vi dịch vụ của mình? Câu trả lời là EDI được ưu tiên cho các vi dịch vụ, nhưng chúng ta có thể sử dụng cả ứng dụng và sự kiện trong các vi dịch vụ của mình và quyết định sẽ tùy thuộc vào trường hợp sử dụng cũng như các yêu cầu cụ thể của chúng ta .
 
 51
 00: 10: 08, 920--> 00: 10: 21, 610
@@ -5127,11 +5127,11 @@ Sau đó, chúng tôi sẽ tạo một phiên bản thỏ và tiêu diệt Broec
 
 3
 00: 00: 25, 410--> 00: 00: 33, 960
-Xin lưu ý rằng bài giảng này sẽ không dạy cho bạn con thỏ MQ. Mục đích của tôi là cung cấp cho bạn cái nhìn tổng quan ở mức độ cao về các khái niệm thiết yếu.
+Xin lưu ý rằng bài giảng này sẽ không dạy cho chúng ta con thỏ MQ. Mục đích của tôi là cung cấp cho chúng ta cái nhìn tổng quan ở mức độ cao về các khái niệm thiết yếu.
 
 4
 00: 00: 34, 560--> 00: 00: 50, 030
-Các khái niệm mà tôi đang trình bày trong bài giảng này được trình bày chi tiết tại liên kết này. Nếu bạn muốn tìm hiểu thêm về nó, MQ hoặc M Cupie, tôi thực sự khuyên bạn nên xem qua nội dung có sẵn tại liên kết này.
+Các khái niệm mà tôi đang trình bày trong bài giảng này được trình bày chi tiết tại liên kết này. Nếu chúng ta muốn tìm hiểu thêm về nó, MQ hoặc M Cupie, tôi thực sự khuyên chúng ta nên xem qua nội dung có sẵn tại liên kết này.
 
 5
 00: 00: 50, 310--> 00: 00: 57, 630
@@ -5199,7 +5199,7 @@ Các tin nhắn nhận được từ nhà xuất bản đến hàng đợi có c
 
 21
 00: 03: 30, 600--> 00: 03: 50, 310
-Việc trao đổi trực tiếp chỉ tốt cho một lần xử lý. Nói cách khác, bạn có thể có nhiều hàng đợi được liên kết với cùng một khóa liên kết nhưng thông báo sẽ chỉ được thay đổi thành một trong các Q để bạn có thể phân phối khối lượng công việc cho nhiều nhân viên trên các hàng đợi khác nhau.
+Việc trao đổi trực tiếp chỉ tốt cho một lần xử lý. Nói cách khác, chúng ta có thể có nhiều hàng đợi được liên kết với cùng một khóa liên kết nhưng thông báo sẽ chỉ được thay đổi thành một trong các Q để chúng ta có thể phân phối khối lượng công việc cho nhiều nhân viên trên các hàng đợi khác nhau.
 
 22
 00: 03: 50, 310--> 00: 03: 58, 470
@@ -5235,27 +5235,27 @@ Bước đầu tiên, chúng ta cần tạo một phiên bản của Broca, vì 
 
 30
 00: 05: 36, 400--> 00: 05: 44, 910
-Khi bạn đã tạo xong tài khoản, hãy nhấp vào đăng nhập. Và như bạn có thể thấy ở đây, tôi đã tạo một phiên bản của nhà môi giới để tạo tức thì mới.
+Khi chúng ta đã tạo xong tài khoản, hãy nhấp vào đăng nhập. Và như chúng ta có thể thấy ở đây, tôi đã tạo một phiên bản của nhà môi giới để tạo tức thì mới.
 
 31
 00: 05: 44, 920--> 00: 05: 51, 310
-Bạn có thể nhấp vào tạo phiên bản mới. Ở đây bạn cần phải cung cấp một tên. Hãy gọi cho nhà môi giới Acme Travel.
+Bạn có thể nhấp vào tạo phiên bản mới. Ở đây chúng ta cần phải cung cấp một tên. Hãy gọi cho nhà môi giới Acme Travel.
 
 32
 00: 05: 51, 310--> 00: 05: 57, 500
-Đảm bảo rằng bạn đã chọn gói miễn phí. Như bạn có thể thấy, có những kế hoạch khác sẽ khiến bạn tốn rất nhiều tiền.
+Đảm bảo rằng chúng ta đã chọn gói miễn phí. Như chúng ta có thể thấy, có những kế hoạch khác sẽ khiến chúng ta tốn rất nhiều tiền.
 
 33
 00: 05: 57, 500--> 00: 06: 09, 820
-Vì vậy chỉ cần chọn Ba tầng rồi chọn khu vực. Tôi sẽ đi cùng chúng tôi bằng một cú nhấp chuột vào đánh giá. Và tại thời điểm này, bạn đã sẵn sàng tạo ngay lập tức việc tạo phiên bản có thể mất vài phút.
+Vì vậy chỉ cần chọn Ba tầng rồi chọn khu vực. Tôi sẽ đi cùng chúng tôi bằng một cú nhấp chuột vào đánh giá. Và tại thời điểm này, chúng ta đã sẵn sàng tạo ngay lập tức việc tạo phiên bản có thể mất vài phút.
 
 34
 00: 06: 11, 550--> 00: 06: 31, 690
-Để biết thông tin chi tiết về phiên bản này, hãy nhấp vào tên tức thì và nghe điều quan trọng tôi muốn cho bạn xem là MQ Eurail mà chúng tôi sẽ sử dụng trong bài giảng sau để tương tác với nhà môi giới từ mã Java của chúng tôi để thực hiện quản lý của nhà môi giới.
+Để biết thông tin chi tiết về phiên bản này, hãy nhấp vào tên tức thì và nghe điều quan trọng tôi muốn cho chúng ta xem là MQ Eurail mà chúng tôi sẽ sử dụng trong bài giảng sau để tương tác với nhà môi giới từ mã Java của chúng tôi để thực hiện quản lý của nhà môi giới.
 
 35
 00: 06: 31, 980--> 00: 06: 45, 480
-Bấm vào người quản lý Robert MQ. Và đây là năm mà chúng ta có thể sử dụng để thử nghiệm các sàn giao dịch. Nhấp vào các sàn giao dịch và đây là các sàn giao dịch khác nhau có sẵn cho bạn.
+Bấm vào người quản lý Robert MQ. Và đây là năm mà chúng ta có thể sử dụng để thử nghiệm các sàn giao dịch. Nhấp vào các sàn giao dịch và đây là các sàn giao dịch khác nhau có sẵn cho chúng ta .
 
 36
 00: 06: 45, 510--> 00: 06: 59, 270
@@ -5263,7 +5263,7 @@ Chúng tôi sẽ không sử dụng các sàn giao dịch mặc định này. Ch
 
 37
 00: 06: 59, 280--> 00: 07: 06, 330
-Tại thời điểm này, trao đổi chủ đề thử nghiệm của chúng tôi đã được tạo và như bạn có thể thấy ở đây, không có hàng đợi nào bị ràng buộc với nó.
+Tại thời điểm này, trao đổi chủ đề thử nghiệm của chúng tôi đã được tạo và như chúng ta có thể thấy ở đây, không có hàng đợi nào bị ràng buộc với nó.
 
 38
 00: 07: 06, 360--> 00: 07: 12, 870
@@ -5291,7 +5291,7 @@ Bây giờ, để kiểm tra hoạt động của trao đổi này, chúng tôi 
 
 44
 00: 08: 01, 920--> 00: 08: 12, 210
-Tôi sẽ gọi nó là Tin nhắn xuất bản thử nghiệm Haloed. Tin nhắn được xuất bản. Hãy quay lại tố cáo. Và như bạn có thể thấy ở đây, chúng tôi có một thông điệp trong mỗi câu hỏi này.
+Tôi sẽ gọi nó là Tin nhắn xuất bản thử nghiệm Haloed. Tin nhắn được xuất bản. Hãy quay lại tố cáo. Và như chúng ta có thể thấy ở đây, chúng tôi có một thông điệp trong mỗi câu hỏi này.
 
 45
 00: 08: 12, 540--> 00: 08: 20, 940
@@ -5319,7 +5319,7 @@ Hãy tiếp tục và thử kiểm tra khóa mới giống như khóa định tu
 
 51
 00: 09: 16, 320--> 00: 09: 30, 210
-Hãy quay lại tố cáo và kiểm tra xem chúng ta có bao nhiêu tin nhắn. Vì vậy, trong Q1, chúng tôi chỉ có một tin nhắn và trong Q2, chúng tôi có hai tin nhắn vì chúng tôi mong đợi một cú nhấp chuột vào hàng đợi và sau đó bạn sẽ nhận được tin nhắn trong tin nhắn đầu tiên.
+Hãy quay lại tố cáo và kiểm tra xem chúng ta có bao nhiêu tin nhắn. Vì vậy, trong Q1, chúng tôi chỉ có một tin nhắn và trong Q2, chúng tôi có hai tin nhắn vì chúng tôi mong đợi một cú nhấp chuột vào hàng đợi và sau đó chúng ta sẽ nhận được tin nhắn trong tin nhắn đầu tiên.
 
 52
 00: 09: 30, 210--> 00: 09: 37, 500
@@ -5327,13 +5327,13 @@ Hãy đọc tin nhắn số hai, và đây là tin nhắn số hai, kiểm tra D
 
 53
 00: 09: 37, 500--> 00: 09: 45, 840
-Tôi khuyên bạn nên tự mình thử trao đổi và liên kết hàng đợi để hiểu rõ hơn về cách hoạt động của Rabbit Amcu.
+Tôi khuyên chúng ta nên tự mình thử trao đổi và liên kết hàng đợi để hiểu rõ hơn về cách hoạt động của Rabbit Amcu.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 300
-Trong bài giảng này, bạn tìm hiểu về các loại sự kiện khác nhau trong thiết kế miền. Sau đó, chúng ta sẽ tìm hiểu sâu hơn về các sự kiện và miền miền, thậm chí cả các trình xử lý.
+Trong bài giảng này, chúng ta tìm hiểu về các loại sự kiện khác nhau trong thiết kế miền. Sau đó, chúng ta sẽ tìm hiểu sâu hơn về các sự kiện và miền miền, thậm chí cả các trình xử lý.
 
 2
 00: 00: 10, 350--> 00: 00: 21, 860
@@ -5345,7 +5345,7 @@ Trong ví dụ này ở đây, mỗi người trong số 100 người liên hệ
 
 4
 00: 00: 41, 040--> 00: 00: 53, 440
-Với tư cách là một chuyên gia, bạn có trách nhiệm đảm bảo rằng bạn đang nắm bắt tất cả các sự kiện có liên quan trong bối cảnh bị giới hạn như một phần của mô hình và ngôn ngữ chung .
+Với tư cách là một chuyên gia, chúng ta có trách nhiệm đảm bảo rằng chúng ta đang nắm bắt tất cả các sự kiện có liên quan trong bối cảnh bị giới hạn như một phần của mô hình và ngôn ngữ chung .
 
 5
 00: 00: 53, 940--> 00: 01: 02, 190
@@ -5433,7 +5433,7 @@ Phần này thể hiện sự kiện và phần này thể hiện phản ứng �
 
 26
 00: 04: 56, 550--> 00: 05: 12, 010
-Xin lưu ý rằng phản ứng này còn được gọi là. Tác dụng phụ là bây giờ, tôi chắc chắn rằng bạn hiểu rằng ngôn ngữ đóng một vai trò rất quan trọng trong thiết kế Theo nhu cầu, vì vậy bạn phải hết sức cẩn thận khi đặt tên cho các sự kiện của mình.
+Xin lưu ý rằng phản ứng này còn được gọi là. Tác dụng phụ là bây giờ, tôi chắc chắn rằng chúng ta hiểu rằng ngôn ngữ đóng một vai trò rất quan trọng trong thiết kế Theo nhu cầu, vì vậy chúng ta phải hết sức cẩn thận khi đặt tên cho các sự kiện của mình.
 
 27
 00: 05: 12, 470--> 00: 05: 19, 480
@@ -5473,7 +5473,7 @@ Bạn có thể đặt tên cho trình xử lý giống với sự kiện mà tr
 
 36
 00: 06: 38, 630--> 00: 06: 46, 640
-Không thêm trình xử lý hoặc trình nhận làm hậu tố. Vì vậy, đây là một cái tên xấu. Thay vì tên này, bạn nên đi theo thứ tự.
+Không thêm trình xử lý hoặc trình nhận làm hậu tố. Vì vậy, đây là một cái tên xấu. Thay vì tên này, chúng ta nên đi theo thứ tự.
 
 37
 00: 06: 47, 660--> 00: 06: 56, 800
@@ -5517,11 +5517,11 @@ Các sự kiện miền có thể được thừa nhận và sử dụng một c
 
 47
 00: 08: 31, 490--> 00: 08: 43, 100
-Hãy nhớ rằng nhà sản xuất sự kiện miền và trình xử lý đều ở trong cùng một quy trình. Nhưng bạn cũng có thể sử dụng cơ chế không đồng bộ như gửi tin nhắn bộ nhớ hoặc thậm chí là tin nhắn bên ngoài.
+Hãy nhớ rằng nhà sản xuất sự kiện miền và trình xử lý đều ở trong cùng một quy trình. Nhưng chúng ta cũng có thể sử dụng cơ chế không đồng bộ như gửi tin nhắn bộ nhớ hoặc thậm chí là tin nhắn bên ngoài.
 
 48
 00: 08: 43, 100--> 00: 08: 59, 330
-Broca. Các thay đổi trạng thái và sự chạy đua của các sự kiện cần phải xảy ra, về mặt nguyên tử trong trường hợp các cuộc gọi Đồng bộ hóa, việc triển khai các cơ chế như vậy sẽ dễ dàng hơn, trong khi với không đồng bộ, bạn sẽ cần sử dụng các mẫu thích hợp.
+Broca. Các thay đổi trạng thái và sự chạy đua của các sự kiện cần phải xảy ra, về mặt nguyên tử trong trường hợp các cuộc gọi Đồng bộ hóa, việc triển khai các cơ chế như vậy sẽ dễ dàng hơn, trong khi với không đồng bộ, chúng ta sẽ cần sử dụng các mẫu thích hợp.
 
 49
 00: 08: 59, 440--> 00: 09: 10, 770
@@ -5549,7 +5549,7 @@ Kịch bản thứ hai này có thể được giải quyết bằng cách kiể
 
 55
 00: 10: 09, 520--> 00: 10: 21, 790
-Hãy để tôi giải thích cách bạn có thể giải quyết tình huống số một. Xin lưu ý rằng tôi sẽ giải thích một trong nhiều mẫu có sẵn để xây dựng hành vi giao dịch cho các sự kiện miền.
+Hãy để tôi giải thích cách chúng ta có thể giải quyết tình huống số một. Xin lưu ý rằng tôi sẽ giải thích một trong nhiều mẫu có sẵn để xây dựng hành vi giao dịch cho các sự kiện miền.
 
 56
 00: 10: 22, 180--> 00: 10: 30, 340
@@ -5579,15 +5579,15 @@ Các sự kiện miền có thể được xử lý đồng bộ cũng như khô
 
 1
 00: 00: 00, 120--> 00: 00: 10, 180
-Trong bài giảng này, chúng ta sẽ đi sâu hơn vào lớp tĩnh, Broecker, mẫu chẵn. Đầu tiên, tôi sẽ hướng dẫn bạn qua các lớp trong khung mẫu gãy mà tôi đã tập hợp lại.
+Trong bài giảng này, chúng ta sẽ đi sâu hơn vào lớp tĩnh, Broecker, mẫu chẵn. Đầu tiên, tôi sẽ hướng dẫn chúng ta qua các lớp trong khung mẫu gãy mà tôi đã tập hợp lại.
 
 2
 00: 00: 10, 230--> 00: 00: 16, 330
-Sau đó, tôi sẽ chỉ cho bạn sơ đồ trình tự để đăng ký và tăng số chẵn như một phần của bài giảng này.
+Sau đó, tôi sẽ chỉ cho chúng ta sơ đồ trình tự để đăng ký và tăng số chẵn như một phần của bài giảng này.
 
 3
 00: 00: 16, 350--> 00: 00: 27, 240
-Tôi cũng sẽ hướng dẫn bạn mã và bạn sẽ thấy mẫu này hoạt động trong lớp tĩnh thậm chí đã phá vỡ một mẫu, một lớp X duy nhất khi sự kiện bị phá vỡ.
+Tôi cũng sẽ hướng dẫn chúng ta mã và chúng ta sẽ thấy mẫu này hoạt động trong lớp tĩnh thậm chí đã phá vỡ một mẫu, một lớp X duy nhất khi sự kiện bị phá vỡ.
 
 4
 00: 00: 27, 630--> 00: 00: 34, 320
@@ -5603,7 +5603,7 @@ Do đó tất cả chúng đều đồng bộ. Và vì tất cả các lệnh g�
 
 7
 00: 00: 50, 790--> 00: 00: 58, 800
-Nó không thể được sử dụng để tích hợp ngay cả trước khi tiếp tục bài giảng này. Hãy chắc chắn rằng bạn đã kiểm tra chi nhánh sự kiện.
+Nó không thể được sử dụng để tích hợp ngay cả trước khi tiếp tục bài giảng này. Hãy chắc chắn rằng chúng ta đã kiểm tra chi nhánh sự kiện.
 
 8
 00: 00: 59, 400--> 00: 01: 16, 560
@@ -5627,7 +5627,7 @@ Tất cả các trình xử lý sự kiện phải triển khai trình xử lý 
 
 13
 00: 01: 56, 010--> 00: 02: 04, 250
-Tất cả các sự kiện phải mở rộng lớp trừu tượng sự kiện và bạn sẽ thấy rằng có một thuộc tính cho tên tên.
+Tất cả các sự kiện phải mở rộng lớp trừu tượng sự kiện và chúng ta sẽ thấy rằng có một thuộc tính cho tên tên.
 
 14
 00: 02: 04, 560--> 00: 02: 16, 760
@@ -5635,7 +5635,7 @@ Tất cả các sự kiện phải mở rộng lớp trừu tượng sự kiện
 
 15
 00: 02: 16, 950--> 00: 02: 27, 660
-Vui lòng xem sơ đồ lớp đầy đủ có sẵn trong dự án trong thư mục này. Tiếp theo, tôi sẽ hướng dẫn bạn sơ đồ trình tự để đăng ký trình xử lý sự kiện.
+Vui lòng xem sơ đồ lớp đầy đủ có sẵn trong dự án trong thư mục này. Tiếp theo, tôi sẽ hướng dẫn chúng ta sơ đồ trình tự để đăng ký trình xử lý sự kiện.
 
 16
 00: 02: 27, 660--> 00: 02: 37, 290
@@ -5679,15 +5679,15 @@ Nếu bộ điều phối không tồn tại trong bộ sưu tập tạo một b
 
 26
 00: 04: 18, 180--> 00: 04: 27, 570
-Chúng tôi chỉ đơn giản là kiểm tra xem trình xử lý đã tồn tại chưa. Nếu nó tồn tại, chỉ cần trả về false vì bạn không muốn cùng một trình xử lý được đăng ký hai lần.
+Chúng tôi chỉ đơn giản là kiểm tra xem trình xử lý đã tồn tại chưa. Nếu nó tồn tại, chỉ cần trả về false vì chúng ta không muốn cùng một trình xử lý được đăng ký hai lần.
 
 27
 00: 04: 27, 570--> 00: 04: 36, 320
-Nếu không, nó có thể dẫn đến trùng lặp và sau đó thêm trình xử lý vào bộ sưu tập. Như bạn có thể thấy, việc triển khai này khá đơn giản.
+Nếu không, nó có thể dẫn đến trùng lặp và sau đó thêm trình xử lý vào bộ sưu tập. Như chúng ta có thể thấy, việc triển khai này khá đơn giản.
 
 28
 00: 04: 36, 480--> 00: 04: 44, 700
-Tiếp theo, tôi sẽ hướng dẫn bạn qua trình tự nhận trong đó tuyến tổng hợp sẽ đóng vai trò là nguồn của sự kiện.
+Tiếp theo, tôi sẽ hướng dẫn chúng ta qua trình tự nhận trong đó tuyến tổng hợp sẽ đóng vai trò là nguồn của sự kiện.
 
 29
 00: 04: 44, 940--> 00: 04: 56, 460
@@ -5711,7 +5711,7 @@ Sau đó, nó trả về true cho cả ông chủ cho biết rằng sự kiện 
 
 34
 00: 05: 44, 150--> 00: 05: 56, 120
-Xin lưu ý rằng tất cả các lệnh gọi hàm này đều đồng bộ. Trong lớp xe buýt chẵn. Bạn sẽ tìm thấy hàm đua và bạn sẽ tìm thấy ba bước mà tôi đã thảo luận trong sơ đồ trình tự.
+Xin lưu ý rằng tất cả các lệnh gọi hàm này đều đồng bộ. Trong lớp xe buýt chẵn. Bạn sẽ tìm thấy hàm đua và chúng ta sẽ tìm thấy ba bước mà tôi đã thảo luận trong sơ đồ trình tự.
 
 35
 00: 05: 56, 240--> 00: 06: 03, 260
@@ -5735,11 +5735,11 @@ Tất cả các lớp kiểm tra đều có sẵn trong bài kiểm tra. Ngay c�
 
 40
 00: 06: 41, 780--> 00: 06: 57, 720
-Một số hành động là lớp xấu và một số hành động xảy ra là lớp xử lý. Hãy để tôi hướng dẫn nhanh mã cho bạn và cho bạn thấy rằng ngay cả ông chủ cũng đang hành động, vì mục đích thử nghiệm này, hãy giả sử rằng gốc tổng hợp là nguồn gốc của sự kiện.
+Một số hành động là lớp xấu và một số hành động xảy ra là lớp xử lý. Hãy để tôi hướng dẫn nhanh mã cho chúng ta và cho chúng ta thấy rằng ngay cả ông chủ cũng đang hành động, vì mục đích thử nghiệm này, hãy giả sử rằng gốc tổng hợp là nguồn gốc của sự kiện.
 
 41
 00: 06: 57, 740--> 00: 07: 14, 360
-Và đây là tên của sự kiện sẽ được lớp này đưa ra khi một số hành động được thực hiện ở đây, bạn sẽ thấy rằng chúng ta chỉ đơn giản in ra thông báo và sau đó đưa ra sự kiện chứ không phải để nêu lên sự kiện.
+Và đây là tên của sự kiện sẽ được lớp này đưa ra khi một số hành động được thực hiện ở đây, chúng ta sẽ thấy rằng chúng ta chỉ đơn giản in ra thông báo và sau đó đưa ra sự kiện chứ không phải để nêu lên sự kiện.
 
 42
 00: 07: 14, 360--> 00: 07: 23, 510
@@ -5747,7 +5747,7 @@ Chúng ta đang chuyển một thể hiện của hành động some. Hành đ�
 
 43
 00: 07: 23, 510--> 00: 07: 40, 210
-Như bạn có thể thấy, không có gì đặc biệt trong lớp học này. Trong lớp kiểm tra chính. Những gì chúng ta đang làm trong hàm main là tạo một trình xử lý và sau đó đăng ký trình xử lý đó với ông chủ chẵn và với tên chẵn từ tuyến tổng hợp.
+Như chúng ta có thể thấy, không có gì đặc biệt trong lớp học này. Trong lớp kiểm tra chính. Những gì chúng ta đang làm trong hàm main là tạo một trình xử lý và sau đó đăng ký trình xử lý đó với ông chủ chẵn và với tên chẵn từ tuyến tổng hợp.
 
 44
 00: 07: 40, 220--> 00: 07: 49, 910
@@ -5767,7 +5767,7 @@ Tuyến tổng hợp đã thực hiện hành động thành công và sau đó 
 
 48
 00: 08: 18, 650--> 00: 08: 27, 050
-Con gái ông chủ đang ở trong lộ trình tổng hợp. Đề nghị bạn đi bộ đến tòa án và tự mình thử.
+Con gái ông chủ đang ở trong lộ trình tổng hợp. Đề nghị chúng ta đi bộ đến tòa án và tự mình thử.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000008.srt-->
 
@@ -5785,7 +5785,7 @@ Vì vậy chúng tôi đã mời hoặc tham gia cuộc họp và đây là nh�
 
 4
 00: 00: 58, 590--> 00: 01: 08, 580
-Vậy là có một thuật ngữ mới xuất hiện ở đây, lệnh thanh toán. Vì vậy, với tư cách là một chuyên gia CNTT, hãy đảm bảo bạn thêm thuật ngữ này vào ngôn ngữ chung .
+Vậy là có một thuật ngữ mới xuất hiện ở đây, lệnh thanh toán. Vì vậy, với tư cách là một chuyên gia CNTT, hãy đảm bảo chúng ta thêm thuật ngữ này vào ngôn ngữ chung .
 
 5
 00: 01: 09, 000--> 00: 01: 17, 040
@@ -5797,11 +5797,11 @@ Cuối cùng, việc đặt chỗ đã được thực hiện thành công. Chú
 
 7
 00: 01: 31, 210--> 00: 01: 40, 830
-Nếu bạn cần thêm thời gian, vui lòng chuyển video. Trong bài giảng trước, tôi đã đề cập rằng bạn cần tìm kiếm những câu phát biểu giống như khi một điều gì đó đã xảy ra.
+Nếu chúng ta cần thêm thời gian, vui lòng chuyển video. Trong bài giảng trước, tôi đã đề cập rằng chúng ta cần tìm kiếm những câu phát biểu giống như khi một điều gì đó đã xảy ra.
 
 8
 00: 01: 40, 840--> 00: 01: 48, 340
-Vì vậy, nếu bạn nhìn vào bản ghi này, bạn có thể dễ dàng thấy rằng khi nhận được khoản thanh toán của khách hàng thì việc đặt chỗ sẽ diễn ra.
+Vì vậy, nếu chúng ta nhìn vào bản ghi này, chúng ta có thể dễ dàng thấy rằng khi nhận được khoản thanh toán của khách hàng thì việc đặt chỗ sẽ diễn ra.
 
 9
 00: 01: 49, 090--> 00: 01: 59, 290
@@ -5829,7 +5829,7 @@ Và sau khi tất cả các lượt đặt trước thành công, nó sẽ thay 
 
 15
 00: 03: 07, 270--> 00: 03: 22, 980
-Mô hình này có sẵn trong tệp mô hình này. Như bạn có thể thấy ở đây, tôi đã giới thiệu khoản thanh toán nhận được ngay cả trong gói thanh toán và khoản thanh toán nhận được này thậm chí còn bị bỏ qua trong quá trình kiểm tra thanh toán lớp này.
+Mô hình này có sẵn trong tệp mô hình này. Như chúng ta có thể thấy ở đây, tôi đã giới thiệu khoản thanh toán nhận được ngay cả trong gói thanh toán và khoản thanh toán nhận được này thậm chí còn bị bỏ qua trong quá trình kiểm tra thanh toán lớp này.
 
 16
 00: 03: 23, 230--> 00: 03: 32, 980
@@ -5837,7 +5837,7 @@ Trình xử lý nằm trong gói đặt chỗ và nó mở rộng lớp xử lý
 
 17
 00: 03: 33, 400--> 00: 03: 41, 020
-Nếu bạn quan tâm, bạn có thể truy cập mã vào lúc này. Tiếp theo, tôi sẽ hướng dẫn bạn về miền thanh toán nhận được, theo trình tự chẵn.
+Nếu chúng ta quan tâm, chúng ta có thể truy cập mã vào lúc này. Tiếp theo, tôi sẽ hướng dẫn chúng ta về miền thanh toán nhận được, theo trình tự chẵn.
 
 18
 00: 03: 41, 200--> 00: 03: 48, 400
@@ -5881,19 +5881,19 @@ Nếu bất kỳ lượt đặt chỗ nào không thành công thì lượt đ�
 
 28
 00: 05: 31, 300--> 00: 05: 39, 700
-Trong bài học này, tôi đã chỉ cho bạn cách sử dụng chiến thuật này. Mẫu lớp Braco để xây dựng trình xử lý cho sự kiện miền.
+Trong bài học này, tôi đã chỉ cho chúng ta cách sử dụng chiến thuật này. Mẫu lớp Braco để xây dựng trình xử lý cho sự kiện miền.
 
 29
 00: 05: 39, 820--> 00: 05: 51, 700
-Hãy nhớ rằng đây là một mẫu rất đơn giản. Trên thực tế, bạn có thể sử dụng các thư viện và khung của bên thứ ba và thực hiện xử lý đồng đều theo cách không đồng bộ.
+Hãy nhớ rằng đây là một mẫu rất đơn giản. Trên thực tế, chúng ta có thể sử dụng các thư viện và khung của bên thứ ba và thực hiện xử lý đồng đều theo cách không đồng bộ.
 
 30
 00: 05: 52, 300--> 00: 06: 01, 750
-Hãy thực hiện nghiên cứu của riêng bạn và chia sẻ những phát hiện của bạn. Trong bài giảng tiếp theo, bạn sẽ thấy việc triển khai thử nghiệm các yêu cầu mới này.
+Hãy thực hiện nghiên cứu của riêng chúng ta và chia sẻ những phát hiện của chúng ta . Trong bài giảng tiếp theo, chúng ta sẽ thấy việc triển khai thử nghiệm các yêu cầu mới này.
 
 31
 00: 06: 02, 290--> 00: 06: 08, 290
-Nếu bạn không quan tâm đến việc xem qua mã và xem nó hoạt động như thế nào, bạn có thể bỏ qua bài giảng tiếp theo.
+Nếu chúng ta không quan tâm đến việc xem qua mã và xem nó hoạt động như thế nào, chúng ta có thể bỏ qua bài giảng tiếp theo.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000009.srt-->
 
@@ -5903,11 +5903,11 @@ Mục đích đằng sau bài học này là trình bày cách thức thanh toá
 
 2
 00: 00: 09, 510--> 00: 00: 22, 110
-Tôi sẽ hướng dẫn bạn mã kiểm tra và sau đó chúng ta sẽ xem quá trình thực thi của trình xử lý khoản thanh toán nhận được đang hoạt động như thế nào để chứng minh việc gửi và xử lý khoản thanh toán nhận được.
+Tôi sẽ hướng dẫn chúng ta mã kiểm tra và sau đó chúng ta sẽ xem quá trình thực thi của trình xử lý khoản thanh toán nhận được đang hoạt động như thế nào để chứng minh việc gửi và xử lý khoản thanh toán nhận được.
 
 3
 00: 00: 22, 110--> 00: 00: 34, 130
-Thậm chí tôi còn tập hợp bài kiểm tra thứ tự thanh toán lớp này làm bước tiếp theo. Tôi sẽ hướng dẫn bạn mã trong lớp học này và chúng ta cũng sẽ thấy khoản thanh toán đã nhận được, thậm chí cả quá trình xử lý đang diễn ra.
+Thậm chí tôi còn tập hợp bài kiểm tra thứ tự thanh toán lớp này làm bước tiếp theo. Tôi sẽ hướng dẫn chúng ta mã trong lớp học này và chúng ta cũng sẽ thấy khoản thanh toán đã nhận được, thậm chí cả quá trình xử lý đang diễn ra.
 
 4
 00: 00: 34, 470--> 00: 00: 52, 060
@@ -5923,7 +5923,7 @@ Ngay cả ở bước số ba, tôi vẫn nhận được xác nhận đặt ch�
 
 7
 00: 01: 19, 620--> 00: 01: 38, 690
-Hãy nhớ lại rằng dữ liệu xác nhận đặt phòng này là một phần của kho lưu trữ xác nhận đặt phòng giả mạo. Nếu bạn muốn xem chi tiết về nó, chỉ cần xem đối tượng repo xác nhận đặt phòng trong gói repo ghi chú giả là bước tiếp theo, tạo quy trình cổng thanh toán.
+Hãy nhớ lại rằng dữ liệu xác nhận đặt phòng này là một phần của kho lưu trữ xác nhận đặt phòng giả mạo. Nếu chúng ta muốn xem chi tiết về nó, chỉ cần xem đối tượng repo xác nhận đặt phòng trong gói repo ghi chú giả là bước tiếp theo, tạo quy trình cổng thanh toán.
 
 8
 00: 01: 38, 970--> 00: 01: 44, 990
@@ -5931,11 +5931,11 @@ Hãy nhớ lại rằng dữ liệu xác nhận đặt phòng này là một ph�
 
 9
 00: 01: 45, 000--> 00: 01: 53, 940
-Điều này một lần nữa có sẵn trong các gói repo giả mạo. Và như bạn sẽ thấy, cách triển khai này rất giống với các kho lưu trữ giả mạo khác.
+Điều này một lần nữa có sẵn trong các gói repo giả mạo. Và như chúng ta sẽ thấy, cách triển khai này rất giống với các kho lưu trữ giả mạo khác.
 
 10
 00: 01: 53, 970--> 00: 02: 04, 140
-Khi bạn đã tạo repo yêu cầu thanh toán, chúng tôi sẽ tạo thực thể kiểm tra thanh toán. Thực thể kiểm toán thanh toán này có sẵn trong gói thanh toán.
+Khi chúng ta đã tạo repo yêu cầu thanh toán, chúng tôi sẽ tạo thực thể kiểm tra thanh toán. Thực thể kiểm toán thanh toán này có sẵn trong gói thanh toán.
 
 11
 00: 02: 04, 140--> 00: 02: 13, 260
@@ -5947,7 +5947,7 @@ Nó cho thấy một chức năng thanh toán quá trình. Chúng tôi đang chu
 
 13
 00: 02: 24, 840--> 00: 02: 34, 830
-Vì vậy, hãy tiếp tục và thực hiện lớp này. Phải, bấm, chạy. Và đây là kết quả. Như bạn có thể thấy ở đây, số tham chiếu đặt chỗ là chín hai mươi tám.
+Vì vậy, hãy tiếp tục và thực hiện lớp này. Phải, bấm, chạy. Và đây là kết quả. Như chúng ta có thể thấy ở đây, số tham chiếu đặt chỗ là chín hai mươi tám.
 
 14
 00: 02: 35, 070--> 00: 02: 49, 200
@@ -5959,7 +5959,7 @@ Ngay cả người xử lý sau đó cũng cập nhật tham chiếu đặt ch�
 
 16
 00: 02: 57, 390--> 00: 03: 05, 640
-Đề xuất của tôi dành cho bạn là bạn nên tự mình xem mã này, kiểm tra mã và các lớp liên quan và cho tôi biết nếu bạn có bất kỳ câu hỏi nào.
+Đề xuất của tôi dành cho chúng ta là chúng ta nên tự mình xem mã này, kiểm tra mã và các lớp liên quan và cho tôi biết nếu chúng ta có bất kỳ câu hỏi nào.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000010.srt-->
 
@@ -5973,7 +5973,7 @@ Vào cuối bài học này, chúng tôi sẽ nâng cao mô hình cho bối cả
 
 3
 00: 00: 23, 080--> 00: 00: 30, 900
-Bây giờ, bạn đã biết rằng các sự kiện miền được nêu ra và sử dụng trong cùng một bối cảnh giới hạn của vi dịch vụ .
+Bây giờ, chúng ta đã biết rằng các sự kiện miền được nêu ra và sử dụng trong cùng một bối cảnh giới hạn của vi dịch vụ .
 
 4
 00: 00: 31, 410--> 00: 00: 40, 110
@@ -5997,7 +5997,7 @@ Do phản ứng với các sự kiện tích hợp, các sự kiện miền đư
 
 9
 00: 01: 55, 200--> 00: 02: 03, 210
-Nói cách khác, trong trường hợp các sự kiện tích hợp, nếu bạn sử dụng lệnh gọi hàm trực tiếp thì hãy đoán xem điều gì sẽ xảy ra?
+Nói cách khác, trong trường hợp các sự kiện tích hợp, nếu chúng ta sử dụng lệnh gọi hàm trực tiếp thì hãy đoán xem điều gì sẽ xảy ra?
 
 10
 00: 02: 03, 210--> 00: 02: 13, 140
@@ -6017,11 +6017,11 @@ Thêm về điều này trong một vài phút. Mặc dù về mặt kỹ thuậ
 
 14
 00: 02: 51, 960--> 00: 03: 00, 300
-Điều đầu tiên là bạn có thể đạt được mức độ tách rời cao bằng các cơ chế không đồng bộ. Khả năng mở rộng trong tương lai dễ dàng hơn.
+Điều đầu tiên là chúng ta có thể đạt được mức độ tách rời cao bằng các cơ chế không đồng bộ. Khả năng mở rộng trong tương lai dễ dàng hơn.
 
 15
 00: 03: 00, 330--> 00: 03: 10, 740
-Ví dụ: bạn có thể thêm người tiêu dùng mới mà không ảnh hưởng đến nguồn sự kiện hoặc vi dịch vụ đang thực hiện các sự kiện tích hợp.
+Ví dụ: chúng ta có thể thêm người tiêu dùng mới mà không ảnh hưởng đến nguồn sự kiện hoặc vi dịch vụ đang thực hiện các sự kiện tích hợp.
 
 16
 00: 03: 10, 920--> 00: 03: 17, 940
@@ -6159,7 +6159,7 @@ Hãy bắt tay vào làm việc ngay bây giờ. Bạn sẽ đáp ứng những 
 
 14
 00: 02: 28, 950--> 00: 02: 42, 570
-Hãy nhớ lại rằng chúng tôi đã nghĩ ra mô hình này trong cuộc trò chuyện gần đây nhất với John và vui lòng chuyển video, viết suy nghĩ của bạn ra một tờ giấy và tiếp theo tôi sẽ chia sẻ suy nghĩ của mình về giải pháp.
+Hãy nhớ lại rằng chúng tôi đã nghĩ ra mô hình này trong cuộc trò chuyện gần đây nhất với John và vui lòng chuyển video, viết suy nghĩ của chúng ta ra một tờ giấy và tiếp theo tôi sẽ chia sẻ suy nghĩ của mình về giải pháp.
 
 15
 00: 02: 43, 050--> 00: 02: 52, 020
@@ -6179,7 +6179,7 @@ Dữ liệu mang lại lợi ích cho phương pháp này là tất cả các s�
 
 19
 00: 03: 27, 450--> 00: 03: 45, 830
-Vì vậy, các dịch vụ khác này sẽ có tất cả dữ liệu hiện tại mà họ cần để xử lý. Tiếp theo, tôi sẽ hướng dẫn bạn đến sơ đồ thành phần này từ góc độ sự kiện, ghi chú này và lớp lưu giữ được mô tả ở đây là dành cho vi dịch vụ bán hàng.
+Vì vậy, các dịch vụ khác này sẽ có tất cả dữ liệu hiện tại mà họ cần để xử lý. Tiếp theo, tôi sẽ hướng dẫn chúng ta đến sơ đồ thành phần này từ góc độ sự kiện, ghi chú này và lớp lưu giữ được mô tả ở đây là dành cho vi dịch vụ bán hàng.
 
 20
 00: 03: 45, 860--> 00: 03: 56, 780
@@ -6187,7 +6187,7 @@ Giả sử rằng đường trục nhắn tin được xây dựng trên Rabbit 
 
 21
 00: 03: 57, 050--> 00: 04: 16, 490
-Như bạn có thể thấy ở đây, chúng tôi có dịch vụ thông báo ở đây cũng như đã thảo luận trong bài giảng trước đó mà phụ huynh đã yêu cầu sau khi nhận được bản cập nhật xác nhận thanh toán thành công, thực thể yêu cầu thanh toán sẽ được lưu trữ liên tục và sau đó tăng miền nhận được khoản thanh toán.
+Như chúng ta có thể thấy ở đây, chúng tôi có dịch vụ thông báo ở đây cũng như đã thảo luận trong bài giảng trước đó mà phụ huynh đã yêu cầu sau khi nhận được bản cập nhật xác nhận thanh toán thành công, thực thể yêu cầu thanh toán sẽ được lưu trữ liên tục và sau đó tăng miền nhận được khoản thanh toán.
 
 22
 00: 04: 16, 490--> 00: 04: 31, 060
@@ -6227,7 +6227,7 @@ Tôi cũng đã tổng hợp mục đích của lớp kiểm tra dịch vụ mà
 
 31
 00: 06: 19, 500--> 00: 06: 30, 480
-Bây giờ bạn đã hiểu giải pháp tổng thể và dịch vụ cơ sở hạ tầng nhắn tin, hãy tổng hợp mọi thứ lại với nhau để hiểu sự kiện xác nhận đặt chỗ sẽ diễn ra như thế nào.
+Bây giờ chúng ta đã hiểu giải pháp tổng thể và dịch vụ cơ sở hạ tầng nhắn tin, hãy tổng hợp mọi thứ lại với nhau để hiểu sự kiện xác nhận đặt chỗ sẽ diễn ra như thế nào.
 
 32
 00: 06: 30, 510--> 00: 06: 43, 590
@@ -6263,21 +6263,21 @@ Vì vậy, thậm chí sẽ chỉ được nâng lên nếu đối tượng lưu
 
 40
 00: 08: 05, 010--> 00: 08: 12, 890
-Vì vậy, để bảo vệ mô hình khỏi bị hiểu biết về các công nghệ cơ sở hạ tầng cơ bản này, bạn phải sử dụng các dịch vụ cơ sở hạ tầng.
+Vì vậy, để bảo vệ mô hình khỏi bị hiểu biết về các công nghệ cơ sở hạ tầng cơ bản này, chúng ta phải sử dụng các dịch vụ cơ sở hạ tầng.
 
 41
 00: 08: 13, 290--> 00: 08: 21, 330
-Vì vậy chúng tôi đã tạo ra dịch vụ cơ sở hạ tầng tin nhắn. Trong bài giảng tiếp theo, bạn sẽ thấy hoạt động của sự kiện xác nhận đặt chỗ đang diễn ra.
+Vì vậy chúng tôi đã tạo ra dịch vụ cơ sở hạ tầng tin nhắn. Trong bài giảng tiếp theo, chúng ta sẽ thấy hoạt động của sự kiện xác nhận đặt chỗ đang diễn ra.
 
 <!--@ \08EventsDrivenArchitectureDomainEvents_VVN\000000012.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 12, 340
-Trong bài học này, bạn sẽ tìm hiểu về cách triển khai các sự kiện tích hợp, cụ thể là việc đặt chỗ đã được xác nhận ngay cả bằng cách hướng dẫn mã và hai bài giảng trong bài giảng này.
+Trong bài học này, chúng ta sẽ tìm hiểu về cách triển khai các sự kiện tích hợp, cụ thể là việc đặt chỗ đã được xác nhận ngay cả bằng cách hướng dẫn mã và hai bài giảng trong bài giảng này.
 
 2
 00: 00: 12, 570--> 00: 00: 28, 970
-Tôi sẽ đề cập đến việc thiết lập sàn giao dịch và Q trên Rabbitt MQ, sau đó tôi sẽ cung cấp cho bạn hướng dẫn chi tiết về dịch vụ cơ sở hạ tầng nhắn tin và sẽ kiểm tra dịch vụ cơ sở hạ tầng so với sàn giao dịch và Q được thiết lập trên MQ.
+Tôi sẽ đề cập đến việc thiết lập sàn giao dịch và Q trên Rabbitt MQ, sau đó tôi sẽ cung cấp cho chúng ta hướng dẫn chi tiết về dịch vụ cơ sở hạ tầng nhắn tin và sẽ kiểm tra dịch vụ cơ sở hạ tầng so với sàn giao dịch và Q được thiết lập trên MQ.
 
 3
 00: 00: 29, 250--> 00: 00: 42, 300
@@ -6285,7 +6285,7 @@ Cách chia đoạn mã đi qua hoạt động thành ba phần. Trong phần m�
 
 4
 00: 00: 42, 300--> 00: 00: 49, 890
-Sau đó, trong phần ba, tôi sẽ hướng dẫn bạn mã để triển khai sự kiện xác nhận đặt chỗ và cũng sẽ kiểm tra mã đó.
+Sau đó, trong phần ba, tôi sẽ hướng dẫn chúng ta mã để triển khai sự kiện xác nhận đặt chỗ và cũng sẽ kiểm tra mã đó.
 
 5
 00: 00: 50, 040--> 00: 00: 56, 160
@@ -6305,15 +6305,15 @@ Và trong bước bốn sẽ kiểm tra thiết lập này bằng cách xuất b
 
 9
 00: 01: 32, 400--> 00: 01: 47, 210
-Bước đầu tiên, đăng nhập vào cổng MQ trên đám mây, tôi đã có Acme travel ngay lập tức, nhấp vào trình quản lý Rabbit Amcu, đi tới các sàn giao dịch và điều đầu tiên bạn cần làm là tạo một sàn giao dịch.
+Bước đầu tiên, đăng nhập vào cổng MQ trên đám mây, tôi đã có Acme travel ngay lập tức, nhấp vào trình quản lý Rabbit Amcu, đi tới các sàn giao dịch và điều đầu tiên chúng ta cần làm là tạo một sàn giao dịch.
 
 10
 00: 01: 47, 420--> 00: 01: 56, 230
-Chúng tôi sẽ đặt tên cho chủ đề trao đổi Acme Auto Sales. Hãy chắc chắn rằng bạn thay đổi tiêu đề thành Papic và thêm trao đổi hoặc trao đổi được tạo.
+Chúng tôi sẽ đặt tên cho chủ đề trao đổi Acme Auto Sales. Hãy chắc chắn rằng chúng ta thay đổi tiêu đề thành Papic và thêm trao đổi hoặc trao đổi được tạo.
 
 11
 00: 01: 56, 250--> 00: 02: 05, 370
-Bây giờ đây là phần lọc tiếp theo của Exchange mà bạn nhấn vào Qs cho biết tên của hàng đợi như email thông báo và chỉ cần nhấn vào lúc gợi ý.
+Bây giờ đây là phần lọc tiếp theo của Exchange mà chúng ta nhấn vào Qs cho biết tên của hàng đợi như email thông báo và chỉ cần nhấn vào lúc gợi ý.
 
 12
 00: 02: 05, 520--> 00: 02: 14, 790
@@ -6333,7 +6333,7 @@ Chỉ cần cuộn xuống, cung cấp khóa định tuyến achmad tất cả c
 
 16
 00: 02: 42, 120--> 00: 02: 51, 930
-Hãy quay lại email hoặc thông báo của Cuno. Và như bạn có thể thấy ở đây, có một tin nhắn. Hãy cuộn xuống và chúng ta sẽ nhận được một tin nhắn trên đó.
+Hãy quay lại email hoặc thông báo của Cuno. Và như chúng ta có thể thấy ở đây, có một tin nhắn. Hãy cuộn xuống và chúng ta sẽ nhận được một tin nhắn trên đó.
 
 17
 00: 02: 51, 930--> 00: 03: 00, 450
@@ -6341,11 +6341,11 @@ Và đây là thông điệp của chúng tôi. Vì vậy, Sarah đã làm việ
 
 18
 00: 03: 00, 450--> 00: 03: 10, 200
-Vui lòng đảm bảo rằng bạn đã thiết lập đúng MQ Purell trong thử nghiệm dịch vụ phụ của quán rượu. Nếu không làm như vậy sẽ dẫn đến Conexion thất bại.
+Vui lòng đảm bảo rằng chúng ta đã thiết lập đúng MQ Purell trong thử nghiệm dịch vụ phụ của quán rượu. Nếu không làm như vậy sẽ dẫn đến Conexion thất bại.
 
 19
 00: 03: 10, 680--> 00: 03: 36, 300
-Vì vậy, hãy sao chép MQ Purell từ trang chi tiết và dán nó vào phần kiểm tra dịch vụ bật lên. MQ b gạch dưới bạn là một biến trong phần hai sẽ kiểm tra dịch vụ cơ sở hạ tầng nhắn tin ở bước một sẽ đẩy thông báo email Q và bước hai sẽ thiết lập lớp kiểm tra bật lên để xuất bản một tin nhắn và sau đó sẽ chạy lớp.
+Vì vậy, hãy sao chép MQ Purell từ trang chi tiết và dán nó vào phần kiểm tra dịch vụ bật lên. MQ b gạch dưới chúng ta là một biến trong phần hai sẽ kiểm tra dịch vụ cơ sở hạ tầng nhắn tin ở bước một sẽ đẩy thông báo email Q và bước hai sẽ thiết lập lớp kiểm tra bật lên để xuất bản một tin nhắn và sau đó sẽ chạy lớp.
 
 20
 00: 03: 36, 300--> 00: 03: 45, 660
@@ -6365,11 +6365,11 @@ Và điều này sẽ dẫn đến việc người đăng ký của chúng tôi 
 
 24
 00: 04: 21, 220--> 00: 04: 45, 210
-Vì vậy, hãy nhấp vào tín hiệu, nhấp vào email hoặc thông báo, cuộn xuống và nhấp vào nút để thanh lọc. Và như bạn có thể thấy bây giờ, không có tin nhắn nào trong hàng đợi. Bước tiếp theo là tôi sẽ hướng dẫn bạn qua lớp cơ sở hạ tầng dịch vụ nhắn tin và cách triển khai cụ thể, chọn hành vi gói, không phải bán hàng, không phải tiện ích đạo đức hay thậm chí là nhắn tin.
+Vì vậy, hãy nhấp vào tín hiệu, nhấp vào email hoặc thông báo, cuộn xuống và nhấp vào nút để thanh lọc. Và như chúng ta có thể thấy bây giờ, không có tin nhắn nào trong hàng đợi. Bước tiếp theo là tôi sẽ hướng dẫn chúng ta qua lớp cơ sở hạ tầng dịch vụ nhắn tin và cách triển khai cụ thể, chọn hành vi gói, không phải bán hàng, không phải tiện ích đạo đức hay thậm chí là nhắn tin.
 
 25
 00: 04: 45, 890--> 00: 04: 59, 510
-Đây là giao diện dịch vụ nhắn tin của chúng tôi. Bạn sẽ tìm thấy các hàm đơn giản ở đây và bạn sẽ quan sát thấy rằng tất cả các hàm này đang đưa ra ngoại lệ nhắn tin được xác định ở đây.
+Đây là giao diện dịch vụ nhắn tin của chúng tôi. Bạn sẽ tìm thấy các hàm đơn giản ở đây và chúng ta sẽ quan sát thấy rằng tất cả các hàm này đang đưa ra ngoại lệ nhắn tin được xác định ở đây.
 
 26
 00: 04: 59, 660--> 00: 05: 08, 560
@@ -6381,15 +6381,15 @@ Vì vậy, các giao diện và lớp này là định nghĩa dịch vụ cơ s�
 
 28
 00: 05: 28, 760--> 00: 05: 37, 160
-Như bạn có thể thấy ở đây, việc triển khai lớp này đang sử dụng ứng dụng Rabbit MQ. Không, tôi sẽ không hướng dẫn bạn.
+Như chúng ta có thể thấy ở đây, việc triển khai lớp này đang sử dụng ứng dụng Rabbit MQ. Không, tôi sẽ không hướng dẫn chúng ta .
 
 29
 00: 05: 37, 190--> 00: 05: 45, 950
-Tất cả API đều được sử dụng trong quá trình triển khai này, nhưng bạn sẽ thấy rằng tôi đã đưa liên kết đến các ứng dụng mà tôi đã sử dụng.
+Tất cả API đều được sử dụng trong quá trình triển khai này, nhưng chúng ta sẽ thấy rằng tôi đã đưa liên kết đến các ứng dụng mà tôi đã sử dụng.
 
 30
 00: 05: 45, 950--> 00: 06: 02, 660
-Nếu bạn muốn tìm hiểu sâu hơn về Rabbit MPU, tôi khuyên bạn nên xem hướng dẫn API này và sau đó khi bạn xem mã trong lớp này, hãy tìm các liên kết mà tôi đã đưa vào nhận xét để kiểm tra việc triển khai của dịch vụ nhắn tin của chúng tôi.
+Nếu chúng ta muốn tìm hiểu sâu hơn về Rabbit MPU, tôi khuyên chúng ta nên xem hướng dẫn API này và sau đó khi chúng ta xem mã trong lớp này, hãy tìm các liên kết mà tôi đã đưa vào nhận xét để kiểm tra việc triển khai của dịch vụ nhắn tin của chúng tôi.
 
 31
 00: 06: 02, 960--> 00: 06: 19, 100
@@ -6421,7 +6421,7 @@ Vì vậy, điều đó có nghĩa là nếu tôi xuất bản một thông báo
 
 38
 00: 07: 12, 890--> 00: 07: 22, 940
-Và như bạn có thể thấy ở đây, hiện tại có hai người đăng ký. Một là thuê bao tĩnh mà chúng tôi đã tạo và thuê bao này là thuê bao dành cho mã đang chạy trong bảng điều khiển.
+Và như chúng ta có thể thấy ở đây, hiện tại có hai người đăng ký. Một là thuê bao tĩnh mà chúng tôi đã tạo và thuê bao này là thuê bao dành cho mã đang chạy trong bảng điều khiển.
 
 39
 00: 07: 22, 940--> 00: 07: 28, 430
@@ -6429,7 +6429,7 @@ Hãy tiếp tục và xuất bản một tin nhắn. Chúng tôi cần cung cấ
 
 40
 00: 07: 28, 460--> 00: 07: 35, 750
-Và tôi sẽ chỉ nói từ tin nhắn đã xuất bản của bạn, tin nhắn đã xuất bản, hãy quay lại bảng điều khiển và đây là tin nhắn của chúng tôi.
+Và tôi sẽ chỉ nói từ tin nhắn đã xuất bản của chúng ta, tin nhắn đã xuất bản, hãy quay lại bảng điều khiển và đây là tin nhắn của chúng tôi.
 
 41
 00: 07: 35, 750--> 00: 07: 46, 760
@@ -6439,15 +6439,15 @@ Hãy thử một lần nữa. Tôi sẽ chỉ đặt tin nhắn được xuất 
 
 1
 00: 00: 00, 150--> 00: 00: 11, 340
-Đây là phần hai của hướng dẫn mã về các sự kiện tích hợp trong bài học này. Tôi sẽ hướng dẫn bạn cách triển khai kho lưu trữ để xác nhận đăng ký.
+Đây là phần hai của hướng dẫn mã về các sự kiện tích hợp trong bài học này. Tôi sẽ hướng dẫn chúng ta cách triển khai kho lưu trữ để xác nhận đăng ký.
 
 2
 00: 00: 11, 370--> 00: 00: 21, 970
-Sau đó, tôi sẽ hướng dẫn bạn mã mà chúng tôi sẽ sử dụng để kiểm tra sự kiện tích hợp. Và cuối cùng, chúng ta sẽ thấy sự kiện xác nhận đặt chỗ đang diễn ra.
+Sau đó, tôi sẽ hướng dẫn chúng ta mã mà chúng tôi sẽ sử dụng để kiểm tra sự kiện tích hợp. Và cuối cùng, chúng ta sẽ thấy sự kiện xác nhận đặt chỗ đang diễn ra.
 
 3
 00: 00: 22, 380--> 00: 00: 28, 500
-Xin nhắc nhanh, mã mà tôi đang hướng dẫn bạn trong bài giảng này có sẵn ở nhánh cổng.
+Xin nhắc nhanh, mã mà tôi đang hướng dẫn chúng ta trong bài giảng này có sẵn ở nhánh cổng.
 
 4
 00: 00: 29, 040--> 00: 00: 36, 240
@@ -6463,7 +6463,7 @@ Mặc dù vậy, để nâng cao sự kiện, tôi đã điều chỉnh lại re
 
 7
 00: 00: 56, 640--> 00: 01: 25, 110
-Và chức năng thứ hai là chức năng trạng thái cập nhật, sẽ được gọi từ tổng hợp xác nhận đặt chỗ để cập nhật trạng thái của xác nhận đặt chỗ theo đức tin kho xác nhận đặt chỗ lớp và bạn sẽ tìm thấy chức năng dịch vụ nhắn tin lên có một phiên bản của tin nhắn dịch vụ làm đối số và nó trên dịch vụ nhắn tin biến thể hiện trong hàm bước cập nhật.
+Và chức năng thứ hai là chức năng trạng thái cập nhật, sẽ được gọi từ tổng hợp xác nhận đặt chỗ để cập nhật trạng thái của xác nhận đặt chỗ theo đức tin kho xác nhận đặt chỗ lớp và chúng ta sẽ tìm thấy chức năng dịch vụ nhắn tin lên có một phiên bản của tin nhắn dịch vụ làm đối số và nó trên dịch vụ nhắn tin biến thể hiện trong hàm bước cập nhật.
 
 8
 00: 01: 25, 110--> 00: 01: 39, 670
@@ -6499,7 +6499,7 @@ Vì vậy, vui lòng tiếp tục, sao chép M Kupwara từ trang chi tiết và
 
 16
 00: 02: 57, 990--> 00: 03: 09, 420
-Ngay cả trong quá trình kiểm tra và đây là lớp kiểm tra lệnh thanh toán của chúng tôi được gọi đến chức năng chính và bạn sẽ thấy lệnh gọi tới thông báo thiết lập trên dòng này.
+Ngay cả trong quá trình kiểm tra và đây là lớp kiểm tra lệnh thanh toán của chúng tôi được gọi đến chức năng chính và chúng ta sẽ thấy lệnh gọi tới thông báo thiết lập trên dòng này.
 
 17
 00: 03: 09, 720--> 00: 03: 25, 410
@@ -6507,7 +6507,7 @@ Ngay cả trong quá trình kiểm tra và đây là lớp kiểm tra lệnh tha
 
 18
 00: 03: 25, 770--> 00: 03: 34, 050
-Nếu bạn chưa nói Eurail hoặc nếu có bất kỳ vấn đề kết nối nào thì lúc này sẽ có ngoại lệ và quá trình kiểm tra sẽ dừng lại.
+Nếu chúng ta chưa nói Eurail hoặc nếu có bất kỳ vấn đề kết nối nào thì lúc này sẽ có ngoại lệ và quá trình kiểm tra sẽ dừng lại.
 
 19
 00: 03: 34, 050--> 00: 03: 47, 520
@@ -6519,7 +6519,7 @@ Không, chúng tôi không có tin nhắn nào trong hàng đợi. Hãy tiếp t
 
 21
 00: 03: 54, 180--> 00: 04: 00, 140
-Sau đó, bạn sẽ chạy thử nghiệm này. Nó sẽ thực hiện nhiều hoạt động thông qua các kho lưu trữ giả mạo.
+Sau đó, chúng ta sẽ chạy thử nghiệm này. Nó sẽ thực hiện nhiều hoạt động thông qua các kho lưu trữ giả mạo.
 
 22
 00: 04: 00, 180--> 00: 04: 07, 000
@@ -6531,13 +6531,13 @@ Thử nghiệm này tương tự như thử nghiệm trước đó, ngoại tr�
 
 24
 00: 04: 13, 290--> 00: 04: 25, 830
-Như bạn có thể thấy ở đây, một sự kiện đã được nêu ra. Hãy kiểm tra Q và trong Q, như mong đợi, chúng ta thấy một thông báo và nếu nhận được thông báo, chúng ta sẽ thấy nội dung thông báo cho sự kiện.
+Như chúng ta có thể thấy ở đây, một sự kiện đã được nêu ra. Hãy kiểm tra Q và trong Q, như mong đợi, chúng ta thấy một thông báo và nếu nhận được thông báo, chúng ta sẽ thấy nội dung thông báo cho sự kiện.
 
 <!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000001.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 12, 960
-Trong phần cuối cùng, bạn biết rằng các sự kiện xảy ra một cách tự nhiên trong các miền. Vì vậy, điều đó có nghĩa là để hiểu miền, bạn phải hiểu các sự kiện được tạo ra và tiêu thụ trong miền.
+Trong phần cuối cùng, chúng ta biết rằng các sự kiện xảy ra một cách tự nhiên trong các miền. Vì vậy, điều đó có nghĩa là để hiểu miền, chúng ta phải hiểu các sự kiện được tạo ra và tiêu thụ trong miền.
 
 2
 00: 00: 13, 320--> 00: 00: 24, 040
@@ -6553,37 +6553,37 @@ Ngay cả việc gây bão cũng được thực hiện theo hình thức hội 
 
 5
 00: 00: 48, 270--> 00: 01: 03, 080
-Hội thảo này có thể được thực hiện trực tiếp hoặc trực tuyến bằng các công cụ cộng tác. Trong một trong những bài giảng trong phần này, bạn sẽ học cách sử dụng các công cụ cộng tác để tiến hành hội thảo về sự kiện.
+Hội thảo này có thể được thực hiện trực tiếp hoặc trực tuyến bằng các công cụ cộng tác. Trong một trong những bài giảng trong phần này, chúng ta sẽ học cách sử dụng các công cụ cộng tác để tiến hành hội thảo về sự kiện.
 
 6
 00: 01: 03, 360--> 00: 01: 16, 710
-Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Đến cuối phần này, bạn sẽ hiểu rõ về thậm chí gây bão là gì, một trong những mục tiêu và kết quả của một hội thảo về sự kiện gây bão.
+Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Đến cuối phần này, chúng ta sẽ hiểu rõ về thậm chí gây bão là gì, một trong những mục tiêu và kết quả của một hội thảo về sự kiện gây bão.
 
 7
 00: 01: 17, 160--> 00: 01: 35, 580
-Bạn có thể mô tả quá trình được sử dụng để tạo ra các mô hình kiến ​​thức. Bạn sẽ học cách chuẩn bị và tiến hành hội thảo gây bão sự kiện và trong bài giảng cuối cùng, bạn sẽ thấy cách sử dụng các công cụ cộng tác để tiến hành và hội thảo trực tuyến, thậm chí là gây bão.
+Bạn có thể mô tả quá trình được sử dụng để tạo ra các mô hình kiến ​​thức. Bạn sẽ học cách chuẩn bị và tiến hành hội thảo gây bão sự kiện và trong bài giảng cuối cùng, chúng ta sẽ thấy cách sử dụng các công cụ cộng tác để tiến hành và hội thảo trực tuyến, thậm chí là gây bão.
 
 <!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 15, 630
-Giới thiệu về sự kiện gây bão, tôi sẽ bắt đầu bài giảng này bằng cách xem lại phần tóm tắt kiến ​​thức, sau đó tôi sẽ thảo luận về hội thảo thậm chí gây bão là gì và bạn cần những gì để tiến hành hội thảo gây bão sự kiện.
+Giới thiệu về sự kiện gây bão, tôi sẽ bắt đầu bài giảng này bằng cách xem lại phần tóm tắt kiến ​​thức, sau đó tôi sẽ thảo luận về hội thảo thậm chí gây bão là gì và chúng ta cần những gì để tiến hành hội thảo gây bão sự kiện.
 
 2
 00: 00: 16, 110--> 00: 00: 29, 760
-Ở một trong những bài giảng trước đó, tôi đã giới thiệu cho các bạn cách nghiền nát kiến ​​thức phổ thông. Xử lý kiến ​​thức là một cách để các nhóm xử lý kiến ​​thức nhận được từ các chuyên gia trong lĩnh vực thành mô hình miền.
+Ở một trong những bài giảng trước đó, tôi đã giới thiệu cho các chúng ta cách nghiền nát kiến ​​thức phổ thông. Xử lý kiến ​​thức là một cách để các nhóm xử lý kiến ​​thức nhận được từ các chuyên gia trong lĩnh vực thành mô hình miền.
 
 3
 00: 00: 30, 240--> 00: 00: 46, 320
-Là một phần của khóa học, tôi đã cho bạn xem nhiều ví dụ trong đó chúng tôi phỏng vấn các chuyên gia miền và tạo ra các mô hình miền chủ yếu ở dạng UML và ngôn ngữ chung tại thời điểm này.
+Là một phần của khóa học, tôi đã cho chúng ta xem nhiều ví dụ trong đó chúng tôi phỏng vấn các chuyên gia miền và tạo ra các mô hình miền chủ yếu ở dạng UML và ngôn ngữ chung tại thời điểm này.
 
 4
 00: 00: 46, 440--> 00: 01: 01, 790
-Câu hỏi đặt ra bây giờ là bạn tiếp nhận kiến ​​thức từ các chuyên gia miền như thế nào? Phỏng vấn là một trong những kỹ thuật chúng tôi đã sử dụng nhưng có nhiều kỹ thuật khác có cấu trúc chặt chẽ hơn nhiều so với các cuộc phỏng vấn không chính thức.
+Câu hỏi đặt ra bây giờ là chúng ta tiếp nhận kiến ​​thức từ các chuyên gia miền như thế nào? Phỏng vấn là một trong những kỹ thuật chúng tôi đã sử dụng nhưng có nhiều kỹ thuật khác có cấu trúc chặt chẽ hơn nhiều so với các cuộc phỏng vấn không chính thức.
 
 5
 00: 01: 02, 010--> 00: 01: 10, 930
-Ví dụ: nếu bạn đang thực hiện việc lên ý tưởng để phát triển một sản phẩm mới, bạn có thể sử dụng một kỹ thuật gọi là tư duy thiết kế cho thiết kế theo hướng miền.
+Ví dụ: nếu chúng ta đang thực hiện việc lên ý tưởng để phát triển một sản phẩm mới, chúng ta có thể sử dụng một kỹ thuật gọi là tư duy thiết kế cho thiết kế theo hướng miền.
 
 6
 00: 01: 10, 980--> 00: 01: 19, 170
@@ -6591,7 +6591,7 @@ Có một kỹ thuật phổ biến được sử dụng và kỹ thuật đó �
 
 7
 00: 01: 19, 180--> 00: 01: 25, 680
-Có nhiều cách khác để bạn có thể nhận kiến ​​thức từ các chuyên gia trong lĩnh vực một cách có cấu trúc.
+Có nhiều cách khác để chúng ta có thể nhận kiến ​​thức từ các chuyên gia trong lĩnh vực một cách có cấu trúc.
 
 8
 00: 01: 25, 800--> 00: 01: 40, 660
@@ -6607,7 +6607,7 @@ Ngay cả việc gây bão cũng có thể được sử dụng để tạo ra s
 
 11
 00: 02: 18, 900--> 00: 02: 27, 340
-Vì vậy, kỹ thuật này khá linh hoạt về những gì bạn có thể sử dụng nó. Chủ đề trung tâm của các sự kiện kinh doanh.
+Vì vậy, kỹ thuật này khá linh hoạt về những gì chúng ta có thể sử dụng nó. Chủ đề trung tâm của các sự kiện kinh doanh.
 
 12
 00: 02: 27, 540--> 00: 02: 40, 150
@@ -6627,15 +6627,15 @@ Một điều quan trọng cần ghi nhớ là kiến ​​thức được tạ
 
 16
 00: 03: 08, 490--> 00: 03: 24, 750
-Vì vậy, nói cách khác, bạn sẽ không thay thế mô hình hóa con người bằng thậm chí Stormi, nhưng bạn sẽ sử dụng kiến ​​thức thu được từ thậm chí Stormi làm đầu vào để tạo sơ đồ UML nếu bạn muốn tìm hiểu thêm về bão thậm chí.
+Vì vậy, nói cách khác, chúng ta sẽ không thay thế mô hình hóa con người bằng thậm chí Stormi, nhưng chúng ta sẽ sử dụng kiến ​​thức thu được từ thậm chí Stormi làm đầu vào để tạo sơ đồ UML nếu chúng ta muốn tìm hiểu thêm về bão thậm chí.
 
 17
 00: 03: 25, 140--> 00: 03: 33, 250
-Gợi ý của tôi là các bạn hãy xem cuốn sách này do Alberto giới thiệu, thậm chí còn gây bão. Bây giờ hãy nói về hội thảo.
+Gợi ý của tôi là các chúng ta hãy xem cuốn sách này do Alberto giới thiệu, thậm chí còn gây bão. Bây giờ hãy nói về hội thảo.
 
 18
 00: 03: 33, 390--> 00: 03: 59, 080
-Điều quan trọng nhất của hội thảo thậm chí còn gây bão là bạn phải mời đúng nhóm chuyên gia CNTT và miền, ví dụ: nếu bạn đang thực hiện hội thảo giải quyết đồng đều cho một số sản phẩm ngân hàng, thì bạn phải có quyền các chuyên gia về lĩnh vực trong phòng, những người có thể trả lời các câu hỏi trong lĩnh vực hoặc lĩnh vực chuyên môn tương ứng của họ.
+Điều quan trọng nhất của hội thảo thậm chí còn gây bão là chúng ta phải mời đúng nhóm chuyên gia CNTT và miền, ví dụ: nếu chúng ta đang thực hiện hội thảo giải quyết đồng đều cho một số sản phẩm ngân hàng, thì chúng ta phải có quyền các chuyên gia về lĩnh vực trong phòng, những người có thể trả lời các câu hỏi trong lĩnh vực hoặc lĩnh vực chuyên môn tương ứng của họ.
 
 19
 00: 03: 59, 130--> 00: 04: 08, 250
@@ -6643,7 +6643,7 @@ Có một người hướng dẫn tận tâm làm việc với những người 
 
 20
 00: 04: 08, 400--> 00: 04: 25, 770
-Số lượng người tham gia hội thảo được quyết định bởi phạm vi. Nếu bạn đang tổ chức một buổi hội thảo có tính chất sôi động để hiểu rõ quy trình kinh doanh thì bạn nên dự kiến ​​có từ bốn đến tám người tham gia hội thảo.
+Số lượng người tham gia hội thảo được quyết định bởi phạm vi. Nếu chúng ta đang tổ chức một buổi hội thảo có tính chất sôi động để hiểu rõ quy trình kinh doanh thì chúng ta nên dự kiến ​​có từ bốn đến tám người tham gia hội thảo.
 
 21
 00: 04: 26, 160--> 00: 04: 33, 170
@@ -6659,7 +6659,7 @@ Nhưng gần đây các buổi hội thảo trực tuyến cũng đã trở nên
 
 24
 00: 04: 58, 500--> 00: 05: 10, 160
-Tin tốt là có. Các công cụ rất tốt hiện có để thực hiện các hội thảo trực tuyến này. Tiếp theo, tôi sẽ xem bạn cần những gì cho hội thảo trực tiếp cũng như hội thảo trực tuyến.
+Tin tốt là có. Các công cụ rất tốt hiện có để thực hiện các hội thảo trực tuyến này. Tiếp theo, tôi sẽ xem chúng ta cần những gì cho hội thảo trực tiếp cũng như hội thảo trực tuyến.
 
 25
 00: 05: 10, 520--> 00: 05: 32, 060
@@ -6687,7 +6687,7 @@ Có nhiều nền tảng cộng tác cho phép người tham gia thực hiện c
 
 31
 00: 06: 20, 300--> 00: 06: 32, 690
-Tôi khuyên bạn nên thực hiện nghiên cứu của riêng mình trên các nền tảng cộng tác này. Trong một trong những bài giảng sau, tôi sẽ sử dụng Mirro để thực hiện hội thảo cho Achmad Travels.
+Tôi khuyên chúng ta nên thực hiện nghiên cứu của riêng mình trên các nền tảng cộng tác này. Trong một trong những bài giảng sau, tôi sẽ sử dụng Mirro để thực hiện hội thảo cho Achmad Travels.
 
 32
 00: 06: 32, 960--> 00: 06: 41, 050
@@ -6721,11 +6721,11 @@ Tôi sẽ bắt đầu bài học này bằng cách thảo luận về nguyên n
 
 3
 00: 00: 22, 800--> 00: 00: 31, 890
-Lưu ý nhanh, bài học này sẽ cung cấp phần giới thiệu ở cấp độ cao về bão thậm chí, nếu bạn muốn trở thành người điều phối hoặc chuyên gia về bão thậm chí.
+Lưu ý nhanh, bài học này sẽ cung cấp phần giới thiệu ở cấp độ cao về bão thậm chí, nếu chúng ta muốn trở thành người điều phối hoặc chuyên gia về bão thậm chí.
 
 4
 00: 00: 31, 920--> 00: 00: 38, 670
-Đề nghị của tôi là bạn nên tự nghiên cứu, cân nhắc việc đào tạo và cân nhắc việc đọc cuốn sách của Alberto.
+Đề nghị của tôi là chúng ta nên tự nghiên cứu, cân nhắc việc đào tạo và cân nhắc việc đọc cuốn sách của Alberto.
 
 5
 00: 00: 39, 210--> 00: 00: 48, 230
@@ -6745,11 +6745,11 @@ Nhân quả này được mô tả như là sự hiểu biết về lĩnh vực 
 
 9
 00: 01: 32, 400--> 00: 01: 49, 320
-Các miếng dính có mã màu được sử dụng để thể hiện từng yếu tố trong số sáu yếu tố này. Hiện đã có tiêu chuẩn đề xuất cho màu sắc của các chất dính hoặc các thành phần này, nhưng bạn không cần phải tuân theo tiêu chuẩn đó miễn là bạn nhất quán trong suốt buổi hội thảo của mình.
+Các miếng dính có mã màu được sử dụng để thể hiện từng yếu tố trong số sáu yếu tố này. Hiện đã có tiêu chuẩn đề xuất cho màu sắc của các chất dính hoặc các thành phần này, nhưng chúng ta không cần phải tuân theo tiêu chuẩn đó miễn là chúng ta nhất quán trong suốt buổi hội thảo của mình.
 
 10
 00: 01: 49, 350--> 00: 01: 55, 180
-Nói cách khác, nếu bạn không có sẵn những màu cụ thể này cho xưởng của mình thì điều đó không thực sự quan trọng.
+Nói cách khác, nếu chúng ta không có sẵn những màu cụ thể này cho xưởng của mình thì điều đó không thực sự quan trọng.
 
 11
 00: 01: 55, 380--> 00: 02: 10, 690
@@ -6817,7 +6817,7 @@ Việc thực thi logic nghiệp vụ được thực hiện trong các quy trì
 
 27
 00: 04: 51, 500--> 00: 05: 08, 270
-Phần tử thực hiện việc xử lý lệnh được gọi là phần tử tổng hợp. Vì vậy, nếu bạn nhìn lại hình minh họa mà tôi đã chia sẻ với bạn trước đó, lệnh này không trực tiếp nâng cao miền, thậm chí nó là tổng hợp đang xử lý lệnh.
+Phần tử thực hiện việc xử lý lệnh được gọi là phần tử tổng hợp. Vì vậy, nếu chúng ta nhìn lại hình minh họa mà tôi đã chia sẻ với chúng ta trước đó, lệnh này không trực tiếp nâng cao miền, thậm chí nó là tổng hợp đang xử lý lệnh.
 
 28
 00: 05: 08, 270--> 00: 05: 15, 020
@@ -6837,7 +6837,7 @@ Hệ thống thanh toán người bán bên ngoài này sẽ phát sinh một s�
 
 32
 00: 05: 55, 620--> 00: 06: 11, 040
-Vì vậy, như bạn có thể thấy ở đây, hệ thống hoặc dịch vụ thanh toán của người bán nằm ngoài tầm kiểm soát của ngân hàng hoặc miền và sự kiện của ngân hàng có liên quan trực tiếp hoặc gián tiếp đến sự thay đổi trạng thái trong một miền.
+Vì vậy, như chúng ta có thể thấy ở đây, hệ thống hoặc dịch vụ thanh toán của người bán nằm ngoài tầm kiểm soát của ngân hàng hoặc miền và sự kiện của ngân hàng có liên quan trực tiếp hoặc gián tiếp đến sự thay đổi trạng thái trong một miền.
 
 33
 00: 06: 11, 430--> 00: 06: 20, 060
@@ -6903,7 +6903,7 @@ Hãy bắt đầu bằng một câu hỏi. Ai tạo điều kiện cho hội th�
 
 3
 00: 00: 24, 720--> 00: 00: 39, 700
-Theo quan điểm và kinh nghiệm của tôi, bạn thực sự không cần đến chuyên gia tư vấn bên ngoài. Các thành viên hiện tại của nhóm, chẳng hạn như người quản lý dự án và chuyên gia scrum có thể dễ dàng được đào tạo để trở thành những người điều phối hội thảo nổi bật.
+Theo quan điểm và kinh nghiệm của tôi, chúng ta thực sự không cần đến chuyên gia tư vấn bên ngoài. Các thành viên hiện tại của nhóm, chẳng hạn như người quản lý dự án và chuyên gia scrum có thể dễ dàng được đào tạo để trở thành những người điều phối hội thảo nổi bật.
 
 4
 00: 00: 39, 750--> 00: 00: 53, 580
@@ -6927,7 +6927,7 @@ Sau khi người điều phối đã hoàn thành những nhiệm vụ này, đ�
 
 9
 00: 01: 46, 410--> 00: 01: 53, 430
-Để chuẩn bị cho buổi hội thảo trực tiếp, bạn cần đảm bảo rằng căn phòng bạn đang sử dụng rộng rãi.
+Để chuẩn bị cho buổi hội thảo trực tiếp, chúng ta cần đảm bảo rằng căn phòng chúng ta đang sử dụng rộng rãi.
 
 10
 00: 01: 53, 730--> 00: 02: 09, 260
@@ -6935,15 +6935,15 @@ Nếu có bàn ghế trong phòng, hãy di chuyển chúng sang một bên. Và 
 
 11
 00: 02: 09, 870--> 00: 02: 15, 760
-Số lượng tờ giấy bạn sẽ treo trên tường sẽ phụ thuộc vào phạm vi của bài tập.
+Số lượng tờ giấy chúng ta sẽ treo trên tường sẽ phụ thuộc vào phạm vi của bài tập.
 
 12
 00: 02: 15, 840--> 00: 02: 32, 190
-Giờ đây, bạn không cần phải treo lô giấy khắp phòng mà bạn có thể thực hiện tùy ý. Ý tưởng là chuẩn bị sẵn sàng cho một hội thảo từ xa, đảm bảo rằng tất cả các công cụ đã sẵn sàng hoạt động ít nhất hai ngày trước hội thảo.
+Giờ đây, chúng ta không cần phải treo lô giấy khắp phòng mà chúng ta có thể thực hiện tùy ý. Ý tưởng là chuẩn bị sẵn sàng cho một hội thảo từ xa, đảm bảo rằng tất cả các công cụ đã sẵn sàng hoạt động ít nhất hai ngày trước hội thảo.
 
 13
 00: 02: 32, 220--> 00: 02: 38, 820
-Nói cách khác, bạn phải thiết lập hội nghị truyền hình. Bạn phải có công cụ để thiết lập cộng tác.
+Nói cách khác, chúng ta phải thiết lập hội nghị truyền hình. Bạn phải có công cụ để thiết lập cộng tác.
 
 14
 00: 02: 39, 000--> 00: 02: 50, 360
@@ -6955,15 +6955,15 @@ Và lý do cho điều này là trong nhiều hội thảo, tôi đã thấy m�
 
 16
 00: 03: 02, 730--> 00: 03: 13, 830
-Bạn không muốn điều đó xảy ra. Vì vậy, hãy đảm bảo rằng nếu bạn tiến hành hội thảo từ xa, bạn phải chuẩn bị sẵn sàng mọi thứ vào ngày đầu tiên trước khi hội thảo bắt đầu.
+Bạn không muốn điều đó xảy ra. Vì vậy, hãy đảm bảo rằng nếu chúng ta tiến hành hội thảo từ xa, chúng ta phải chuẩn bị sẵn sàng mọi thứ vào ngày đầu tiên trước khi hội thảo bắt đầu.
 
 17
 00: 03: 15, 010--> 00: 03: 25, 380
-Khi bắt đầu hội thảo về bão chẵn, bạn nên cung cấp một cái nhìn tổng quan nhanh về bão chẵn là gì.
+Khi bắt đầu hội thảo về bão chẵn, chúng ta nên cung cấp một cái nhìn tổng quan nhanh về bão chẵn là gì.
 
 18
 00: 03: 25, 720--> 00: 03: 38, 430
-Bây giờ, bạn có thể có một nhóm người tham gia đã từng trải qua cơn bão, nhưng sẽ không có hại gì khi dành một vài phút để nhắc nhở mọi người về những gì liên quan đến hội thảo.
+Bây giờ, chúng ta có thể có một nhóm người tham gia đã từng trải qua cơn bão, nhưng sẽ không có hại gì khi dành một vài phút để nhắc nhở mọi người về những gì liên quan đến hội thảo.
 
 19
 00: 03: 38, 440--> 00: 03: 50, 560
@@ -6971,7 +6971,7 @@ Và như một phần của chương trình đào tạo này, vui lòng không s
 
 20
 00: 03: 50, 560--> 00: 04: 10, 040
-Giữ nó tập trung vào kinh doanh. Hãy nhớ rằng, những người tham gia của bạn không nhất thiết phải là nhà công nghệ. Thảo luận về mục đích của giấy dán màu và không gian làm việc, nhưng bạn không cần phải dành quá nhiều thời gian cho những khía cạnh này vì người tham gia sẽ tìm hiểu vì bạn sẽ tiếp tục tham gia hội thảo.
+Giữ nó tập trung vào kinh doanh. Hãy nhớ rằng, những người tham gia của chúng ta không nhất thiết phải là nhà công nghệ. Thảo luận về mục đích của giấy dán màu và không gian làm việc, nhưng chúng ta không cần phải dành quá nhiều thời gian cho những khía cạnh này vì người tham gia sẽ tìm hiểu vì chúng ta sẽ tiếp tục tham gia hội thảo.
 
 21
 00: 04: 10, 180--> 00: 04: 24, 310
@@ -6991,11 +6991,11 @@ Mục tiêu cấp cao của hội thảo là trong không gian làm việc để
 
 25
 00: 05: 03, 280--> 00: 05: 19, 010
-Một điều quan trọng khác là khi bạn bắt đầu tham gia hội thảo, rất có thể sẽ có các cuộc thảo luận xung quanh các khía cạnh ngoài trường học nhìn từ góc độ hội thảo, nhưng chúng có thể có giá trị từ góc độ lĩnh vực.
+Một điều quan trọng khác là khi chúng ta bắt đầu tham gia hội thảo, rất có thể sẽ có các cuộc thảo luận xung quanh các khía cạnh ngoài trường học nhìn từ góc độ hội thảo, nhưng chúng có thể có giá trị từ góc độ lĩnh vực.
 
 26
 00: 05: 19, 210--> 00: 05: 28, 840
-Do đó, bạn không muốn bỏ lỡ những khía cạnh đó, vì vậy hãy tạo một không gian dành riêng để liệt kê tất cả các yếu tố của ống soi tai này.
+Do đó, chúng ta không muốn bỏ lỡ những khía cạnh đó, vì vậy hãy tạo một không gian dành riêng để liệt kê tất cả các yếu tố của ống soi tai này.
 
 27
 00: 05: 29, 200--> 00: 06: 14, 250
@@ -7163,7 +7163,7 @@ Trong vòng hai đến ba ngày. Người điều phối củng cố Kiến th�
 
 1
 00: 00: 00, 150--> 00: 00: 09, 390
-Hội thảo bán hàng Acme, thậm chí gây bão trong bài học này, tôi sẽ chứng minh cho bạn cách tạo điều kiện thuận lợi cho một hội thảo từ xa, thậm chí gây bão.
+Hội thảo bán hàng Acme, thậm chí gây bão trong bài học này, tôi sẽ chứng minh cho chúng ta cách tạo điều kiện thuận lợi cho một hội thảo từ xa, thậm chí gây bão.
 
 2
 00: 00: 09, 750--> 00: 00: 17, 770
@@ -7195,7 +7195,7 @@ Xin lưu ý rằng trọng tâm của bài học này là thể hiện các nhi�
 
 9
 00: 01: 24, 190--> 00: 01: 35, 710
-Vì vậy, nếu bạn muốn tìm hiểu cách Mirro hoạt động, tôi khuyên bạn nên ghé thăm Mirador. Com và đi tới phần hướng dẫn hoặc video YouTube vì bước đầu tiên sẽ thiết lập bảng.
+Vì vậy, nếu chúng ta muốn tìm hiểu cách Mirro hoạt động, tôi khuyên chúng ta nên ghé thăm Mirador. Com và đi tới phần hướng dẫn hoặc video YouTube vì bước đầu tiên sẽ thiết lập bảng.
 
 10
 00: 01: 35, 720--> 00: 01: 44, 050
@@ -7207,7 +7207,7 @@ Hãy đặt dòng thời gian bây giờ. Chúng tôi sẵn sàng mời những 
 
 12
 00: 01: 53, 260--> 00: 02: 02, 290
-Để mời những người tham gia, hãy nhấp vào Chia sẻ và sau đó thiết lập những người tham gia của bạn. Tôi đã mời những người tham gia hội thảo này.
+Để mời những người tham gia, hãy nhấp vào Chia sẻ và sau đó thiết lập những người tham gia của chúng ta . Tôi đã mời những người tham gia hội thảo này.
 
 13
 00: 02: 02, 500--> 00: 02: 17, 040
@@ -7215,7 +7215,7 @@ Những người tham gia được mời sẽ nhận được email để tham g
 
 14
 00: 02: 17, 050--> 00: 02: 27, 550
-Và như bạn có thể thấy ở đây, tất cả những người tham gia sẽ có thể nhìn thấy vị trí của con trỏ để tất cả những người tham gia khác xác định các sự kiện.
+Và như chúng ta có thể thấy ở đây, tất cả những người tham gia sẽ có thể nhìn thấy vị trí của con trỏ để tất cả những người tham gia khác xác định các sự kiện.
 
 15
 00: 02: 27, 550--> 00: 02: 33, 460
@@ -7363,7 +7363,7 @@ Vì vậy, đây là trạng thái cuối cùng của mô hình kiến ​​th�
 
 51
 00: 09: 23, 940--> 00: 09: 38, 880
-Mục đích của tôi chỉ là cung cấp cho bạn ý tưởng về cách hoạt động của hội thảo thậm chí còn gây bão. Cuối cùng, mô hình kiến ​​thức này sẽ được mở rộng để bao gồm việc xử lý nhiều sự kiện ở đây và các chi tiết khác.
+Mục đích của tôi chỉ là cung cấp cho chúng ta ý tưởng về cách hoạt động của hội thảo thậm chí còn gây bão. Cuối cùng, mô hình kiến ​​thức này sẽ được mở rộng để bao gồm việc xử lý nhiều sự kiện ở đây và các chi tiết khác.
 
 <!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000001.srt-->
 
@@ -7495,7 +7495,7 @@ Từ góc độ CSDL, các nhóm ứng dụng sẽ cần nhận thức được 
 
 25
 00: 04: 51, 900--> 00: 05: 08, 850
-Vì vậy, việc đưa các nhà phát triển mới vào nhóm sẽ là một thách thức vào thời điểm này. Tôi chắc chắn rằng bạn sẽ đồng ý với tôi rằng CSDL dùng chung là một mô hình đầu vào, nhưng có rất nhiều doanh nghiệp vẫn đang xử lý các ứng dụng như vậy.
+Vì vậy, việc đưa các nhà phát triển mới vào nhóm sẽ là một thách thức vào thời điểm này. Tôi chắc chắn rằng chúng ta sẽ đồng ý với tôi rằng CSDL dùng chung là một mô hình đầu vào, nhưng có rất nhiều doanh nghiệp vẫn đang xử lý các ứng dụng như vậy.
 
 26
 00: 05: 09, 570--> 00: 05: 18, 900
@@ -7509,7 +7509,7 @@ Nhưng hóa ra SOA giống như một phương tiện hỗ trợ cho một vấn
 
 1
 00: 00: 00, 060--> 00: 00: 20, 040
-Kiến trúc hướng dịch vụ trở nên rất phổ biến vào đầu những năm 2000, trong bài học này, bạn tìm hiểu về kiến ​​trúc hướng dịch vụ và cách nó được sử dụng kết hợp với mẫu CSDL dùng chung trong kiến ​​trúc hướng dịch vụ, dữ liệu được hiển thị qua các dịch vụ đám mây.
+Kiến trúc hướng dịch vụ trở nên rất phổ biến vào đầu những năm 2000, trong bài học này, chúng ta tìm hiểu về kiến ​​trúc hướng dịch vụ và cách nó được sử dụng kết hợp với mẫu CSDL dùng chung trong kiến ​​trúc hướng dịch vụ, dữ liệu được hiển thị qua các dịch vụ đám mây.
 
 2
 00: 00: 20, 170--> 00: 00: 35, 130
@@ -7649,7 +7649,7 @@ Bạn cũng sẽ tìm hiểu lý do tại sao mẫu CSDL dùng chung được xe
 
 3
 00: 00: 18, 960--> 00: 00: 30, 270
-Và bạn cũng sẽ tìm hiểu một mẫu mới, mẫu hình tam giác này có thể được sử dụng để chuyển đổi các ứng dụng sai thành các vi dịch vụ trong một dự án brownfield.
+Và chúng ta cũng sẽ tìm hiểu một mẫu mới, mẫu hình tam giác này có thể được sử dụng để chuyển đổi các ứng dụng sai thành các vi dịch vụ trong một dự án brownfield.
 
 4
 00: 00: 30, 660--> 00: 01: 05, 110
@@ -7657,7 +7657,7 @@ Một ứng dụng nguyên khối được nhắm mục tiêu tái cấu trúc t
 
 5
 00: 01: 05, 340--> 00: 01: 24, 640
-Vì vậy, trong hai tùy chọn cuối cùng, CSDL dùng chung sẽ được giữ lại. Tôi sẽ chỉ đề cập đến tùy chọn đầu tiên trong bài học này và tôi sẽ chỉ cho bạn cách sử dụng mẫu strangler để chuyển từ CSDL chung sang triển khai CSDL riêng biệt của các vi dịch vụ .
+Vì vậy, trong hai tùy chọn cuối cùng, CSDL dùng chung sẽ được giữ lại. Tôi sẽ chỉ đề cập đến tùy chọn đầu tiên trong bài học này và tôi sẽ chỉ cho chúng ta cách sử dụng mẫu strangler để chuyển từ CSDL chung sang triển khai CSDL riêng biệt của các vi dịch vụ .
 
 6
 00: 01: 25, 710--> 00: 01: 37, 360
@@ -7693,7 +7693,7 @@ Bất kỳ thay đổi nào họ thực hiện sẽ cần phải được phối
 
 14
 00: 03: 15, 390--> 00: 03: 30, 640
-Phiên bản của CSDL, có thể là điểm nghẽn, mặc dù CSDL dùng chung độc lập với góc độ vi dịch vụ, nhưng bạn vẫn có thể sử dụng parathion CSDL dùng chung cho kiến ​​trúc trạng thái chuyển tiếp.
+Phiên bản của CSDL, có thể là điểm nghẽn, mặc dù CSDL dùng chung độc lập với góc độ vi dịch vụ, nhưng chúng ta vẫn có thể sử dụng parathion CSDL dùng chung cho kiến ​​trúc trạng thái chuyển tiếp.
 
 15
 00: 03: 30, 660--> 00: 03: 40, 620
@@ -7701,7 +7701,7 @@ Hãy để tôi giải thích điều tôi muốn nói. Bạn bắt đầu với
 
 16
 00: 03: 40, 860--> 00: 03: 49, 500
-Và bạn đạt đến kiến ​​trúc trạng thái chuyển tiếp này, nơi tất cả các vi dịch vụ đang sử dụng CSDL dùng chung.
+Và chúng ta đạt đến kiến ​​trúc trạng thái chuyển tiếp này, nơi tất cả các vi dịch vụ đang sử dụng CSDL dùng chung.
 
 17
 00: 03: 49, 650--> 00: 04: 05, 940
@@ -7769,7 +7769,7 @@ Mẫu Strangler có thể được sử dụng để chuyển từ việc triể
 
 33
 00: 06: 43, 750--> 00: 06: 54, 670
-Trong bài giảng tiếp theo, bạn sẽ tìm hiểu về cách tái cấu trúc CSDL và phân tách logic các CSDL trong đó CSDL dùng chung được giữ lại ở trạng thái đích.
+Trong bài giảng tiếp theo, chúng ta sẽ tìm hiểu về cách tái cấu trúc CSDL và phân tách logic các CSDL trong đó CSDL dùng chung được giữ lại ở trạng thái đích.
 
 <!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000006.srt-->
 
@@ -7779,7 +7779,7 @@ Mẫu CSDL chia sẻ của các vi dịch vụ trong bài học này, tôi sẽ 
 
 2
 00: 00: 10, 530--> 00: 00: 17, 310
-Tiếp theo, tôi sẽ thảo luận về hai tùy chọn mà bạn có thể cân nhắc để xây dựng các vi dịch vụ dựa trên CSDL dùng chung.
+Tiếp theo, tôi sẽ thảo luận về hai tùy chọn mà chúng ta có thể cân nhắc để xây dựng các vi dịch vụ dựa trên CSDL dùng chung.
 
 3
 00: 00: 17, 880--> 00: 00: 28, 800
@@ -7807,7 +7807,7 @@ Hãy nói về những thách thức khi phá vỡ CSDL . Cơ sở dữ liệu l
 
 9
 00: 01: 51, 090--> 00: 02: 07, 250
-Hãy xem xét cấu trúc CSDL có khoảng 60 bảng này. Nếu bạn chỉ nhìn vào sơ đồ này, chúng tôi có thể phân định ranh giới của dữ liệu trong CSDL này và gán quyền sở hữu các bảng này cho các vi dịch vụ .
+Hãy xem xét cấu trúc CSDL có khoảng 60 bảng này. Nếu chúng ta chỉ nhìn vào sơ đồ này, chúng tôi có thể phân định ranh giới của dữ liệu trong CSDL này và gán quyền sở hữu các bảng này cho các vi dịch vụ .
 
 10
 00: 02: 07, 260--> 00: 02: 26, 370
@@ -7819,11 +7819,11 @@ Và sau đó có những yếu tố kích hoạt này cần được quản lý.
 
 12
 00: 02: 34, 920--> 00: 02: 41, 360
-Vì vậy, tại thời điểm này, bạn có thể nghĩ, giải pháp là gì? Thật không may, không có viên đạn bạc.
+Vì vậy, tại thời điểm này, chúng ta có thể nghĩ, giải pháp là gì? Thật không may, không có viên đạn bạc.
 
 13
 00: 02: 41, 580--> 00: 02: 52, 190
-Tôi sẽ chia sẻ một số gợi ý với bạn tại đây và bạn sẽ phải tự nghiên cứu CSDL cụ thể của mình để xác định con đường tốt nhất phía trước.
+Tôi sẽ chia sẻ một số gợi ý với chúng ta tại đây và chúng ta sẽ phải tự nghiên cứu CSDL cụ thể của mình để xác định con đường tốt nhất phía trước.
 
 14
 00: 02: 52, 620--> 00: 03: 00, 270
@@ -7831,7 +7831,7 @@ Tùy chọn đầu tiên là sử dụng tái cấu trúc CSDL theo phương ph�
 
 15
 00: 03: 00, 600--> 00: 03: 13, 770
-Hoặc bạn có thể sử dụng tính năng phân tách logic hoặc CSDL trong đó CSDL được sử dụng, cũng như với các ranh giới logic để xác định dữ liệu thuộc sở hữu của các vi dịch vụ khác nhau.
+Hoặc chúng ta có thể sử dụng tính năng phân tách logic hoặc CSDL trong đó CSDL được sử dụng, cũng như với các ranh giới logic để xác định dữ liệu thuộc sở hữu của các vi dịch vụ khác nhau.
 
 16
 00: 03: 14, 400--> 00: 03: 22, 410
@@ -7863,7 +7863,7 @@ Tiếp theo là những thay đổi về tính toàn vẹn tham chiếu ở đâ
 
 23
 00: 04: 40, 960--> 00: 04: 49, 230
-Ví dụ: bạn có thể xóa mối quan hệ khóa ngoại giữa các bảng thuộc các vi dịch vụ khác nhau.
+Ví dụ: chúng ta có thể xóa mối quan hệ khóa ngoại giữa các bảng thuộc các vi dịch vụ khác nhau.
 
 24
 00: 04: 50, 230--> 00: 05: 00, 490
@@ -7883,19 +7883,19 @@ Mỗi lược đồ này sẽ được bảo vệ bằng các cơ chế kiểm s
 
 28
 00: 05: 32, 010--> 00: 05: 42, 090
-Mỗi Microsoft Office sẽ sở hữu và quản lý dữ liệu trong các lược đồ tương ứng của họ. Bây giờ, nếu bạn hỏi tôi một câu hỏi, bạn sẽ thực hiện nó như thế nào?
+Mỗi Microsoft Office sẽ sở hữu và quản lý dữ liệu trong các lược đồ tương ứng của họ. Bây giờ, nếu chúng ta hỏi tôi một câu hỏi, chúng ta sẽ thực hiện nó như thế nào?
 
 29
 00: 05: 42, 480--> 00: 05: 54, 000
-Câu trả lời sẽ là nó phụ thuộc vào RDBMS cụ thể mà bạn đang sử dụng. Không phải tất cả CSDL đều có thể cung cấp cho bạn cơ chế lược đồ kiểm soát quyền truy cập.
+Câu trả lời sẽ là nó phụ thuộc vào RDBMS cụ thể mà chúng ta đang sử dụng. Không phải tất cả CSDL đều có thể cung cấp cho chúng ta cơ chế lược đồ kiểm soát quyền truy cập.
 
 30
 00: 05: 54, 720--> 00: 06: 04, 370
-PostgreSQL hỗ trợ lược đồ McCarthyism mà bạn có thể sử dụng để tách dữ liệu, lược đồ nào, như bạn có thể đọc trong liên kết này tại đây.
+PostgreSQL hỗ trợ lược đồ McCarthyism mà chúng ta có thể sử dụng để tách dữ liệu, lược đồ nào, như chúng ta có thể đọc trong liên kết này tại đây.
 
 31
 00: 06: 04, 730--> 00: 06: 20, 970
-Có nhiều lý do khiến bạn muốn sử dụng cơ chế lược đồ có sẵn trong PostgreSQL để cho phép nhiều người dùng sử dụng một CSDL mà không can thiệp lẫn nhau, để tổ chức các đối tượng CSDL thành các nhóm logic giúp chúng dễ quản lý hơn.
+Có nhiều lý do khiến chúng ta muốn sử dụng cơ chế lược đồ có sẵn trong PostgreSQL để cho phép nhiều người dùng sử dụng một CSDL mà không can thiệp lẫn nhau, để tổ chức các đối tượng CSDL thành các nhóm logic giúp chúng dễ quản lý hơn.
 
 32
 00: 06: 21, 330--> 00: 06: 29, 570
@@ -7903,7 +7903,7 @@ Và thứ ba, các ứng dụng của bên có thể được đặt trong các 
 
 33
 00: 06: 29, 580--> 00: 06: 42, 240
-Và đây chính xác là những gì chúng tôi đang tìm kiếm từ góc độ vi dịch vụ . Tôi khuyên bạn nên thực hiện nghiên cứu về tính khả dụng của các cơ chế như vậy đối với CSDL mà bạn đang sử dụng.
+Và đây chính xác là những gì chúng tôi đang tìm kiếm từ góc độ vi dịch vụ . Tôi khuyên chúng ta nên thực hiện nghiên cứu về tính khả dụng của các cơ chế như vậy đối với CSDL mà chúng ta đang sử dụng.
 
 34
 00: 06: 43, 160--> 00: 06: 51, 670
@@ -7919,7 +7919,7 @@ Các nhóm được kỳ vọng sẽ có tính kỷ luật cao. Ý tưởng là 
 
 37
 00: 07: 19, 220--> 00: 07: 34, 020
-Và điều này rõ ràng là nói dễ hơn làm. Để giảm thiểu rủi ro các vi dịch vụ truy cập trực tiếp vào dữ liệu của nhau, bạn có thể sử dụng các dịch vụ phía trước CSDL được phân tách hợp lý.
+Và điều này rõ ràng là nói dễ hơn làm. Để giảm thiểu rủi ro các vi dịch vụ truy cập trực tiếp vào dữ liệu của nhau, chúng ta có thể sử dụng các dịch vụ phía trước CSDL được phân tách hợp lý.
 
 38
 00: 07: 34, 500--> 00: 07: 42, 690
@@ -7935,11 +7935,11 @@ Vì vậy, ví dụ: các dịch vụ dành cho Microsoft sẽ thấy sẽ chỉ
 
 41
 00: 08: 03, 590--> 00: 08: 15, 880
-Chúng ta hãy xem qua tất cả các mẫu liên quan đến CSDL mà chúng ta đã trình bày cho đến nay. Quyết định về cách bạn thiết lập CSDL cho các vi dịch vụ của mình sẽ phụ thuộc vào sáng kiến ​​về vi dịch vụ của bạn.
+Chúng ta hãy xem qua tất cả các mẫu liên quan đến CSDL mà chúng ta đã trình bày cho đến nay. Quyết định về cách chúng ta thiết lập CSDL cho các vi dịch vụ của mình sẽ phụ thuộc vào sáng kiến ​​về vi dịch vụ của chúng ta .
 
 42
 00: 08: 16, 040--> 00: 08: 27, 920
-Nếu bạn đang thực hiện một sáng kiến ​​mới, nghĩa là không có nợ kỹ thuật và bạn có thể linh hoạt quyết định về công nghệ cũng như thiết kế và kiến ​​trúc của các vi dịch vụ của mình.
+Nếu chúng ta đang thực hiện một sáng kiến ​​mới, nghĩa là không có nợ kỹ thuật và chúng ta có thể linh hoạt quyết định về công nghệ cũng như thiết kế và kiến ​​trúc của các vi dịch vụ của mình.
 
 43
 00: 08: 28, 110--> 00: 08: 36, 520
@@ -7947,19 +7947,19 @@ Bạn nên sử dụng một mẫu CSDL riêng biệt mà mỗi mẫu của Micr
 
 44
 00: 08: 36, 680--> 00: 09: 01, 490
-Mặt khác, bạn đang xử lý một sáng kiến ​​brownfield trong đó bạn phải đánh giá CSDL hiện có của mình, hiểu chi phí thời gian, hạn chế về nguồn lực, rủi ro và độ phức tạp, đồng thời dựa trên kết quả đánh giá, bạn có thể quyết định sử dụng mẫu CSDL riêng biệt, trong đó sẽ yêu cầu bạn chia CSDL thành nhiều CSDL .
+Mặt khác, chúng ta đang xử lý một sáng kiến ​​brownfield trong đó chúng ta phải đánh giá CSDL hiện có của mình, hiểu chi phí thời gian, hạn chế về nguồn lực, rủi ro và độ phức tạp, đồng thời dựa trên kết quả đánh giá, chúng ta có thể quyết định sử dụng mẫu CSDL riêng biệt, trong đó sẽ yêu cầu chúng ta chia CSDL thành nhiều CSDL .
 
 45
 00: 09: 01, 640--> 00: 09: 12, 880
-Điều này có thể thực hiện được đối với CSDL nhỏ hơn nhưng có thể có những thách thức với CSDL lớn và phức tạp, trong trường hợp đó bạn cần tiến hành phân tích CSDL của mình.
+Điều này có thể thực hiện được đối với CSDL nhỏ hơn nhưng có thể có những thách thức với CSDL lớn và phức tạp, trong trường hợp đó chúng ta cần tiến hành phân tích CSDL của mình.
 
 46
 00: 09: 12, 980--> 00: 09: 18, 980
-Bạn sẽ cần xem xét công nghệ, độ phức tạp, kỹ năng mà bạn có trong nhóm vi dịch vụ .
+Bạn sẽ cần xem xét công nghệ, độ phức tạp, kỹ năng mà chúng ta có trong nhóm vi dịch vụ .
 
 47
 00: 09: 19, 340--> 00: 09: 28, 610
-Và sau đó dựa trên kết quả phân tích này, bạn sẽ có hai lựa chọn. Bạn có thể thực hiện thay đổi thiết kế và thực hiện tái cấu trúc CSDL .
+Và sau đó dựa trên kết quả phân tích này, chúng ta sẽ có hai lựa chọn. Bạn có thể thực hiện thay đổi thiết kế và thực hiện tái cấu trúc CSDL .
 
 <!--@ \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000007.srt-->
 
@@ -7969,7 +7969,7 @@ Nhược điểm của CSDL riêng biệt trong bài học này, tôi sẽ đề
 
 2
 00: 00: 11, 430--> 00: 00: 25, 160
-Tôi cũng sẽ thảo luận về các giải pháp có thể được sử dụng để giải quyết những thách thức này. Đến cuối bài học này, bạn sẽ có hiểu biết cơ bản về mẫu an toàn nhất, thậm chí tìm nguồn cung ứng và mẫu Saagar.
+Tôi cũng sẽ thảo luận về các giải pháp có thể được sử dụng để giải quyết những thách thức này. Đến cuối bài học này, chúng ta sẽ có hiểu biết cơ bản về mẫu an toàn nhất, thậm chí tìm nguồn cung ứng và mẫu Saagar.
 
 3
 00: 00: 26, 010--> 00: 00: 34, 900
@@ -7985,7 +7985,7 @@ Bạn sẽ cần nhiều máy chủ hơn, nhiều bộ nhớ hơn, nhiều mạn
 
 6
 00: 00: 57, 990--> 00: 01: 09, 090
-Đối với các CSDL bổ sung, bạn có thể cần thêm thành viên nhóm để chăm sóc các phiên bản CSDL mới và bạn cũng sẽ phải đầu tư vào các giải pháp giám sát.
+Đối với các CSDL bổ sung, chúng ta có thể cần thêm thành viên nhóm để chăm sóc các phiên bản CSDL mới và chúng ta cũng sẽ phải đầu tư vào các giải pháp giám sát.
 
 7
 00: 01: 09, 420--> 00: 01: 16, 310
@@ -7997,7 +7997,7 @@ Hãy thảo luận về những cách mà chúng ta có thể giải quyết m�
 
 9
 00: 01: 30, 240--> 00: 01: 43, 620
-Vì vậy, điều đó sẽ giúp bạn tiết kiệm chi phí cấp phép. Nhưng hãy nhớ, bạn vẫn cần trả tiền cho cơ sở hạ tầng, máy chủ, mạng, bộ lưu trữ để giảm chi phí cho cơ sở hạ tầng.
+Vì vậy, điều đó sẽ giúp chúng ta tiết kiệm chi phí cấp phép. Nhưng hãy nhớ, chúng ta vẫn cần trả tiền cho cơ sở hạ tầng, máy chủ, mạng, bộ lưu trữ để giảm chi phí cho cơ sở hạ tầng.
 
 10
 00: 01: 43, 950--> 00: 01: 55, 350
@@ -8009,7 +8009,7 @@ Một cách rất phổ biến để giải quyết mối lo ngại về chi ph�
 
 12
 00: 02: 08, 610--> 00: 02: 26, 370
-Ví dụ: Amazon A.W. đã cung cấp 14 loại CSDL ĐƯỢC XÂY DỰNG MỤC ĐÍCH khác nhau. Một số CSDL này, như Amazon, Dinamo DBI là không có máy chủ và chúng rẻ hơn rất nhiều so với việc lưu trữ một CSDL tương tự trong trung tâm dữ liệu của riêng bạn.
+Ví dụ: Amazon A.W. đã cung cấp 14 loại CSDL ĐƯỢC XÂY DỰNG MỤC ĐÍCH khác nhau. Một số CSDL này, như Amazon, Dinamo DBI là không có máy chủ và chúng rẻ hơn rất nhiều so với việc lưu trữ một CSDL tương tự trong trung tâm dữ liệu của riêng chúng ta .
 
 13
 00: 02: 27, 210--> 00: 02: 35, 700
@@ -8025,7 +8025,7 @@ Sau đó, tòa án và Microsoft CE sẽ lấy dữ liệu từ B bằng cách g
 
 16
 00: 03: 18, 030--> 00: 03: 32, 710
-Như bạn có thể thấy ở đây, có nhiều lệnh gọi API và nhiều câu lệnh của phần tiếp theo đang diễn ra. Nếu chúng ta đang sử dụng CSDL dùng chung, điều này có thể được thực hiện dễ dàng bằng câu lệnh của phần tiếp theo bằng cách sử dụng khớp.
+Như chúng ta có thể thấy ở đây, có nhiều lệnh gọi API và nhiều câu lệnh của phần tiếp theo đang diễn ra. Nếu chúng ta đang sử dụng CSDL dùng chung, điều này có thể được thực hiện dễ dàng bằng câu lệnh của phần tiếp theo bằng cách sử dụng khớp.
 
 17
 00: 03: 33, 870--> 00: 03: 42, 550
@@ -8129,7 +8129,7 @@ Suy giảm hiệu suất do phân phối dữ liệu có thể được giải q
 
 42
 00: 08: 04, 990--> 00: 08: 12, 220
-Trong phần tiếp theo, bạn tìm hiểu về mẫu Securus, thậm chí tìm nguồn cung cấp thông điệp thích hợp và đáng tin cậy cho Saagar.
+Trong phần tiếp theo, chúng ta tìm hiểu về mẫu Securus, thậm chí tìm nguồn cung cấp thông điệp thích hợp và đáng tin cậy cho Saagar.
 
 <!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000001.srt-->
 
@@ -8179,13 +8179,13 @@ Và để đạt được điều này, cần có thêm các mẫu trong phần 
 
 12
 00: 02: 11, 740--> 00: 02: 29, 860
-Trên nhiều CSDL . Bạn sẽ học lệnh, phân tách truy vấn. Bạn sẽ tìm hiểu lệnh, trách nhiệm truy vấn, mẫu phân tách, thậm chí cả mẫu tìm nguồn cung ứng và bạn sẽ thấy các mẫu này hoạt động như một phần của quá trình triển khai khả năng đề xuất bán hàng.
+Trên nhiều CSDL . Bạn sẽ học lệnh, phân tách truy vấn. Bạn sẽ tìm hiểu lệnh, trách nhiệm truy vấn, mẫu phân tách, thậm chí cả mẫu tìm nguồn cung ứng và chúng ta sẽ thấy các mẫu này hoạt động như một phần của quá trình triển khai khả năng đề xuất bán hàng.
 
 <!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 16, 140
-Các lệnh và truy vấn trong bài giảng này, bạn tìm hiểu về các lệnh và truy vấn, bạn cũng sẽ tìm hiểu về các truy vấn lệnh, nguyên tắc phân tách và tôi sẽ thảo luận về một số khía cạnh hiện thực hóa của nguyên tắc phân tách truy vấn lệnh.
+Các lệnh và truy vấn trong bài giảng này, chúng ta tìm hiểu về các lệnh và truy vấn, chúng ta cũng sẽ tìm hiểu về các truy vấn lệnh, nguyên tắc phân tách và tôi sẽ thảo luận về một số khía cạnh hiện thực hóa của nguyên tắc phân tách truy vấn lệnh.
 
 2
 00: 00: 17, 010--> 00: 00: 28, 740
@@ -8225,7 +8225,7 @@ Lệnh mang tính bắt buộc, nghĩa là hành động hoặc ý định trong
 
 11
 00: 02: 22, 080--> 00: 02: 32, 300
-Các lệnh luôn được đặt tên là waps. Tôi đã hướng dẫn bạn qua ví dụ này, trong đó chúng tôi đã tạo các lệnh như thanh toán, tuân thủ đặt chỗ hoặc hủy đặt chỗ.
+Các lệnh luôn được đặt tên là waps. Tôi đã hướng dẫn chúng ta qua ví dụ này, trong đó chúng tôi đã tạo các lệnh như thanh toán, tuân thủ đặt chỗ hoặc hủy đặt chỗ.
 
 12
 00: 02: 32, 340--> 00: 02: 40, 490
@@ -8233,7 +8233,7 @@ Tương tự, các mô hình Reed, còn được gọi là mô hình truy vấn,
 
 13
 00: 02: 41, 250--> 00: 02: 54, 390
-Lý do đằng sau việc tách biệt truy vấn lệnh là thực tế có một loạt mối quan tâm khác cần lưu ý khi bạn triển khai lệnh và các hoạt động truy vấn.
+Lý do đằng sau việc tách biệt truy vấn lệnh là thực tế có một loạt mối quan tâm khác cần lưu ý khi chúng ta triển khai lệnh và các hoạt động truy vấn.
 
 14
 00: 02: 54, 600--> 00: 03: 06, 390
@@ -8249,7 +8249,7 @@ Nói cách khác, khi được thực thi, các hàm lệnh này sẽ không d�
 
 17
 00: 03: 23, 670--> 00: 03: 40, 460
-Và cuối cùng nhưng không kém phần quan trọng, các chức năng này cũng phải đối mặt với những thách thức về khả năng mở rộng. Vì vậy, tại thời điểm này, bạn phải hiểu rõ rằng các lệnh là những lệnh ghi vào CSDL và các truy vấn là những lệnh đọc từ CSDL .
+Và cuối cùng nhưng không kém phần quan trọng, các chức năng này cũng phải đối mặt với những thách thức về khả năng mở rộng. Vì vậy, tại thời điểm này, chúng ta phải hiểu rõ rằng các lệnh là những lệnh ghi vào CSDL và các truy vấn là những lệnh đọc từ CSDL .
 
 18
 00: 03: 40, 470--> 00: 03: 54, 150
@@ -8267,15 +8267,15 @@ Chúng ta hãy đi với những điểm chính từ bài học này. Các lện
 
 1
 00: 00: 00, 360--> 00: 00: 14, 490
-Kho lưu trữ dành cho những người JDBC quản lý dữ liệu trong PostgreSQL trong bài giảng này. Chúng ta sẽ tạo một phiên bản PostgreSQL, sau đó tôi sẽ hướng dẫn bạn qua các lớp, báo cáo dựa trên JDBC và GBC.
+Kho lưu trữ dành cho những người JDBC quản lý dữ liệu trong PostgreSQL trong bài giảng này. Chúng ta sẽ tạo một phiên bản PostgreSQL, sau đó tôi sẽ hướng dẫn chúng ta qua các lớp, báo cáo dựa trên JDBC và GBC.
 
 2
 00: 00: 14, 850--> 00: 00: 27, 930
-Và ở phần cuối, bạn sẽ thấy hai lớp hoạt động trong đó chúng ta sẽ thực thi mã Java để ghi dữ liệu vào bảng mà chúng ta sẽ tạo trong phiên bản CSDL Posterous.
+Và ở phần cuối, chúng ta sẽ thấy hai lớp hoạt động trong đó chúng ta sẽ thực thi mã Java để ghi dữ liệu vào bảng mà chúng ta sẽ tạo trong phiên bản CSDL Posterous.
 
 3
 00: 00: 28, 290--> 00: 00: 39, 420
-Mã mà tôi sẽ hướng dẫn bạn trong bài giảng này có sẵn theo dữ liệu nhánh và điều kiện tiên quyết cho bài giảng này là bạn cần có hiểu biết cơ bản về JDBC.
+Mã mà tôi sẽ hướng dẫn chúng ta trong bài giảng này có sẵn theo dữ liệu nhánh và điều kiện tiên quyết cho bài giảng này là chúng ta cần có hiểu biết cơ bản về JDBC.
 
 4
 00: 00: 39, 720--> 00: 00: 54, 120
@@ -8287,7 +8287,7 @@ Bước đầu tiên, chúng ta sẽ tạo một phiên bản của CSDL Postgre
 
 6
 00: 01: 13, 320--> 00: 01: 25, 110
-Bây giờ bạn có thể tạo phiên bản tương đương Postgres cục bộ trên máy của mình hoặc trên đám mây, nhưng nếu bạn quyết định làm điều đó, xin lưu ý rằng tôi sẽ không thể hỗ trợ bạn trong khóa học này.
+Bây giờ chúng ta có thể tạo phiên bản tương đương Postgres cục bộ trên máy của mình hoặc trên đám mây, nhưng nếu chúng ta quyết định làm điều đó, xin lưu ý rằng tôi sẽ không thể hỗ trợ chúng ta trong khóa học này.
 
 7
 00: 01: 25, 110--> 00: 01: 33, 630
@@ -8295,11 +8295,11 @@ Chúng tôi sẽ sử dụng phiên bản khác của CSDL trên phần tiếp t
 
 8
 00: 01: 34, 230--> 00: 01: 50, 640
-Vào trang con voi liềm dot com, nhấp vào đăng nhập, sau đó nhấp vào Đăng ký tại đây. Bạn sẽ cung cấp địa chỉ email của mình, bạn sẽ nhận được email từ voi bằng dot com kèm theo liên kết để thiết lập tài khoản.
+Vào trang con voi liềm dot com, nhấp vào đăng nhập, sau đó nhấp vào Đăng ký tại đây. Bạn sẽ cung cấp địa chỉ email của mình, chúng ta sẽ nhận được email từ voi bằng dot com kèm theo liên kết để thiết lập tài khoản.
 
 9
 00: 01: 50, 650--> 00: 01: 55, 190
-Làm theo hướng dẫn là bạn sẽ có tài khoản. Tôi chỉ có tài khoản nên tôi sẽ đăng nhập.
+Làm theo hướng dẫn là chúng ta sẽ có tài khoản. Tôi chỉ có tài khoản nên tôi sẽ đăng nhập.
 
 10
 00: 01: 55, 380--> 00: 02: 02, 700
@@ -8307,7 +8307,7 @@ Bạn sẽ thấy một CSDL khác. Những gì chúng ta sẽ làm là xóa CSD
 
 11
 00: 02: 02, 700--> 00: 02: 15, 630
-Cuộn xuống và bạn sẽ thấy trường hợp xóa đó. Chỉ cần sao chép và dán tên của phiên bản CSDL vào hộp ở đây và nhấp vào xóa để xác nhận phiên bản sẽ bị xóa trong bước tiếp theo.
+Cuộn xuống và chúng ta sẽ thấy trường hợp xóa đó. Chỉ cần sao chép và dán tên của phiên bản CSDL vào hộp ở đây và nhấp vào xóa để xác nhận phiên bản sẽ bị xóa trong bước tiếp theo.
 
 12
 00: 02: 15, 630--> 00: 02: 22, 860
@@ -8315,7 +8315,7 @@ Chúng tôi sẽ tạo một ví dụ. Vì vậy hãy nhấp vào tạo phiên b
 
 13
 00: 02: 23, 010--> 00: 02: 30, 000
-Đảm bảo gói là Tiny Turtle, miễn phí. Bấm vào Chọn khu vực. Nhấp vào khu vực gần bạn nhất.
+Đảm bảo gói là Tiny Turtle, miễn phí. Bấm vào Chọn khu vực. Nhấp vào khu vực gần chúng ta nhất.
 
 14
 00: 02: 30, 000--> 00: 02: 45, 510
@@ -8323,11 +8323,11 @@ Chúng tôi sẽ tạo một ví dụ. Vì vậy hãy nhấp vào tạo phiên b
 
 15
 00: 02: 45, 510--> 00: 02: 59, 550
-Tôi sẽ hướng dẫn bạn đến giao diện của phần tiếp theo của Elephant. Vì vậy, hãy nhấp vào tên của phiên bản CSDL và nó sẽ đưa bạn đến màn hình chi tiết nơi bạn có thể xem thông tin về phiên bản CSDL .
+Tôi sẽ hướng dẫn chúng ta đến giao diện của phần tiếp theo của Elephant. Vì vậy, hãy nhấp vào tên của phiên bản CSDL và nó sẽ đưa chúng ta đến màn hình chi tiết nơi chúng ta có thể xem thông tin về phiên bản CSDL .
 
 16
 00: 02: 59, 550--> 00: 03: 11, 790
-Chúng tôi sẽ sử dụng thông tin này để thiết lập lớp Java để thử nghiệm tại thời điểm này. Hãy nhấp vào Groser và tại đây bạn có thể tương tác với CSDL .
+Chúng tôi sẽ sử dụng thông tin này để thiết lập lớp Java để thử nghiệm tại thời điểm này. Hãy nhấp vào Groser và tại đây chúng ta có thể tương tác với CSDL .
 
 17
 00: 03: 11, 790--> 00: 03: 26, 610
@@ -8343,7 +8343,7 @@ Giả sử đó là H.R. 255, không phải null. Sau đó, chúng ta sẽ có l
 
 20
 00: 03: 45, 480--> 00: 03: 57, 430
-Vì vậy, điều này sẽ tạo ra bảng mà chúng tôi sẽ sử dụng để thử nghiệm. Vì vậy, chỉ cần thực hiện câu lệnh tạo bảng này và bạn sẽ thấy hộp này bật lên thông báo Querrey đã hoàn thành.
+Vì vậy, điều này sẽ tạo ra bảng mà chúng tôi sẽ sử dụng để thử nghiệm. Vì vậy, chỉ cần thực hiện câu lệnh tạo bảng này và chúng ta sẽ thấy hộp này bật lên thông báo Querrey đã hoàn thành.
 
 21
 00: 03: 57, 450--> 00: 04: 03, 310
@@ -8355,11 +8355,11 @@ Vì vậy hãy chèn vào giá trị tuổi của tên người. Hãy cùng Joe 
 
 23
 00: 04: 24, 330--> 00: 04: 32, 970
-Và đây là người của chúng tôi ở đây. Tôi khuyên bạn nên tự mình lập kế hoạch cho trình duyệt để hiểu cách PostgreSQL hoạt động.
+Và đây là người của chúng tôi ở đây. Tôi khuyên chúng ta nên tự mình lập kế hoạch cho trình duyệt để hiểu cách PostgreSQL hoạt động.
 
 24
 00: 04: 32, 970--> 00: 04: 45, 990
-Tiếp theo, tôi sẽ hướng dẫn bạn đến các lớp Java mà chúng ta sẽ sử dụng để tương tác với PostgreSQL, lớp đầu tiên mà tôi sẽ hướng dẫn bạn là lớp dựa trên Getback, lớp này là lớp trừu tượng.
+Tiếp theo, tôi sẽ hướng dẫn chúng ta đến các lớp Java mà chúng ta sẽ sử dụng để tương tác với PostgreSQL, lớp đầu tiên mà tôi sẽ hướng dẫn chúng ta là lớp dựa trên Getback, lớp này là lớp trừu tượng.
 
 25
 00: 04: 46, 380--> 00: 04: 59, 370
@@ -8371,27 +8371,27 @@ Là Đối tượng Bộ kết quả JBC và điều này nhằm đơn giản h�
 
 27
 00: 05: 24, 220--> 00: 05: 31, 750
-Một điều quan trọng cần lưu ý là lớp dựa trên JDBC yêu cầu bạn cung cấp các tham số kết nối và thông tin xác thực.
+Một điều quan trọng cần lưu ý là lớp dựa trên JDBC yêu cầu chúng ta cung cấp các tham số kết nối và thông tin xác thực.
 
 28
 00: 05: 31, 780--> 00: 05: 47, 520
-Các thông số này có sẵn trên trang chi tiết mà tôi đã chỉ cho bạn trước đó. Lớp dựa trên JDBC trừu tượng có sẵn trong Kamden Acme Dot Info PostgreSQL, nhấp vào VXI của ban giám khảo tại đây.
+Các thông số này có sẵn trên trang chi tiết mà tôi đã chỉ cho chúng ta trước đó. Lớp dựa trên JDBC trừu tượng có sẵn trong Kamden Acme Dot Info PostgreSQL, nhấp vào VXI của ban giám khảo tại đây.
 
 29
 00: 05: 47, 830--> 00: 05: 55, 320
-Phần quan trọng nhất là thiết lập các tham số kết nối CSDL cho phiên bản tương đương sau đại học của bạn.
+Phần quan trọng nhất là thiết lập các tham số kết nối CSDL cho phiên bản tương đương sau đại học của chúng ta .
 
 30
 00: 05: 55, 690--> 00: 06: 05, 920
-Vì vậy ở đây bạn cần cung cấp cho Host cả thông tin người dùng và mật khẩu. Thông tin này có sẵn trên trang chi tiết mà tôi đã cho bạn xem trước đó.
+Vì vậy ở đây chúng ta cần cung cấp cho Host cả thông tin người dùng và mật khẩu. Thông tin này có sẵn trên trang chi tiết mà tôi đã cho chúng ta xem trước đó.
 
 31
 00: 06: 06, 070--> 00: 06: 31, 120
-Trong lớp này, bạn sẽ thấy rằng điều đầu tiên chúng ta làm là tải lớp trình điều khiển JDBC. Trong lớp này, bạn sẽ tìm thấy nhiều hàm tiếp theo và ý tưởng cơ bản đằng sau các hàm tình dục này là thực thi các câu lệnh tình dục dựa trên CSDL, thực thi văn bản hàm tình dục dưới dạng câu lệnh bằng và chỉ phần tử đầu tiên boolean.
+Trong lớp này, chúng ta sẽ thấy rằng điều đầu tiên chúng ta làm là tải lớp trình điều khiển JDBC. Trong lớp này, chúng ta sẽ tìm thấy nhiều hàm tiếp theo và ý tưởng cơ bản đằng sau các hàm tình dục này là thực thi các câu lệnh tình dục dựa trên CSDL, thực thi văn bản hàm tình dục dưới dạng câu lệnh bằng và chỉ phần tử đầu tiên boolean.
 
 32
 00: 06: 31, 120--> 00: 06: 42, 790
-Ý tưởng đằng sau phần tử đầu tiên này chỉ là nếu bạn chỉ muốn lấy bản ghi đầu tiên từ tập hợp các bản ghi nhận được từ CSDL thì hãy đặt giá trị này thành true.
+Ý tưởng đằng sau phần tử đầu tiên này chỉ là nếu chúng ta chỉ muốn lấy bản ghi đầu tiên từ tập hợp các bản ghi nhận được từ CSDL thì hãy đặt giá trị này thành true.
 
 33
 00: 06: 42, 910--> 00: 07: 01, 330
@@ -8399,7 +8399,7 @@ Từ góc độ triển khai, điều đầu tiên chúng ta làm là tạo kế
 
 34
 00: 07: 01, 600--> 00: 07: 08, 050
-Nếu bạn muốn biết cách thực hiện điều này, nó có sẵn trong gói Kamelot Akhmad utils.
+Nếu chúng ta muốn biết cách thực hiện điều này, nó có sẵn trong gói Kamelot Akhmad utils.
 
 35
 00: 07: 08, 260--> 00: 07: 20, 490
@@ -8407,11 +8407,11 @@ Khi có kết quả, hãy chuyển đổi nó thành Jason. Chúng ta đang đó
 
 36
 00: 07: 20, 740--> 00: 07: 33, 710
-Nếu không thì tất cả Jason sẽ được trả lại. Cuối cùng, chúng tôi sẽ đóng kết nối. Bây giờ bạn có thể vào lớp này và kiểm tra các hàm thực thi khác, rất giống với hàm mà tôi vừa hướng dẫn bạn.
+Nếu không thì tất cả Jason sẽ được trả lại. Cuối cùng, chúng tôi sẽ đóng kết nối. Bây giờ chúng ta có thể vào lớp này và kiểm tra các hàm thực thi khác, rất giống với hàm mà tôi vừa hướng dẫn chúng ta .
 
 37
 00: 07: 34, 480--> 00: 07: 44, 110
-Hãy tiếp tục và sao chép các tham số kết nối của chúng tôi. Quay lại phần tiếp theo của Elephant, nhấp vào chi tiết. Và từ đây bạn cần sao chép tên máy chủ.
+Hãy tiếp tục và sao chép các tham số kết nối của chúng tôi. Quay lại phần tiếp theo của Elephant, nhấp vào chi tiết. Và từ đây chúng ta cần sao chép tên máy chủ.
 
 38
 00: 07: 44, 110--> 00: 07: 50, 020
@@ -8419,15 +8419,15 @@ Bạn cần sao chép số báo cáo, theo mặc định là năm, bốn, ba, ha
 
 39
 00: 07: 50, 020--> 00: 07: 58, 990
-Nhưng chỉ trong trường hợp nó thay đổi, hãy đảm bảo bạn có đúng cổng. Không, chọn tên người dùng và sau đó để lấy mật khẩu, chỉ cần nhấp vào biểu tượng này ở đây.
+Nhưng chỉ trong trường hợp nó thay đổi, hãy đảm bảo chúng ta có đúng cổng. Không, chọn tên người dùng và sau đó để lấy mật khẩu, chỉ cần nhấp vào biểu tượng này ở đây.
 
 40
 00: 07: 58, 990--> 00: 08: 19, 080
-Nó sẽ sao chép nó vào mật khẩu và chỉ có tóc thẳng. Và bây giờ chúng tôi đã sẵn sàng kiểm tra cơ sở JDBC và điều mà chúng tôi sẽ thực hiện bằng cách sử dụng lớp và kiểm tra mô hình bán cửa Condor Acme trong gói bãi bỏ, bạn sẽ tìm thấy kiểm tra báo cáo JDBC.
+Nó sẽ sao chép nó vào mật khẩu và chỉ có tóc thẳng. Và bây giờ chúng tôi đã sẵn sàng kiểm tra cơ sở JDBC và điều mà chúng tôi sẽ thực hiện bằng cách sử dụng lớp và kiểm tra mô hình bán cửa Condor Acme trong gói bãi bỏ, chúng ta sẽ tìm thấy kiểm tra báo cáo JDBC.
 
 41
 00: 08: 19, 240--> 00: 08: 34, 590
-Lớp này đang mở rộng lớp dựa trên GBC. Và ở đây bạn sẽ thấy rằng tôi có hai chức năng. Hàm này sẽ chèn một bản ghi mới vào bảng người bằng cách thực thi câu lệnh chèn mà chúng ta đang xác định ở đây.
+Lớp này đang mở rộng lớp dựa trên GBC. Và ở đây chúng ta sẽ thấy rằng tôi có hai chức năng. Hàm này sẽ chèn một bản ghi mới vào bảng người bằng cách thực thi câu lệnh chèn mà chúng ta đang xác định ở đây.
 
 42
 00: 08: 35, 110--> 00: 08: 46, 180
@@ -8451,7 +8451,7 @@ Và sau đó chúng ta có mệnh đề đẳng thức này và là kết quả 
 
 47
 00: 09: 37, 420--> 00: 09: 52, 960
-Và bây giờ chúng tôi có ba quy tắc khuyên bạn nên thử thực hiện các thay đổi đối với lớp kiểm tra báo cáo GBC để xem cách thực thi các phần tiếp theo bằng cách sử dụng các hàm được hiển thị trong lớp dựa trên Geremek.
+Và bây giờ chúng tôi có ba quy tắc khuyên chúng ta nên thử thực hiện các thay đổi đối với lớp kiểm tra báo cáo GBC để xem cách thực thi các phần tiếp theo bằng cách sử dụng các hàm được hiển thị trong lớp dựa trên Geremek.
 
 <!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000004.srt-->
 
@@ -8525,7 +8525,7 @@ Dữ liệu được thu thập trong Microsoft Office này được nhiều bê
 
 18
 00: 03: 18, 850--> 00: 03: 29, 500
-Thông thường, bạn sẽ thấy rằng hệ thống cung cấp nhiều truy vấn cung cấp cùng một dữ liệu ở nhiều định dạng hoặc nhiều chế độ xem.
+Thông thường, chúng ta sẽ thấy rằng hệ thống cung cấp nhiều truy vấn cung cấp cùng một dữ liệu ở nhiều định dạng hoặc nhiều chế độ xem.
 
 19
 00: 03: 29, 710--> 00: 03: 44, 260
@@ -8541,7 +8541,7 @@ Hiệu suất đạt được ở bên phải có thể chấp nhận được, 
 
 22
 00: 04: 14, 950--> 00: 04: 25, 990
-Tiếp theo tôi sẽ giới thiệu với các bạn thuật ngữ miền cộng tác. Miền cộng tác là miền trong đó nhiều tác nhân gọi lệnh và thực hiện song song trên cùng một dữ liệu.
+Tiếp theo tôi sẽ giới thiệu với các chúng ta thuật ngữ miền cộng tác. Miền cộng tác là miền trong đó nhiều tác nhân gọi lệnh và thực hiện song song trên cùng một dữ liệu.
 
 23
 00: 04: 26, 140--> 00: 04: 40, 530
@@ -8575,15 +8575,15 @@ Trong bài học này về xây dựng và kiểm tra khả năng chỉ huy và 
 
 2
 00: 00: 08, 370--> 00: 00: 22, 580
-Sau đó, tôi sẽ hướng dẫn bạn mã trong các lớp để triển khai lệnh và truy vấn. Và ở cuối bài giảng, bạn sẽ thấy lệnh và truy vấn hoạt động như thế nào trước khi tiếp tục.
+Sau đó, tôi sẽ hướng dẫn chúng ta mã trong các lớp để triển khai lệnh và truy vấn. Và ở cuối bài giảng, chúng ta sẽ thấy lệnh và truy vấn hoạt động như thế nào trước khi tiếp tục.
 
 3
 00: 00: 22, 590--> 00: 00: 35, 000
-Hãy đảm bảo rằng bạn đã thiết lập một phiên bản của CSDL PostgreSQL. Nó đã được mô tả trong một trong những bài giảng trước đó và lẽ ra bạn nên thiết lập lớp dựa trên JDBC.
+Hãy đảm bảo rằng chúng ta đã thiết lập một phiên bản của CSDL PostgreSQL. Nó đã được mô tả trong một trong những bài giảng trước đó và lẽ ra chúng ta nên thiết lập lớp dựa trên JDBC.
 
 4
 00: 00: 35, 190--> 00: 00: 58, 110
-Vì vậy nếu bạn chưa làm được thì hãy xem lại bài giảng thiết lập kho Getback nhé. Mã mà tôi sắp hướng dẫn bạn trong bài giảng này có sẵn trong dữ liệu nhánh get, vì vậy hãy đảm bảo kiểm tra dữ liệu nhánh trước khi chuyển sang phần minh họa cách hoạt động của các lệnh và truy vấn.
+Vì vậy nếu chúng ta chưa làm được thì hãy xem lại bài giảng thiết lập kho Getback nhé. Mã mà tôi sắp hướng dẫn chúng ta trong bài giảng này có sẵn trong dữ liệu nhánh get, vì vậy hãy đảm bảo kiểm tra dữ liệu nhánh trước khi chuyển sang phần minh họa cách hoạt động của các lệnh và truy vấn.
 
 5
 00: 00: 58, 440--> 00: 01: 23, 400
@@ -8643,7 +8643,7 @@ Tiếp theo sẽ tiếp tục và tạo bảng trong CSDL bằng cách sử dụ
 
 19
 00: 03: 44, 850--> 00: 03: 59, 690
-Vì vậy hãy tiếp tục và sao chép. Chọn tất cả điều khiển hoặc lệnh. Lưu máy Mac của riêng bạn. Chuyển đến trình duyệt phần tiếp theo, chọn tất cả tập lệnh trước đó và dán tập lệnh mới và truy vấn đã hoàn tất thành công.
+Vì vậy hãy tiếp tục và sao chép. Chọn tất cả điều khiển hoặc lệnh. Lưu máy Mac của riêng chúng ta . Chuyển đến trình duyệt phần tiếp theo, chọn tất cả tập lệnh trước đó và dán tập lệnh mới và truy vấn đã hoàn tất thành công.
 
 20
 00: 04: 00, 030--> 00: 04: 05, 910
@@ -8651,11 +8651,11 @@ Bây giờ, để đảm bảo rằng các bảng đã được tạo, chỉ c�
 
 21
 00: 04: 05, 910--> 00: 04: 14, 070
-Và như bạn có thể thấy bây giờ chúng ta có bốn bảng và nếu tôi chọn khách hàng, điều này sẽ tạo ra phần tiếp theo mà bạn có thể thực hiện.
+Và như chúng ta có thể thấy bây giờ chúng ta có bốn bảng và nếu tôi chọn khách hàng, điều này sẽ tạo ra phần tiếp theo mà chúng ta có thể thực hiện.
 
 22
 00: 04: 14, 700--> 00: 04: 22, 260
-Và như bạn có thể thấy bây giờ, chúng ta có ba khách hàng được tạo trong bảng khách hàng mà chúng ta có thể sử dụng để thử nghiệm.
+Và như chúng ta có thể thấy bây giờ, chúng ta có ba khách hàng được tạo trong bảng khách hàng mà chúng ta có thể sử dụng để thử nghiệm.
 
 23
 00: 04: 22, 620--> 00: 04: 30, 240
@@ -8687,7 +8687,7 @@ Có hai lớp lệnh kiểm tra và truy vấn kiểm tra. Sau khi ra tòa, chú
 
 30
 00: 05: 54, 310--> 00: 06: 06, 430
-Vì vậy, chúng ta hãy tiếp tục xem mã trong các lớp này. Bây giờ, đây là giao diện lệnh và như bạn có thể thấy, nó chỉ có một quy trình chức năng và nó đưa ra một ngoại lệ.
+Vì vậy, chúng ta hãy tiếp tục xem mã trong các lớp này. Bây giờ, đây là giao diện lệnh và như chúng ta có thể thấy, nó chỉ có một quy trình chức năng và nó đưa ra một ngoại lệ.
 
 31
 00: 06: 06, 670--> 00: 06: 23, 230
@@ -8695,7 +8695,7 @@ Ngoại lệ lệnh chỉ đơn giản là mở rộng lớp ngoại lệ. Và s
 
 32
 00: 06: 23, 260--> 00: 06: 39, 140
-Tôi khuyên bạn nên tự mình xem qua mã trong lớp này và bạn sẽ thấy rằng nó chỉ đơn giản là tạo các câu lệnh tiếp theo và sau đó thực thi các câu lệnh tiếp theo bằng cách sử dụng các hàm chu trình thực thi do lớp cơ sở cung cấp.
+Tôi khuyên chúng ta nên tự mình xem qua mã trong lớp này và chúng ta sẽ thấy rằng nó chỉ đơn giản là tạo các câu lệnh tiếp theo và sau đó thực thi các câu lệnh tiếp theo bằng cách sử dụng các hàm chu trình thực thi do lớp cơ sở cung cấp.
 
 33
 00: 06: 39, 250--> 00: 06: 48, 150
@@ -8703,11 +8703,11 @@ Tương tự, có một lớp kho lưu trữ đề xuất mở rộng CSDL và t
 
 34
 00: 06: 48, 160--> 00: 06: 58, 510
-Ngoài ra, bạn sẽ thấy rằng chúng tôi có các câu lệnh tiếp theo được tạo và sau đó được thực thi thông qua các hàm được lớp dựa trên GBC hiển thị.
+Ngoài ra, chúng ta sẽ thấy rằng chúng tôi có các câu lệnh tiếp theo được tạo và sau đó được thực thi thông qua các hàm được lớp dựa trên GBC hiển thị.
 
 35
 00: 06: 59, 140--> 00: 07: 08, 920
-Lệnh đề xuất CREATE thực hiện giao diện lệnh. Vì vậy, nếu chúng ta xem xét chức năng của quy trình, bạn sẽ thấy rằng chúng ta không làm được gì nhiều về vấn đề này trong quá trình triển khai thực tế.
+Lệnh đề xuất CREATE thực hiện giao diện lệnh. Vì vậy, nếu chúng ta xem xét chức năng của quy trình, chúng ta sẽ thấy rằng chúng ta không làm được gì nhiều về vấn đề này trong quá trình triển khai thực tế.
 
 36
 00: 07: 09, 160--> 00: 07: 16, 120
@@ -8723,7 +8723,7 @@ Chúng tôi chỉ đơn giản là tạo một phiên bản của kho đề xu�
 
 39
 00: 07: 33, 100--> 00: 07: 52, 390
-Và nếu điều này thành công thì chúng tôi đang thực hiện quá trình xử lý hậu kỳ. Bây giờ, trong quá trình triển khai này, bạn sẽ thấy rằng chúng ta chỉ in ra một thông báo trong hàm xử lý bài đăng và chúng ta sẽ sử dụng hàm này trong quá trình triển khai lệnh sau này trong truy vấn đề xuất.
+Và nếu điều này thành công thì chúng tôi đang thực hiện quá trình xử lý hậu kỳ. Bây giờ, trong quá trình triển khai này, chúng ta sẽ thấy rằng chúng ta chỉ in ra một thông báo trong hàm xử lý bài đăng và chúng ta sẽ sử dụng hàm này trong quá trình triển khai lệnh sau này trong truy vấn đề xuất.
 
 40
 00: 07: 52, 390--> 00: 08: 06, 240
@@ -8743,11 +8743,11 @@ Sau đó, chúng tôi đang chuyển đổi đề xuất và các đối tượn
 
 44
 00: 08: 50, 710--> 00: 09: 02, 660
-Bây giờ, tôi khuyên bạn nên tự mình thực hiện chức năng truy vấn thứ hai, nhận đề xuất cho khách hàng và bạn sẽ thấy nó được triển khai trên cùng dòng với chức năng nhận đề xuất.
+Bây giờ, tôi khuyên chúng ta nên tự mình thực hiện chức năng truy vấn thứ hai, nhận đề xuất cho khách hàng và chúng ta sẽ thấy nó được triển khai trên cùng dòng với chức năng nhận đề xuất.
 
 45
 00: 09: 02, 860--> 00: 09: 11, 230
-Tiếp theo, tôi sẽ hướng dẫn bạn đến lớp lệnh kiểm tra. Trong lớp lệnh kiểm tra. Đầu tiên chúng tôi tạo ra một vài gói kỳ nghỉ giả.
+Tiếp theo, tôi sẽ hướng dẫn chúng ta đến lớp lệnh kiểm tra. Trong lớp lệnh kiểm tra. Đầu tiên chúng tôi tạo ra một vài gói kỳ nghỉ giả.
 
 46
 00: 09: 11, 680--> 00: 09: 22, 450
@@ -8755,7 +8755,7 @@ Sau đó, chúng ta tạo một đối tượng đề xuất, tạo một thể 
 
 47
 00: 09: 22, 720--> 00: 09: 35, 180
-Nếu điều này thành công thì một quy tắc sẽ được tạo trong bảng đề xuất. Trong lớp Tuscany, bạn sẽ thấy rằng trong hàm chính, chúng ta đang tạo một phiên bản của truy vấn đề xuất.
+Nếu điều này thành công thì một quy tắc sẽ được tạo trong bảng đề xuất. Trong lớp Tuscany, chúng ta sẽ thấy rằng trong hàm chính, chúng ta đang tạo một phiên bản của truy vấn đề xuất.
 
 48
 00: 09: 35, 800--> 00: 09: 58, 660
@@ -8813,7 +8813,7 @@ Tương tự, các đặc điểm mong muốn của mô hình Reed là nó có t
 
 10
 00: 01: 42, 310--> 00: 01: 58, 560
-Hãy để tôi giải thích nó bằng một ví dụ phổ biến. Nếu bạn tạo quá nhiều chỉ mục trên CSDL thì hiệu suất ở bên phải sẽ giảm và nếu bạn xóa chỉ mục khỏi CSDL thì sẽ ảnh hưởng đến hiệu suất truy vấn.
+Hãy để tôi giải thích nó bằng một ví dụ phổ biến. Nếu chúng ta tạo quá nhiều chỉ mục trên CSDL thì hiệu suất ở bên phải sẽ giảm và nếu chúng ta xóa chỉ mục khỏi CSDL thì sẽ ảnh hưởng đến hiệu suất truy vấn.
 
 11
 00: 01: 58, 830--> 00: 02: 07, 080
@@ -8897,19 +8897,19 @@ Bây giờ, đây là một trường hợp đặc biệt của một ứng dụ
 
 31
 00: 06: 11, 690--> 00: 06: 23, 250
-Điều cuối cùng tôi muốn đề cập trong bài giảng này là một quan niệm sai lầm phổ biến. Một quan niệm sai lầm phổ biến là trong thiết kế hướng miền, bạn phải luôn sử dụng Securus.
+Điều cuối cùng tôi muốn đề cập trong bài giảng này là một quan niệm sai lầm phổ biến. Một quan niệm sai lầm phổ biến là trong thiết kế hướng miền, chúng ta phải luôn sử dụng Securus.
 
 32
 00: 06: 23, 400--> 00: 06: 31, 020
-Và điều đó không đúng. Tất cả phụ thuộc vào yêu cầu bạn có trong trường hợp sử dụng và mục tiêu của bạn.
+Và điều đó không đúng. Tất cả phụ thuộc vào yêu cầu chúng ta có trong trường hợp sử dụng và mục tiêu của chúng ta .
 
 33
 00: 06: 31, 470--> 00: 06: 38, 820
-Có một số cân nhắc nhất định mà bạn cần lưu ý khi quyết định giữa việc sử dụng hay không sử dụng Securus.
+Có một số cân nhắc nhất định mà chúng ta cần lưu ý khi quyết định giữa việc sử dụng hay không sử dụng Securus.
 
 34
 00: 06: 39, 060--> 00: 06: 57, 470
-Đầu tiên là bạn phải xác định rõ được lợi ích của việc sử dụng Securus. Hãy nhớ rằng việc sử dụng Securus có nghĩa là chi phí cho giải pháp sẽ cao hơn và sẽ cần quản lý nhiều bộ phận cũng như thành phần chuyển động hơn trong suốt vòng đời của ứng dụng.
+Đầu tiên là chúng ta phải xác định rõ được lợi ích của việc sử dụng Securus. Hãy nhớ rằng việc sử dụng Securus có nghĩa là chi phí cho giải pháp sẽ cao hơn và sẽ cần quản lý nhiều bộ phận cũng như thành phần chuyển động hơn trong suốt vòng đời của ứng dụng.
 
 35
 00: 06: 57, 840--> 00: 07: 16, 280
@@ -8923,11 +8923,11 @@ Securus, ứng dụng của họ trong bài học này, tôi sẽ nói về bấ
 
 2
 00: 00: 19, 980--> 00: 00: 27, 770
-Khi có hai kho dữ liệu độc lập cho bên đọc và bên phải, bạn sẽ cần ứng dụng của mình nêu rõ ứng dụng của chúng tôi.
+Khi có hai kho dữ liệu độc lập cho bên đọc và bên phải, chúng ta sẽ cần ứng dụng của mình nêu rõ ứng dụng của chúng tôi.
 
 3
 00: 00: 27, 990--> 00: 00: 47, 760
-Có thể là Synchronoss hoặc có thể không đồng bộ trong trường hợp sao chép đồng bộ. Có thể có một số thách thức kỹ thuật vì tính năng sao chép đồng bộ có thể không có sẵn cho CSDL bạn đang sử dụng hoặc nếu bạn đang sử dụng các công nghệ CSDL khác nhau thì thậm chí có thể không thực hiện được.
+Có thể là Synchronoss hoặc có thể không đồng bộ trong trường hợp sao chép đồng bộ. Có thể có một số thách thức kỹ thuật vì tính năng sao chép đồng bộ có thể không có sẵn cho CSDL chúng ta đang sử dụng hoặc nếu chúng ta đang sử dụng các công nghệ CSDL khác nhau thì thậm chí có thể không thực hiện được.
 
 4
 00: 00: 47, 760--> 00: 00: 53, 940
@@ -8935,7 +8935,7 @@ Ngay cả với công nghệ sao chép đồng bộ sẵn có, vẫn có thể c
 
 5
 00: 00: 54, 510--> 00: 01: 08, 940
-Ví dụ về công nghệ hỗ trợ sao chép đồng bộ là Amazon. A.W. đã có CSDL trong đó bạn có thể tạo các ứng dụng đọc trong cùng khu vực với bản sao đồng bộ.
+Ví dụ về công nghệ hỗ trợ sao chép đồng bộ là Amazon. A.W. đã có CSDL trong đó chúng ta có thể tạo các ứng dụng đọc trong cùng khu vực với bản sao đồng bộ.
 
 6
 00: 01: 09, 150--> 00: 01: 17, 950
@@ -8959,11 +8959,11 @@ Vì vậy, ví dụ: một số ứng dụng có thể không đáp ứng yêu c
 
 11
 00: 02: 09, 960--> 00: 02: 16, 860
-Và trong trường hợp đó, bạn sẽ phải sử dụng một số loại công nghệ sao chép đồng bộ. Vì vậy, chúng ta hãy đi qua một số tùy chọn.
+Và trong trường hợp đó, chúng ta sẽ phải sử dụng một số loại công nghệ sao chép đồng bộ. Vì vậy, chúng ta hãy đi qua một số tùy chọn.
 
 12
 00: 02: 16, 860--> 00: 02: 25, 910
-Bạn có thể sử dụng các công nghệ thu thập dữ liệu theo chuỗi cho phép bạn nắm bắt các thay đổi trong một kho dữ liệu và cập nhật kho dữ liệu khác.
+Bạn có thể sử dụng các công nghệ thu thập dữ liệu theo chuỗi cho phép chúng ta nắm bắt các thay đổi trong một kho dữ liệu và cập nhật kho dữ liệu khác.
 
 13
 00: 02: 25, 980--> 00: 02: 38, 550
@@ -8975,11 +8975,11 @@ Và sau đó là bản sao dựa trên luồng tin nhắn, trong đó bên phả
 
 15
 00: 02: 54, 540--> 00: 03: 13, 200
-Bài giảng trong phần này sẽ cho bạn thấy cơ chế hoạt động này. Trong bài học này, tôi đã nói về việc sao chép dữ liệu giữa kho dữ liệu đã đọc và kho dữ liệu phù hợp, điều này cần thiết khi bạn tách biệt lệnh và truy vấn cũng như sử dụng các kho dữ liệu khác nhau.
+Bài giảng trong phần này sẽ cho chúng ta thấy cơ chế hoạt động này. Trong bài học này, tôi đã nói về việc sao chép dữ liệu giữa kho dữ liệu đã đọc và kho dữ liệu phù hợp, điều này cần thiết khi chúng ta tách biệt lệnh và truy vấn cũng như sử dụng các kho dữ liệu khác nhau.
 
 16
 00: 03: 13, 590--> 00: 03: 28, 320
-Ứng dụng này có thể đồng bộ hoặc không đồng bộ. Bạn sẽ cần xem xét các yêu cầu cụ thể và công nghệ hỗ trợ của mình để quyết định công nghệ sao chép nào sẽ phù hợp hơn với trường hợp sử dụng của bạn.
+Ứng dụng này có thể đồng bộ hoặc không đồng bộ. Bạn sẽ cần xem xét các yêu cầu cụ thể và công nghệ hỗ trợ của mình để quyết định công nghệ sao chép nào sẽ phù hợp hơn với trường hợp sử dụng của chúng ta .
 
 <!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000008.srt-->
 
@@ -8989,11 +8989,11 @@ Việc triển khai quản lý đề xuất bằng mẫu Securus trong bài họ
 
 2
 00: 00: 13, 200--> 00: 00: 21, 900
-Tôi cũng sẽ hướng dẫn bạn sơ đồ thành phần và sơ đồ trình tự để triển khai quản lý đề xuất kỳ nghỉ ACMS.
+Tôi cũng sẽ hướng dẫn chúng ta sơ đồ thành phần và sơ đồ trình tự để triển khai quản lý đề xuất kỳ nghỉ ACMS.
 
 3
 00: 00: 22, 760--> 00: 00: 34, 640
-Bộ giải mã mà tôi sắp hướng dẫn bạn trong bài giảng này có sẵn trong dữ liệu nhánh get, vì vậy hãy đảm bảo kiểm tra dữ liệu nhánh trước khi tiếp tục.
+Bộ giải mã mà tôi sắp hướng dẫn chúng ta trong bài giảng này có sẵn trong dữ liệu nhánh get, vì vậy hãy đảm bảo kiểm tra dữ liệu nhánh trước khi tiếp tục.
 
 4
 00: 00: 35, 480--> 00: 00: 54, 470
@@ -9085,7 +9085,7 @@ Lệnh thêm một đề xuất mới vào dữ liệu bên phải được lưu
 
 26
 00: 05: 42, 440--> 00: 06: 03, 150
-Một truy vấn được con người gọi ra đối với giao diện người dùng, bạn có thực hiện truy vấn, triển khai truy vấn, thực hiện tìm kiếm hoặc chọn phần tiếp theo đối với trình đọc khi nó nhận dữ liệu từ các gói kho dữ liệu vào phản hồi và gửi lại cho giao diện người dùng.
+Một truy vấn được con người gọi ra đối với giao diện người dùng, chúng ta có thực hiện truy vấn, triển khai truy vấn, thực hiện tìm kiếm hoặc chọn phần tiếp theo đối với trình đọc khi nó nhận dữ liệu từ các gói kho dữ liệu vào phản hồi và gửi lại cho giao diện người dùng.
 
 27
 00: 06: 04, 160--> 00: 06: 16, 370
@@ -9093,21 +9093,21 @@ Một truy vấn được con người gọi ra đối với giao diện ngườ
 
 28
 00: 06: 16, 520--> 00: 06: 25, 670
-Trong phần này, bạn sẽ thấy cách triển khai bảo mật End-To-End mà tôi đã thảo luận trong bài học này.
+Trong phần này, chúng ta sẽ thấy cách triển khai bảo mật End-To-End mà tôi đã thảo luận trong bài học này.
 
 <!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000009.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 08, 130
-Lệnh thử nghiệm Securus triệu trong bài giảng này, bạn sẽ thấy cách triển khai lệnh để bảo mật đang hoạt động.
+Lệnh thử nghiệm Securus triệu trong bài giảng này, chúng ta sẽ thấy cách triển khai lệnh để bảo mật đang hoạt động.
 
 2
 00: 00: 08, 710--> 00: 00: 22, 880
-Có ba điều chúng tôi sẽ làm là thiết lập MQ 4 riêng tư, thậm chí cả nhắn tin. Sau đó, tôi sẽ hướng dẫn bạn mã dành cho phiên bản hai của việc triển khai lệnh và sau đó sẽ kiểm tra phiên bản hai của việc triển khai lệnh.
+Có ba điều chúng tôi sẽ làm là thiết lập MQ 4 riêng tư, thậm chí cả nhắn tin. Sau đó, tôi sẽ hướng dẫn chúng ta mã dành cho phiên bản hai của việc triển khai lệnh và sau đó sẽ kiểm tra phiên bản hai của việc triển khai lệnh.
 
 3
 00: 00: 22, 900--> 00: 00: 29, 880
-Xin lưu ý rằng mã mà tôi sẽ hướng dẫn bạn trong bài giảng này phụ thuộc vào trình tự sau đại học và Rabbitt MQ.
+Xin lưu ý rằng mã mà tôi sẽ hướng dẫn chúng ta trong bài giảng này phụ thuộc vào trình tự sau đại học và Rabbitt MQ.
 
 4
 00: 00: 30, 570--> 00: 00: 41, 400
@@ -9123,11 +9123,11 @@ Trong bài học này, chúng ta sẽ mở rộng việc triển khai trong đ�
 
 7
 00: 01: 12, 960--> 00: 01: 22, 680
-Mô hình được mô tả ở đây sẽ được gọi là mô hình phù hợp. Tiếp theo, tôi sẽ hướng dẫn bạn cách triển khai thông báo trong lệnh đề xuất rõ ràng.
+Mô hình được mô tả ở đây sẽ được gọi là mô hình phù hợp. Tiếp theo, tôi sẽ hướng dẫn chúng ta cách triển khai thông báo trong lệnh đề xuất rõ ràng.
 
 8
 00: 01: 23, 040--> 00: 01: 40, 200
-Và bước đầu tiên chúng ta sẽ thiết lập là xe buýt trên con thỏ. MQ sẽ thiết lập trao đổi chủ đề Q A và ràng buộc Q giữa trao đổi chủ đề và Q Đăng nhập vào tài khoản Amcu thỏ của bạn và nhấp vào Rabbit.
+Và bước đầu tiên chúng ta sẽ thiết lập là xe buýt trên con thỏ. MQ sẽ thiết lập trao đổi chủ đề Q A và ràng buộc Q giữa trao đổi chủ đề và Q Đăng nhập vào tài khoản Amcu thỏ của chúng ta và nhấp vào Rabbit.
 
 9
 00: 01: 40, 330--> 00: 01: 52, 710
@@ -9139,7 +9139,7 @@ Vì vậy, hãy tiếp tục và tạo một chủ đề trao đổi. Bấm vào
 
 11
 00: 02: 00, 120--> 00: 02: 06, 540
-Thay đổi loại chủ đề. Nếu bạn đã có trao đổi này, bạn chỉ cần xóa nó và tạo lại.
+Thay đổi loại chủ đề. Nếu chúng ta đã có trao đổi này, chúng ta chỉ cần xóa nó và tạo lại.
 
 12
 00: 02: 06, 540--> 00: 02: 17, 850
@@ -9151,7 +9151,7 @@ Q Và phím định tuyến sẽ được đề xuất cập nhật dấu chấm
 
 14
 00: 02: 28, 080--> 00: 02: 45, 870
-Chuyển hướng sang lệnh tạo đề xuất mở rộng phiên bản một của lệnh tạo đề xuất. Sự khác biệt duy nhất giữa hai lớp là các từ được sử dụng để ghi đè chức năng xử lý hậu kỳ mà tôi đã chỉ cho bạn trước đó trong chức năng xử lý hậu kỳ.
+Chuyển hướng sang lệnh tạo đề xuất mở rộng phiên bản một của lệnh tạo đề xuất. Sự khác biệt duy nhất giữa hai lớp là các từ được sử dụng để ghi đè chức năng xử lý hậu kỳ mà tôi đã chỉ cho chúng ta trước đó trong chức năng xử lý hậu kỳ.
 
 15
 00: 02: 46, 380--> 00: 03: 04, 230
@@ -9171,19 +9171,19 @@ Trong quá trình thực hiện xử lý hậu kỳ. Chúng tôi đang nhận đ
 
 19
 00: 03: 47, 310--> 00: 04: 20, 280
-Vì vậy, như bạn có thể thấy ở đây, chúng tôi đang tạo đối tượng liền kề cho sự kiện bằng cách lấy ID đề xuất từ ​​ý tưởng đề xuất, Jason, sau đó tạo kho lưu trữ để nhận đề xuất, chuyển đổi đề xuất sang Jason, lấy thông tin khách hàng từ kho lưu trữ của khách hàng, sau đó tạo tải trọng cho sự kiện, sau đó chỉ cần tạo một phiên bản về mục đích của dịch vụ, cung cấp các tham số MQ B và xuất bản sự kiện.
+Vì vậy, như chúng ta có thể thấy ở đây, chúng tôi đang tạo đối tượng liền kề cho sự kiện bằng cách lấy ID đề xuất từ ​​ý tưởng đề xuất, Jason, sau đó tạo kho lưu trữ để nhận đề xuất, chuyển đổi đề xuất sang Jason, lấy thông tin khách hàng từ kho lưu trữ của khách hàng, sau đó tạo tải trọng cho sự kiện, sau đó chỉ cần tạo một phiên bản về mục đích của dịch vụ, cung cấp các tham số MQ B và xuất bản sự kiện.
 
 20
 00: 04: 20, 880--> 00: 04: 34, 560
-Nếu mọi thứ đều ổn, dữ liệu sự kiện sẽ kết thúc trong sự kiện. Q Không. Trước khi tiếp tục, vui lòng đảm bảo rằng bạn đã thiết lập tang lễ MQ cho Rabbit MPU một cách chính xác.
+Nếu mọi thứ đều ổn, dữ liệu sự kiện sẽ kết thúc trong sự kiện. Q Không. Trước khi tiếp tục, vui lòng đảm bảo rằng chúng ta đã thiết lập tang lễ MQ cho Rabbit MPU một cách chính xác.
 
 21
 00: 04: 34, 560--> 00: 04: 48, 750
-Nếu bạn không cài đặt đúng cách, bạn sẽ nhận được một ngoại lệ hoặc thông báo có thể không xuất hiện trong phần Q. Ngoài ra, nếu bạn gặp bất kỳ vấn đề nào, hãy kiểm tra kỹ tên của sàn giao dịch và chủ đề.
+Nếu chúng ta không cài đặt đúng cách, chúng ta sẽ nhận được một ngoại lệ hoặc thông báo có thể không xuất hiện trong phần Q. Ngoài ra, nếu chúng ta gặp bất kỳ vấn đề nào, hãy kiểm tra kỹ tên của sàn giao dịch và chủ đề.
 
 22
 00: 04: 48, 750--> 00: 04: 59, 040
-Chuyển đến tài khoản Rabbit Amcu của bạn và bạn sẽ tìm thấy thông tin thực tế trên trang chi tiết. Chỉ cần sao chép từ đây và dán vào đây.
+Chuyển đến tài khoản Rabbit Amcu của chúng ta và chúng ta sẽ tìm thấy thông tin thực tế trên trang chi tiết. Chỉ cần sao chép từ đây và dán vào đây.
 
 23
 00: 04: 59, 110--> 00: 05: 20, 890
@@ -9195,11 +9195,11 @@ Phần còn lại của mã là như nhau. Vì vậy, hãy tiếp tục và th�
 
 25
 00: 05: 29, 270--> 00: 05: 40, 670
-Và như bạn có thể thấy ở đây, lần này khi thực hiện lệnh kiểm tra, chúng tôi đã nhận được thông báo quá trình xử lý hậu kỳ đã bắt đầu kiểm tra xem sự kiện đã được xuất bản hay chưa.
+Và như chúng ta có thể thấy ở đây, lần này khi thực hiện lệnh kiểm tra, chúng tôi đã nhận được thông báo quá trình xử lý hậu kỳ đã bắt đầu kiểm tra xem sự kiện đã được xuất bản hay chưa.
 
 26
 00: 05: 40, 900--> 00: 05: 50, 280
-Hãy tới Rabbitt MQ. Mở trình quản lý thỏ Amcu trong trình quản lý Rabbit Amcu, nhấp vào Kyuss và như bạn có thể thấy ở đây, chúng tôi có một thông báo.
+Hãy tới Rabbitt MQ. Mở trình quản lý thỏ Amcu trong trình quản lý Rabbit Amcu, nhấp vào Kyuss và như chúng ta có thể thấy ở đây, chúng tôi có một thông báo.
 
 27
 00: 05: 50, 830--> 00: 06: 04, 570
@@ -9209,7 +9209,7 @@ Hãy tiếp tục và đọc tin nhắn. Nhấp vào đề xuất, đọc Q, cu�
 
 1
 00: 00: 00, 210--> 00: 00: 11, 930
-Ngay cả đối tác tìm nguồn cung ứng trong bài học này, bạn cũng tìm hiểu về tìm nguồn cung ứng đồng đều và thậm chí cả các cửa hàng, đồng thời bạn cũng sẽ tìm hiểu về lợi ích của việc sử dụng mô hình tìm nguồn cung ứng đồng đều.
+Ngay cả đối tác tìm nguồn cung ứng trong bài học này, chúng ta cũng tìm hiểu về tìm nguồn cung ứng đồng đều và thậm chí cả các cửa hàng, đồng thời chúng ta cũng sẽ tìm hiểu về lợi ích của việc sử dụng mô hình tìm nguồn cung ứng đồng đều.
 
 2
 00: 00: 12, 150--> 00: 00: 21, 120
@@ -9221,7 +9221,7 @@ Chỉ có trạng thái hiện tại của đối tượng được duy trì. Đ
 
 4
 00: 00: 30, 510--> 00: 00: 38, 240
-Ví dụ: trong trường hợp hệ thống kiểm kê, bạn luôn có thể tìm thấy một số mặt hàng cụ thể trong kho.
+Ví dụ: trong trường hợp hệ thống kiểm kê, chúng ta luôn có thể tìm thấy một số mặt hàng cụ thể trong kho.
 
 5
 00: 00: 38, 370--> 00: 00: 49, 400
@@ -9265,15 +9265,15 @@ Chúng ta có một trăm đô la cộng với một trăm đô la, trừ đi n�
 
 15
 00: 02: 56, 820--> 00: 03: 26, 160
-Chúng ta hãy xem một truy vấn khác. Số dư cuối ngày ngày 5 tháng 5 là bao nhiêu? Trong trường hợp này, chúng ta phải xem xét tất cả các giao dịch này, thực hiện phép toán đơn giản và chúng ta có số dư là 250 đô la với ví dụ này, bạn sẽ có ý tưởng về cách các sự kiện được lưu trữ và cách chúng có thể được lưu trữ. được sử dụng để tạo trạng thái hiện tại hoặc trạng thái của đối tượng miền.
+Chúng ta hãy xem một truy vấn khác. Số dư cuối ngày ngày 5 tháng 5 là bao nhiêu? Trong trường hợp này, chúng ta phải xem xét tất cả các giao dịch này, thực hiện phép toán đơn giản và chúng ta có số dư là 250 đô la với ví dụ này, chúng ta sẽ có ý tưởng về cách các sự kiện được lưu trữ và cách chúng có thể được lưu trữ. được sử dụng để tạo trạng thái hiện tại hoặc trạng thái của đối tượng miền.
 
 16
 00: 03: 26, 790--> 00: 03: 38, 430
-Điều bạn có thể lo ngại rõ ràng vào thời điểm này là trạng thái hiện tại yêu cầu tổng hợp dữ liệu sự kiện và mối lo ngại đó là hợp lệ.
+Điều chúng ta có thể lo ngại rõ ràng vào thời điểm này là trạng thái hiện tại yêu cầu tổng hợp dữ liệu sự kiện và mối lo ngại đó là hợp lệ.
 
 17
 00: 03: 38, 790--> 00: 03: 50, 760
-Việc tạo lại trạng thái từ các sự kiện sẽ dẫn đến hiệu suất kém, đặc biệt nếu bạn phải tổng hợp một số lượng lớn sự kiện để giải quyết mối lo ngại liên quan đến hiệu suất.
+Việc tạo lại trạng thái từ các sự kiện sẽ dẫn đến hiệu suất kém, đặc biệt nếu chúng ta phải tổng hợp một số lượng lớn sự kiện để giải quyết mối lo ngại liên quan đến hiệu suất.
 
 18
 00: 03: 51, 000--> 00: 04: 07, 500
@@ -9333,19 +9333,19 @@ Vậy thì không phải là câu hỏi. Có nên sử dụng nước sốt đ�
 
 32
 00: 06: 39, 870--> 00: 06: 48, 570
-Ví dụ, bạn có nhu cầu đơn giản hóa việc hòa giải không? Có, ngay cả nước sốt cũng có thể là một ý tưởng hay.
+Ví dụ, chúng ta có nhu cầu đơn giản hóa việc hòa giải không? Có, ngay cả nước sốt cũng có thể là một ý tưởng hay.
 
 33
 00: 06: 49, 020--> 00: 06: 56, 970
-Hay bạn đang tìm cách tạo một kho lưu trữ dữ liệu có thể hỗ trợ các truy vấn lịch sử tạm thời hoặc phức tạp?
+Hay chúng ta đang tìm cách tạo một kho lưu trữ dữ liệu có thể hỗ trợ các truy vấn lịch sử tạm thời hoặc phức tạp?
 
 34
 00: 06: 56, 970--> 00: 07: 14, 720
-Có, có thể là một ý tưởng tốt nếu sử dụng nguồn cung ứng đồng đều. Mặt khác, nếu bạn không có nhu cầu quản lý các thay đổi trạng thái và bạn chỉ quan tâm đến trạng thái hiện tại của tài sản hoặc dữ liệu thì ngay cả việc tìm nguồn cung ứng cũng không thể mang lại cho bạn bất kỳ lợi ích nào.
+Có, có thể là một ý tưởng tốt nếu sử dụng nguồn cung ứng đồng đều. Mặt khác, nếu chúng ta không có nhu cầu quản lý các thay đổi trạng thái và chúng ta chỉ quan tâm đến trạng thái hiện tại của tài sản hoặc dữ liệu thì ngay cả việc tìm nguồn cung ứng cũng không thể mang lại cho chúng ta bất kỳ lợi ích nào.
 
 35
 00: 07: 14, 760--> 00: 07: 24, 240
-Tóm lại, hãy xem xét những lợi ích này và sau đó kiểm tra người dùng của bạn để hiểu liệu việc tìm nguồn cung ứng có hữu ích hay không.
+Tóm lại, hãy xem xét những lợi ích này và sau đó kiểm tra người dùng của chúng ta để hiểu liệu việc tìm nguồn cung ứng có hữu ích hay không.
 
 36
 00: 07: 24, 840--> 00: 07: 34, 530
@@ -9353,7 +9353,7 @@ Bây giờ chúng ta hãy nói về các stoats chẵn. Ngay cả các cửa hà
 
 37
 00: 07: 34, 890--> 00: 07: 49, 200
-Và cũng có một số CSDL chuyên biệt được xây dựng để tìm nguồn cung ứng. Một CSDL như vậy thậm chí còn được lưu trữ và bạn có thể đọc thêm về nó tại W w w dot, thậm chí store dot com.
+Và cũng có một số CSDL chuyên biệt được xây dựng để tìm nguồn cung ứng. Một CSDL như vậy thậm chí còn được lưu trữ và chúng ta có thể đọc thêm về nó tại W w w dot, thậm chí store dot com.
 
 38
 00: 07: 50, 200--> 00: 07: 57, 510
@@ -9365,7 +9365,7 @@ Tất cả các thay đổi trạng thái nhằm quản lý trạng thái hiện
 
 40
 00: 08: 06, 880--> 00: 08: 17, 530
-Lợi ích của việc kiên trì như vậy là bạn sẽ thoát khỏi cơ chế kiểm tra hộp, cơ chế đối chiếu và hỗ trợ cho các truy vấn tạm thời.
+Lợi ích của việc kiên trì như vậy là chúng ta sẽ thoát khỏi cơ chế kiểm tra hộp, cơ chế đối chiếu và hỗ trợ cho các truy vấn tạm thời.
 
 41
 00: 08: 18, 040--> 00: 08: 27, 100
@@ -9379,7 +9379,7 @@ Thiết lập Mongo DB ở phía bên phải trong bài học này, chúng ta s�
 
 2
 00: 00: 10, 530--> 00: 00: 17, 280
-Sau đó tôi sẽ hướng dẫn bạn qua lớp Mongo DBA. Và cuối cùng, chúng tôi sẽ kiểm tra thiết lập Mongo DB của mình.
+Sau đó tôi sẽ hướng dẫn chúng ta qua lớp Mongo DBA. Và cuối cùng, chúng tôi sẽ kiểm tra thiết lập Mongo DB của mình.
 
 3
 00: 00: 17, 520--> 00: 00: 25, 200
@@ -9387,7 +9387,7 @@ Xin lưu ý rằng mục đích của tôi trong bài học này không phải l
 
 4
 00: 00: 25, 380--> 00: 00: 35, 780
-Tôi sẽ hướng dẫn bạn các thao tác cơ bản mà chúng ta sẽ sử dụng trong khóa học này. Cordarrelle Vorkuta trong bài giảng này có sẵn trong dữ liệu nhánh get.
+Tôi sẽ hướng dẫn chúng ta các thao tác cơ bản mà chúng ta sẽ sử dụng trong khóa học này. Cordarrelle Vorkuta trong bài giảng này có sẵn trong dữ liệu nhánh get.
 
 5
 00: 00: 35, 790--> 00: 00: 45, 330
@@ -9415,31 +9415,31 @@ Dot com là nhà cung cấp CSDL dưới dạng dịch vụ cho Mongo DB. Để 
 
 11
 00: 01: 33, 670--> 00: 01: 43, 900
-Bấm vào đăng ký, cung cấp thông tin, làm theo hướng dẫn là bạn sẽ có tài khoản, mình đã có tài khoản rồi nên mình chỉ cần đăng nhập thôi.
+Bấm vào đăng ký, cung cấp thông tin, làm theo hướng dẫn là chúng ta sẽ có tài khoản, mình đã có tài khoản rồi nên mình chỉ cần đăng nhập thôi.
 
 12
 00: 01: 44, 950--> 00: 01: 51, 140
-Sau khi đăng nhập thành công, bạn có thể thấy đã có sẵn một cụm để sử dụng.
+Sau khi đăng nhập thành công, chúng ta có thể thấy đã có sẵn một cụm để sử dụng.
 
 13
 00: 01: 51, 160--> 00: 02: 04, 330
-Nếu không, bạn có thể nhấp vào cụm rồi nhấp vào xây dựng cụm, chọn cụm chia sẻ, nhấp chuột miễn phí vào W.S. Nó sẽ tự động chọn khu vực gần bạn nhất.
+Nếu không, chúng ta có thể nhấp vào cụm rồi nhấp vào xây dựng cụm, chọn cụm chia sẻ, nhấp chuột miễn phí vào W.S. Nó sẽ tự động chọn khu vực gần chúng ta nhất.
 
 14
 00: 02: 04, 430--> 00: 02: 18, 810
-Gọi tất cả và cung cấp tên cụm. Tôi sẽ gọi cụm này là rắc rối ackmann. Bạn không cần phải tạo cụm nếu bạn đã nhấp chuột vào Tạo cụm và sẽ mất vài phút để tạo cụm.
+Gọi tất cả và cung cấp tên cụm. Tôi sẽ gọi cụm này là rắc rối ackmann. Bạn không cần phải tạo cụm nếu chúng ta đã nhấp chuột vào Tạo cụm và sẽ mất vài phút để tạo cụm.
 
 15
 00: 02: 19, 160--> 00: 02: 33, 590
-Lần này cụm được tạo. Bây giờ một điều quan trọng mà tôi muốn cho bạn xem là trục mạng ở đây, cloud, dot, dot com đang tự động phát hiện địa chỉ IP của bạn và thêm địa chỉ IP đó vào danh sách trắng.
+Lần này cụm được tạo. Bây giờ một điều quan trọng mà tôi muốn cho chúng ta xem là trục mạng ở đây, cloud, dot, dot com đang tự động phát hiện địa chỉ IP của chúng ta và thêm địa chỉ IP đó vào danh sách trắng.
 
 16
 00: 02: 33, 640--> 00: 02: 42, 430
-Điều đó có nghĩa là nếu bạn cố gắng sử dụng cụm từ một số máy thông qua một số mạng khác, bạn sẽ gặp ngoại lệ.
+Điều đó có nghĩa là nếu chúng ta cố gắng sử dụng cụm từ một số máy thông qua một số mạng khác, chúng ta sẽ gặp ngoại lệ.
 
 17
 00: 02: 42, 580--> 00: 02: 49, 060
-Ứng dụng của bạn sẽ không kết nối được. Và nếu bạn muốn thực hiện bất kỳ thay đổi nào đối với địa chỉ IP này, chỉ cần nhấp vào THÊM.
+Ứng dụng của chúng ta sẽ không kết nối được. Và nếu chúng ta muốn thực hiện bất kỳ thay đổi nào đối với địa chỉ IP này, chỉ cần nhấp vào THÊM.
 
 18
 00: 02: 49, 360--> 00: 02: 56, 830
@@ -9455,15 +9455,15 @@ Hãy đặt tên CSDL là Achmad Travel và tạo một bộ sưu tập thử ng
 
 21
 00: 03: 16, 990--> 00: 03: 29, 060
-Chúng tôi sẽ thêm một số tài liệu vào nó. Bấm vào chèn tài liệu và ở đây bạn có thể thêm một số dữ liệu. Tôi có tên và tuổi rồi nhấp vào Chèn và đây là bản ghi đầu tiên của chúng tôi.
+Chúng tôi sẽ thêm một số tài liệu vào nó. Bấm vào chèn tài liệu và ở đây chúng ta có thể thêm một số dữ liệu. Tôi có tên và tuổi rồi nhấp vào Chèn và đây là bản ghi đầu tiên của chúng tôi.
 
 22
 00: 03: 29, 080--> 00: 03: 40, 420
-Tôi khuyên bạn nên tự mình chơi với điều này. Bây giờ chúng ta sẽ sử dụng thông tin cụm để kết nối với CSDL từ các lớp kiểm tra Java.
+Tôi khuyên chúng ta nên tự mình chơi với điều này. Bây giờ chúng ta sẽ sử dụng thông tin cụm để kết nối với CSDL từ các lớp kiểm tra Java.
 
 23
 00: 03: 40, 660--> 00: 03: 53, 590
-Tại thời điểm này, tôi khuyên bạn nên thử nghiệm một chút với phiên bản CSDL của mình. Lớp dựa trên McGreavy trừu tượng cung cấp các hoạt động cơ bản có thể được thực thi đối với cá thể McGarvie.
+Tại thời điểm này, tôi khuyên chúng ta nên thử nghiệm một chút với phiên bản CSDL của mình. Lớp dựa trên McGreavy trừu tượng cung cấp các hoạt động cơ bản có thể được thực thi đối với cá thể McGarvie.
 
 24
 00: 03: 53, 740--> 00: 04: 01, 390
@@ -9483,11 +9483,11 @@ Vì vậy, hãy tiếp tục và đảm bảo rằng các thông số của chú
 
 28
 00: 04: 55, 060--> 00: 05: 01, 690
-Nhấp vào kết nối với ứng dụng của bạn. Sau đó bạn sẽ thấy có một biến được định nghĩa trong ví dụ này.
+Nhấp vào kết nối với ứng dụng của chúng ta . Sau đó chúng ta sẽ thấy có một biến được định nghĩa trong ví dụ này.
 
 29
 00: 05: 01, 690--> 00: 05: 15, 450
-Sao chép cái này và dán nó vào máy chủ Mongar TV biến. Chỉ sao chép phần máy chủ và sau đó thay thế máy chủ Mongul TV bằng máy chủ Mongo DB của riêng bạn và sau đó chỉ cần xóa phần này.
+Sao chép cái này và dán nó vào máy chủ Mongar TV biến. Chỉ sao chép phần máy chủ và sau đó thay thế máy chủ Mongul TV bằng máy chủ Mongo DB của riêng chúng ta và sau đó chỉ cần xóa phần này.
 
 30
 00: 05: 15, 460--> 00: 05: 34, 060
@@ -9495,11 +9495,11 @@ Vì vậy, bây giờ máy chủ của chúng tôi là tốt vào thời điểm
 
 31
 00: 05: 34, 090--> 00: 05: 50, 890
-Tôi đã giữ mật khẩu. Giống như tên người dùng, người dùng Lepo cuộn xuống và user. Bây giờ chúng tôi đã thêm người dùng vào CSDL và như bạn sẽ thấy tôi đã có người dùng repo là người dùng McGreavy và mật khẩu là người dùng repo.
+Tôi đã giữ mật khẩu. Giống như tên người dùng, người dùng Lepo cuộn xuống và user. Bây giờ chúng tôi đã thêm người dùng vào CSDL và như chúng ta sẽ thấy tôi đã có người dùng repo là người dùng McGreavy và mật khẩu là người dùng repo.
 
 32
 00: 05: 51, 010--> 00: 06: 09, 080
-Một điều cuối cùng. Đảm bảo tên CSDL là Achmea Travel, vì vậy hãy nhấp vào Kluster. Và như bạn có thể thấy, tên là Acme Travel và hiện tại lớp dựa trên McGreavy được thiết lập với các tham số bắt buộc để kết nối với Mongo DB Democratie.
+Một điều cuối cùng. Đảm bảo tên CSDL là Achmea Travel, vì vậy hãy nhấp vào Kluster. Và như chúng ta có thể thấy, tên là Acme Travel và hiện tại lớp dựa trên McGreavy được thiết lập với các tham số bắt buộc để kết nối với Mongo DB Democratie.
 
 33
 00: 06: 09, 080--> 00: 06: 32, 110
@@ -9511,7 +9511,7 @@ Nếu điều này thành công, chúng ta sẽ thấy một thông báo cho bi�
 
 35
 00: 06: 38, 770--> 00: 06: 57, 130
-Ở bước thứ hai, chúng ta đang thực thi hàm get by name. Để có được tài liệu mới được chèn bằng tên bộ lọc bằng John bây giờ, khoảng cách rối loạn chức năng theo tên là một hàm cục bộ và bạn có thể tự mình truy cập mã này.
+Ở bước thứ hai, chúng ta đang thực thi hàm get by name. Để có được tài liệu mới được chèn bằng tên bộ lọc bằng John bây giờ, khoảng cách rối loạn chức năng theo tên là một hàm cục bộ và chúng ta có thể tự mình truy cập mã này.
 
 36
 00: 06: 57, 160--> 00: 07: 06, 540
@@ -9523,7 +9523,7 @@ Và sau đó chúng ta chỉ cần in ra ý chính và chuỗi nhận được t
 
 38
 00: 07: 13, 210--> 00: 07: 22, 000
-Hãy tiếp tục và dọn dẹp bộ sưu tập thử nghiệm của chúng ta. Vì vậy, hãy bắt đầu các bộ sưu tập. Khi bạn kiếm tiền từ bộ sưu tập, bạn sẽ thấy biểu tượng xóa này.
+Hãy tiếp tục và dọn dẹp bộ sưu tập thử nghiệm của chúng ta. Vì vậy, hãy bắt đầu các bộ sưu tập. Khi chúng ta kiếm tiền từ bộ sưu tập, chúng ta sẽ thấy biểu tượng xóa này.
 
 39
 00: 07: 22, 240--> 00: 07: 36, 370
@@ -9531,11 +9531,11 @@ Chỉ cần nhấp vào nó để xóa bài kiểm tra bộ sưu tập này và 
 
 40
 00: 07: 36, 520--> 00: 07: 45, 760
-Và như bạn có thể thấy, bước đầu tiên đã thành công ở bước thứ hai. Chúng tôi có tài liệu Jason với dữ liệu từ Mongo DB quay lại bộ sưu tập.
+Và như chúng ta có thể thấy, bước đầu tiên đã thành công ở bước thứ hai. Chúng tôi có tài liệu Jason với dữ liệu từ Mongo DB quay lại bộ sưu tập.
 
 41
 00: 07: 45, 760--> 00: 07: 51, 880
-Đây là dữ liệu mà chúng tôi vừa chèn đề xuất bạn nên tự mình thử lớp học dựa trên Mongo TV.
+Đây là dữ liệu mà chúng tôi vừa chèn đề xuất chúng ta nên tự mình thử lớp học dựa trên Mongo TV.
 
 <!--@ \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000012.srt-->
 
@@ -9545,7 +9545,7 @@ Iran đang xây dựng thuê bao ACL vào cuối bài học này. Chúng tôi s�
 
 2
 00: 00: 11, 820--> 00: 00: 24, 120
-Tôi sẽ hướng dẫn bạn về mã và đề xuất, đọc báo cáo, sau đó tôi sẽ hướng dẫn bạn về mã và người đăng ký đề xuất và ở cuối bài giảng sẽ thấy người đăng ký đề xuất hoạt động.
+Tôi sẽ hướng dẫn chúng ta về mã và đề xuất, đọc báo cáo, sau đó tôi sẽ hướng dẫn chúng ta về mã và người đăng ký đề xuất và ở cuối bài giảng sẽ thấy người đăng ký đề xuất hoạt động.
 
 3
 00: 00: 24, 510--> 00: 00: 47, 400
@@ -9581,7 +9581,7 @@ Jason, trong bộ sưu tập đề xuất. Sau đó, có một số hàm truy v�
 
 11
 00: 02: 22, 370--> 00: 02: 35, 450
-Bạn có thể tự mình xem qua mã này. Nó chỉ đơn giản là lấy các tài liệu từ Mongo DB và sau đó chuyển đổi các tài liệu này thành chuỗi liền kề trước khi tôi hướng dẫn bạn mã trong phần đăng ký.
+Bạn có thể tự mình xem qua mã này. Nó chỉ đơn giản là lấy các tài liệu từ Mongo DB và sau đó chuyển đổi các tài liệu này thành chuỗi liền kề trước khi tôi hướng dẫn chúng ta mã trong phần đăng ký.
 
 12
 00: 02: 35, 740--> 00: 02: 47, 880
@@ -9629,11 +9629,11 @@ Thuê bao của nó có sẵn theo gói thuế Securus V2 trong thuê bao thử 
 
 23
 00: 04: 47, 660--> 00: 05: 04, 610
-Bây giờ, hãy tiếp tục và thiết lập các thông số AQAP của chúng ta. Mở thông tin chi tiết về con thỏ Amcu của bạn và trên trang chi tiết, bạn sẽ thấy văn phòng MQ chỉ cần sao chép Bức tường chiếm đóng và thay thế Eurail mà chúng tôi đã có trong mã.
+Bây giờ, hãy tiếp tục và thiết lập các thông số AQAP của chúng ta. Mở thông tin chi tiết về con thỏ Amcu của chúng ta và trên trang chi tiết, chúng ta sẽ thấy văn phòng MQ chỉ cần sao chép Bức tường chiếm đóng và thay thế Eurail mà chúng tôi đã có trong mã.
 
 24
 00: 05: 04, 760--> 00: 05: 16, 580
-Và đó là những gì bạn cần làm. Và bây giờ tôi giả định rằng bạn đã tạo sàn giao dịch Acme Sales Coppock và ràng buộc giữa đề xuất.
+Và đó là những gì chúng ta cần làm. Và bây giờ tôi giả định rằng chúng ta đã tạo sàn giao dịch Acme Sales Coppock và ràng buộc giữa đề xuất.
 
 25
 00: 05: 16, 580--> 00: 05: 24, 050
@@ -9657,7 +9657,7 @@ Và khi lệnh đã được thực thi, chúng ta sẽ thấy một thông báo
 
 30
 00: 06: 07, 380--> 00: 06: 16, 230
-Mặc dù vậy, ở bước thứ ba, chúng ta cần kiểm tra xem dữ liệu đã được thêm vào Mongar DB hay chưa. Vì vậy, hãy mở bộ sưu tập của bạn.
+Mặc dù vậy, ở bước thứ ba, chúng ta cần kiểm tra xem dữ liệu đã được thêm vào Mongar DB hay chưa. Vì vậy, hãy mở bộ sưu tập của chúng ta .
 
 31
 00: 06: 16, 260--> 00: 06: 27, 650
@@ -9671,7 +9671,7 @@ Và nếu chúng ta nhìn vào bộ sưu tập đề xuất, chúng ta sẽ th�
 
 1
 00: 00: 00, 250--> 00: 00: 13, 010
-Securus quyết định lại truy vấn trong bài giảng này. Tôi sẽ hướng dẫn bạn cách triển khai phiên bản hai của truy vấn đề xuất và sau đó chúng tôi sẽ thử nghiệm phiên bản hai của truy vấn đề xuất.
+Securus quyết định lại truy vấn trong bài giảng này. Tôi sẽ hướng dẫn chúng ta cách triển khai phiên bản hai của truy vấn đề xuất và sau đó chúng tôi sẽ thử nghiệm phiên bản hai của truy vấn đề xuất.
 
 2
 00: 00: 13, 560--> 00: 00: 23, 060
@@ -9715,17 +9715,17 @@ Jason, hãy tiếp tục và chạy truy vấn thử nghiệm. Phải, nhấp v�
 
 12
 00: 02: 04, 230--> 00: 02: 15, 120
-Một điều bạn cần lưu ý ở đây là cấu trúc liền kề cho phiên bản hai của truy vấn khác với cấu trúc liền kề của phiên bản, một trong những cách triển khai truy vấn.
+Một điều chúng ta cần lưu ý ở đây là cấu trúc liền kề cho phiên bản hai của truy vấn khác với cấu trúc liền kề của phiên bản, một trong những cách triển khai truy vấn.
 
 <!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000001.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 08, 940
-Trong phần cuối cùng, bạn tìm hiểu cách dữ liệu được sao chép trên nhiều CSDL bằng cách sử dụng tính năng nhắn tin trong thiết lập này.
+Trong phần cuối cùng, chúng ta tìm hiểu cách dữ liệu được sao chép trên nhiều CSDL bằng cách sử dụng tính năng nhắn tin trong thiết lập này.
 
 2
 00: 00: 09, 120--> 00: 00: 17, 910
-Có khả năng mất tin nhắn nếu MQ hoặc nhà môi giới nhắn tin không có sẵn. Giả sử bạn đang sử dụng Rabbitt MQ.
+Có khả năng mất tin nhắn nếu MQ hoặc nhà môi giới nhắn tin không có sẵn. Giả sử chúng ta đang sử dụng Rabbitt MQ.
 
 3
 00: 00: 18, 030--> 00: 00: 28, 360
@@ -9749,7 +9749,7 @@ Chúng ta hãy xem xét một kịch bản khác có thể dẫn đến trạng 
 
 8
 00: 01: 27, 870--> 00: 01: 35, 850
-Trong phần này, bạn sẽ học cách giải quyết hai tình huống thất bại mà tôi đã thảo luận. Chúng ta hãy đi qua các mục tiêu học tập trong bài giảng đầu tiên.
+Trong phần này, chúng ta sẽ học cách giải quyết hai tình huống thất bại mà tôi đã thảo luận. Chúng ta hãy đi qua các mục tiêu học tập trong bài giảng đầu tiên.
 
 9
 00: 01: 35, 880--> 00: 01: 48, 270
@@ -9763,19 +9763,19 @@ Thiết kế cho thất bại Trong bài học này, tôi sẽ thảo luận v�
 
 2
 00: 00: 09, 690--> 00: 00: 20, 190
-Sau đó, tôi sẽ thảo luận về mẫu tin nhắn đáng tin cậy. Khái niệm thiết kế cho sự thất bại gợi ý rằng bạn nên luôn lường trước rằng sẽ có những thất bại.
+Sau đó, tôi sẽ thảo luận về mẫu tin nhắn đáng tin cậy. Khái niệm thiết kế cho sự thất bại gợi ý rằng chúng ta nên luôn lường trước rằng sẽ có những thất bại.
 
 3
 00: 00: 20, 850--> 00: 00: 29, 610
-Với tư cách là nhà thiết kế phần mềm, bạn nên xác định các điểm lỗi trong kiến ​​trúc của mình. Hãy xem qua một ví dụ nhanh.
+Với tư cách là nhà thiết kế phần mềm, chúng ta nên xác định các điểm lỗi trong kiến ​​trúc của mình. Hãy xem qua một ví dụ nhanh.
 
 4
 00: 00: 29, 970--> 00: 00: 43, 890
-Giả sử bạn có Microsoft Office đang nói chuyện với Microsoft Office B qua hộp thông báo. Và giả sử Microsoft cũng phụ thuộc vào dịch vụ bên ngoài mà nó kết nối bằng HTP còn lại.
+Giả sử chúng ta có Microsoft Office đang nói chuyện với Microsoft Office B qua hộp thông báo. Và giả sử Microsoft cũng phụ thuộc vào dịch vụ bên ngoài mà nó kết nối bằng HTP còn lại.
 
 5
 00: 00: 44, 130--> 00: 01: 01, 420
-Bây giờ, nếu bạn nhìn vào sơ đồ này, điều gì có thể sai ở đây? Đó là điểm thất bại ở đâu? Nếu bạn nhìn vào Microsoft, có phải CSDL có thể bị hỏng hoặc thậm chí mạng có thể không có sẵn đối với Microsoft như một cách để kết nối với bảng tin và dịch vụ bên ngoài.
+Bây giờ, nếu chúng ta nhìn vào sơ đồ này, điều gì có thể sai ở đây? Đó là điểm thất bại ở đâu? Nếu chúng ta nhìn vào Microsoft, có phải CSDL có thể bị hỏng hoặc thậm chí mạng có thể không có sẵn đối với Microsoft như một cách để kết nối với bảng tin và dịch vụ bên ngoài.
 
 6
 00: 01: 01, 740--> 00: 01: 10, 700
@@ -9783,7 +9783,7 @@ Những gì khác có thể đi sai? Microsoft sẽ có thể không có sẵn v
 
 7
 00: 01: 10, 740--> 00: 01: 20, 360
-Vì vậy, gợi ý là khi bạn đã xác định được các điểm lỗi trong kiến ​​trúc của mình, hãy chủ động giải quyết tất cả các điểm lỗi đó.
+Vì vậy, gợi ý là khi chúng ta đã xác định được các điểm lỗi trong kiến ​​trúc của mình, hãy chủ động giải quyết tất cả các điểm lỗi đó.
 
 8
 00: 01: 20, 760--> 00: 01: 32, 260
@@ -9791,7 +9791,7 @@ Vì vậy, gợi ý là khi bạn đã xác định được các điểm lỗi 
 
 9
 00: 01: 32, 280--> 00: 01: 40, 740
-Mục tiêu của bạn là xác định tất cả các điểm lỗi trong kiến ​​trúc này. Hãy đăng một video và thử nó.
+Mục tiêu của chúng ta là xác định tất cả các điểm lỗi trong kiến ​​trúc này. Hãy đăng một video và thử nó.
 
 10
 00: 01: 41, 010--> 00: 01: 53, 600
@@ -9815,7 +9815,7 @@ Và sau đó có thể có những thất bại về phía Reid. Trong bài họ
 
 15
 00: 02: 42, 300--> 00: 02: 50, 820
-Không, với tư cách là một nhà thiết kế phần mềm, một khi bạn đã xác định được những điểm sai sót, bạn cần suy nghĩ về tác động của những điểm sai sót đó.
+Không, với tư cách là một nhà thiết kế phần mềm, một khi chúng ta đã xác định được những điểm sai sót, chúng ta cần suy nghĩ về tác động của những điểm sai sót đó.
 
 16
 00: 02: 51, 120--> 00: 03: 10, 050
@@ -9823,7 +9823,7 @@ Vì vậy, chúng tôi sẽ tập trung vào vấn đề không có sẵn của 
 
 17
 00: 03: 10, 350--> 00: 03: 21, 360
-Bây giờ nếu bạn nghĩ về nó, kết quả là gì? Kết quả là dữ liệu ở bên phải được cập nhật nhưng người đăng ký ở bên phải sẽ không bao giờ nhận được sự kiện.
+Bây giờ nếu chúng ta nghĩ về nó, kết quả là gì? Kết quả là dữ liệu ở bên phải được cập nhật nhưng người đăng ký ở bên phải sẽ không bao giờ nhận được sự kiện.
 
 18
 00: 03: 22, 050--> 00: 03: 34, 790
@@ -9871,7 +9871,7 @@ Vì không có tên chung cho mẫu này nên tôi sẽ gọi nó là mẫu tin 
 
 29
 00: 05: 54, 190--> 00: 06: 20, 110
-Hãy để tôi dẫn bạn đến một minh họa sẽ làm cho mô hình này trở nên rất rõ ràng. Bạn đã quen với hình minh họa này, trong đó Lệnh Đề xuất Creel đang ghi dữ liệu đề xuất vào CSDL và sau đó xuất bản một thông báo trong bước xử lý bài đăng để sử dụng mẫu thông báo đáng tin cậy đã khai báo lệnh đề xuất sẽ không còn xuất bản một thông báo tới MQ nữa.
+Hãy để tôi dẫn chúng ta đến một minh họa sẽ làm cho mô hình này trở nên rất rõ ràng. Bạn đã quen với hình minh họa này, trong đó Lệnh Đề xuất Creel đang ghi dữ liệu đề xuất vào CSDL và sau đó xuất bản một thông báo trong bước xử lý bài đăng để sử dụng mẫu thông báo đáng tin cậy đã khai báo lệnh đề xuất sẽ không còn xuất bản một thông báo tới MQ nữa.
 
 30
 00: 06: 20, 500--> 00: 06: 31, 240
@@ -9915,7 +9915,7 @@ Cuối cùng, việc xuất bản sẽ thành công và trạng thái của sự
 
 40
 00: 08: 31, 330--> 00: 08: 39, 540
-Tiếp theo, tôi sẽ hướng dẫn bạn về logic của bộ xử lý sự kiện, bộ xử lý chẵn được triển khai như một quy trình độc lập.
+Tiếp theo, tôi sẽ hướng dẫn chúng ta về logic của bộ xử lý sự kiện, bộ xử lý chẵn được triển khai như một quy trình độc lập.
 
 41
 00: 08: 40, 090--> 00: 08: 53, 680
@@ -9939,7 +9939,7 @@ Nhưng nếu nhà xuất bản thành công thì sự kiện sẽ được đán
 
 46
 00: 09: 52, 780--> 00: 10: 03, 890
-Đã đến lúc đi qua những điểm chính. Từ bài học này, bạn phải xác định các điểm lỗi trong kiến ​​trúc của mình và bạn phải chủ động giải quyết những điểm lỗi đó.
+Đã đến lúc đi qua những điểm chính. Từ bài học này, chúng ta phải xác định các điểm lỗi trong kiến ​​trúc của mình và chúng ta phải chủ động giải quyết những điểm lỗi đó.
 
 47
 00: 10: 04, 360--> 00: 10: 14, 980
@@ -9951,7 +9951,7 @@ Nhưng hãy nhớ, có nhiều thách thức trong việc sử dụng truyện t
 
 49
 00: 10: 23, 530--> 00: 10: 33, 010
-Bạn có thể sử dụng mẫu tin nhắn đáng tin cậy. Trong một số bài giảng tiếp theo, bạn sẽ thấy mô hình nhắn tin đáng tin cậy đang hoạt động.
+Bạn có thể sử dụng mẫu tin nhắn đáng tin cậy. Trong một số bài giảng tiếp theo, chúng ta sẽ thấy mô hình nhắn tin đáng tin cậy đang hoạt động.
 
 <!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000003.srt-->
 
@@ -9961,15 +9961,15 @@ Chúng tôi sẽ thực hiện đúng đắn trong việc triển khai bảo m�
 
 2
 00: 00: 12, 090--> 00: 00: 26, 760
-Tôi sẽ cung cấp cho bạn một cái nhìn tổng quan cấp cao về việc triển khai. Sau đó, tôi sẽ hướng dẫn bạn mã trong bộ xử lý sự kiện và các lớp khác, sau đó bạn sẽ thấy mẫu thông báo đáng tin cậy đang hoạt động.
+Tôi sẽ cung cấp cho chúng ta một cái nhìn tổng quan cấp cao về việc triển khai. Sau đó, tôi sẽ hướng dẫn chúng ta mã trong bộ xử lý sự kiện và các lớp khác, sau đó chúng ta sẽ thấy mẫu thông báo đáng tin cậy đang hoạt động.
 
 3
 00: 00: 27, 660--> 00: 00: 36, 630
-Mã được đề cập trong bài giảng này có sẵn trong dữ liệu nhánh get. Vì vậy hãy đảm bảo rằng bạn đã kiểm tra dữ liệu chi nhánh cổng.
+Mã được đề cập trong bài giảng này có sẵn trong dữ liệu nhánh get. Vì vậy hãy đảm bảo rằng chúng ta đã kiểm tra dữ liệu chi nhánh cổng.
 
 4
 00: 00: 36, 900--> 00: 00: 55, 130
-Trong bài giảng Thực hành vừa qua, bạn sẽ tìm hiểu cách I.T. nhóm đã xây dựng mẫu Securus và khi bắt đầu thử nghiệm mẫu an toàn nhất, họ nhận ra rằng nếu thỏ Anchia không hoạt động hoặc nếu có sự cố kết nối mạng với thỏ thì tin nhắn MQ sẽ bị mất.
+Trong bài giảng Thực hành vừa qua, chúng ta sẽ tìm hiểu cách I.T. nhóm đã xây dựng mẫu Securus và khi bắt đầu thử nghiệm mẫu an toàn nhất, họ nhận ra rằng nếu thỏ Anchia không hoạt động hoặc nếu có sự cố kết nối mạng với thỏ thì tin nhắn MQ sẽ bị mất.
 
 5
 00: 00: 55, 290--> 00: 01: 03, 060
@@ -9985,7 +9985,7 @@ Có bàn. Hai quyền này sẽ được thực hiện trong một giao dịch C
 
 8
 00: 01: 34, 300--> 00: 01: 43, 090
-Vì bạn không thể nghe thấy nên bộ xử lý lệnh không tương tác trực tiếp với tin nhắn, nhưng chúng tôi thậm chí sẽ có bộ xử lý để làm điều đó.
+Vì chúng ta không thể nghe thấy nên bộ xử lý lệnh không tương tác trực tiếp với tin nhắn, nhưng chúng tôi thậm chí sẽ có bộ xử lý để làm điều đó.
 
 9
 00: 01: 43, 240--> 00: 01: 54, 010
@@ -10033,7 +10033,7 @@ Kho lưu trữ đề xuất phiên bản thứ ba này có thay đổi lớn v�
 
 20
 00: 03: 59, 590--> 00: 04: 09, 520
-Việc triển khai này hiện thực thi để chèn các câu lệnh trong một giao dịch và điều này sẽ trở nên rõ ràng khi bạn nhìn thấy mã.
+Việc triển khai này hiện thực thi để chèn các câu lệnh trong một giao dịch và điều này sẽ trở nên rõ ràng khi chúng ta nhìn thấy mã.
 
 21
 00: 04: 10, 060--> 00: 04: 23, 650
@@ -10049,7 +10049,7 @@ Nhưng có sự thay đổi trong kho đề xuất, đang mở rộng phiên b�
 
 24
 00: 04: 55, 060--> 00: 05: 06, 610
-Trước tiên, chúng tôi tạo phần tiếp theo chèn cho các đề xuất. Nếu bạn muốn kiểm tra nó, hãy xem phiên bản hai của REPL đề xuất ở bước tiếp theo.
+Trước tiên, chúng tôi tạo phần tiếp theo chèn cho các đề xuất. Nếu chúng ta muốn kiểm tra nó, hãy xem phiên bản hai của REPL đề xuất ở bước tiếp theo.
 
 25
 00: 05: 06, 610--> 00: 05: 17, 140
@@ -10061,7 +10061,7 @@ Chúng ta hãy xem nhanh nó. Bạn sẽ thấy rằng hầu hết mã trong s�
 
 27
 00: 05: 30, 340--> 00: 05: 41, 230
-Và sau đó chúng ta có tuyên bố tiếp theo. Bây giờ, một điều quan trọng mà tôi muốn bạn xem xét là tôi đang mã hóa tải trọng chẵn thành base64.
+Và sau đó chúng ta có tuyên bố tiếp theo. Bây giờ, một điều quan trọng mà tôi muốn chúng ta xem xét là tôi đang mã hóa tải trọng chẵn thành base64.
 
 28
 00: 05: 41, 230--> 00: 05: 50, 740
@@ -10069,11 +10069,11 @@ Và lý do tôi làm điều đó là vì có những chuỗi bị mắc vào v�
 
 29
 00: 05: 50, 750--> 00: 06: 05, 770
-Hiện tại có nhiều cách khác để giải quyết thách thức này nhưng tôi đã chọn con đường đơn giản nhất. Trên thực tế, bạn cũng có thể tạo các công việc, cột kiểu dữ liệu và sinh viên sau đại học bằng nhau, nhưng tôi muốn giữ nó độc lập với CSDL .
+Hiện tại có nhiều cách khác để giải quyết thách thức này nhưng tôi đã chọn con đường đơn giản nhất. Trên thực tế, chúng ta cũng có thể tạo các công việc, cột kiểu dữ liệu và sinh viên sau đại học bằng nhau, nhưng tôi muốn giữ nó độc lập với CSDL .
 
 30
 00: 06: 05, 980--> 00: 06: 17, 710
-Vì vậy, đây là nơi câu lệnh chu trình kết hợp được tạo. Như bạn có thể thấy, tôi đang sử dụng từ đóng nhưng bình đẳng cho đề xuất và phần tiếp theo cho đề xuất.
+Vì vậy, đây là nơi câu lệnh chu trình kết hợp được tạo. Như chúng ta có thể thấy, tôi đang sử dụng từ đóng nhưng bình đẳng cho đề xuất và phần tiếp theo cho đề xuất.
 
 31
 00: 06: 17, 710--> 00: 06: 35, 290
@@ -10089,7 +10089,7 @@ Và nó không thực hiện bất kỳ loại xử lý hậu kỳ nào vì hi�
 
 34
 00: 06: 56, 410--> 00: 07: 07, 260
-Tiếp theo, tôi sẽ hướng dẫn bạn quy trình chẵn. Các lớp bộ xử lý quy trình có sẵn theo lệnh Securus Dot Vetri DOT hoặc thậm chí gói.
+Tiếp theo, tôi sẽ hướng dẫn chúng ta quy trình chẵn. Các lớp bộ xử lý quy trình có sẵn theo lệnh Securus Dot Vetri DOT hoặc thậm chí gói.
 
 35
 00: 07: 07, 570--> 00: 07: 16, 840
@@ -10105,7 +10105,7 @@ Chức năng đầu tiên là lấy số chẵn chưa được xử lý từ b�
 
 38
 00: 07: 39, 920--> 00: 07: 48, 010
-Tôi khuyên bạn nên tự mình xem qua mã trong lớp này. Lớp chính là lớp xử lý sự kiện.
+Tôi khuyên chúng ta nên tự mình xem qua mã trong lớp này. Lớp chính là lớp xử lý sự kiện.
 
 39
 00: 07: 48, 590--> 00: 07: 56, 600
@@ -10149,11 +10149,11 @@ Chúng tôi sẽ sử dụng lớp lệnh kiểm tra và lớp bộ xử lý th�
 
 49
 00: 09: 53, 420--> 00: 10: 10, 310
-Trong quá trình triển khai lệnh kiểm tra, bạn sẽ thấy rằng không có sự khác biệt về mã so với phiên bản hai của lệnh, ngoại trừ việc trong lớp này chúng tôi đang sử dụng phiên bản ba của lệnh đề xuất rõ ràng và loại phiên bản để kiểm tra.
+Trong quá trình triển khai lệnh kiểm tra, chúng ta sẽ thấy rằng không có sự khác biệt về mã so với phiên bản hai của lệnh, ngoại trừ việc trong lớp này chúng tôi đang sử dụng phiên bản ba của lệnh đề xuất rõ ràng và loại phiên bản để kiểm tra.
 
 50
 00: 10: 10, 310--> 00: 10: 31, 040
-Ngay cả lớp bộ xử lý cũng có các tham số MQ. Đảm bảo rằng bạn đã thiết lập đúng Eurail tại đây. Và trong chức năng chính, chúng ta đang tạo một phiên bản của pops of dịch vụ, tạo một phiên bản của bộ xử lý chẵn nhưng pops của dịch vụ và sau đó chỉ cần bắt đầu theo dõi.
+Ngay cả lớp bộ xử lý cũng có các tham số MQ. Đảm bảo rằng chúng ta đã thiết lập đúng Eurail tại đây. Và trong chức năng chính, chúng ta đang tạo một phiên bản của pops of dịch vụ, tạo một phiên bản của bộ xử lý chẵn nhưng pops của dịch vụ và sau đó chỉ cần bắt đầu theo dõi.
 
 51
 00: 10: 31, 160--> 00: 10: 40, 420
@@ -10161,11 +10161,11 @@ Khi mối đe dọa bắt đầu, nó sẽ thức dậy sau mỗi 10 giây, tìm
 
 52
 00: 10: 40, 760--> 00: 10: 52, 760
-Hãy tiếp tục và kiểm tra xem chúng ta có thứ gì trong hàng đợi để đến Trình quản lý MQ của Rabbitt không, hãy nhấp vào Cuz kiểm tra đề xuất, đọc Q và như bạn có thể thấy không có tin nhắn nào.
+Hãy tiếp tục và kiểm tra xem chúng ta có thứ gì trong hàng đợi để đến Trình quản lý MQ của Rabbitt không, hãy nhấp vào Cuz kiểm tra đề xuất, đọc Q và như chúng ta có thể thấy không có tin nhắn nào.
 
 53
 00: 10: 52, 760--> 00: 11: 09, 550
-Hãy tiếp tục và quy trình chẵn - nhấp chuột phải vào kiểm tra ngay cả kiểm tra chạy bộ xử lý, thậm chí bộ xử lý hoặc thậm chí bộ xử lý đã bắt đầu và như bạn có thể thấy tại thời điểm này, nó không tìm thấy sự kiện nào chưa được xử lý.
+Hãy tiếp tục và quy trình chẵn - nhấp chuột phải vào kiểm tra ngay cả kiểm tra chạy bộ xử lý, thậm chí bộ xử lý hoặc thậm chí bộ xử lý đã bắt đầu và như chúng ta có thể thấy tại thời điểm này, nó không tìm thấy sự kiện nào chưa được xử lý.
 
 54
 00: 11: 09, 560--> 00: 11: 17, 840
@@ -10177,7 +10177,7 @@ Hãy quay trở lại bộ xử lý chẵn của chúng tôi. Và chúng ta sẽ
 
 56
 00: 11: 28, 370--> 00: 11: 40, 760
-Và nếu mọi thứ đều ổn, chúng ta sẽ có thể tìm thấy cái này ngay cả trong hàng đợi. Và như bạn có thể thấy, chúng ta có một tin nhắn và chúng ta có thể nhận được tin nhắn đó bằng cách nhấp vào tin nhắn đó.
+Và nếu mọi thứ đều ổn, chúng ta sẽ có thể tìm thấy cái này ngay cả trong hàng đợi. Và như chúng ta có thể thấy, chúng ta có một tin nhắn và chúng ta có thể nhận được tin nhắn đó bằng cách nhấp vào tin nhắn đó.
 
 57
 00: 11: 41, 270--> 00: 11: 51, 620
@@ -10185,13 +10185,13 @@ Và đây là thông điệp của chúng tôi. Hãy đi tới trình duyệt ph
 
 58
 00: 11: 51, 710--> 00: 12: 02, 690
-Và như bạn có thể thấy ở đây, chúng ta có một sự kiện ở đây và quy trình được đặt thành đúng. Đây là tải trọng 64 và quý tốt nhất cho sự kiện.
+Và như chúng ta có thể thấy ở đây, chúng ta có một sự kiện ở đây và quy trình được đặt thành đúng. Đây là tải trọng 64 và quý tốt nhất cho sự kiện.
 
 <!--@ \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000004.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 16, 980
-Trong một số bài giảng trước, bạn đã học về các lỗi phù hợp với trang web trong bài học này. Tôi nói về các kịch bản lỗi xác định lại và tôi cũng sẽ thảo luận về một kịch bản lỗi Rightside dẫn đến vấn đề trùng lặp Messers trên trang Reid.
+Trong một số bài giảng trước, chúng ta đã học về các lỗi phù hợp với trang web trong bài học này. Tôi nói về các kịch bản lỗi xác định lại và tôi cũng sẽ thảo luận về một kịch bản lỗi Rightside dẫn đến vấn đề trùng lặp Messers trên trang Reid.
 
 2
 00: 00: 17, 250--> 00: 00: 28, 850
@@ -10203,7 +10203,7 @@ Tôi không đề cập đến cơ chế sao chép gốc hoặc cơ chế sao ch
 
 4
 00: 00: 39, 360--> 00: 00: 48, 040
-Tôi sẽ bắt đầu bài học bằng một câu đố. Xác định các điểm thất bại trên trang Reid. Vui lòng tạm dừng video nếu bạn cần thêm thời gian.
+Tôi sẽ bắt đầu bài học bằng một câu đố. Xác định các điểm thất bại trên trang Reid. Vui lòng tạm dừng video nếu chúng ta cần thêm thời gian.
 
 5
 00: 00: 48, 450--> 00: 00: 59, 450
@@ -10243,11 +10243,11 @@ Khoảng thời gian mà tin nhắn có sẵn được xác định theo thời 
 
 14
 00: 02: 33, 540--> 00: 02: 48, 780
-Hết thời gian rời đi, tin nhắn sẽ bị mất. Vì vậy, với tư cách là người thiết kế hệ thống phân tán sử dụng MQ, bạn phải suy nghĩ về tính kiên trì, xác định đâu là thời điểm thích hợp để tồn tại cho các thông điệp của mình.
+Hết thời gian rời đi, tin nhắn sẽ bị mất. Vì vậy, với tư cách là người thiết kế hệ thống phân tán sử dụng MQ, chúng ta phải suy nghĩ về tính kiên trì, xác định đâu là thời điểm thích hợp để tồn tại cho các thông điệp của mình.
 
 15
 00: 02: 49, 050--> 00: 03: 03, 350
-Vào lúc khác, bạn sẽ được cung cấp liên kết để bạn có thể biết thêm thông tin. Kịch bản tiếp theo được thảo luận liên quan đến việc bộ sao chép đọc thành công thông báo nhưng không ghi được vào CSDL .
+Vào lúc khác, chúng ta sẽ được cung cấp liên kết để chúng ta có thể biết thêm thông tin. Kịch bản tiếp theo được thảo luận liên quan đến việc bộ sao chép đọc thành công thông báo nhưng không ghi được vào CSDL .
 
 16
 00: 03: 03, 390--> 00: 03: 11, 130
@@ -10263,11 +10263,11 @@ Loại lỗi này có thể được giải quyết bằng cách sử dụng cơ
 
 19
 00: 03: 36, 330--> 00: 03: 51, 020
-Điều đó có nghĩa là tin nhắn sẽ được đưa trở lại hàng đợi và không bị mất. Cơ chế từ chối rất cụ thể đối với hệ thống nhắn tin, mỗi lần bạn có thể đọc thêm về nó tại liên kết này.
+Điều đó có nghĩa là tin nhắn sẽ được đưa trở lại hàng đợi và không bị mất. Cơ chế từ chối rất cụ thể đối với hệ thống nhắn tin, mỗi lần chúng ta có thể đọc thêm về nó tại liên kết này.
 
 20
 00: 03: 51, 330--> 00: 04: 00, 630
-Bây giờ, có một số điều cần lưu ý khi bạn sử dụng từ chối. Điều đầu tiên là hàng đợi thường có sức chứa.
+Bây giờ, có một số điều cần lưu ý khi chúng ta sử dụng từ chối. Điều đầu tiên là hàng đợi thường có sức chứa.
 
 21
 00: 04: 01, 290--> 00: 04: 15, 840
@@ -10283,7 +10283,7 @@ Không phải mọi hệ thống xếp hàng đều có cách khác nhau để q
 
 24
 00: 04: 31, 860--> 00: 04: 42, 150
-Bạn chỉ cần lưu ý rằng đó là một khả năng có thể xảy ra, đặc biệt khi trình sao chép của bạn đã được biết đến trong một thời gian dài và có một lượng lớn thư được đưa vào hàng đợi.
+Bạn chỉ cần lưu ý rằng đó là một khả năng có thể xảy ra, đặc biệt khi trình sao chép của chúng ta đã được biết đến trong một thời gian dài và có một lượng lớn thư được đưa vào hàng đợi.
 
 25
 00: 04: 42, 630--> 00: 04: 52, 010
@@ -10295,7 +10295,7 @@ Một lý do phổ biến là thư có số lần thử lại hoặc số lần 
 
 27
 00: 04: 59, 640--> 00: 05: 14, 240
-Tùy thuộc vào hệ thống nhắn tin, lần thử lại hoặc gửi trước này có giới hạn tối đa và do đó, nếu bạn vượt quá giới hạn tối đa đó, thì tin nhắn sẽ bị đẩy đến mức tấn công chết người.
+Tùy thuộc vào hệ thống nhắn tin, lần thử lại hoặc gửi trước này có giới hạn tối đa và do đó, nếu chúng ta vượt quá giới hạn tối đa đó, thì tin nhắn sẽ bị đẩy đến mức tấn công chết người.
 
 28
 00: 05: 14, 640--> 00: 05: 26, 030
@@ -10351,7 +10351,7 @@ Một giải pháp đơn giản ở phía bên phải là bỏ qua các sự ki�
 
 41
 00: 07: 36, 170--> 00: 07: 51, 290
-Bây giờ, để xác định một sự kiện là trùng lặp, mỗi sự kiện phải có một danh tính duy nhất. Nếu bạn nhìn lại cấu trúc sự kiện của chúng ta, chỉ có một danh tính duy nhất được gán cho mỗi sự kiện.
+Bây giờ, để xác định một sự kiện là trùng lặp, mỗi sự kiện phải có một danh tính duy nhất. Nếu chúng ta nhìn lại cấu trúc sự kiện của chúng ta, chỉ có một danh tính duy nhất được gán cho mỗi sự kiện.
 
 42
 00: 07: 51, 380--> 00: 08: 04, 160
@@ -10371,7 +10371,7 @@ Nếu sự kiện đã có trong cửa hàng sự kiện, điều đó có nghĩ
 
 46
 00: 08: 40, 220--> 00: 08: 55, 970
-Với logic này, các sự kiện trùng lặp sẽ bị bỏ qua và không bao giờ được thêm vào CSDL . Ở phía bên phải, bạn sẽ thấy cách triển khai này được thực hiện trong bài giảng tiếp theo về những điểm chính mà tôi muốn nhấn mạnh trong bài học này.
+Với logic này, các sự kiện trùng lặp sẽ bị bỏ qua và không bao giờ được thêm vào CSDL . Ở phía bên phải, chúng ta sẽ thấy cách triển khai này được thực hiện trong bài giảng tiếp theo về những điểm chính mà tôi muốn nhấn mạnh trong bài học này.
 
 47
 00: 08: 55, 970--> 00: 09: 04, 880
@@ -10385,7 +10385,7 @@ Tác động có thể được cảm nhận bởi các hệ thống hoặc thà
 
 1
 00: 00: 00, 120--> 00: 00: 15, 390
-Trong bài học này, tôi sẽ hướng dẫn bạn qua sơ đồ lớp và sơ đồ trình tự để triển khai bên đọc được cập nhật và sau đó bạn sẽ thấy mã được cập nhật trong hoạt động của nhóm bán hàng Achmea.
+Trong bài học này, tôi sẽ hướng dẫn chúng ta qua sơ đồ lớp và sơ đồ trình tự để triển khai bên đọc được cập nhật và sau đó chúng ta sẽ thấy mã được cập nhật trong hoạt động của nhóm bán hàng Achmea.
 
 2
 00: 00: 15, 660--> 00: 00: 25, 290
@@ -10393,7 +10393,7 @@ Sau khi thực hiện các thay đổi ở phía bên phải, quá trình kiểm
 
 3
 00: 00: 25, 500--> 00: 00: 36, 810
-Vì vậy, họ quyết định cập nhật trang web tuyến đường. Và trong bài học này, tôi sẽ hướng dẫn bạn các bản cập nhật được thực hiện cho phiên bản trang Reid.
+Vì vậy, họ quyết định cập nhật trang web tuyến đường. Và trong bài học này, tôi sẽ hướng dẫn chúng ta các bản cập nhật được thực hiện cho phiên bản trang Reid.
 
 4
 00: 00: 36, 810--> 00: 00: 54, 320
@@ -10409,11 +10409,11 @@ Phiên bản ba của Proposal Reader Repo mở rộng phiên bản hai của Pr
 
 7
 00: 01: 19, 230--> 00: 01: 27, 020
-Tôi khuyên bạn nên tự mình đi đến mã trong các lớp này. Tiếp theo, tôi sẽ hướng dẫn bạn từ đầu đến cuối của sự kiện.
+Tôi khuyên chúng ta nên tự mình đi đến mã trong các lớp này. Tiếp theo, tôi sẽ hướng dẫn chúng ta từ đầu đến cuối của sự kiện.
 
 8
 00: 01: 27, 270--> 00: 01: 38, 850
-Nhiệm vụ CNTT mà bạn đang gọi lệnh tạo đề xuất như một phần của quá trình xử lý lệnh. Dữ liệu đề xuất được chèn vào bảng đề xuất và các đề xuất.
+Nhiệm vụ CNTT mà chúng ta đang gọi lệnh tạo đề xuất như một phần của quá trình xử lý lệnh. Dữ liệu đề xuất được chèn vào bảng đề xuất và các đề xuất.
 
 9
 00: 01: 39, 060--> 00: 01: 48, 030
@@ -10473,11 +10473,11 @@ Vì vậy, hãy tiếp tục, khởi chạy bộ xử lý và khởi chạy thu�
 
 23
 00: 04: 18, 270--> 00: 04: 26, 360
-Bộ xử lý chẵn sẽ tiếp nhận sự kiện từ đề xuất, thậm chí ổn định. Và ở đây, như bạn có thể thấy, sự kiện đã được chọn.
+Bộ xử lý chẵn sẽ tiếp nhận sự kiện từ đề xuất, thậm chí ổn định. Và ở đây, như chúng ta có thể thấy, sự kiện đã được chọn.
 
 24
 00: 04: 26, 640--> 00: 04: 40, 740
-Bộ xử lý chẵn xuất hiện với một thông báo trong MQ, thông báo này sẽ được người đăng ký nhận. Và ở đây, như bạn có thể thấy, người đăng ký đã chọn sự kiện và đề xuất trong sự kiện đó bằng một hai mươi sáu.
+Bộ xử lý chẵn xuất hiện với một thông báo trong MQ, thông báo này sẽ được người đăng ký nhận. Và ở đây, như chúng ta có thể thấy, người đăng ký đã chọn sự kiện và đề xuất trong sự kiện đó bằng một hai mươi sáu.
 
 25
 00: 04: 40, 740--> 00: 04: 49, 440
@@ -10485,7 +10485,7 @@ Vì vậy, những gì chúng ta sẽ làm tiếp theo là kiểm tra đề xu�
 
 26
 00: 04: 49, 440--> 00: 04: 59, 010
-Và đây là sự kiện của chúng tôi. Như bạn có thể thấy ở đây, ý tưởng đề xuất là một trong hai mươi sáu và quá trình bắt đầu quá trình là đúng, không có gì khác biệt.
+Và đây là sự kiện của chúng tôi. Như chúng ta có thể thấy ở đây, ý tưởng đề xuất là một trong hai mươi sáu và quá trình bắt đầu quá trình là đúng, không có gì khác biệt.
 
 27
 00: 04: 59, 030--> 00: 05: 15, 860
@@ -10497,7 +10497,7 @@ Vì vậy chúng ta hãy tiếp tục và thử nó. Vì vậy, chúng tôi sẽ
 
 29
 00: 05: 25, 720--> 00: 05: 32, 070
-Và hãy quay lại quy trình chẵn của chúng ta. Như bạn có thể thấy, trong quá trình đồng đều, tôi vừa nhận lại tin nhắn.
+Và hãy quay lại quy trình chẵn của chúng ta. Như chúng ta có thể thấy, trong quá trình đồng đều, tôi vừa nhận lại tin nhắn.
 
 30
 00: 05: 32, 470--> 00: 05: 40, 600
@@ -10523,15 +10523,15 @@ Nhà thiết kế dịch vụ cần đưa ra quyết định về việc nên s�
 
 4
 00: 00: 44, 850--> 00: 01: 06, 550
-Trong phần trước, bạn tìm hiểu về Rabbitt MQ, đây là một triển khai của giao thức MQ B. Trong phần bạn tìm hiểu về phát trực tuyến Cafcass và tôi hy vọng rằng đến cuối phần này, bạn sẽ có thể đưa ra quyết định về việc nên sử dụng Kafka hay Rabbit MQ cho các vi dịch vụ của mình.
+Trong phần trước, chúng ta tìm hiểu về Rabbitt MQ, đây là một triển khai của giao thức MQ B. Trong phần chúng ta tìm hiểu về phát trực tuyến Cafcass và tôi hy vọng rằng đến cuối phần này, chúng ta sẽ có thể đưa ra quyết định về việc nên sử dụng Kafka hay Rabbit MQ cho các vi dịch vụ của mình.
 
 5
 00: 01: 06, 810--> 00: 01: 15, 870
-Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Bạn sẽ học các khái niệm bạn học. Sự khác biệt giữa Kafka và MGP sẽ được thảo luận.
+Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Bạn sẽ học các khái niệm chúng ta học. Sự khác biệt giữa Kafka và MGP sẽ được thảo luận.
 
 6
 00: 01: 15, 870--> 00: 01: 26, 100
-Nhiều trường hợp sử dụng vi dịch vụ trong đó Kafka phù hợp hơn nhiều so với cupie và bạn sẽ thấy Kafka hoạt động.
+Nhiều trường hợp sử dụng vi dịch vụ trong đó Kafka phù hợp hơn nhiều so với cupie và chúng ta sẽ thấy Kafka hoạt động.
 
 <!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000002.srt-->
 
@@ -10557,7 +10557,7 @@ Ngay cả tính năng phát trực tuyến ở đây cũng đề cập đến s�
 
 6
 00: 00: 52, 440--> 00: 01: 01, 110
-Bây giờ, bạn có thể nói rằng nền tảng này trông rất giống với một nền tảng nhắn tin thông thường và bạn đã đúng, nhưng điểm tương đồng chỉ dừng lại ở đó.
+Bây giờ, chúng ta có thể nói rằng nền tảng này trông rất giống với một nền tảng nhắn tin thông thường và chúng ta đã đúng, nhưng điểm tương đồng chỉ dừng lại ở đó.
 
 7
 00: 01: 01, 110--> 00: 01: 09, 930
@@ -10573,7 +10573,7 @@ Dữ liệu và phân vùng được sao chép trên nhiều máy trong cụm Ka
 
 10
 00: 01: 29, 280--> 00: 01: 44, 190
-Kafka được phát triển tại LinkedIn và Open Source vào năm 2011. Để cho bạn biết về cách LinkedIn đang sử dụng Kafka, tôi sẽ chia sẻ một số con số mà tôi đã chọn được từ một blog được viết bởi Arlington, Virginia.
+Kafka được phát triển tại LinkedIn và Open Source vào năm 2011. Để cho chúng ta biết về cách LinkedIn đang sử dụng Kafka, tôi sẽ chia sẻ một số con số mà tôi đã chọn được từ một blog được viết bởi Arlington, Virginia.
 
 11
 00: 01: 44, 190--> 00: 01: 55, 380
@@ -10597,11 +10597,11 @@ Vì vậy tin nhắn không bị mất do lỗi máy chủ. Nó có tính sẵn 
 
 16
 00: 02: 50, 920--> 00: 03: 04, 780
-Tôi khuyên bạn nên truy cập Kafka, viết Apache DOT hoặc để đọc thêm về các khía cạnh này của Kafka cũng như để hiểu rõ hơn về cách ngành sử dụng Kafka cho các trường hợp sử dụng cụ thể của họ.
+Tôi khuyên chúng ta nên truy cập Kafka, viết Apache DOT hoặc để đọc thêm về các khía cạnh này của Kafka cũng như để hiểu rõ hơn về cách ngành sử dụng Kafka cho các trường hợp sử dụng cụ thể của họ.
 
 17
 00: 03: 05, 660--> 00: 03: 30, 590
-Trong bài học này, tôi đã cung cấp cho bạn một cái nhìn tổng quan ở mức độ rất cao về GAFCON trong bài giảng tiếp theo? Tôi sẽ trình bày các khái niệm về Kafka, sau đó là trải nghiệm thực tế với Kafka, trong đó bạn sẽ dùng thử Kafka từ Java và sau đó tôi sẽ so sánh Kaw Covid Amcu, sau đó là Microsoft cho biết Các trường hợp sử dụng cho Kafka nếu bạn đã có kinh nghiệm với Kafka.
+Trong bài học này, tôi đã cung cấp cho chúng ta một cái nhìn tổng quan ở mức độ rất cao về GAFCON trong bài giảng tiếp theo? Tôi sẽ trình bày các khái niệm về Kafka, sau đó là trải nghiệm thực tế với Kafka, trong đó chúng ta sẽ dùng thử Kafka từ Java và sau đó tôi sẽ so sánh Kaw Covid Amcu, sau đó là Microsoft cho biết Các trường hợp sử dụng cho Kafka nếu chúng ta đã có kinh nghiệm với Kafka.
 
 18
 00: 03: 30, 800--> 00: 03: 44, 270
@@ -10611,15 +10611,15 @@ Vui lòng bỏ qua các bài giảng về khái niệm Kafka, nhưng vui lòng t
 
 1
 00: 00: 00, 660--> 00: 00: 09, 790
-Các khái niệm, khi kết thúc bài giảng này, bạn sẽ có thể giải thích các thuật ngữ phổ biến được sử dụng trong bối cảnh cụm Kafka.
+Các khái niệm, khi kết thúc bài giảng này, chúng ta sẽ có thể giải thích các thuật ngữ phổ biến được sử dụng trong bối cảnh cụm Kafka.
 
 2
 00: 00: 10, 140--> 00: 00: 20, 470
-Xin lưu ý, mục đích của tôi ở đây là cung cấp cho bạn cái nhìn tổng quan ở cấp độ cao về các khái niệm Kafka thiết yếu nếu bạn muốn tìm hiểu thêm về những khái niệm này.
+Xin lưu ý, mục đích của tôi ở đây là cung cấp cho chúng ta cái nhìn tổng quan ở cấp độ cao về các khái niệm Kafka thiết yếu nếu chúng ta muốn tìm hiểu thêm về những khái niệm này.
 
 3
 00: 00: 20, 700--> 00: 00: 30, 750
-Tôi đề nghị bạn nên thực hiện nghiên cứu của riêng bạn. Một cụm Kafka bao gồm một hoặc cả hai phần giới thiệu ghi chú của người môi giới.
+Tôi đề nghị chúng ta nên thực hiện nghiên cứu của riêng chúng ta . Một cụm Kafka bao gồm một hoặc cả hai phần giới thiệu ghi chú của người môi giới.
 
 4
 00: 00: 30, 750--> 00: 00: 40, 740
@@ -10651,7 +10651,7 @@ Vì phân vùng được sao chép qua ba nhà môi giới nên hệ số sao ch
 
 11
 00: 02: 13, 320--> 00: 02: 26, 070
-Vì vậy, ý tưởng là hệ số ứng dụng càng cao thì cụm của bạn càng có khả năng chịu lỗi cao hơn. Nhưng rõ ràng là bạn sẽ cần phân bổ nhiều tài nguyên hơn cho cụm của mình bất kỳ lúc nào.
+Vì vậy, ý tưởng là hệ số ứng dụng càng cao thì cụm của chúng ta càng có khả năng chịu lỗi cao hơn. Nhưng rõ ràng là chúng ta sẽ cần phân bổ nhiều tài nguyên hơn cho cụm của mình bất kỳ lúc nào.
 
 12
 00: 02: 26, 610--> 00: 02: 38, 660
@@ -10755,7 +10755,7 @@ Lý do cho điều này là với một người tiêu dùng duy nhất, thứ t
 
 37
 00: 07: 38, 830--> 00: 07: 49, 270
-Vì vậy, ở đây trong bảng này, bạn sẽ thấy rằng người dùng đang đọc từ phân vùng một và khi có thông báo đến, giá trị offset được đặt thành 0.
+Vì vậy, ở đây trong bảng này, chúng ta sẽ thấy rằng người dùng đang đọc từ phân vùng một và khi có thông báo đến, giá trị offset được đặt thành 0.
 
 38
 00: 07: 49, 270--> 00: 08: 09, 670
@@ -10819,21 +10819,21 @@ Kafka duy trì phần bù của tin nhắn cuối cùng trên cơ sở người 
 
 53
 00: 11: 08, 140--> 00: 11: 21, 820
-Người tiêu dùng có thể đọc tin nhắn từ một chủ đề dưới dạng nhóm bằng ID nhóm. Trong bài giảng tiếp theo, chúng ta sẽ tạo một cụm Kafka và bạn sẽ thấy tất cả các khái niệm này đang hoạt động.
+Người tiêu dùng có thể đọc tin nhắn từ một chủ đề dưới dạng nhóm bằng ID nhóm. Trong bài giảng tiếp theo, chúng ta sẽ tạo một cụm Kafka và chúng ta sẽ thấy tất cả các khái niệm này đang hoạt động.
 
 <!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000004.srt-->
 
 1
 00: 00: 00, 510--> 00: 00: 09, 300
-Cụm thiết lập trong bài giảng này. Tôi sẽ hướng dẫn bạn các bước để tạo cụm COFCO miễn phí trên đám mây.
+Cụm thiết lập trong bài giảng này. Tôi sẽ hướng dẫn chúng ta các bước để tạo cụm COFCO miễn phí trên đám mây.
 
 2
 00: 00: 09, 330--> 00: 00: 19, 290
-Sau đó tôi sẽ hướng dẫn bạn qua bảng điều khiển của COFCO. Cluster cũng sẽ thử các tính năng nhắn tin trong trình duyệt có sẵn trên bảng điều khiển.
+Sau đó tôi sẽ hướng dẫn chúng ta qua bảng điều khiển của COFCO. Cluster cũng sẽ thử các tính năng nhắn tin trong trình duyệt có sẵn trên bảng điều khiển.
 
 3
 00: 00: 19, 320--> 00: 00: 30, 650
-Tôi khuyên bạn nên làm theo để đến cuối bài giảng này, bạn sẽ có phiên bản cụm bánh cà phê của riêng mình để tạo cụm miễn phí trên đám mây.
+Tôi khuyên chúng ta nên làm theo để đến cuối bài giảng này, chúng ta sẽ có phiên bản cụm bánh cà phê của riêng mình để tạo cụm miễn phí trên đám mây.
 
 4
 00: 00: 30, 690--> 00: 00: 39, 300
@@ -10841,11 +10841,11 @@ Tôi khuyên bạn nên làm theo để đến cuối bài giảng này, bạn s
 
 5
 00: 00: 40, 710--> 00: 00: 50, 880
-Nhấp vào đăng nhập và sau đó bạn có thể đăng nhập bằng GitHub hoặc tài khoản Google của mình hoặc bạn có thể tạo tài khoản bằng cách nhấp vào đăng ký.
+Nhấp vào đăng nhập và sau đó chúng ta có thể đăng nhập bằng GitHub hoặc tài khoản Google của mình hoặc chúng ta có thể tạo tài khoản bằng cách nhấp vào đăng ký.
 
 6
 00: 00: 51, 090--> 00: 00: 57, 180
-Này, bạn cung cấp địa chỉ email và bạn sẽ nhận được email, hãy làm theo hướng dẫn để tạo tài khoản.
+Này, chúng ta cung cấp địa chỉ email và chúng ta sẽ nhận được email, hãy làm theo hướng dẫn để tạo tài khoản.
 
 7
 00: 00: 57, 480--> 00: 01: 05, 280
@@ -10853,23 +10853,23 @@ Tôi đã có tài khoản nên tôi sẽ tiếp tục và đăng nhập. Tôi �
 
 8
 00: 01: 05, 580--> 00: 01: 15, 960
-Để tạo phiên bản của riêng bạn. Bấm vào tạo phiên bản mới. Cung cấp tên phiên bản, tuân theo gói miễn phí và sau đó nhấp vào Chọn khu vực trong Chọn khu vực.
+Để tạo phiên bản của riêng chúng ta . Bấm vào tạo phiên bản mới. Cung cấp tên phiên bản, tuân theo gói miễn phí và sau đó nhấp vào Chọn khu vực trong Chọn khu vực.
 
 9
 00: 01: 16, 230--> 00: 01: 27, 570
-Chọn khu vực gần bạn nhất và nhấp vào đánh giá rồi nhấp vào Tạo phiên bản. Sẽ mất vài phút để tạo một phiên bản cho bạn.
+Chọn khu vực gần chúng ta nhất và nhấp vào đánh giá rồi nhấp vào Tạo phiên bản. Sẽ mất vài phút để tạo một phiên bản cho chúng ta .
 
 10
 00: 01: 27, 720--> 00: 01: 36, 060
-Sau khi tạo phiên bản, bạn sẽ thấy phiên bản của mình trong danh sách phiên bản. Bấm vào ví dụ.
+Sau khi tạo phiên bản, chúng ta sẽ thấy phiên bản của mình trong danh sách phiên bản. Bấm vào ví dụ.
 
 11
 00: 01: 36, 190--> 00: 01: 47, 040
-Vì vậy, đây là tất cả các chi tiết. Ví dụ: nhấp vào liên kết tải xuống. Thao tác này sẽ tải xuống thông tin xác thực mà bạn cần để kết nối với COFCO từ mã Java.
+Vì vậy, đây là tất cả các chi tiết. Ví dụ: nhấp vào liên kết tải xuống. Thao tác này sẽ tải xuống thông tin xác thực mà chúng ta cần để kết nối với COFCO từ mã Java.
 
 12
 00: 01: 47, 250--> 00: 01: 53, 640
-Chúng ta sẽ sử dụng nó sau. Đây là tên máy chủ cho cụm bánh cà phê của bạn, tên người dùng và sau đó là mật khẩu.
+Chúng ta sẽ sử dụng nó sau. Đây là tên máy chủ cho cụm bánh cà phê của chúng ta, tên người dùng và sau đó là mật khẩu.
 
 13
 00: 01: 53, 730--> 00: 02: 04, 620
@@ -10877,7 +10877,7 @@ Tất cả thông tin này có trong tệp đã được tải xuống kèm theo
 
 14
 00: 02: 04, 710--> 00: 02: 16, 920
-Ví dụ: như bạn có thể thấy ở đây, cấu hình Kafka chỉ khả dụng trong gói dành riêng. Tương tự, bạn sẽ không thể xem thông tin Ma trận, nhưng chúng tôi sẽ không đi sâu vào tất cả các chi tiết này.
+Ví dụ: như chúng ta có thể thấy ở đây, cấu hình Kafka chỉ khả dụng trong gói dành riêng. Tương tự, chúng ta sẽ không thể xem thông tin Ma trận, nhưng chúng tôi sẽ không đi sâu vào tất cả các chi tiết này.
 
 15
 00: 02: 16, 920--> 00: 02: 24, 570
@@ -10885,7 +10885,7 @@ Vì vậy, việc không cung cấp thông tin này cho chúng tôi là điều 
 
 16
 00: 02: 24, 750--> 00: 02: 34, 050
-Bạn sẽ thấy có một chủ đề mặc định được tạo. Ví dụ: tên chủ đề là tên người dùng Dasch Default của bạn.
+Bạn sẽ thấy có một chủ đề mặc định được tạo. Ví dụ: tên chủ đề là tên người dùng Dasch Default của chúng ta .
 
 17
 00: 02: 34, 350--> 00: 02: 42, 560
@@ -10893,11 +10893,11 @@ Có năm phân vùng cho chủ đề này và mỗi phân vùng được sao ch�
 
 18
 00: 02: 42, 570--> 00: 02: 51, 480
-Đây là lượng dữ liệu tin nhắn tối đa sẽ được giữ lại trong chủ đề. Trong trường hợp bạn vượt quá số byte lưu giữ này.
+Đây là lượng dữ liệu tin nhắn tối đa sẽ được giữ lại trong chủ đề. Trong trường hợp chúng ta vượt quá số byte lưu giữ này.
 
 19
 00: 02: 51, 480--> 00: 02: 58, 920
-Không, một số tin nhắn trước đó của bạn sẽ bị cắt bớt và có thể có thêm các hạn chế đối với ba phiên bản.
+Không, một số tin nhắn trước đó của chúng ta sẽ bị cắt bớt và có thể có thêm các hạn chế đối với ba phiên bản.
 
 20
 00: 02: 58, 920--> 00: 03: 09, 840
@@ -10905,11 +10905,11 @@ Vì vậy, chỉ cần nhận thức được nó. Đây không phải là phiê
 
 21
 00: 03: 10, 230--> 00: 03: 21, 420
-Điều này có nghĩa là 28 ngày và bạn thực sự có thể thay đổi những con số này. Ví dụ: tôi có thể thay đổi giá trị này thành giả sử là 5000 và chỉ cần nhấp vào đối tượng.
+Điều này có nghĩa là 28 ngày và chúng ta thực sự có thể thay đổi những con số này. Ví dụ: tôi có thể thay đổi giá trị này thành giả sử là 5000 và chỉ cần nhấp vào đối tượng.
 
 22
 00: 03: 21, 420--> 00: 03: 33, 810
-Tôi muốn cập nhật, nhưng nếu bạn quan tâm đến việc thử nghiệm, hãy tiếp tục và dùng thử. Tiếp theo, tôi sẽ chỉ cho bạn cách bạn có thể kiểm tra người tiêu dùng và nhà sản xuất trong trình duyệt.
+Tôi muốn cập nhật, nhưng nếu chúng ta quan tâm đến việc thử nghiệm, hãy tiếp tục và dùng thử. Tiếp theo, tôi sẽ chỉ cho chúng ta cách chúng ta có thể kiểm tra người tiêu dùng và nhà sản xuất trong trình duyệt.
 
 23
 00: 03: 33, 810--> 00: 03: 41, 850
@@ -10917,11 +10917,11 @@ Bấm vào trình duyệt ở đây. Bạn cung cấp tên chủ đề. Bạn c�
 
 24
 00: 03: 41, 880--> 00: 03: 58, 290
-Bây giờ bạn có một người tiêu dùng Kafka đang lắng nghe tin nhắn về chủ đề này. Và khi nhận được tin nhắn thì những tin nhắn đó sẽ hiện lên đây để gửi tin nhắn, bạn chỉ cần cung cấp tin nhắn đó là tin nhắn văn bản và nhấn vào xuất.
+Bây giờ chúng ta có một người tiêu dùng Kafka đang lắng nghe tin nhắn về chủ đề này. Và khi nhận được tin nhắn thì những tin nhắn đó sẽ hiện lên đây để gửi tin nhắn, chúng ta chỉ cần cung cấp tin nhắn đó là tin nhắn văn bản và nhấn vào xuất.
 
 25
 00: 03: 58, 440--> 00: 04: 07, 690
-Và đây là tin nhắn văn bản của chúng tôi. Vì vậy, như bạn có thể thấy ở đây, tin nhắn mới này đã được đặt và phân vùng cho một phân vùng bên trong.
+Và đây là tin nhắn văn bản của chúng tôi. Vì vậy, như chúng ta có thể thấy ở đây, tin nhắn mới này đã được đặt và phân vùng cho một phân vùng bên trong.
 
 26
 00: 04: 07, 920--> 00: 04: 18, 230
@@ -10929,7 +10929,7 @@ Và đây là tin nhắn văn bản của chúng tôi. Vì vậy, như bạn có
 
 27
 00: 04: 18, 540--> 00: 04: 27, 240
-Vì vậy, nếu bạn đã tạo một chủ đề mới, bạn sẽ thấy phần bù của một chủ đề ở đây. Bây giờ hãy nhấp vào trình quản lý Cloud Kafka.
+Vì vậy, nếu chúng ta đã tạo một chủ đề mới, chúng ta sẽ thấy phần bù của một chủ đề ở đây. Bây giờ hãy nhấp vào trình quản lý Cloud Kafka.
 
 28
 00: 04: 27, 570--> 00: 04: 35, 790
@@ -10937,7 +10937,7 @@ Hiện tại, số lượng người tiêu dùng ở đây đang là 14 người
 
 29
 00: 04: 36, 210--> 00: 04: 45, 480
-Vì vậy, có những người tiêu dùng khác gắn liền với cụm chia sẻ này. Nhưng chủ đề của bạn bị cô lập với những người tiêu dùng khác.
+Vì vậy, có những người tiêu dùng khác gắn liền với cụm chia sẻ này. Nhưng chủ đề của chúng ta bị cô lập với những người tiêu dùng khác.
 
 30
 00: 04: 45, 510--> 00: 04: 59, 790
@@ -10945,7 +10945,7 @@ Có một chủ đề trong cụm và tổng kích thước chủ đề của ba
 
 31
 00: 04: 59, 980--> 00: 05: 11, 090
-Một người dùng nhấp vào chủ đề và ở đây bạn thấy một chủ đề mà chúng tôi đã thử trước đó. Nhấp vào tên chủ đề và nó sẽ hiển thị cho bạn một số chi tiết.
+Một người dùng nhấp vào chủ đề và ở đây chúng ta thấy một chủ đề mà chúng tôi đã thử trước đó. Nhấp vào tên chủ đề và nó sẽ hiển thị cho chúng ta một số chi tiết.
 
 32
 00: 05: 11, 500--> 00: 05: 19, 540
@@ -10961,11 +10961,11 @@ Vậy điều đó có nghĩa là sau khi tạo chủ đề này, 13 tin nhắn 
 
 35
 00: 05: 38, 530--> 00: 05: 49, 660
-Tương tự, nếu bạn nhìn vào phân vùng số ba, nút số hai là điểm bắt đầu dẫn đầu của số 0 và Offsiders 16, nghĩa là 16 tin nhắn đã được đẩy vào phân vùng.
+Tương tự, nếu chúng ta nhìn vào phân vùng số ba, nút số hai là điểm bắt đầu dẫn đầu của số 0 và Offsiders 16, nghĩa là 16 tin nhắn đã được đẩy vào phân vùng.
 
 36
 00: 05: 49, 660--> 00: 05: 56, 820
-Thứ ba, nhấp vào người tiêu dùng và bạn sẽ thấy danh sách người tiêu dùng được đính kèm với cơ sở hạ tầng dùng chung.
+Thứ ba, nhấp vào người tiêu dùng và chúng ta sẽ thấy danh sách người tiêu dùng được đính kèm với cơ sở hạ tầng dùng chung.
 
 37
 00: 05: 57, 070--> 00: 06: 09, 020
@@ -10973,17 +10973,17 @@ Nhấp vào các nhà môi giới để kiểm tra các nhà môi giới trong c
 
 38
 00: 06: 09, 040--> 00: 06: 31, 030
-Tôi khuyên bạn nên tạo một chủ đề và để làm điều đó, hãy quay lại bảng điều khiển cloud craft của bạn, nhấp vào chủ đề, cung cấp tên chủ đề ở đây, đặt tham số và chỉ cần tạo thời gian để xuất bản một số thông báo cho chủ đề đó và bắt đầu người tiêu dùng trong trình duyệt để xem mọi thứ hoạt động như thế nào.
+Tôi khuyên chúng ta nên tạo một chủ đề và để làm điều đó, hãy quay lại bảng điều khiển cloud craft của chúng ta, nhấp vào chủ đề, cung cấp tên chủ đề ở đây, đặt tham số và chỉ cần tạo thời gian để xuất bản một số thông báo cho chủ đề đó và bắt đầu người tiêu dùng trong trình duyệt để xem mọi thứ hoạt động như thế nào.
 
 <!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000005.srt-->
 
 1
 00: 00: 00, 480--> 00: 00: 10, 110
-Nhà đồng sản xuất đang hoạt động trong bài học này. Tôi sẽ hướng dẫn bạn qua sơ đồ lớp của một tập hợp các lớp tiện ích được tập hợp lại để thử nghiệm hoặc Kafka.
+Nhà đồng sản xuất đang hoạt động trong bài học này. Tôi sẽ hướng dẫn chúng ta qua sơ đồ lớp của một tập hợp các lớp tiện ích được tập hợp lại để thử nghiệm hoặc Kafka.
 
 2
 00: 00: 10, 290--> 00: 00: 20, 650
-Tôi sẽ hướng dẫn bạn mã trong các nhà sản xuất của lớp này và sau đó chúng tôi sẽ thực thi các nhà sản xuất của lớp này để gửi tin nhắn đến cụm Kafka.
+Tôi sẽ hướng dẫn chúng ta mã trong các nhà sản xuất của lớp này và sau đó chúng tôi sẽ thực thi các nhà sản xuất của lớp này để gửi tin nhắn đến cụm Kafka.
 
 3
 00: 00: 21, 570--> 00: 00: 35, 380
@@ -10991,11 +10991,11 @@ Các lớp tiện ích COFCO có sẵn trong Commodore Akhmadov trong gói Sản
 
 4
 00: 00: 35, 610--> 00: 00: 43, 240
-Vì vậy, đây là lúc bạn cần thực hiện thay đổi để hướng người tiêu dùng và nhà sản xuất Java tới cụm bánh cà phê của riêng bạn.
+Vì vậy, đây là lúc chúng ta cần thực hiện thay đổi để hướng người tiêu dùng và nhà sản xuất Java tới cụm bánh cà phê của riêng chúng ta .
 
 5
 00: 00: 43, 590--> 00: 01: 07, 560
-Vì vậy, hãy đảm bảo rằng bạn thực hiện các thay đổi đối với giao diện này để kiểm tra thiết lập Cafcass của mình. Dịch vụ Cafcass là một lớp trừu tượng có một cấu hình thiết lập chức năng để thiết lập cấu hình cụm cho nhà sản xuất và dịch vụ tiêu dùng tiêu dùng, đồng thời dịch vụ nhà sản xuất mở rộng lớp dịch vụ Cafcass.
+Vì vậy, hãy đảm bảo rằng chúng ta thực hiện các thay đổi đối với giao diện này để kiểm tra thiết lập Cafcass của mình. Dịch vụ Cafcass là một lớp trừu tượng có một cấu hình thiết lập chức năng để thiết lập cấu hình cụm cho nhà sản xuất và dịch vụ tiêu dùng tiêu dùng, đồng thời dịch vụ nhà sản xuất mở rộng lớp dịch vụ Cafcass.
 
 6
 00: 01: 07, 800--> 00: 01: 22, 670
@@ -11011,11 +11011,11 @@ Chúng ta hãy xem qua mã và thử nó. Mở Commodore Akhmad để lấy gói
 
 9
 00: 01: 41, 790--> 00: 02: 11, 820
-Bây giờ hãy nhớ lại rằng chúng tôi đã tải xuống cấu hình cho cụm COFCO của mình từ trang chi tiết. Và nếu bạn chưa làm thì bấm vào tải xuống ở đây nó sẽ tải xuống một tệp văn bản và tệp văn bản này sẽ có thông tin cấu hình mà chúng tôi cần thiết lập ở đây, sao chép thông tin cho các nhà môi giới và thay thế những gì bạn thấy ở đây và sau đó sao chép tên người dùng và mật khẩu.
+Bây giờ hãy nhớ lại rằng chúng tôi đã tải xuống cấu hình cho cụm COFCO của mình từ trang chi tiết. Và nếu chúng ta chưa làm thì bấm vào tải xuống ở đây nó sẽ tải xuống một tệp văn bản và tệp văn bản này sẽ có thông tin cấu hình mà chúng tôi cần thiết lập ở đây, sao chép thông tin cho các nhà môi giới và thay thế những gì chúng ta thấy ở đây và sau đó sao chép tên người dùng và mật khẩu.
 
 10
 00: 02: 11, 970--> 00: 02: 19, 110
-Khi bạn đã hoàn thành việc đó, hãy đảm bảo cấu hình đã được lưu và chúng tôi sẵn sàng kiểm tra mã và dịch vụ Cafcass.
+Khi chúng ta đã hoàn thành việc đó, hãy đảm bảo cấu hình đã được lưu và chúng tôi sẵn sàng kiểm tra mã và dịch vụ Cafcass.
 
 11
 00: 02: 19, 470--> 00: 02: 29, 310
@@ -11051,7 +11051,7 @@ Việc thực hiện hai chức năng này khá giống nhau. Một phiên bản
 
 19
 00: 03: 45, 810--> 00: 03: 57, 790
-Và nếu lệnh gọi lại được cung cấp thì lệnh gọi lại cũng được chỉ định trong hàm tay này. Để kiểm tra lớp này, bạn sẽ thấy rằng có một hàm chính được xác định trong lớp.
+Và nếu lệnh gọi lại được cung cấp thì lệnh gọi lại cũng được chỉ định trong hàm tay này. Để kiểm tra lớp này, chúng ta sẽ thấy rằng có một hàm chính được xác định trong lớp.
 
 20
 00: 03: 57, 790--> 00: 04: 08, 340
@@ -11067,7 +11067,7 @@ Cái này dành cho việc xuất bản một tin nhắn không có khóa và đ
 
 23
 00: 04: 28, 410--> 00: 04: 37, 710
-Đi tới Cloud Krake, nhấp vào phiên bản của bạn, nhấp vào chủ đề. Chúng ta sẽ chọn tên chủ đề mặc định hoặc sao chép chủ đề này.
+Đi tới Cloud Krake, nhấp vào phiên bản của chúng ta, nhấp vào chủ đề. Chúng ta sẽ chọn tên chủ đề mặc định hoặc sao chép chủ đề này.
 
 24
 00: 04: 37, 710--> 00: 04: 46, 620
@@ -11083,13 +11083,13 @@ Và phân vùng cũng như thông tin về các tin nhắn đã xuất bản đ�
 
 27
 00: 05: 05, 820--> 00: 05: 19, 740
-Một tin nhắn không có chìa khóa và một tin nhắn khác có chìa khóa. Hãy quay trở lại trình duyệt. Và như bạn có thể thấy ở đây, người tiêu dùng đã nhận được hai thông báo đề nghị bạn tự mình thử lớp nhà sản xuất.
+Một tin nhắn không có chìa khóa và một tin nhắn khác có chìa khóa. Hãy quay trở lại trình duyệt. Và như chúng ta có thể thấy ở đây, người tiêu dùng đã nhận được hai thông báo đề nghị chúng ta tự mình thử lớp nhà sản xuất.
 
 <!--@ \13 kiến trúc vi dịch vụ andKafka_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 23, 520
-Nhóm người tiêu dùng Kafka và hành động trong bài học này. Tôi sẽ bắt đầu bằng cách giải thích cách hoạt động của giao thức tái cân bằng Kafka, sau đó tôi sẽ hướng dẫn bạn đến tòa án và lớp dịch vụ tiêu dùng, sau đó chúng tôi sẽ chạy mã cho người tiêu dùng Kafka và nhà sản xuất đồng sản xuất để kiểm tra cách hoạt động của giao thức tái cân bằng Kafka.
+Nhóm người tiêu dùng Kafka và hành động trong bài học này. Tôi sẽ bắt đầu bằng cách giải thích cách hoạt động của giao thức tái cân bằng Kafka, sau đó tôi sẽ hướng dẫn chúng ta đến tòa án và lớp dịch vụ tiêu dùng, sau đó chúng tôi sẽ chạy mã cho người tiêu dùng Kafka và nhà sản xuất đồng sản xuất để kiểm tra cách hoạt động của giao thức tái cân bằng Kafka.
 
 2
 00: 00: 24, 180--> 00: 00: 34, 940
@@ -11101,7 +11101,7 @@ Kafka đảm bảo rằng mỗi người tiêu dùng trong một nhóm được 
 
 4
 00: 00: 48, 060--> 00: 01: 09, 480
-Giao thức tái cân bằng Kafka đảm bảo rằng các phân vùng được gán lại. Ví dụ: nếu bạn loại bỏ người tiêu dùng đang nghe trên phân vùng, không có ai trong nhóm người tiêu dùng, nhóm người tiêu dùng sẽ tự động cân bằng lại và phân vùng đó sẽ được gán cho một trong những người tiêu dùng đang hoạt động khác.
+Giao thức tái cân bằng Kafka đảm bảo rằng các phân vùng được gán lại. Ví dụ: nếu chúng ta loại bỏ người tiêu dùng đang nghe trên phân vùng, không có ai trong nhóm người tiêu dùng, nhóm người tiêu dùng sẽ tự động cân bằng lại và phân vùng đó sẽ được gán cho một trong những người tiêu dùng đang hoạt động khác.
 
 5
 00: 01: 09, 900--> 00: 01: 22, 230
@@ -11121,7 +11121,7 @@ Người tiêu dùng C mới này sẽ không được chỉ định bất kỳ 
 
 9
 00: 02: 06, 920--> 00: 02: 19, 160
-Trọng tâm của bài giảng này là về người tiêu dùng thuộc tầng lớp của anh ấy và để kiểm tra quá trình tái cân bằng, chúng ta sẽ sử dụng tầng lớp dịch vụ tiêu dùng cũng như các nhà sản xuất của tầng lớp này mà tôi đã hướng dẫn bạn trước đó.
+Trọng tâm của bài giảng này là về người tiêu dùng thuộc tầng lớp của anh ấy và để kiểm tra quá trình tái cân bằng, chúng ta sẽ sử dụng tầng lớp dịch vụ tiêu dùng cũng như các nhà sản xuất của tầng lớp này mà tôi đã hướng dẫn chúng ta trước đó.
 
 10
 00: 02: 20, 000--> 00: 02: 35, 390
@@ -11129,7 +11129,7 @@ Lớp dịch vụ tiêu dùng mở rộng lớp dựa trên dịch vụ khách h
 
 11
 00: 02: 35, 690--> 00: 02: 45, 500
-Vì vậy, nếu bạn tạo phiên bản dịch vụ tiêu dùng có ID nhóm thì phiên bản đó sẽ là một phần của nhóm. Và đây là hàm tạo mà chúng ta sẽ sử dụng trong quá trình thử nghiệm của mình.
+Vì vậy, nếu chúng ta tạo phiên bản dịch vụ tiêu dùng có ID nhóm thì phiên bản đó sẽ là một phần của nhóm. Và đây là hàm tạo mà chúng ta sẽ sử dụng trong quá trình thử nghiệm của mình.
 
 12
 00: 02: 45, 710--> 00: 02: 58, 790
@@ -11225,7 +11225,7 @@ Bây giờ chúng ta hãy thử bảy, tám, chín và hy vọng lần này ngư
 
 35
 00: 07: 06, 300--> 00: 07: 21, 280
-Ai đã nhận được tin nhắn, đừng chú ý đến phân vùng được chỉ định của người tiêu dùng đang nghe tin nhắn trên phân vùng số 0 và nếu bạn đi đến phân vùng dành cho người tiêu dùng, người tiêu dùng đang nghe tin nhắn trên phân vùng một.
+Ai đã nhận được tin nhắn, đừng chú ý đến phân vùng được chỉ định của người tiêu dùng đang nghe tin nhắn trên phân vùng số 0 và nếu chúng ta đi đến phân vùng dành cho người tiêu dùng, người tiêu dùng đang nghe tin nhắn trên phân vùng một.
 
 36
 00: 07: 21, 690--> 00: 07: 38, 460
@@ -11237,7 +11237,7 @@ Quá đúng. Bấm vào tạo một dịch vụ chạy lại. Và đúng như d�
 
 38
 00: 07: 46, 560--> 00: 07: 58, 390
-Hãy chú ý đến phân vùng được chỉ định và bạn sẽ thấy rằng bây giờ chúng tôi chỉ có một người tiêu dùng trong nhóm và người tiêu dùng đó đang nghe tin nhắn trên cả hai phân vùng.
+Hãy chú ý đến phân vùng được chỉ định và chúng ta sẽ thấy rằng bây giờ chúng tôi chỉ có một người tiêu dùng trong nhóm và người tiêu dùng đó đang nghe tin nhắn trên cả hai phân vùng.
 
 39
 00: 07: 58, 440--> 00: 08: 06, 600
@@ -11251,11 +11251,11 @@ M. Cupie của Courthouse, trong bài học này, Al Gore, sự khác biệt gi�
 
 2
 00: 00: 15, 660--> 00: 00: 22, 200
-Bây giờ bạn đã biết về Kafka và M Cupie, bạn sẽ sử dụng vi dịch vụ nào trong số này?
+Bây giờ chúng ta đã biết về Kafka và M Cupie, chúng ta sẽ sử dụng vi dịch vụ nào trong số này?
 
 3
 00: 00: 22, 240--> 00: 00: 32, 160
-Không, tôi sẽ không thảo luận về câu trả lời cho câu hỏi này trong bài học này. Đúng hơn, tôi khuyên bạn nên ghi nhớ câu hỏi này khi xem qua nội dung của bài giảng này.
+Không, tôi sẽ không thảo luận về câu trả lời cho câu hỏi này trong bài học này. Đúng hơn, tôi khuyên chúng ta nên ghi nhớ câu hỏi này khi xem qua nội dung của bài giảng này.
 
 4
 00: 00: 32, 550--> 00: 00: 42, 470
@@ -11279,7 +11279,7 @@ Mặc dù Kafka là một nền tảng nhắn tin nhưng nó không có khái ni
 
 9
 00: 01: 51, 420--> 00: 02: 02, 970
-COFCO không hỗ trợ định tuyến. Mặt khác, bạn có thể sử dụng định tuyến động, nhưng nó không có sẵn và CUPIE có cơ chế định tuyến rất linh hoạt.
+COFCO không hỗ trợ định tuyến. Mặt khác, chúng ta có thể sử dụng định tuyến động, nhưng nó không có sẵn và CUPIE có cơ chế định tuyến rất linh hoạt.
 
 10
 00: 02: 02, 970--> 00: 02: 15, 030
@@ -11315,7 +11315,7 @@ Và điều tương tự cũng áp dụng cho người tiêu dùng. Người ti�
 
 18
 00: 03: 47, 110--> 00: 03: 57, 390
-Đây là một tính năng cực kỳ quan trọng của Kafka vì nó sẽ cho phép bạn xây dựng các hệ thống yêu cầu sắp xếp thông điệp.
+Đây là một tính năng cực kỳ quan trọng của Kafka vì nó sẽ cho phép chúng ta xây dựng các hệ thống yêu cầu sắp xếp thông điệp.
 
 19
 00: 03: 57, 780--> 00: 04: 03, 780
@@ -11353,23 +11353,23 @@ Ho, ho hoặc các vi dịch vụ trong bài giảng này nhấn mạnh các tr�
 
 2
 00: 00: 09, 900--> 00: 00: 19, 630
-Tôi sẽ hỏi bạn những câu hỏi dựa trên kịch bản. Và bạn, với tư cách là người thiết kế các vi dịch vụ, sẽ quyết định xem bạn sẽ sử dụng Kafka hay Rabbit MQ.
+Tôi sẽ hỏi chúng ta những câu hỏi dựa trên kịch bản. Và chúng ta, với tư cách là người thiết kế các vi dịch vụ, sẽ quyết định xem chúng ta sẽ sử dụng Kafka hay Rabbit MQ.
 
 3
 00: 00: 19, 830--> 00: 00: 29, 040
-Tôi sẽ bắt đầu bài học này bằng cách xem lại câu hỏi tôi đã hỏi bạn ở bài giảng trước. Bạn sẽ sử dụng dịch vụ nào trong số này cho các vi dịch vụ?
+Tôi sẽ bắt đầu bài học này bằng cách xem lại câu hỏi tôi đã hỏi chúng ta ở bài giảng trước. Bạn sẽ sử dụng dịch vụ nào trong số này cho các vi dịch vụ?
 
 4
 00: 00: 30, 400--> 00: 00: 40, 360
-Tất cả phụ thuộc vào trường hợp sử dụng vi mạch của bạn, nền tảng Kafka và Abe có những điểm mạnh cũng như tính năng riêng.
+Tất cả phụ thuộc vào trường hợp sử dụng vi mạch của chúng ta, nền tảng Kafka và Abe có những điểm mạnh cũng như tính năng riêng.
 
 5
 00: 00: 40, 690--> 00: 00: 49, 410
-Và tùy thuộc vào trường hợp sử dụng, bạn có thể chọn Kafka hoặc MGP hoặc trên thực tế, bạn thậm chí có thể chọn cả Kafka và Cupie.
+Và tùy thuộc vào trường hợp sử dụng, chúng ta có thể chọn Kafka hoặc MGP hoặc trên thực tế, chúng ta thậm chí có thể chọn cả Kafka và Cupie.
 
 6
 00: 00: 49, 800--> 00: 01: 08, 650
-Tất cả phụ thuộc vào trường hợp sử dụng của bạn. Tiếp theo, tôi sẽ thảo luận về một số trường hợp sử dụng phổ biến của Kafka. Ví dụ: Kafka được xây dựng nền tảng cho các ứng dụng nhắn tin quy mô lớn và ứng dụng Iot đang tiêu thụ hàng chục nghìn tin nhắn mỗi giây.
+Tất cả phụ thuộc vào trường hợp sử dụng của chúng ta . Tiếp theo, tôi sẽ thảo luận về một số trường hợp sử dụng phổ biến của Kafka. Ví dụ: Kafka được xây dựng nền tảng cho các ứng dụng nhắn tin quy mô lớn và ứng dụng Iot đang tiêu thụ hàng chục nghìn tin nhắn mỗi giây.
 
 7
 00: 01: 09, 310--> 00: 01: 17, 080
@@ -11377,7 +11377,7 @@ Kafka mang lại độ bền cao cho tin nhắn và cung cấp khả năng mở 
 
 8
 00: 01: 17, 590--> 00: 01: 25, 100
-Vì vậy, nếu bạn là máy chủ của Microsoft, có nhu cầu tiếp nhận một số lượng lớn sự kiện mỗi giây hơn Kafka.
+Vì vậy, nếu chúng ta là máy chủ của Microsoft, có nhu cầu tiếp nhận một số lượng lớn sự kiện mỗi giây hơn Kafka.
 
 9
 00: 01: 25, 120--> 00: 01: 35, 140
@@ -11413,15 +11413,15 @@ Kafka cung cấp khả năng ghi nhật ký truyện tranh vượt trội cho b�
 
 17
 00: 03: 06, 730--> 00: 03: 17, 410
-Các nút trường phục hồi bằng cách lấy dữ liệu từ các nút có sẵn. Nếu bạn cần ghi nhật ký, tôi khuyên bạn nên thực hiện nghiên cứu của riêng mình trên Internet.
+Các nút trường phục hồi bằng cách lấy dữ liệu từ các nút có sẵn. Nếu chúng ta cần ghi nhật ký, tôi khuyên chúng ta nên thực hiện nghiên cứu của riêng mình trên Internet.
 
 18
 00: 03: 17, 830--> 00: 03: 28, 000
-Trong phần còn lại của bài giảng này, tôi sẽ hỏi bạn một số câu hỏi. Những câu hỏi này sẽ bao gồm một kịch bản và các yêu cầu về thông điệp cho kịch bản đó.
+Trong phần còn lại của bài giảng này, tôi sẽ hỏi chúng ta một số câu hỏi. Những câu hỏi này sẽ bao gồm một kịch bản và các yêu cầu về thông điệp cho kịch bản đó.
 
 19
 00: 03: 28, 390--> 00: 03: 37, 630
-Và dựa trên những yêu cầu này, bạn sẽ cần quyết định nền tảng nhắn tin của mình. Bạn sẽ chọn Casca hoặc Rabbitt MQ.
+Và dựa trên những yêu cầu này, chúng ta sẽ cần quyết định nền tảng nhắn tin của mình. Bạn sẽ chọn Casca hoặc Rabbitt MQ.
 
 20
 00: 03: 38, 440--> 00: 03: 46, 540
@@ -11457,7 +11457,7 @@ Không, hãy xem lại kịch bản với một thay đổi. Giả sử khối l
 
 28
 00: 04: 54, 530--> 00: 05: 06, 090
-Bây giờ bạn sẽ làm gì? Chà, trong trường hợp này, đây là một trường hợp rõ ràng về ứng dụng nhắn tin quy mô lớn, vì vậy tôi sẽ chọn kịch bản tiếp theo của Kafka.
+Bây giờ chúng ta sẽ làm gì? Chà, trong trường hợp này, đây là một trường hợp rõ ràng về ứng dụng nhắn tin quy mô lớn, vì vậy tôi sẽ chọn kịch bản tiếp theo của Kafka.
 
 29
 00: 05: 06, 260--> 00: 05: 13, 440
@@ -11469,7 +11469,7 @@ Có một dịch vụ vi mạch khác đang nhận những tin nhắn hoặc s�
 
 31
 00: 05: 27, 470--> 00: 05: 36, 230
-Bạn sẽ chọn cái nào? Kafka hoặc. Abbi, cảm ơn bạn. Chà, tôi sẽ chọn Kafka vì có rất nhiều công cụ có sẵn cho Thời gian thực.
+Bạn sẽ chọn cái nào? Kafka hoặc. Abbi, cảm ơn chúng ta . Chà, tôi sẽ chọn Kafka vì có rất nhiều công cụ có sẵn cho Thời gian thực.
 
 32
 00: 05: 36, 230--> 00: 05: 45, 760
@@ -11477,11 +11477,11 @@ Phân tích các dòng chẵn Những công cụ này có khả năng mở rộn
 
 33
 00: 05: 46, 100--> 00: 05: 59, 280
-Ví dụ về các công cụ như vậy là Apache, Spark và Stone. Vui lòng thực hiện nghiên cứu của riêng bạn để hiểu cách các công cụ này hoạt động để phân tích thời gian thực các luồng Cafcass trong kịch bản tiếp theo.
+Ví dụ về các công cụ như vậy là Apache, Spark và Stone. Vui lòng thực hiện nghiên cứu của riêng chúng ta để hiểu cách các công cụ này hoạt động để phân tích thời gian thực các luồng Cafcass trong kịch bản tiếp theo.
 
 34
 00: 05: 59, 360--> 00: 06: 12, 610
-Giả sử bạn đang thiết kế một vi dịch vụ cần cung cấp giao diện nhắn tin dựa trên tiêu chuẩn và người tiêu dùng dịch vụ này đã quen với việc sử dụng các trình gây nhiễu Java và thích sự đơn giản hơn.
+Giả sử chúng ta đang thiết kế một vi dịch vụ cần cung cấp giao diện nhắn tin dựa trên tiêu chuẩn và người tiêu dùng dịch vụ này đã quen với việc sử dụng các trình gây nhiễu Java và thích sự đơn giản hơn.
 
 35
 00: 06: 12, 890--> 00: 06: 28, 960
@@ -11489,21 +11489,21 @@ Bạn sẽ chọn cái nào trong kịch bản? Tôi sẽ chọn Rabbitt MQ. Đ�
 
 36
 00: 06: 29, 270--> 00: 06: 44, 310
-Nó đơn giản hơn nhiều để thiết lập và quản lý. Trong trường hợp tiếp theo này, hãy giả sử rằng các yêu cầu nhắn tin cho vi dịch vụ của bạn sao cho cả hai nền tảng nhắn tin đều có thể đáp ứng.
+Nó đơn giản hơn nhiều để thiết lập và quản lý. Trong trường hợp tiếp theo này, hãy giả sử rằng các yêu cầu nhắn tin cho vi dịch vụ của chúng ta sao cho cả hai nền tảng nhắn tin đều có thể đáp ứng.
 
 37
 00: 06: 44, 310--> 00: 06: 55, 690
-Vì vậy, bạn tiếp cận nhóm của mình và thảo luận xem nên sử dụng nền tảng nhắn tin nào. Các nhà phát triển của bạn đã cho biết rằng họ muốn có toàn quyền kiểm soát việc định tuyến dữ liệu chẵn.
+Vì vậy, chúng ta tiếp cận nhóm của mình và thảo luận xem nên sử dụng nền tảng nhắn tin nào. Các nhà phát triển của chúng ta đã cho biết rằng họ muốn có toàn quyền kiểm soát việc định tuyến dữ liệu chẵn.
 
 38
 00: 06: 55, 800--> 00: 07: 04, 290
-Bây giờ, với giả định này, bạn thích cái nào hơn? Kafka hay Thỏ? MQ Tại sao? Tôi sẽ đi với Rabbit Amcu.
+Bây giờ, với giả định này, chúng ta thích cái nào hơn? Kafka hay Thỏ? MQ Tại sao? Tôi sẽ đi với Rabbit Amcu.
 
 <!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 08, 640
-Trong các phần trước, bạn biết rằng không phải lúc nào các vi dịch vụ cũng có thể sử dụng để đối mặt với Cummock để quản lý giao dịch.
+Trong các phần trước, chúng ta biết rằng không phải lúc nào các vi dịch vụ cũng có thể sử dụng để đối mặt với Cummock để quản lý giao dịch.
 
 2
 00: 00: 09, 270--> 00: 00: 17, 940
@@ -11515,7 +11515,7 @@ Nhưng tin tốt là có sẵn các khuôn khổ để hiện thực hóa sagas.
 
 4
 00: 00: 29, 460--> 00: 00: 38, 120
-Tôi đã quyết định không sử dụng bất kỳ khuôn khổ nào và lý do là vì tôi muốn cho bạn thấy hoạt động bên trong của mẫu Saagar.
+Tôi đã quyết định không sử dụng bất kỳ khuôn khổ nào và lý do là vì tôi muốn cho chúng ta thấy hoạt động bên trong của mẫu Saagar.
 
 5
 00: 00: 38, 490--> 00: 00: 45, 840
@@ -11523,7 +11523,7 @@ Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Bạn học
 
 6
 00: 00: 46, 110--> 00: 00: 51, 420
-Có nhiều cân nhắc triển khai mà bạn cần lưu ý khi xây dựng sagas.
+Có nhiều cân nhắc triển khai mà chúng ta cần lưu ý khi xây dựng sagas.
 
 <!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000002.srt-->
 
@@ -11537,11 +11537,11 @@ Nhưng trong trường hợp giao dịch phân tán, có thể có nhiều CSDL 
 
 3
 00: 00: 19, 920--> 00: 00: 39, 030
-Trong bài học này, tôi sẽ thảo luận về những thách thức liên quan đến việc quản lý tính nhất quán của dữ liệu trên các vi dịch vụ và sau đó tôi sẽ giới thiệu cho bạn mẫu Psagot cung cấp giải pháp quản lý tính nhất quán của dữ liệu trên các vi dịch vụ được thiết kế để tránh lỗi.
+Trong bài học này, tôi sẽ thảo luận về những thách thức liên quan đến việc quản lý tính nhất quán của dữ liệu trên các vi dịch vụ và sau đó tôi sẽ giới thiệu cho chúng ta mẫu Psagot cung cấp giải pháp quản lý tính nhất quán của dữ liệu trên các vi dịch vụ được thiết kế để tránh lỗi.
 
 4
 00: 00: 39, 030--> 00: 00: 58, 380
-Nguyên tắc gợi ý rằng bạn nên luôn lường trước những thất bại sẽ xảy ra. Bạn nên chủ động xác định các điểm lỗi trong kiến ​​trúc của mình liên quan đến các thành phần phân tán hoặc vi dịch vụ, sau đó bạn nên giải quyết tất cả các điểm lỗi trong kiến ​​trúc của mình.
+Nguyên tắc gợi ý rằng chúng ta nên luôn lường trước những thất bại sẽ xảy ra. Bạn nên chủ động xác định các điểm lỗi trong kiến ​​trúc của mình liên quan đến các thành phần phân tán hoặc vi dịch vụ, sau đó chúng ta nên giải quyết tất cả các điểm lỗi trong kiến ​​trúc của mình.
 
 5
 00: 00: 58, 440--> 00: 01: 17, 400
@@ -11549,7 +11549,7 @@ Nguyên tắc gợi ý rằng bạn nên luôn lường trước những thất 
 
 6
 00: 01: 17, 460--> 00: 01: 25, 560
-Điều này cần phải tránh bằng mọi giá. Tôi sẽ cho bạn một ví dụ. Hãy xem xét ví dụ này về một trang web thương mại điện tử.
+Điều này cần phải tránh bằng mọi giá. Tôi sẽ cho chúng ta một ví dụ. Hãy xem xét ví dụ này về một trang web thương mại điện tử.
 
 7
 00: 01: 26, 100--> 00: 01: 50, 120
@@ -11633,7 +11633,7 @@ Và thông qua các giao dịch đền bù này, tính nhất quán của dữ l
 
 27
 00: 05: 32, 480--> 00: 05: 43, 480
-Vì vậy, điều này có nghĩa là mỗi giao dịch sẽ yêu cầu một giao dịch bù tương ứng. Hãy để tôi cho bạn một ví dụ về các giao dịch bù đắp.
+Vì vậy, điều này có nghĩa là mỗi giao dịch sẽ yêu cầu một giao dịch bù tương ứng. Hãy để tôi cho chúng ta một ví dụ về các giao dịch bù đắp.
 
 28
 00: 05: 43, 700--> 00: 05: 57, 570
@@ -11669,7 +11669,7 @@ Saagar Parathion không phải là mới. Nó được giới thiệu trong mộ
 
 36
 00: 07: 16, 580--> 00: 07: 23, 420
-Nếu bạn muốn tìm hiểu sâu hơn về mô hình này. Trong bài học này tôi giới thiệu với các bạn mẫu Psagot.
+Nếu chúng ta muốn tìm hiểu sâu hơn về mô hình này. Trong bài học này tôi giới thiệu với các chúng ta mẫu Psagot.
 
 37
 00: 07: 23, 420--> 00: 07: 52, 150
@@ -11767,7 +11767,7 @@ Có nhiều bộ điều phối bên ngoài có thể được sử dụng để
 
 22
 00: 04: 13, 940--> 00: 04: 21, 510
-Chức năng WEF là một chức năng khác. Nếu bạn đang sử dụng W.S. cloud thì đây là cách nhanh chóng để xây dựng sagas.
+Chức năng WEF là một chức năng khác. Nếu chúng ta đang sử dụng W.S. cloud thì đây là cách nhanh chóng để xây dựng sagas.
 
 23
 00: 04: 21, 560--> 00: 04: 29, 020
@@ -11787,7 +11787,7 @@ Ngoài ra còn có một công cụ trực quan hiển thị luồng của các 
 
 27
 00: 05: 21, 310--> 00: 05: 30, 850
-Vì vậy, như bạn có thể thấy ở đây, chúng tôi có một quy trình thanh toán và thanh toán hoàn tiền là giao dịch bồi thường và đây là các giao dịch tương ứng cho chuyến bay.
+Vì vậy, như chúng ta có thể thấy ở đây, chúng tôi có một quy trình thanh toán và thanh toán hoàn tiền là giao dịch bồi thường và đây là các giao dịch tương ứng cho chuyến bay.
 
 28
 00: 05: 30, 850--> 00: 05: 40, 410
@@ -11821,7 +11821,7 @@ Một đối tượng miền có thể hoạt động như câu chuyện. Điề
 
 1
 00: 00: 00, 450--> 00: 00: 28, 550
-Saagar, các cân nhắc triển khai trong bài học này đề cập đến nhiều khía cạnh khác nhau mà bạn cần cân nhắc để triển khai các giao dịch phân tán bằng cách sử dụng Psagot, Baton Synchronoss so với các dịch vụ tòa án không đồng bộ trong Psagot có thể hiển thị lệnh thông qua các ứng dụng, chẳng hạn như RESTABILIZE và những dịch vụ này khôi phục có thể được gọi, nhưng là người điều phối theo cách đồng bộ.
+Saagar, các cân nhắc triển khai trong bài học này đề cập đến nhiều khía cạnh khác nhau mà chúng ta cần cân nhắc để triển khai các giao dịch phân tán bằng cách sử dụng Psagot, Baton Synchronoss so với các dịch vụ tòa án không đồng bộ trong Psagot có thể hiển thị lệnh thông qua các ứng dụng, chẳng hạn như RESTABILIZE và những dịch vụ này khôi phục có thể được gọi, nhưng là người điều phối theo cách đồng bộ.
 
 2
 00: 00: 28, 920--> 00: 00: 50, 970
@@ -11877,11 +11877,11 @@ Cân nhắc sử dụng nước sốt đều. Trong bài giảng trước đó, 
 
 15
 00: 03: 11, 190--> 00: 03: 20, 520
-Bây giờ, nếu bạn không sử dụng AWB, bạn vẫn có thể sử dụng một số khung nhất định cung cấp các thành phần nền tảng để xây dựng các giao dịch phân tán.
+Bây giờ, nếu chúng ta không sử dụng AWB, chúng ta vẫn có thể sử dụng một số khung nhất định cung cấp các thành phần nền tảng để xây dựng các giao dịch phân tán.
 
 16
 00: 03: 20, 820--> 00: 03: 39, 080
-Dưới đây là một số ví dụ về các khung mà bạn có thể sử dụng trong các vi dịch vụ của mình. Tôi khuyên bạn nên truy cập trang web về các khung này để tìm hiểu cách tận dụng chúng để thúc đẩy sự phát triển của Microsoft. Đã đến lúc đi sâu vào những điểm chính từ bài học này.
+Dưới đây là một số ví dụ về các khung mà chúng ta có thể sử dụng trong các vi dịch vụ của mình. Tôi khuyên chúng ta nên truy cập trang web về các khung này để tìm hiểu cách tận dụng chúng để thúc đẩy sự phát triển của Microsoft. Đã đến lúc đi sâu vào những điểm chính từ bài học này.
 
 17
 00: 03: 39, 210--> 00: 03: 52, 980
@@ -11895,7 +11895,7 @@ Nhắn tin được ưu tiên hơn cho việc liên lạc giữa các dịch v�
 
 1
 00: 00: 00, 150--> 00: 00: 10, 270
-Trong tất cả các bài giảng của mình, bạn đã biết rằng các tế bào achmea chuẩn bị nhiều đề xuất cho khách hàng khi khách hàng xác nhận một đề xuất.
+Trong tất cả các bài giảng của mình, chúng ta đã biết rằng các tế bào achmea chuẩn bị nhiều đề xuất cho khách hàng khi khách hàng xác nhận một đề xuất.
 
 2
 00: 00: 10, 470--> 00: 00: 20, 920
@@ -11903,11 +11903,11 @@ Quá trình đặt phòng được bắt đầu. Quá trình đặt phòng bao g
 
 3
 00: 00: 21, 120--> 00: 00: 31, 950
-Trong bài học này, bạn sẽ tìm hiểu về cách thực hiện quy trình đặt chỗ. Việc sử dụng mẫu saga sẽ xem xét các tình huống thành công và thất bại trong quá trình đặt chỗ.
+Trong bài học này, chúng ta sẽ tìm hiểu về cách thực hiện quy trình đặt chỗ. Việc sử dụng mẫu saga sẽ xem xét các tình huống thành công và thất bại trong quá trình đặt chỗ.
 
 4
 00: 00: 31, 950--> 00: 00: 44, 170
-Saagar Flow và sau đó bạn sẽ thấy việc đặt sàn Saagar đang hoạt động. Acme I.T. nhóm đã quyết định xây dựng quy trình đặt chỗ như một câu chuyện.
+Saagar Flow và sau đó chúng ta sẽ thấy việc đặt sàn Saagar đang hoạt động. Acme I.T. nhóm đã quyết định xây dựng quy trình đặt chỗ như một câu chuyện.
 
 5
 00: 00: 44, 880--> 00: 01: 05, 970
@@ -12019,7 +12019,7 @@ Hãy nói về kho thực hiện cho việc đặt chỗ. Dòng chảy Sagar. Tr
 
 32
 00: 05: 57, 550--> 00: 06: 06, 420
-Tên của chủ đề là câu chuyện đặt phòng. Hãy nhớ lại rằng nếu bạn đang sử dụng Cloud COFCO, chúng ta cần tuân theo quy ước đặt tên này cho chủ đề.
+Tên của chủ đề là câu chuyện đặt phòng. Hãy nhớ lại rằng nếu chúng ta đang sử dụng Cloud COFCO, chúng ta cần tuân theo quy ước đặt tên này cho chủ đề.
 
 33
 00: 06: 06, 440--> 00: 06: 20, 500
@@ -12031,11 +12031,11 @@ Mỗi dịch vụ duy trì trạng thái riêng và các bộ sưu tập độc 
 
 35
 00: 06: 30, 100--> 00: 06: 37, 480
-Ở các phiên bản sau, bạn có thể cân nhắc triển khai tầng này với nhiều chủ đề và nhiều CSDL .
+Ở các phiên bản sau, chúng ta có thể cân nhắc triển khai tầng này với nhiều chủ đề và nhiều CSDL .
 
 36
 00: 06: 37, 480--> 00: 06: 47, 440
-Nhưng xin lưu ý trong phiên bản một, chúng ta sẽ sử dụng một CSDL chung và một chủ đề chung. Trước khi tôi cho bạn thấy câu chuyện đặt phòng đang hoạt động như thế nào, hãy để tôi chỉ cho bạn cách thực hiện nó.
+Nhưng xin lưu ý trong phiên bản một, chúng ta sẽ sử dụng một CSDL chung và một chủ đề chung. Trước khi tôi cho chúng ta thấy câu chuyện đặt phòng đang hoạt động như thế nào, hãy để tôi chỉ cho chúng ta cách thực hiện nó.
 
 37
 00: 06: 47, 710--> 00: 06: 53, 530
@@ -12067,7 +12067,7 @@ Vì vậy, chúng ta hãy tiếp tục và xem việc đặt phòng. Dòng chả
 
 44
 00: 08: 04, 090--> 00: 08: 10, 030
-Trong khi điều này đang được khởi chạy, hãy để tôi chỉ cho bạn chủ đề. Đây là chủ đề mà các dịch vụ này sẽ xuất bản.
+Trong khi điều này đang được khởi chạy, hãy để tôi chỉ cho chúng ta chủ đề. Đây là chủ đề mà các dịch vụ này sẽ xuất bản.
 
 45
 00: 08: 10, 480--> 00: 08: 22, 660
@@ -12095,11 +12095,11 @@ Thành công đã được thu thập bởi dịch vụ đặt chỗ và nó mô
 
 51
 00: 09: 20, 440--> 00: 09: 29, 200
-Chìa khóa ở đây, như bạn có thể thấy, là mã đặt chỗ. Mỗi dịch vụ trong số ba dịch vụ này đều tạo một bộ sưu tập trong CSDL du lịch.
+Chìa khóa ở đây, như chúng ta có thể thấy, là mã đặt chỗ. Mỗi dịch vụ trong số ba dịch vụ này đều tạo một bộ sưu tập trong CSDL du lịch.
 
 52
 00: 09: 29, 500--> 00: 09: 35, 980
-Đây là bộ sưu tập để đặt Psagot. Và như bạn có thể thấy ở đây, chúng tôi có thông tin về việc đặt chỗ.
+Đây là bộ sưu tập để đặt Psagot. Và như chúng ta có thể thấy ở đây, chúng tôi có thông tin về việc đặt chỗ.
 
 53
 00: 09: 35, 980--> 00: 09: 47, 560
@@ -12107,7 +12107,7 @@ Việc đặt chỗ đó là một trong những trạng thái hiện tại đan
 
 54
 00: 09: 48, 250--> 00: 09: 56, 380
-Để mô phỏng thất bại khi đặt chỗ, hãy nhấp vào dịch vụ đặt chỗ và bạn sẽ thấy thành công tương tự. Người 65.
+Để mô phỏng thất bại khi đặt chỗ, hãy nhấp vào dịch vụ đặt chỗ và chúng ta sẽ thấy thành công tương tự. Người 65.
 
 55
 00: 09: 56, 380--> 00: 10: 02, 590
@@ -12131,41 +12131,41 @@ Và đây là sự cố đặt chỗ đặt chỗ không thành công, xảy ra 
 
 60
 00: 10: 50, 330--> 00: 10: 59, 890
-Việc đặt phòng thậm chí không thành công trong bộ sưu tập đặt phòng. Như bạn có thể thấy, hiện tại tình trạng đặt vé cũng rất công bằng.
+Việc đặt phòng thậm chí không thành công trong bộ sưu tập đặt phòng. Như chúng ta có thể thấy, hiện tại tình trạng đặt vé cũng rất công bằng.
 
 61
 00: 11: 00, 130--> 00: 11: 09, 610
-Nếu bạn nhìn vào các đặt phòng, cờ thành công cho việc đặt chỗ đó sẽ khó có thể xảy ra lỗi khi mã xác nhận được đặt thành không thu được thanh toán.
+Nếu chúng ta nhìn vào các đặt phòng, cờ thành công cho việc đặt chỗ đó sẽ khó có thể xảy ra lỗi khi mã xác nhận được đặt thành không thu được thanh toán.
 
 62
 00: 11: 09, 700--> 00: 11: 20, 320
-Chúng ta sẽ thấy một khoản hoàn lại. Và như bạn có thể thấy ở đây, giao dịch đã thành công nhưng cuối cùng nó đã được hoàn lại do đặt chỗ không thành công.
+Chúng ta sẽ thấy một khoản hoàn lại. Và như chúng ta có thể thấy ở đây, giao dịch đã thành công nhưng cuối cùng nó đã được hoàn lại do đặt chỗ không thành công.
 
 63
 00: 11: 20, 320--> 00: 11: 29, 980
-Vì vậy, câu chuyện của chúng tôi dường như đã có tác dụng trong bài học tiếp theo. Tôi sẽ hướng dẫn bạn mã và thiết kế của quá trình triển khai câu chuyện đặt phòng.
+Vì vậy, câu chuyện của chúng tôi dường như đã có tác dụng trong bài học tiếp theo. Tôi sẽ hướng dẫn chúng ta mã và thiết kế của quá trình triển khai câu chuyện đặt phòng.
 
 64
 00: 11: 30, 190--> 00: 11: 38, 260
-Tôi cũng sẽ chỉ cho bạn các bước mà chúng tôi cần thực hiện để thử nghiệm tầng này tại địa phương. Vậy hãy cùng tôi tham gia bài học tiếp theo nhé.
+Tôi cũng sẽ chỉ cho chúng ta các bước mà chúng tôi cần thực hiện để thử nghiệm tầng này tại địa phương. Vậy hãy cùng tôi tham gia bài học tiếp theo nhé.
 
 <!--@ \14ManagingDistributedTransactionswithSAGA_VVN\000000006.srt-->
 
 1
 00: 00: 00, 090--> 00: 00: 08, 970
-Câu chuyện đặt chỗ, hướng dẫn triển khai trong bài giảng này, tôi sẽ cung cấp cho bạn cái nhìn tổng quan về các lớp học và cách triển khai.
+Câu chuyện đặt chỗ, hướng dẫn triển khai trong bài giảng này, tôi sẽ cung cấp cho chúng ta cái nhìn tổng quan về các lớp học và cách triển khai.
 
 2
 00: 00: 09, 330--> 00: 00: 17, 310
-Sau đó, tôi sẽ cung cấp cho bạn thông tin tóm tắt về tòa án, sau đó là các bước bạn có thể thực hiện để kiểm tra việc đăng ký.
+Sau đó, tôi sẽ cung cấp cho chúng ta thông tin tóm tắt về tòa án, sau đó là các bước chúng ta có thể thực hiện để kiểm tra việc đăng ký.
 
 3
 00: 00: 17, 310--> 00: 00: 40, 020
-Saagar, hãy chảy cục bộ trong môi trường của bạn. Việc triển khai saga đặt chỗ sử dụng Mongo, DB và COFCO. Giả định ở đây là bạn đã thiết lập CSDL của Akhmatova trên phiên bản Mongo DB trên đám mây của mình và bạn là lớp dựa trên Mông Cổ trỏ đến CSDL của Akhmatova của riêng bạn.
+Saagar, hãy chảy cục bộ trong môi trường của chúng ta . Việc triển khai saga đặt chỗ sử dụng Mongo, DB và COFCO. Giả định ở đây là chúng ta đã thiết lập CSDL của Akhmatova trên phiên bản Mongo DB trên đám mây của mình và chúng ta là lớp dựa trên Mông Cổ trỏ đến CSDL của Akhmatova của riêng chúng ta .
 
 4
 00: 00: 40, 320--> 00: 00: 51, 280
-Giả định khác là bạn đã thiết lập tài khoản trên Cloud Karaka và giao diện cấu hình Kafka đang trỏ đến cụm bánh cà phê của riêng bạn.
+Giả định khác là chúng ta đã thiết lập tài khoản trên Cloud Karaka và giao diện cấu hình Kafka đang trỏ đến cụm bánh cà phê của riêng chúng ta .
 
 5
 00: 00: 51, 300--> 00: 00: 58, 380
@@ -12181,15 +12181,15 @@ Chủ đề này sẽ được sử dụng bởi tất cả các dịch vụ tro
 
 8
 00: 01: 24, 630--> 00: 01: 38, 700
-Mỗi lần thực hiện chạy thử nghiệm Saagar, bạn phải cung cấp một ID đăng ký khác. Nếu bạn sử dụng cùng một ID đặt chỗ, giao dịch sẽ bị bỏ qua và bạn sẽ không thấy bất kỳ giao dịch nào diễn ra trong câu chuyện đặt chỗ.
+Mỗi lần thực hiện chạy thử nghiệm Saagar, chúng ta phải cung cấp một ID đăng ký khác. Nếu chúng ta sử dụng cùng một ID đặt chỗ, giao dịch sẽ bị bỏ qua và chúng ta sẽ không thấy bất kỳ giao dịch nào diễn ra trong câu chuyện đặt chỗ.
 
 9
 00: 01: 39, 270--> 00: 01: 50, 400
-Họ không. Lớp kiểm tra có chức năng chính trong đó chúng tôi đặt ID đặt chỗ. Mỗi khi bạn chạy lớp này, hãy đảm bảo bạn thay đổi lớp đó thành một ID đặt chỗ khác.
+Họ không. Lớp kiểm tra có chức năng chính trong đó chúng tôi đặt ID đặt chỗ. Mỗi khi chúng ta chạy lớp này, hãy đảm bảo chúng ta thay đổi lớp đó thành một ID đặt chỗ khác.
 
 10
 00: 01: 50, 760--> 00: 02: 04, 600
-Nếu không, bạn sẽ không thấy hành động bắt đầu luồng. Một phiên bản mới của kho lưu trữ Soga đăng ký đang được tạo và một đăng ký mới đang được thêm vào kho lưu trữ này.
+Nếu không, chúng ta sẽ không thấy hành động bắt đầu luồng. Một phiên bản mới của kho lưu trữ Soga đăng ký đang được tạo và một đăng ký mới đang được thêm vào kho lưu trữ này.
 
 11
 00: 02: 05, 010--> 00: 02: 16, 170
@@ -12197,11 +12197,11 @@ Nếu không, bạn sẽ không thấy hành động bắt đầu luồng. Một
 
 12
 00: 02: 16, 170--> 00: 02: 26, 370
-Mình đã tạo chủ đề đó rồi. Và khi bạn tạo chủ đề, bạn cần đảm bảo rằng tên của chủ đề khớp với biến này.
+Mình đã tạo chủ đề đó rồi. Và khi chúng ta tạo chủ đề, chúng ta cần đảm bảo rằng tên của chủ đề khớp với biến này.
 
 13
 00: 02: 26, 790--> 00: 02: 36, 870
-Nếu không, các sự kiện của bạn sẽ bị mất và bạn sẽ không thấy con ruồi đang hoạt động trong gói. Kamelot, Achmad hay giả vờ, không phải Saagar hay đặt chỗ.
+Nếu không, các sự kiện của chúng ta sẽ bị mất và chúng ta sẽ không thấy con ruồi đang hoạt động trong gói. Kamelot, Achmad hay giả vờ, không phải Saagar hay đặt chỗ.
 
 14
 00: 02: 37, 290--> 00: 02: 50, 550
@@ -12241,7 +12241,7 @@ Giao dịch được thực hiện hoặc giao dịch bù được thực hiện
 
 23
 00: 04: 15, 750--> 00: 04: 26, 430
-Kho lưu trữ Saagar mở rộng lớp dựa trên Mongo DV. Tôi khuyên bạn nên tự mình tham gia lớp học này vì nó rất giống với các kho lưu trữ khác.
+Kho lưu trữ Saagar mở rộng lớp dựa trên Mongo DV. Tôi khuyên chúng ta nên tự mình tham gia lớp học này vì nó rất giống với các kho lưu trữ khác.
 
 24
 00: 04: 27, 360--> 00: 04: 36, 330
@@ -12249,7 +12249,7 @@ Tiếp theo mình sẽ bàn về dịch vụ này tương tự như lớp học.
 
 25
 00: 04: 36, 660--> 00: 04: 43, 710
-Như tên cho thấy, nó giúp mô phỏng một dịch vụ. Nó sẽ trở nên rõ ràng một khi bạn sẽ thấy công dụng của nó.
+Như tên cho thấy, nó giúp mô phỏng một dịch vụ. Nó sẽ trở nên rõ ràng một khi chúng ta sẽ thấy công dụng của nó.
 
 26
 00: 04: 43, 710--> 00: 04: 55, 380
@@ -12257,7 +12257,7 @@ Nhưng ở mức độ cao, nó tạo ra độ trễ trong khoảng thời gian 
 
 27
 00: 04: 55, 380--> 00: 05: 15, 050
-Phần trăm thành công nếu bạn vượt qua phần trăm thành công là một trăm. Điều đó có nghĩa là quá trình đồng hóa dịch vụ sẽ trở lại đúng, điều này cho thấy 100% thành công nếu bạn vượt qua và giả sử tỷ lệ thành công là 50, thì khả năng thành công và thất bại là 50%.
+Phần trăm thành công nếu chúng ta vượt qua phần trăm thành công là một trăm. Điều đó có nghĩa là quá trình đồng hóa dịch vụ sẽ trở lại đúng, điều này cho thấy 100% thành công nếu chúng ta vượt qua và giả sử tỷ lệ thành công là 50, thì khả năng thành công và thất bại là 50%.
 
 28
 00: 05: 15, 670--> 00: 05: 27, 070
@@ -12265,7 +12265,7 @@ Và nếu một giá trị true được trả về từ hàm tương tự này 
 
 29
 00: 05: 27, 400--> 00: 05: 37, 630
-Chắc chắn người thành công không có chuyện gì sẽ trở nên rõ ràng, vì bạn sẽ thấy việc triển khai dịch vụ thanh toán và dịch vụ đặt chỗ.
+Chắc chắn người thành công không có chuyện gì sẽ trở nên rõ ràng, vì chúng ta sẽ thấy việc triển khai dịch vụ thanh toán và dịch vụ đặt chỗ.
 
 30
 00: 05: 38, 850--> 00: 05: 47, 170
@@ -12309,7 +12309,7 @@ Biến này có thể được đặt ở đây. Tại thời điểm này, nó 
 
 40
 00: 07: 36, 870--> 00: 07: 52, 200
-Vì vậy xin vui lòng xem xét nó một mình. Trong dịch vụ đặt chỗ, bạn sẽ thấy rằng chúng tôi có người thành công tương tự được đặt ở mức 65, nghĩa là dịch vụ đặt chỗ sẽ thành công 65% thời gian.
+Vì vậy xin vui lòng xem xét nó một mình. Trong dịch vụ đặt chỗ, chúng ta sẽ thấy rằng chúng tôi có người thành công tương tự được đặt ở mức 65, nghĩa là dịch vụ đặt chỗ sẽ thành công 65% thời gian.
 
 41
 00: 07: 52, 200--> 00: 08: 10, 920
@@ -12317,15 +12317,15 @@ Lớp này cũng triển khai trình xử lý thông báo COFCO. Đây là chứ
 
 42
 00: 08: 10, 920--> 00: 08: 19, 050
-Dòng chảy Sagar. Tại thời điểm này, tôi sẽ mô tả các bước mà bạn có thể thực hiện để kiểm tra việc đặt chỗ. Saagar chảy cục bộ trong môi trường của bạn.
+Dòng chảy Sagar. Tại thời điểm này, tôi sẽ mô tả các bước mà chúng ta có thể thực hiện để kiểm tra việc đặt chỗ. Saagar chảy cục bộ trong môi trường của chúng ta .
 
 43
 00: 08: 19, 440--> 00: 08: 33, 000
-Bước đầu tiên là thiết lập câu chuyện đặt chủ đề. Giả định ở đây là bạn đang sử dụng buôn bán trên nền tảng đám mây ở bước thứ hai, đã khởi chạy COFCO Consumer trên Cloud Kafka.
+Bước đầu tiên là thiết lập câu chuyện đặt chủ đề. Giả định ở đây là chúng ta đang sử dụng buôn bán trên nền tảng đám mây ở bước thứ hai, đã khởi chạy COFCO Consumer trên Cloud Kafka.
 
 44
 00: 08: 33, 330--> 00: 08: 42, 000
-Tại đây, bạn sẽ có thể quan sát tất cả các sự kiện bị bỏ qua ở bước thứ ba, khởi chạy dịch vụ đặt chỗ, Dịch vụ thanh toán Saagar và Dịch vụ đặt chỗ.
+Tại đây, chúng ta sẽ có thể quan sát tất cả các sự kiện bị bỏ qua ở bước thứ ba, khởi chạy dịch vụ đặt chỗ, Dịch vụ thanh toán Saagar và Dịch vụ đặt chỗ.
 
 45
 00: 08: 42, 270--> 00: 08: 52, 310
@@ -12371,21 +12371,21 @@ Dịch vụ vi mô. Chúng tôi nhận ra các API này theo nhiều cách. Các
 
 9
 00: 01: 44, 100--> 00: 01: 57, 610
-Sự khác biệt giữa hai điều này là ở cách họ xác định hợp đồng giữa khách hàng và SO. Cả hai đều có ưu và nhược điểm trong phần bạn tìm hiểu về phần còn lại, heo vòi và đồ họa.
+Sự khác biệt giữa hai điều này là ở cách họ xác định hợp đồng giữa khách hàng và SO. Cả hai đều có ưu và nhược điểm trong phần chúng ta tìm hiểu về phần còn lại, heo vòi và đồ họa.
 
 10
 00: 01: 57, 780--> 00: 02: 09, 630
-Tôi hy vọng rằng đến cuối phần này, bạn sẽ có thể quyết định nên sử dụng API còn lại hay sử dụng đồ họa cho AP được hiển thị bởi các vi dịch vụ của bạn.
+Tôi hy vọng rằng đến cuối phần này, chúng ta sẽ có thể quyết định nên sử dụng API còn lại hay sử dụng đồ họa cho AP được hiển thị bởi các vi dịch vụ của chúng ta .
 
 <!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000002.srt-->
 
 1
 00: 00: 00, 340--> 00: 00: 10, 860
-Ổn định lại trong bài học này, bạn sẽ tìm hiểu điều gì tạo nên một API, một API an toàn. Tôi cũng sẽ cung cấp một cái nhìn tổng quan về các hạn chế kiến ​​trúc còn lại.
+Ổn định lại trong bài học này, chúng ta sẽ tìm hiểu điều gì tạo nên một API, một API an toàn. Tôi cũng sẽ cung cấp một cái nhìn tổng quan về các hạn chế kiến ​​trúc còn lại.
 
 2
 00: 00: 10, 980--> 00: 00: 25, 440
-Hãy bắt đầu bằng một câu hỏi. Kiến trúc của bạn có yên tĩnh không? Một số nhà phát triển nghĩ rằng bằng cách sử dụng HTP và Jason, họ đang tạo ra một ứng dụng đủ tiêu chuẩn là một kiến ​​trúc yên tĩnh, điều này có thể đúng hoặc có thể không đúng.
+Hãy bắt đầu bằng một câu hỏi. Kiến trúc của chúng ta có yên tĩnh không? Một số nhà phát triển nghĩ rằng bằng cách sử dụng HTP và Jason, họ đang tạo ra một ứng dụng đủ tiêu chuẩn là một kiến ​​trúc yên tĩnh, điều này có thể đúng hoặc có thể không đúng.
 
 3
 00: 00: 25, 470--> 00: 00: 35, 400
@@ -12401,11 +12401,11 @@ Một chút lịch sử nhanh chóng. Sáu hạn chế về mặt kiến ​​t
 
 6
 00: 00: 59, 820--> 00: 01: 09, 450
-Chúng ta hãy đi qua sáu điều này. Khôi phục các hạn chế về kiến ​​trúc. Xin lưu ý rằng mục đích của tôi ở đây là cung cấp cho bạn cái nhìn tổng quan về các ràng buộc về kiến ​​trúc.
+Chúng ta hãy đi qua sáu điều này. Khôi phục các hạn chế về kiến ​​trúc. Xin lưu ý rằng mục đích của tôi ở đây là cung cấp cho chúng ta cái nhìn tổng quan về các ràng buộc về kiến ​​trúc.
 
 7
 00: 01: 09, 660--> 00: 01: 18, 760
-Nếu bạn muốn tìm hiểu thêm về những hạn chế này, vui lòng tự nghiên cứu. Vì vậy, hạn chế về kiến ​​trúc đầu tiên đối với chúng tôi là khách hàng.
+Nếu chúng ta muốn tìm hiểu thêm về những hạn chế này, vui lòng tự nghiên cứu. Vì vậy, hạn chế về kiến ​​trúc đầu tiên đối với chúng tôi là khách hàng.
 
 8
 00: 01: 18, 810--> 00: 01: 27, 570
@@ -12433,17 +12433,17 @@ Thêm một cái được gọi theo yêu cầu. Và điều này cho thấy r�
 
 14
 00: 02: 14, 820--> 00: 02: 26, 250
-Ràng buộc này là tùy chọn. Vì vậy, điều đó có nghĩa là miễn là việc triển khai của bạn tuân theo năm ràng buộc đầu tiên thì kiến ​​trúc của bạn sẽ được coi là yên tĩnh.
+Ràng buộc này là tùy chọn. Vì vậy, điều đó có nghĩa là miễn là việc triển khai của chúng ta tuân theo năm ràng buộc đầu tiên thì kiến ​​trúc của chúng ta sẽ được coi là yên tĩnh.
 
 15
 00: 02: 26, 700--> 00: 02: 44, 630
-Hãy nhớ lại rằng các API còn lại không bị giới hạn ở giao thức HTP. Vì vậy, nếu bạn đang sử dụng SCDP và nó tuân theo các ràng buộc về kiến ​​​​trúc thì nó được cho là API còn lại EDP hoặc khôi phục S2P.
+Hãy nhớ lại rằng các API còn lại không bị giới hạn ở giao thức HTP. Vì vậy, nếu chúng ta đang sử dụng SCDP và nó tuân theo các ràng buộc về kiến ​​​​trúc thì nó được cho là API còn lại EDP hoặc khôi phục S2P.
 
 <!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000003.srt-->
 
 1
 00: 00: 00, 330--> 00: 00: 12, 840
-Chỉ qua HTP, trong bài học này, bạn sẽ tìm hiểu khái niệm quan trọng nhất về ứng dụng cứu hộ, các tài nguyên bạn tìm hiểu về các định dạng dữ liệu khác nhau mà các ứng dụng còn lại có thể hỗ trợ.
+Chỉ qua HTP, trong bài học này, chúng ta sẽ tìm hiểu khái niệm quan trọng nhất về ứng dụng cứu hộ, các tài nguyên chúng ta tìm hiểu về các định dạng dữ liệu khác nhau mà các ứng dụng còn lại có thể hỗ trợ.
 
 2
 00: 00: 13, 140--> 00: 00: 26, 070
@@ -12487,7 +12487,7 @@ Cơ sở dữ liệu sẽ phản hồi bằng cách gửi lại trạng thái đ
 
 12
 00: 01: 45, 480--> 00: 02: 02, 420
-Những gì bạn vừa học là khái niệm cơ bản về trạng thái nghỉ, sự chuyển giao trạng thái biểu diễn. Ứng dụng theo dõi chủ sở hữu đã nhận được trạng thái đại diện cho chiếc ô tô có số VIN một, hai, ba từ CSDL nguồn.
+Những gì chúng ta vừa học là khái niệm cơ bản về trạng thái nghỉ, sự chuyển giao trạng thái biểu diễn. Ứng dụng theo dõi chủ sở hữu đã nhận được trạng thái đại diện cho chiếc ô tô có số VIN một, hai, ba từ CSDL nguồn.
 
 13
 00: 02: 03, 000--> 00: 02: 10, 500
@@ -12515,7 +12515,7 @@ Nhưng đó không phải là định dạng duy nhất nó có thể được c
 
 19
 00: 02: 59, 400--> 00: 03: 06, 420
-Từ góc độ định dạng dữ liệu, điều này cho bạn biết rằng Anastacia không bị ràng buộc với bất kỳ định dạng dữ liệu cụ thể nào.
+Từ góc độ định dạng dữ liệu, điều này cho chúng ta biết rằng Anastacia không bị ràng buộc với bất kỳ định dạng dữ liệu cụ thể nào.
 
 20
 00: 03: 06, 430--> 00: 03: 18, 000
@@ -12535,7 +12535,7 @@ Chỉ cần gõ vào Google Search Bar thực sự là API của nhà phát tri�
 
 24
 00: 04: 13, 710--> 00: 04: 21, 450
-Đây là các tham số yêu cầu và ở đây bạn sẽ thấy rằng khách hàng sẽ cần thiết lập định dạng mà họ quan tâm theo mặc định.
+Đây là các tham số yêu cầu và ở đây chúng ta sẽ thấy rằng khách hàng sẽ cần thiết lập định dạng mà họ quan tâm theo mặc định.
 
 25
 00: 04: 21, 450--> 00: 04: 29, 400
@@ -12551,7 +12551,7 @@ Vì vậy, đây chỉ là một ví dụ về cách API có thể hỗ trợ nh
 
 28
 00: 04: 56, 310--> 00: 05: 20, 270
-Tất cả các API hiện đại đều sử dụng SCDP. Vì giao thức truyền thông và chúng tôi gọi các ứng dụng đó là SCDP Restabilize và lý do là vì bản thân kiểu Abia còn lại không bị ràng buộc với HDTV, bạn có thể xây dựng ứng dụng với các giao thức khác cũng như API lưu trữ, Expo và điểm cuối.
+Tất cả các API hiện đại đều sử dụng SCDP. Vì giao thức truyền thông và chúng tôi gọi các ứng dụng đó là SCDP Restabilize và lý do là vì bản thân kiểu Abia còn lại không bị ràng buộc với HDTV, chúng ta có thể xây dựng ứng dụng với các giao thức khác cũng như API lưu trữ, Expo và điểm cuối.
 
 29
 00: 05: 20, 270--> 00: 05: 26, 940
@@ -12559,7 +12559,7 @@ Và điểm cuối này được sử dụng để quản lý trạng thái củ
 
 30
 00: 05: 27, 410--> 00: 05: 34, 780
-Vì vậy, điều đó cho bạn biết là bạn có thể thực hiện các hoạt động bí mật trên các tài nguyên được các API còn lại cung cấp.
+Vì vậy, điều đó cho chúng ta biết là chúng ta có thể thực hiện các hoạt động bí mật trên các tài nguyên được các API còn lại cung cấp.
 
 31
 00: 05: 35, 210--> 00: 05: 46, 850
@@ -12579,11 +12579,11 @@ Máy khách sẽ phải sử dụng get bổ sung để cập nhật trạng th�
 
 35
 00: 06: 20, 420--> 00: 06: 31, 750
-Bây giờ là thời gian đố vui. Tôi muốn bạn trả lời câu hỏi này. Điều gì làm cho API yên tĩnh, Mark? Các lựa chọn đúng và sai đề nghị bạn tạm dừng video và thử xem.
+Bây giờ là thời gian đố vui. Tôi muốn chúng ta trả lời câu hỏi này. Điều gì làm cho API yên tĩnh, Mark? Các lựa chọn đúng và sai đề nghị chúng ta tạm dừng video và thử xem.
 
 36
 00: 06: 33, 050--> 00: 06: 52, 490
-Được rồi. Hy vọng rằng bạn đã có tất cả các câu trả lời chính xác. Đây là những lựa chọn đúng đắn. Các ứng dụng còn lại tuân theo một bộ thiết kế, các nguyên tắc còn lại, tuân theo các ứng dụng còn lại theo phong cách kiến ​​trúc còn lại hiển thị các tài nguyên mà các phần còn lại của Clayne có thể thực hiện các hoạt động.
+Được rồi. Hy vọng rằng chúng ta đã có tất cả các câu trả lời chính xác. Đây là những lựa chọn đúng đắn. Các ứng dụng còn lại tuân theo một bộ thiết kế, các nguyên tắc còn lại, tuân theo các ứng dụng còn lại theo phong cách kiến ​​trúc còn lại hiển thị các tài nguyên mà các phần còn lại của Clayne có thể thực hiện các hoạt động.
 
 37
 00: 06: 52, 640--> 00: 07: 06, 470
@@ -12597,7 +12597,7 @@ Và đây là những lựa chọn sai lầm còn lại. Lợn vòi không bị 
 
 1
 00: 00: 00, 180--> 00: 00: 18, 270
-Quản lý EPA, tôi sẽ bắt đầu bài học này bằng cách thảo luận về ba loại người tiêu dùng khác nhau sử dụng EPA do Michael Services cung cấp, sau đó tôi sẽ thảo luận quản lý EPA là gì và tại sao bạn nên xem xét quản lý EPA cho các vi dịch vụ của mình.
+Quản lý EPA, tôi sẽ bắt đầu bài học này bằng cách thảo luận về ba loại người tiêu dùng khác nhau sử dụng EPA do Michael Services cung cấp, sau đó tôi sẽ thảo luận quản lý EPA là gì và tại sao chúng ta nên xem xét quản lý EPA cho các vi dịch vụ của mình.
 
 2
 00: 00: 18, 810--> 00: 00: 29, 070
@@ -12673,11 +12673,11 @@ Vì vậy, nói cách khác, hầu hết các cuộc gọi của họ sẽ thu�
 
 20
 00: 04: 07, 090--> 00: 04: 20, 590
-Chính sách có thể xác định một số loại SLA. Bây giờ, nếu bạn đang thắc mắc các chính sách này được xác định như thế nào thì cơ chế xác định chính sách này hoàn toàn phụ thuộc vào sản phẩm quản lý EPA.
+Chính sách có thể xác định một số loại SLA. Bây giờ, nếu chúng ta đang thắc mắc các chính sách này được xác định như thế nào thì cơ chế xác định chính sách này hoàn toàn phụ thuộc vào sản phẩm quản lý EPA.
 
 21
 00: 04: 20, 950--> 00: 04: 38, 790
-Gissen thường được sử dụng để xác định các chính sách này. Vì vậy, nếu bạn muốn biết thêm về cách xác định các chính sách này, bạn sẽ phải chọn một trong các sản phẩm quản lý EPA, chẳng hạn như RPG Mughals của WSO để hiểu bản chất của các tài liệu chính sách này.
+Gissen thường được sử dụng để xác định các chính sách này. Vì vậy, nếu chúng ta muốn biết thêm về cách xác định các chính sách này, chúng ta sẽ phải chọn một trong các sản phẩm quản lý EPA, chẳng hạn như RPG Mughals của WSO để hiểu bản chất của các tài liệu chính sách này.
 
 22
 00: 04: 38, 920--> 00: 04: 48, 550
@@ -12685,7 +12685,7 @@ Hầu hết các nhà cung cấp đám mây ngày nay cũng cung cấp các dị
 
 23
 00: 04: 48, 770--> 00: 04: 57, 940
-Nếu bạn không sử dụng nền tảng quản lý API, tôi thực sự khuyên bạn nên xem xét khả năng áp dụng giải pháp quản lý API.
+Nếu chúng ta không sử dụng nền tảng quản lý API, tôi thực sự khuyên chúng ta nên xem xét khả năng áp dụng giải pháp quản lý API.
 
 24
 00: 04: 58, 330--> 00: 05: 06, 850
@@ -12723,7 +12723,7 @@ Vì những mối quan tâm chung này được giải quyết bằng nền tả
 
 1
 00: 00: 00, 150--> 00: 00: 19, 360
-AP của sản phẩm Acme Trong bài học này, bạn tìm hiểu về chiến lược Kênh bán hàng Acme yêu cầu giới thiệu một API sẽ được các nhà phát triển Web độc lập và đối tác của Hackman sử dụng trong một trong những bài giảng trước đó trong phần Thiết kế dựa trên miền.
+AP của sản phẩm Acme Trong bài học này, chúng ta tìm hiểu về chiến lược Kênh bán hàng Acme yêu cầu giới thiệu một API sẽ được các nhà phát triển Web độc lập và đối tác của Hackman sử dụng trong một trong những bài giảng trước đó trong phần Thiết kế dựa trên miền.
 
 2
 00: 00: 19, 830--> 00: 00: 30, 990
@@ -12731,7 +12731,7 @@ Chúng tôi đã phân tích bản ghi cho cuộc phỏng vấn với giám đ�
 
 3
 00: 00: 31, 440--> 00: 00: 41, 280
-Bài giảng này là sự tiếp nối từ nơi chúng ta đã dừng cuộc thảo luận đó. Vì vậy, tôi khuyên bạn nên tạm dừng video, xem bản ghi cuộc phỏng vấn và sau đó tiếp tục.
+Bài giảng này là sự tiếp nối từ nơi chúng ta đã dừng cuộc thảo luận đó. Vì vậy, tôi khuyên chúng ta nên tạm dừng video, xem bản ghi cuộc phỏng vấn và sau đó tiếp tục.
 
 4
 00: 00: 42, 220--> 00: 00: 56, 500
@@ -12799,29 +12799,29 @@ API đau khổ có thể được phát triển bằng các ngôn ngữ khác nh
 
 20
 00: 04: 06, 920--> 00: 04: 15, 620
-Trong bài giảng tiếp theo, tôi sẽ hướng dẫn bạn cách triển khai API sản phẩm và nhà cung cấp được triển khai bằng Java và Springboard.
+Trong bài giảng tiếp theo, tôi sẽ hướng dẫn chúng ta cách triển khai API sản phẩm và nhà cung cấp được triển khai bằng Java và Springboard.
 
 <!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 21, 120
-Việc triển khai API sản phẩm Acme trong bài học này, tôi sẽ hướng dẫn bạn qua sơ đồ lớp cho mô hình sản phẩm, sau đó chúng ta sẽ thấy API còn lại cho các sản phẩm đang hoạt động và cuối cùng, tôi sẽ hướng dẫn bạn một số lớp trong API còn lại triển khai cho Acme.
+Việc triển khai API sản phẩm Acme trong bài học này, tôi sẽ hướng dẫn chúng ta qua sơ đồ lớp cho mô hình sản phẩm, sau đó chúng ta sẽ thấy API còn lại cho các sản phẩm đang hoạt động và cuối cùng, tôi sẽ hướng dẫn chúng ta một số lớp trong API còn lại triển khai cho Acme.
 
 2
 00: 00: 21, 480--> 00: 00: 38, 760
-Xin lưu ý mục đích của tôi là để chứng minh EPA nghỉ ngơi khi đi bộ. Nó không phải để dạy phun thuốc, nhưng nếu bạn biết tâm trạng mùa xuân, thì tôi khuyên bạn nên truy cập liên kết này và xem phần hướng dẫn API còn lại cho Springwood.
+Xin lưu ý mục đích của tôi là để chứng minh EPA nghỉ ngơi khi đi bộ. Nó không phải để dạy phun thuốc, nhưng nếu chúng ta biết tâm trạng mùa xuân, thì tôi khuyên chúng ta nên truy cập liên kết này và xem phần hướng dẫn API còn lại cho Springwood.
 
 3
 00: 00: 39, 090--> 00: 00: 46, 640
-Nếu bạn đã có kinh nghiệm với Springboard thì bạn có thể bắt đầu và bạn sẽ dễ dàng hiểu được mã này.
+Nếu chúng ta đã có kinh nghiệm với Springboard thì chúng ta có thể bắt đầu và chúng ta sẽ dễ dàng hiểu được mã này.
 
 4
 00: 00: 46, 650--> 00: 00: 55, 430
-Sau đó tôi sẽ hướng dẫn bạn trong bài giảng này. Xin lưu ý rằng mã mà tôi hướng dẫn bạn trong bài học này có sẵn trong kho sản phẩm.
+Sau đó tôi sẽ hướng dẫn chúng ta trong bài giảng này. Xin lưu ý rằng mã mà tôi hướng dẫn chúng ta trong bài học này có sẵn trong kho sản phẩm.
 
 5
 00: 00: 55, 710--> 00: 01: 03, 150
-Vui lòng tiếp tục và Kloner đến máy cục bộ của bạn nếu bạn chưa làm như vậy và kiểm tra API chi nhánh.
+Vui lòng tiếp tục và Kloner đến máy cục bộ của chúng ta nếu chúng ta chưa làm như vậy và kiểm tra API chi nhánh.
 
 6
 00: 01: 03, 780--> 00: 01: 11, 520
@@ -12873,7 +12873,7 @@ Hãy tiếp tục và khởi chạy API của chúng tôi. Bấm vào Liên hệ
 
 18
 00: 03: 54, 420--> 00: 04: 04, 070
-Bây giờ, để sử dụng tìm kiếm dựa trên tiêu chí, bạn chỉ cần thêm dấu chấm hỏi ở cuối và cung cấp điểm đến, chẳng hạn như Florida.
+Bây giờ, để sử dụng tìm kiếm dựa trên tiêu chí, chúng ta chỉ cần thêm dấu chấm hỏi ở cuối và cung cấp điểm đến, chẳng hạn như Florida.
 
 19
 00: 04: 04, 320--> 00: 04: 14, 010
@@ -12885,7 +12885,7 @@ Vì vậy, giả sử chúng tôi đang tìm kiếm các gói có thời gian l�
 
 21
 00: 04: 26, 400--> 00: 04: 35, 070
-Vì vậy, đây là API còn lại của chúng tôi dành cho sản phẩm. Bây giờ, nếu bạn nhìn vào các nhà cung cấp, chúng ta có nhà cung cấp Idiz ở đây.
+Vì vậy, đây là API còn lại của chúng tôi dành cho sản phẩm. Bây giờ, nếu chúng ta nhìn vào các nhà cung cấp, chúng ta có nhà cung cấp Idiz ở đây.
 
 22
 00: 04: 35, 310--> 00: 04: 48, 810
@@ -12901,7 +12901,7 @@ Hãy xem nó là gì. Bốn trăm loại. Đặt nhà cung cấp, tôi để l�
 
 25
 00: 05: 10, 510--> 00: 05: 18, 250
-Đây là những ứng dụng dành cho sản phẩm và nhà cung cấp. Tôi khuyên bạn nên tự mình thử các ứng dụng này.
+Đây là những ứng dụng dành cho sản phẩm và nhà cung cấp. Tôi khuyên chúng ta nên tự mình thử các ứng dụng này.
 
 26
 00: 05: 18, 880--> 00: 05: 32, 230
@@ -12909,25 +12909,25 @@ Dữ liệu mà chúng tôi đã sử dụng để thử nghiệm đều có s�
 
 27
 00: 05: 32, 470--> 00: 05: 46, 150
-Và đây là dữ liệu cho các nhà cung cấp. Tôi khuyên bạn nên tự mình xem qua mã trong các đánh giá giả mạo để kiểm tra mã trong bộ điều khiển API còn lại, nhấp vào bộ điều khiển API còn lại của sản phẩm.
+Và đây là dữ liệu cho các nhà cung cấp. Tôi khuyên chúng ta nên tự mình xem qua mã trong các đánh giá giả mạo để kiểm tra mã trong bộ điều khiển API còn lại, nhấp vào bộ điều khiển API còn lại của sản phẩm.
 
 28
 00: 05: 46, 210--> 00: 05: 54, 100
-Như bạn có thể thấy, nó là một bộ điều khiển bàn đạp. Đây là bản đồ cho các sản phẩm và bản đồ cho các nhà cung cấp.
+Như chúng ta có thể thấy, nó là một bộ điều khiển bàn đạp. Đây là bản đồ cho các sản phẩm và bản đồ cho các nhà cung cấp.
 
 29
 00: 05: 54, 100--> 00: 06: 01, 900
-Trước khi học lớp này, tôi khuyên bạn nên xem phần hướng dẫn về cách triển khai ứng dụng bằng Springboard.
+Trước khi học lớp này, tôi khuyên chúng ta nên xem phần hướng dẫn về cách triển khai ứng dụng bằng Springboard.
 
 <!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000007.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 10, 400
-Giới thiệu về đồ họa trong bài học này, bạn sẽ tìm hiểu đồ họa là gì và cách nó giải quyết một số vấn đề nhất định liên quan đến phần còn lại.
+Giới thiệu về đồ họa trong bài học này, chúng ta sẽ tìm hiểu đồ họa là gì và cách nó giải quyết một số vấn đề nhất định liên quan đến phần còn lại.
 
 2
 00: 00: 11, 490--> 00: 00: 22, 200
-Bạn sẽ tìm hiểu về các loạt đồ họa và khi kết thúc bài giảng này, bạn sẽ có thể giải thích sự khác biệt giữa các ứng dụng bắt giữ và API đồ họa.
+Bạn sẽ tìm hiểu về các loạt đồ họa và khi kết thúc bài giảng này, chúng ta sẽ có thể giải thích sự khác biệt giữa các ứng dụng bắt giữ và API đồ họa.
 
 3
 00: 00: 22, 620--> 00: 00: 33, 960
@@ -12963,7 +12963,7 @@ Cấu trúc của lược đồ yêu cầu và phản hồi được cố địn
 
 11
 00: 01: 53, 910--> 00: 02: 08, 620
-Vì vậy, nếu bạn coi máy chủ API còn lại là nguồn dữ liệu thì việc này giống như thực hiện thao tác bắt đầu chọn từ bảng vì máy khách không có lựa chọn nào về những gì nó cần trong lược đồ phản hồi.
+Vì vậy, nếu chúng ta coi máy chủ API còn lại là nguồn dữ liệu thì việc này giống như thực hiện thao tác bắt đầu chọn từ bảng vì máy khách không có lựa chọn nào về những gì nó cần trong lược đồ phản hồi.
 
 12
 00: 02: 09, 330--> 00: 02: 16, 590
@@ -13039,7 +13039,7 @@ Mỗi khung này có một yêu cầu khác nhau từ góc độ ứng dụng. H
 
 30
 00: 05: 53, 100--> 00: 06: 05, 970
-Vì thế. Vì vậy các thành phần mà nhà phát triển cần ghép lại với nhau tùy thuộc vào framework. Tiếp theo, tôi sẽ hướng dẫn bạn quy trình của thao tác đồ họa trong cách triển khai đồ họa điển hình.
+Vì thế. Vì vậy các thành phần mà nhà phát triển cần ghép lại với nhau tùy thuộc vào framework. Tiếp theo, tôi sẽ hướng dẫn chúng ta quy trình của thao tác đồ họa trong cách triển khai đồ họa điển hình.
 
 31
 00: 06: 05, 970--> 00: 06: 19, 620
@@ -13067,11 +13067,11 @@ Những trình phân giải này sau đó được đưa trở lại Solia đồ
 
 37
 00: 07: 06, 450--> 00: 07: 21, 720
-Trong phần phản hồi, bạn sẽ thấy tất cả các thành phần và đồ họa này hoạt động trong bài giảng sau. Việc triển khai máy chủ đồ họa có sẵn bằng nhiều ngôn ngữ để tìm hiểu thêm về những cách triển khai này.
+Trong phần phản hồi, chúng ta sẽ thấy tất cả các thành phần và đồ họa này hoạt động trong bài giảng sau. Việc triển khai máy chủ đồ họa có sẵn bằng nhiều ngôn ngữ để tìm hiểu thêm về những cách triển khai này.
 
 38
 00: 07: 21, 930--> 00: 07: 35, 010
-Tôi khuyên bạn nên kiểm tra liên kết này lợi thế về đồ họa. Bạn đã biết rằng đồ họa giải quyết vấn đề trang bị quá mức và thiếu vốn mà ứng dụng khách API còn lại gặp phải.
+Tôi khuyên chúng ta nên kiểm tra liên kết này lợi thế về đồ họa. Bạn đã biết rằng đồ họa giải quyết vấn đề trang bị quá mức và thiếu vốn mà ứng dụng khách API còn lại gặp phải.
 
 39
 00: 07: 35, 160--> 00: 07: 47, 160
@@ -13111,7 +13111,7 @@ API còn lại phù hợp với các ứng dụng điều khiển tài nguyên, 
 
 48
 00: 09: 42, 540--> 00: 09: 55, 740
-Trong bài học này, bạn đã tìm hiểu về đồ họa đồ họa là một đặc tả cho các địa chỉ đồ họa API, các vấn đề về đánh giá thấp và giám sát liên quan đến API còn lại.
+Trong bài học này, chúng ta đã tìm hiểu về đồ họa đồ họa là một đặc tả cho các địa chỉ đồ họa API, các vấn đề về đánh giá thấp và giám sát liên quan đến API còn lại.
 
 49
 00: 09: 55, 980--> 00: 10: 12, 200
@@ -13125,11 +13125,11 @@ Loại thành phần mà nhà phát triển phải kết hợp với nhau tùy t
 
 1
 00: 00: 00, 330--> 00: 00: 10, 960
-Ngôn ngữ định nghĩa lược đồ trong bài học này sẽ được thảo luận, hệ thống loại chiến tranh golf, bạn sẽ tìm hiểu cách máy khách và máy chủ sử dụng lược đồ để thực hiện một truy vấn.
+Ngôn ngữ định nghĩa lược đồ trong bài học này sẽ được thảo luận, hệ thống loại chiến tranh golf, chúng ta sẽ tìm hiểu cách máy khách và máy chủ sử dụng lược đồ để thực hiện một truy vấn.
 
 2
 00: 00: 11, 010--> 00: 00: 19, 620
-Tôi cũng sẽ chia sẻ với bạn một số mẹo để tạo lược đồ. Xin lưu ý, mục đích của tôi là cung cấp cho bạn cái nhìn tổng quan về ngôn ngữ định nghĩa lược đồ.
+Tôi cũng sẽ chia sẻ với chúng ta một số mẹo để tạo lược đồ. Xin lưu ý, mục đích của tôi là cung cấp cho chúng ta cái nhìn tổng quan về ngôn ngữ định nghĩa lược đồ.
 
 3
 00: 00: 19, 620--> 00: 00: 26, 700
@@ -13141,11 +13141,11 @@ Bạn sẽ sử dụng dịch vụ nào cho các vi dịch vụ của mình? API
 
 5
 00: 00: 37, 250--> 00: 00: 50, 210
-Bạn cần chọn cái phù hợp hơn với mục đích sử dụng cụ thể của bạn tại thời điểm này. API RESTful phổ biến hơn nhiều so với API đồ họa, nhưng điều đó đang thay đổi.
+Bạn cần chọn cái phù hợp hơn với mục đích sử dụng cụ thể của chúng ta tại thời điểm này. API RESTful phổ biến hơn nhiều so với API đồ họa, nhưng điều đó đang thay đổi.
 
 6
 00: 00: 50, 480--> 00: 01: 05, 350
-Vì vậy, hãy đánh giá các yêu cầu của bạn và sau đó quyết định nên chọn cái nào. Hệ thống kiểu đồ họa đề cập đến thực tế là dịch vụ đồ họa xác định một tập hợp các đường dẫn mô tả đầy đủ tập hợp dữ liệu có thể có.
+Vì vậy, hãy đánh giá các yêu cầu của chúng ta và sau đó quyết định nên chọn cái nào. Hệ thống kiểu đồ họa đề cập đến thực tế là dịch vụ đồ họa xác định một tập hợp các đường dẫn mô tả đầy đủ tập hợp dữ liệu có thể có.
 
 7
 00: 01: 05, 630--> 00: 01: 21, 320
@@ -13205,7 +13205,7 @@ Idee là một loại đặc biệt, không phải là một phần của dữ l
 
 21
 00: 04: 06, 680--> 00: 04: 18, 800
-Dịch vụ đồ họa xác định loại phức tạp bằng cách kết hợp các loại vô hướng tiêu chuẩn. Điều này không khác với cách bạn xác định đối tượng trong bất kỳ chương trình hướng đối tượng nào.
+Dịch vụ đồ họa xác định loại phức tạp bằng cách kết hợp các loại vô hướng tiêu chuẩn. Điều này không khác với cách chúng ta xác định đối tượng trong bất kỳ chương trình hướng đối tượng nào.
 
 22
 00: 04: 18, 800--> 00: 04: 29, 240
@@ -13225,7 +13225,7 @@ Trường là một mảng có kiểu phần tử phức tạp trong vùng đư�
 
 26
 00: 04: 58, 100--> 00: 05: 05, 870
-Vì vậy, điều này cho bạn biết rằng các kiểu phức tạp có thể được lồng vào nhau, nghĩa là một kiểu phức tạp có thể chứa các kiểu phức tạp khác.
+Vì vậy, điều này cho chúng ta biết rằng các kiểu phức tạp có thể được lồng vào nhau, nghĩa là một kiểu phức tạp có thể chứa các kiểu phức tạp khác.
 
 27
 00: 05: 06, 170--> 00: 05: 13, 940
@@ -13237,7 +13237,7 @@ Và điều này là do các kiểu phức tạp được lồng sâu sẽ yêu 
 
 29
 00: 05: 27, 490--> 00: 05: 36, 700
-Vì vậy, đây là những điều nhất định mà bạn cần lưu ý khi thiết kế các loại của mình. Nói về cách khách hàng thực hiện truy vấn trên biểu đồ.
+Vì vậy, đây là những điều nhất định mà chúng ta cần lưu ý khi thiết kế các loại của mình. Nói về cách khách hàng thực hiện truy vấn trên biểu đồ.
 
 30
 00: 05: 37, 060--> 00: 05: 45, 010
@@ -13245,7 +13245,7 @@ Vì vậy, điều đầu tiên khách hàng cần làm là chuẩn bị tải t
 
 31
 00: 05: 45, 190--> 00: 05: 58, 240
-Cấu trúc của tài liệu này được xác định bởi đồ họa Huet và khách hàng phải tuân thủ nó. Điều đầu tiên bạn thấy ở đây là loại tuyến đường, được đặt để truy vấn đây có thể là đột biến hoặc đây cũng có thể là đăng ký.
+Cấu trúc của tài liệu này được xác định bởi đồ họa Huet và khách hàng phải tuân thủ nó. Điều đầu tiên chúng ta thấy ở đây là loại tuyến đường, được đặt để truy vấn đây có thể là đột biến hoặc đây cũng có thể là đăng ký.
 
 32
 00: 05: 58, 630--> 00: 06: 13, 090
@@ -13257,7 +13257,7 @@ Máy khách có thể chỉ định 0 hoặc nhiều giá trị đối số. Cá
 
 34
 00: 06: 20, 740--> 00: 06: 34, 800
-Bây giờ hãy nói về điều gì làm cho đồ họa trở nên khác biệt so với truy vấn API còn lại. Như bạn có thể thấy ở đây, máy khách có thể chỉ định các trường mà nó muốn nhận từ máy chủ trong phản hồi.
+Bây giờ hãy nói về điều gì làm cho đồ họa trở nên khác biệt so với truy vấn API còn lại. Như chúng ta có thể thấy ở đây, máy khách có thể chỉ định các trường mà nó muốn nhận từ máy chủ trong phản hồi.
 
 35
 00: 06: 34, 810--> 00: 06: 50, 230
@@ -13285,31 +13285,31 @@ Công cụ phát triển đồ họa. Trong vài năm gần đây, hệ sinh th�
 
 41
 00: 07: 43, 630--> 00: 07: 52, 630
-Có nhiều công cụ mà bạn có thể sử dụng để hỗ trợ phát triển đồ họa. Đây là một số công cụ mà cá nhân tôi thích.
+Có nhiều công cụ mà chúng ta có thể sử dụng để hỗ trợ phát triển đồ họa. Đây là một số công cụ mà cá nhân tôi thích.
 
 42
 00: 07: 52, 750--> 00: 08: 02, 020
-Trên thực tế, một trong những công cụ này, sân chơi đồ họa, là công cụ mà tôi đã sử dụng để kiểm tra đồ họa của mình trong trường hợp này và bạn sẽ thấy nó hoạt động.
+Trên thực tế, một trong những công cụ này, sân chơi đồ họa, là công cụ mà tôi đã sử dụng để kiểm tra đồ họa của mình trong trường hợp này và chúng ta sẽ thấy nó hoạt động.
 
 43
 00: 08: 02, 050--> 00: 08: 14, 580
-Vui lòng tự nghiên cứu và chia sẻ suy nghĩ của bạn về các công cụ khác mà bạn có thể thấy hữu ích. Tôi đã học được bài học này bằng cách chia sẻ một số mẹo về thiết kế lược đồ cho ứng dụng đồ họa của bạn.
+Vui lòng tự nghiên cứu và chia sẻ suy nghĩ của chúng ta về các công cụ khác mà chúng ta có thể thấy hữu ích. Tôi đã học được bài học này bằng cách chia sẻ một số mẹo về thiết kế lược đồ cho ứng dụng đồ họa của chúng ta .
 
 44
 00: 08: 15, 040--> 00: 08: 22, 270
-Hãy coi định nghĩa lược đồ như một ngôn ngữ được chia sẻ. Đừng quên ngôn ngữ chung của bạn cho tên miền.
+Hãy coi định nghĩa lược đồ như một ngôn ngữ được chia sẻ. Đừng quên ngôn ngữ chung của chúng ta cho tên miền.
 
 45
 00: 08: 22, 660--> 00: 08: 33, 010
-Vì vậy, hãy đảm bảo rằng các định nghĩa lược đồ của bạn được ánh xạ tới các thuật ngữ trong ngôn ngữ chung . Thực hiện một cách tiếp cận tiến hóa để tạo API.
+Vì vậy, hãy đảm bảo rằng các định nghĩa lược đồ của chúng ta được ánh xạ tới các thuật ngữ trong ngôn ngữ chung . Thực hiện một cách tiếp cận tiến hóa để tạo API.
 
 46
 00: 08: 33, 310--> 00: 08: 46, 210
-Đừng cố gắng làm mọi thứ. Đồng thời, ý tưởng là xuất bản phiên bản một của API và sau đó xem xét cách khách hàng hoặc người tiêu dùng hoặc API đang sử dụng dịch vụ của bạn.
+Đừng cố gắng làm mọi thứ. Đồng thời, ý tưởng là xuất bản phiên bản một của API và sau đó xem xét cách khách hàng hoặc người tiêu dùng hoặc API đang sử dụng dịch vụ của chúng ta .
 
 47
 00: 08: 46, 540--> 00: 09: 00, 490
-Và dựa trên sự phát triển đó, lược đồ cho API của bạn. Đã đến lúc xem qua các điểm chính từ ngôn ngữ định nghĩa lược đồ của bài học này được máy chủ sử dụng để xác định lược đồ hoặc hợp đồng cho API.
+Và dựa trên sự phát triển đó, lược đồ cho API của chúng ta . Đã đến lúc xem qua các điểm chính từ ngôn ngữ định nghĩa lược đồ của bài học này được máy chủ sử dụng để xác định lược đồ hoặc hợp đồng cho API.
 
 48
 00: 09: 00, 910--> 00: 09: 12, 910
@@ -13327,7 +13327,7 @@ Các sản phẩm của Acme mà các nhà phát triển ứng dụng đang sử
 
 2
 00: 00: 15, 720--> 00: 00: 28, 160
-Trong bài học này, tôi sẽ hướng dẫn bạn định nghĩa lược đồ cho các sản phẩm và nhà cung cấp mà nhóm vi dịch vụ sản phẩm đã quyết định sử dụng cho API đồ họa của Sản phẩm Acme.
+Trong bài học này, tôi sẽ hướng dẫn chúng ta định nghĩa lược đồ cho các sản phẩm và nhà cung cấp mà nhóm vi dịch vụ sản phẩm đã quyết định sử dụng cho API đồ họa của Sản phẩm Acme.
 
 3
 00: 00: 28, 620--> 00: 00: 40, 890
@@ -13367,7 +13367,7 @@ API truy vấn này sẽ được hiển thị qua điểm cuối chung có đ�
 
 12
 00: 02: 29, 580--> 00: 02: 41, 460
-Tôi sẽ hướng dẫn bạn định nghĩa lược đồ cho truy vấn của sản phẩm và nhà cung cấp. Lược đồ mà tôi đang hướng dẫn bạn có sẵn và kho lưu trữ này, đồng thời hãy đảm bảo kiểm tra API nhánh.
+Tôi sẽ hướng dẫn chúng ta định nghĩa lược đồ cho truy vấn của sản phẩm và nhà cung cấp. Lược đồ mà tôi đang hướng dẫn chúng ta có sẵn và kho lưu trữ này, đồng thời hãy đảm bảo kiểm tra API nhánh.
 
 13
 00: 02: 41, 880--> 00: 02: 51, 210
@@ -13415,21 +13415,21 @@ Chúng ta hãy xem nhanh nhà cung cấp. Vì vậy, Nhà cung cấp có tất c
 
 24
 00: 04: 31, 800--> 00: 04: 41, 810
-Tôi khuyên bạn nên xem xét đối tượng miền được xác định trong gói mô hình. Sản phẩm có cùng thuộc tính được xác định trong tệp định nghĩa truy vấn.
+Tôi khuyên chúng ta nên xem xét đối tượng miền được xác định trong gói mô hình. Sản phẩm có cùng thuộc tính được xác định trong tệp định nghĩa truy vấn.
 
 25
 00: 04: 41, 910--> 00: 04: 52, 170
-Tương tự, nhà cung cấp có cùng một bộ thuộc tính có trong các lớp nhà cung cấp. Trong bài học tiếp theo, bạn sẽ thấy những truy vấn này hoạt động như thế nào.
+Tương tự, nhà cung cấp có cùng một bộ thuộc tính có trong các lớp nhà cung cấp. Trong bài học tiếp theo, chúng ta sẽ thấy những truy vấn này hoạt động như thế nào.
 
 <!--@ \15 kiến trúc vi dịch vụ andAPI_VVN\000000010.srt-->
 
 1
 00: 00: 00, 630--> 00: 00: 08, 320
-Sản phẩm, triển khai đồ họa, trong bài học này, bạn sẽ thấy hoạt động của API sản phẩm đồ họa.
+Sản phẩm, triển khai đồ họa, trong bài học này, chúng ta sẽ thấy hoạt động của API sản phẩm đồ họa.
 
 2
 00: 00: 08, 430--> 00: 00: 24, 810
-Tôi cũng sẽ hướng dẫn bạn sơ đồ lớp và mã để triển khai API sản phẩm. Vì nhóm vi dịch vụ của sản phẩm đã sử dụng Springboard nên họ đã quyết định sử dụng bàn đạp này để triển khai API đồ họa của mình.
+Tôi cũng sẽ hướng dẫn chúng ta sơ đồ lớp và mã để triển khai API sản phẩm. Vì nhóm vi dịch vụ của sản phẩm đã sử dụng Springboard nên họ đã quyết định sử dụng bàn đạp này để triển khai API đồ họa của mình.
 
 3
 00: 00: 24, 870--> 00: 00: 35, 890
@@ -13437,15 +13437,15 @@ Springboard sử dụng nội bộ cách triển khai Java đồ họa của cá
 
 4
 00: 00: 35, 940--> 00: 00: 43, 970
-Tôi khuyên bạn nên truy cập trang web đồ họa Java dot com. Chúng tôi sẽ sử dụng sân chơi đồ họa để thử nghiệm.
+Tôi khuyên chúng ta nên truy cập trang web đồ họa Java dot com. Chúng tôi sẽ sử dụng sân chơi đồ họa để thử nghiệm.
 
 5
 00: 00: 44, 070--> 00: 00: 55, 570
-Vì vậy, nếu bạn muốn theo dõi, vui lòng đăng video, tải xuống sân chơi đồ họa và thiết lập nó trên máy của bạn trước khi tiếp tục phát triển định nghĩa lược đồ.
+Vì vậy, nếu chúng ta muốn theo dõi, vui lòng đăng video, tải xuống sân chơi đồ họa và thiết lập nó trên máy của chúng ta trước khi tiếp tục phát triển định nghĩa lược đồ.
 
 6
 00: 00: 55, 590--> 00: 01: 08, 430
-Tôi thực sự khuyên bạn nên cài đặt plugin đồ họa trong ID của mình, chẳng hạn như mã hình ảnh thông minh. Tôi đã cài đặt plugin này trong thiết lập thông minh của mình để kiểm tra.
+Tôi thực sự khuyên chúng ta nên cài đặt plugin đồ họa trong ID của mình, chẳng hạn như mã hình ảnh thông minh. Tôi đã cài đặt plugin này trong thiết lập thông minh của mình để kiểm tra.
 
 7
 00: 01: 08, 430--> 00: 01: 28, 680
@@ -13457,11 +13457,11 @@ Bấm vào các sản phẩm đang chạy ở đây và nhấn chạy. Chúng ta
 
 9
 00: 01: 37, 500--> 00: 01: 46, 110
-Nhấp vào điểm cuối của bạn, cung cấp điểm cuối là biểu đồ 80 dấu gạch chéo localhost và nhấp vào Mở.
+Nhấp vào điểm cuối của chúng ta, cung cấp điểm cuối là biểu đồ 80 dấu gạch chéo localhost và nhấp vào Mở.
 
 10
 00: 01: 46, 110--> 00: 01: 54, 280
-Khi sân chơi kết nối với máy chủ, nó sẽ tìm nạp lược đồ để bạn sẽ thấy nội dung được lấy từ tệp định nghĩa lược đồ.
+Khi sân chơi kết nối với máy chủ, nó sẽ tìm nạp lược đồ để chúng ta sẽ thấy nội dung được lấy từ tệp định nghĩa lược đồ.
 
 11
 00: 01: 54, 300--> 00: 02: 02, 940
@@ -13481,7 +13481,7 @@ Vì vậy, hãy đặt mô tả về số đêm đích đến, hãy tiếp tục
 
 15
 00: 02: 35, 160--> 00: 02: 43, 920
-Hãy thay đổi số này thành 5 và xem điều gì sẽ xảy ra. Và như bạn có thể thấy bây giờ, chúng ta đang thấy sản phẩm có số đêm tối thiểu là năm.
+Hãy thay đổi số này thành 5 và xem điều gì sẽ xảy ra. Và như chúng ta có thể thấy bây giờ, chúng ta đang thấy sản phẩm có số đêm tối thiểu là năm.
 
 16
 00: 02: 43, 930--> 00: 02: 51, 270
@@ -13493,7 +13493,7 @@ Và đây là phản hồi từ máy chủ với một sản phẩm duy nhất d
 
 18
 00: 03: 05, 640--> 00: 03: 20, 370
-Vì vậy, hãy nói tên và giả sử loại, thực hiện truy vấn. Và bây giờ, như bạn có thể thấy, chúng tôi đã nhận được thông tin về gói và chúng tôi cũng nhận được thông tin về hai nhà cung cấp, là một phần của gói.
+Vì vậy, hãy nói tên và giả sử loại, thực hiện truy vấn. Và bây giờ, như chúng ta có thể thấy, chúng tôi đã nhận được thông tin về gói và chúng tôi cũng nhận được thông tin về hai nhà cung cấp, là một phần của gói.
 
 19
 00: 03: 20, 370--> 00: 03: 26, 310
@@ -13501,7 +13501,7 @@ Và đối với hai nhà cung cấp này, chúng tôi chỉ nhận được th�
 
 20
 00: 03: 26, 310--> 00: 03: 37, 740
-Như bạn có thể thấy ở đây chỉ với một cuộc gọi, chúng tôi đã nhận được tất cả thông tin mà chúng tôi cần. Tôi khuyên bạn nên cài đặt sân chơi đồ họa và tự mình thử các truy vấn này.
+Như chúng ta có thể thấy ở đây chỉ với một cuộc gọi, chúng tôi đã nhận được tất cả thông tin mà chúng tôi cần. Tôi khuyên chúng ta nên cài đặt sân chơi đồ họa và tự mình thử các truy vấn này.
 
 21
 00: 03: 38, 640--> 00: 03: 45, 390
@@ -13541,7 +13541,7 @@ Chúng ta hãy xem mã cho những dữ liệu này. Tìm nạp declasse Các t�
 
 30
 00: 05: 27, 950--> 00: 05: 56, 480
-Vì vậy, đây là nơi chúng tôi đang tạo một phiên bản của trình tìm nạp dữ liệu cho lớp sản phẩm và trong mã quên bạn sẽ thấy rằng điều đầu tiên chúng tôi đang làm là lấy các đối số truy vấn sau đó, thực hiện truy vấn trên repo sản phẩm, sau đó gói đối tượng sản phẩm với đối tượng mô hình truy vấn sản phẩm chứa phiên bản của sản phẩm cũng như tất cả các nhà cung cấp là một phần của sản phẩm.
+Vì vậy, đây là nơi chúng tôi đang tạo một phiên bản của trình tìm nạp dữ liệu cho lớp sản phẩm và trong mã quên chúng ta sẽ thấy rằng điều đầu tiên chúng tôi đang làm là lấy các đối số truy vấn sau đó, thực hiện truy vấn trên repo sản phẩm, sau đó gói đối tượng sản phẩm với đối tượng mô hình truy vấn sản phẩm chứa phiên bản của sản phẩm cũng như tất cả các nhà cung cấp là một phần của sản phẩm.
 
 31
 00: 05: 56, 660--> 00: 06: 06, 830
@@ -13569,5 +13569,5 @@ Máy chủ gọi các hàm này để lấy thông tin cho từng trường mà 
 
 37
 00: 07: 08, 480--> 00: 07: 19, 040
-Trong bài học này, bạn đã thấy sản phẩm hoạt động và bạn đã thấy cách triển khai truy vấn sản phẩm. Tôi khuyên bạn nên tự mình thử truy vấn của nhà cung cấp.
+Trong bài học này, chúng ta đã thấy sản phẩm hoạt động và chúng ta đã thấy cách triển khai truy vấn sản phẩm. Tôi khuyên chúng ta nên tự mình thử truy vấn của nhà cung cấp.
 

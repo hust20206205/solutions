@@ -1,147 +1,28 @@
-Nhóm kinh doanh sử dụng ngôn ngữ kinh doanh, trong khi nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ.
+<!-- Nhóm kinh doanh sử dụng ngôn ngữ kinh doanh, trong khi nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. -->
 
-2
-00: 00: 09, 000--> 00: 00: 16, 260
-Sự khác biệt về ngôn ngữ giữa các nhóm kinh doanh và I.T. các nhóm có thể dẫn đến những thách thức về ngôn ngữ.
+<!-- Sự khác biệt về ngôn ngữ giữa các nhóm kinh doanh và I.T. các nhóm có thể dẫn đến những thách thức về ngôn ngữ. -->
 
-3
-00: 00: 16, 260--> 00: 00: 27, 210
-Thiết kế hướng miền đề xuất sử dụng ngôn ngữ chung để giải quyết những thách thức ngôn ngữ này. Tôi sẽ bắt đầu bài học này bằng một bài tập vui nhộn nhanh chóng.
+<!-- Thiết kế hướng miền đề xuất sử dụng ngôn ngữ chung để giải quyết những thách thức ngôn ngữ này. Tôi sẽ bắt đầu bài học này bằng một bài tập vui nhộn nhanh chóng. -->
 
-4
-00: 00: 27, 570--> 00: 00: 36, 540
-Nếu tôi nói từ cá ngừ, chúng ta sẽ nghĩ đến điều gì? Và nếu chúng ta đang nghĩ về cá thì chúng ta đã đúng, vì trong tiếng Nhật, cá ngừ có nghĩa là cá lớn.
+<!-- Thông điệp ở đây là cùng một giọng điệu được sử dụng ở các khu vực khác nhau có thể dẫn đến nhầm lẫn và điều đó đúng ngay cả đối với ngôn ngữ kinh doanh được sử dụng trong nhiều miền. -->
 
-5
-00: 00: 37, 110--> 00: 00: 46, 900
-Nhưng nếu chúng ta ở một quốc gia nói tiếng Tây Ban Nha và yêu cầu cá ngừ, chúng ta sẽ không nhận được cá mà sẽ nhận được một cây xương rồng vì trong tiếng Tây Ban Nha, cá ngừ có nghĩa là xương rồng.
-
-6
-00: 00: 46, 950--> 00: 00: 54, 960
-Thế còn mì ống thì sao? Bây giờ, nếu chúng ta đang nghĩ về một loại mì nào đó thì chúng ta đã đúng, vì trong tiếng Ý mì ống có nghĩa là mì.
-
-7
-00: 00: 55, 120--> 00: 01: 02, 020
-Nhưng nếu chúng ta yêu cầu mì ống ở Ba Lan, chúng ta sẽ nhận được kem đánh răng vì trong tiếng Ba Lan, mì ống có nghĩa là kem đánh răng.
-
-8
-00: 01: 02, 260--> 00: 01: 09, 900
-Không, tôi khá chắc chắn rằng chúng ta biết từ hôn. Đừng yêu cầu điều đó ở Thụy Điển vì trong tiếng Thụy Điển, kess có nghĩa là đái.
-
-9
-00: 01: 10, 170--> 00: 01: 21, 850
-Thông điệp ở đây là cùng một giọng điệu được sử dụng ở các khu vực khác nhau có thể dẫn đến nhầm lẫn và điều đó đúng ngay cả đối với ngôn ngữ kinh doanh được sử dụng trong nhiều miền.
-
-10
-00: 01: 21, 990--> 00: 01: 31, 830
-Điều đó có nghĩa là nếu chúng ta đang sử dụng các thuật ngữ kinh doanh từ miền này sang miền khác thì điều đó có thể dẫn đến nhầm lẫn và hiểu sai.
-
-11
-00: 01: 32, 100--> 00: 01: 43, 030
-Hãy tìm hiểu sâu hơn một chút. Mỗi ngành đều có biệt ngữ riêng. Ý tôi là song ngữ, một tập hợp các thuật ngữ mà các chuyên gia trong ngành hoặc nghề đó sử dụng.
-
-12
-00: 01: 43, 590--> 00: 01: 52, 590
-Hãy nghĩ về người kế toán, một kỹ sư và một bác sĩ. Tất cả họ đều sử dụng một bộ công cụ chỉ có ý nghĩa trong nghề nghiệp của họ.
-
-13
-00: 01: 52, 770--> 00: 02: 04, 920
-Trên thực tế, trong cùng một ngành, chúng có thể là những chuyên ngành. Ví dụ, có nhiều loại kế toán viên là kiểm toán viên, kế toán quản trị, kế toán pháp y, v.v.
-
-14
-00: 02: 05, 310--> 00: 02: 18, 790
-Và mỗi loại kế toán viên chuyên ngành khác nhau này có những bộ sách khác nhau, có thể có hoặc không có ý nghĩa bên ngoài lĩnh vực chuyên môn của họ trên cùng một dòng.
-
-15
-00: 02: 18, 810--> 00: 02: 36, 400
-Nếu chúng ta nghĩ về một doanh nghiệp có nhiều bộ phận, nhiều phòng ban hoặc nhiều nhóm thì các nhóm này trong Doanh nghiệp có biệt ngữ riêng và các chuyên gia trong các nhóm này sử dụng ngôn ngữ của nhóm cũng như mọi hoạt động giao tiếp của họ.
-
-16
-00: 02: 36, 780--> 00: 02: 52, 290
-Về cơ bản, điều đó có nghĩa là khi các chuyên gia về miền tài khoản tiết kiệm này sẽ cung cấp kiến ​​thức hoặc thông tin cho bộ phận CNTT. chuyên gia, họ sẽ sử dụng ngôn ngữ được sử dụng trong lĩnh vực tài khoản tiết kiệm.
-
-17
-00: 02: 52, 380--> 00: 03: 03, 650
-Tương tự, một chuyên gia về miền từ miền thẻ tín dụng sẽ sử dụng bộ sưu tập thẻ tín dụng để giải thích cách hoạt động của miền thẻ tín dụng.
-
-18
-00: 03: 04, 200--> 00: 03: 13, 220
-Vì vậy, rõ ràng để hiểu miền hoặc để có được kiến ​​thức về miền, người ta phải hiểu ngôn ngữ được sử dụng bởi các chuyên gia ngành .
-
-19
-00: 03: 13, 230--> 00: 03: 21, 060
-Nhưng có một số thách thức. Thử thách đầu tiên là một điều hiển nhiên. Có nhiều ngôn ngữ kinh doanh trên toàn doanh nghiệp.
-
-20
-00: 03: 21, 330--> 00: 03: 36, 950
-Trong trường hợp là ngân hàng, nhóm kinh doanh đối với tài khoản tiết kiệm có thể sử dụng các điều khoản như rút tiền gửi tín dụng Dovid, trong khi nhóm kinh doanh đối với thẻ tín dụng có thể sử dụng các điều khoản như thanh toán tín dụng, ứng tiền mặt cho người bán, v.v.
-
-21
-00: 03: 37, 200--> 00: 03: 49, 380
-Thách thức ở đây là để xây dựng các hệ thống phức tạp, I.T. các nhóm phải học nhiều ngôn ngữ kinh doanh được các chuyên gia sử dụng trong bối cảnh các miền hoặc miền phụ khác nhau.
-
-22
-00: 03: 49, 440--> 00: 04: 06, 810
-Thách thức thứ hai là cùng một thuật ngữ có thể xuất hiện trong bối cảnh các lĩnh vực kinh doanh khác nhau. Ví dụ, trong trường hợp tài khoản tiết kiệm và miền phụ thẻ tín dụng, chúng ta sẽ thấy có một thuật ngữ chung là tín dụng và ý nghĩa của thuật ngữ chung này là khác nhau.
-
-23
-00: 04: 06, 810--> 00: 04: 17, 940
-Tín dụng trong trường hợp tài khoản tiết kiệm có thể có nghĩa là tiền gửi của khách hàng và trong trường hợp thẻ tín dụng, nó có thể có nghĩa là khoản thanh toán của khách hàng đối với hóa đơn thẻ tín dụng.
-
-24
-00: 04: 17, 970--> 00: 04: 28, 950
+<!-- Điều đó có nghĩa là nếu chúng ta đang sử dụng các thuật ngữ kinh doanh từ miền này sang miền khác thì điều đó có thể dẫn đến nhầm lẫn và hiểu sai. -->  
+<!-- Vì vậy, rõ ràng để hiểu miền hoặc để có được kiến ​​thức về miền, người ta phải hiểu ngôn ngữ được sử dụng bởi các chuyên gia ngành . -->  
+<!-- Thách thức ở đây là để xây dựng các hệ thống phức tạp, I.T. các nhóm phải học nhiều ngôn ngữ kinh doanh được các chuyên gia sử dụng trong bối cảnh các miền hoặc miền phụ khác nhau. -->
+ 
+<!-- Thách thức thứ hai là cùng một thuật ngữ có thể xuất hiện trong bối cảnh các lĩnh vực kinh doanh khác nhau. Ví dụ, trong trường hợp tài khoản tiết kiệm và miền phụ thẻ tín dụng, chúng ta sẽ thấy có một thuật ngữ chung là tín dụng và ý nghĩa của thuật ngữ chung này là khác nhau. --> 
 Vì vậy, thách thức ở đây là cùng một thời điểm trên nhiều miền có thể có ý nghĩa khác nhau, tùy thuộc vào ngữ cảnh và điều này có thể gây nhầm lẫn giữa các mục.
+ 
+Thử thách thứ ba liên quan đến việc nó có biệt ngữ riêng. Getters và setters tạo và xóa đối tượng DBI và nhiều lần tương tự.   
 
-25
-00: 04: 29, 610--> 00: 04: 42, 060
-Thử thách thứ ba liên quan đến việc nó có biệt ngữ riêng. Getters và setters tạo và xóa đối tượng DBI và nhiều lần tương tự.
-
-26
-00: 04: 42, 210--> 00: 04: 53, 040
-Đây là những thuật ngữ thường được sử dụng cho các mặt hàng và các nhóm công nghệ có xu hướng dịch các thuật ngữ kinh doanh sang biệt ngữ hoặc mặt hàng EITE.
-
-27
-00: 04: 53, 050--> 00: 04: 59, 760
-Và vì vậy khi họ nhận được thông tin về miền hoặc những kiến ​​thức về miền từ các chuyên gia về miền .
-
-28
-00: 05: 00, 110--> 00: 05: 19, 240
-Trên thực tế, chúng không được dịch sang các thuật ngữ công nghệ, giao tiếp từ chuyên gia miền đến ý tưởng điều gì xảy ra theo ngôn ngữ miền, trong khi giao tiếp từ chuyên gia sở hữu trí tuệ đến chuyên gia miền diễn ra theo ngôn ngữ công nghệ?
-
-29
-00: 05: 19, 450--> 00: 05: 25, 990
-Đây là cách nó có thể diễn ra. Trong trường hợp chuyên gia tài khoản tiết kiệm của chúng tôi thảo luận về cách mở tài khoản.
-
-30
-00: 05: 26, 140--> 00: 05: 36, 030
-Lịch sử thẻ tín dụng của khách hàng Wiecek. Sau đó, chúng tôi mở tài khoản tiết kiệm cho khách hàng và gửi số tiền ban đầu vào tài khoản của khách hàng.
-
-31
-00: 05: 36, 160--> 00: 05: 50, 290
-Vốn chủ sở hữu có thể chuyển nó thành lịch sử tín dụng. Sau đó, chúng ta sẽ tạo tài khoản và CSDL, sau đó chúng ta sẽ đặt số tiền ban đầu trên đối tượng tài khoản.
-
-32
-00: 05: 50, 290--> 00: 05: 59, 760
-Do đó, mỗi khi doanh nghiệp và các nhóm giao tiếp, họ cần thực hiện việc dịch thuật giữa các điều khoản kinh doanh và các mặt hàng.
-
-33
-00: 05: 59, 770--> 00: 06: 09, 000
 Và việc dịch qua lại này dẫn đến việc mất ý nghĩa và nhầm lẫn giữa ID và nhóm miền.
 
-34
-00: 06: 09, 220--> 00: 06: 25, 640
 Tại thời điểm này, chúng ta có thể nói, được rồi, tôi biết vấn đề sẽ cho tôi biết giải pháp. Thiết kế hướng miền gợi ý thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh và ngôn ngữ này được tất cả các bên liên quan sử dụng, bao gồm cả nhóm CNTT.
 
-35
-00: 06: 25, 690--> 00: 06: 34, 110
 Ngôn ngữ này được gọi là ngôn ngữ chung . Đây là một trong những mô hình chiến lược trong thiết kế Theo nhu cầu.
 
-36
-00: 06: 34, 210--> 00: 06: 47, 750
 Trong các bài học sau, chúng ta sẽ tìm hiểu chi tiết về ngôn ngữ chung và chúng ta cũng sẽ tìm hiểu cách nó giúp chia miền thành nhiều phần phù hợp để xây dựng các vi dịch vụ .
 
-37
-00: 06: 47, 770--> 00: 07: 10, 500
 Đã đến lúc bắt đầu với những bài học quan trọng từ bài học này. NÓ. các nhóm phải học ngôn ngữ kinh doanh. NÓ. các nhóm có I.T. biệt ngữ và sự nhầm lẫn xảy ra do sự dịch thuật giữa miền và thiết kế hướng miền ngôn ngữ IP, chẳng hạn như việc tạo ra một ngôn ngữ chung phải được sử dụng bởi tất cả các bên liên quan, bao gồm cả CNTT.
 
 <!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000006.srt-->

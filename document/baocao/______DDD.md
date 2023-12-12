@@ -281,56 +281,46 @@ Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng
 <!--$VD: hình giao như 2 tập hợp-->
 
 <!--!======================================================-->
+<!--các ký hiệu bản đồ ngữ cảnh.-->
 <!--: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
-Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò:
+Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò cho  bối cảnh giới hạn:
 
 Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
 Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác.
-<!--$VD:-->
-<!--@=======================-->
+<!--$VD:  -->
+<!--$VD:  A Downstream (D) - B Upstream (U)-->
+<!--$VD:  Bối cảnh A ràng buộc với bối cảnh B thì: -->
+<!--$VD:  Bối cảnh A đóng vai trò là bối cảnh   giới hạn hạ lưu (Downstream) -->
+<!--$VD:  Bối cảnh B đóng vai trò là bối cảnh   giới hạn thượng nguồn (Upstream) -->
+<!--$VD:  Bối cảnh giới hạn A có kiến thức về các mô hình trong bối cảnh giới hạn B -->
+<!--$VD:  Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A -->
 
+ 
+Bây giờ có hai tùy chọn mà bối cảnh giới hạn ngược dòng có. Nó có thể hiển thị chức năng và mô hình dựa trên nhu cầu của bối cảnh giới hạn xuôi dòng. 
+Và tùy chọn thứ hai là bối cảnh giới hạn ngược dòng hiển thị các chức năng và mô hình nhất định mà không có bất kỳ sự cân nhắc nào đến nhu cầu của bối cảnh giới hạn xuôi dòng. 
+Đây là hai mẫu riêng biệt. Hãy thảo luận chi tiết về những điều này. 
+<!-- Vì vậy, trong trường hợp tùy chọn số một, bối cảnh giới hạn ngược dòng đã đáp ứng một số nhu cầu cụ thể của bối cảnh giới hạn xuôi dòng. -->
+
+11
+00: 02: 19, 050--> 00: 02: 31, 140
+
+
+ 
+
+
+<!--@=======================-->
 
 <!--mô hình cung ứng khách hàng-->
 <!--mô hình tuân thủ-->
 <!--mô hình lớp chống tham nhũng-->
 
 <!--00: 00: 54, 030--> 00: 01: 03, 210-->
-
-4
-Vì vậy, điều này mô tả một mối quan hệ trong đó bối cảnh giới hạn . Nó phụ thuộc vào bối cảnh giới hạn. B nói cách khác, bối cảnh ranh giới.
-
-5
-00: 01: 03, 210--> 00: 01: 15, 530
-Nó có kiến ​​thức về các mô hình và bối cảnh giới hạn. B Và vì mối quan hệ là bối cảnh ranh giới bất đối xứng nên B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn .
-
-6
-00: 01: 15, 540--> 00: 01: 24, 240
-Điều quan trọng cần ghi nhớ ở đây là mối quan hệ này không biểu thị luồng dữ liệu hoặc thông tin.
-
-7
-00: 01: 24, 360--> 00: 01: 37, 770
-Nó mô tả sự phụ thuộc từ góc độ hiện thực hóa. Bối cảnh giới hạn ngược dòng hiển thị một số chức năng và mô hình được sử dụng bởi bối cảnh giới hạn xuôi dòng.
-
-8
-00: 01: 37, 980--> 00: 01: 50, 490
-Bây giờ có hai tùy chọn mà bối cảnh giới hạn ngược dòng có. Nó có thể hiển thị chức năng và mô hình dựa trên nhu cầu của bối cảnh giới hạn xuôi dòng.
-
-9
-00: 01: 50, 820--> 00: 02: 03, 180
-Và tùy chọn thứ hai là bối cảnh giới hạn ngược dòng hiển thị các chức năng và mô hình nhất định mà không có bất kỳ sự cân nhắc nào đến nhu cầu của bối cảnh giới hạn xuôi dòng.
-
-10
-00: 02: 03, 480--> 00: 02: 18, 840
-Đây là hai mẫu riêng biệt. Hãy thảo luận chi tiết về những điều này. Vì vậy, trong trường hợp tùy chọn số một, bối cảnh giới hạn ngược dòng đã đáp ứng một số nhu cầu cụ thể của bối cảnh giới hạn xuôi dòng.
-
-11
-00: 02: 19, 050--> 00: 02: 31, 140
 Và mẫu này được gọi là nguồn cung mẫu của khách hàng. Hãy nghĩ về nó giống như một máy chủ khách, Pachon, trong đó máy chủ tạo ra các giao diện dựa trên nhu cầu của khách hàng.
 
 12
 00: 02: 31, 260--> 00: 02: 44, 910
-Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
+<!-- Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng. -->
 
 13
 00: 02: 45, 810--> 00: 02: 57, 060
@@ -441,23 +431,7 @@ Lớp chống tham nhũng này có logic để dịch các mô hình từ địn
 Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.
 
 <!--@=======================-->
-<!--các ký hiệu bản đồ ngữ cảnh.-->
 
-<!--Mối quan hệ bất đối xứng-->
-
-<!--Loại mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn .-->
-
-Bối cảnh A ràng buộc với bối cảnh B thì:
-Bối cảnh A đóng vai trò là bối cảnh ranh giới hạ lưu (Downstream)
-Bối cảnh B đóng vai trò là bối cảnh ranh giới thượng nguồn (Upstream)
-Bối cảnh giới hạn A có kiến thức về các mô hình trong Bối cảnh giới hạn B
-Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A
-
-<!--D-U-->
-<!--!Mô hình khách hàng-nhà cung cấp (Customer-Supplier Pattern)-->
-
-Trong trường hợp Upstream đáp ứng một số nhu cầu cụ thể của Downstream
-Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
 
 <!--!mẫu phù hợp (Conformist Pattern)-->
 <!--mô hình tuân thủ-->

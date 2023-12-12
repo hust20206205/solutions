@@ -15,7 +15,7 @@ Và B các mô hình tích hợp chung được xác định bởi bối cảnh 
 
 4
 00: 00: 42, 990--> 00: 00: 55, 340
-Vì vậy, trong ví dụ này, A là người tuân thủ, trong khi B đang sử dụng lớp chống tham nhũng. Những quyết định này được đưa ra bởi các nhóm làm việc độc lập trên các bối cảnh giới hạn này.
+Vì vậy, trong ví dụ này, A là người tuân thủ, trong khi B đang sử dụng lớp chống đổ vỡ . Những quyết định này được đưa ra bởi các nhóm làm việc độc lập trên các bối cảnh giới hạn này.
 
 5
 00: 00: 55, 590--> 00: 01: 25, 800
@@ -97,7 +97,7 @@ Chúng ta sẽ đặt ra khuôn mẫu nào giữa các khoản vay cá nhân và
 
 9
 00: 01: 44, 970--> 00: 02: 03, 420
-Vui lòng tạm dừng video. OK, câu trả lời là vì các khoản cho vay cá nhân lo ngại về việc tham nhũng của các khoản cho vay cá nhân, các mối liên hệ ngoại quan, nên họ sẽ sử dụng lớp chống tham nhũng để thực hiện chuyển đổi giữa các mô hình từ tài khoản bán lẻ sang tài khoản cho vay cá nhân.
+Vui lòng tạm dừng video. OK, câu trả lời là vì các khoản cho vay cá nhân lo ngại về việc tham nhũng của các khoản cho vay cá nhân, các mối liên hệ ngoại quan, nên họ sẽ sử dụng lớp chống đổ vỡ để thực hiện chuyển đổi giữa các mô hình từ tài khoản bán lẻ sang tài khoản cho vay cá nhân.
 
 10
 00: 02: 03, 960--> 00: 02: 15, 780
@@ -113,7 +113,7 @@ Vui lòng tạm dừng video và cố gắng trả lời câu hỏi. Được r�
 
 13
 00: 02: 32, 790--> 00: 02: 40, 470
-Ngôn ngữ được xuất bản và nhóm tài khoản bán lẻ sẽ sử dụng lớp chống tham nhũng. Câu hỏi tiếp theo.
+Ngôn ngữ được xuất bản và nhóm tài khoản bán lẻ sẽ sử dụng lớp chống đổ vỡ . Câu hỏi tiếp theo.
 
 14
 00: 02: 40, 740--> 00: 02: 52, 190
@@ -149,7 +149,7 @@ Câu hỏi số hai, bối cảnh pha trộn nào dự kiến ​​sẽ không 
 
 22
 00: 04: 11, 460--> 00: 04: 28, 950
-Và tại sao lại sẵn sàng cho câu trả lời? Câu trả lời là bán lẻ Ellacott. Và lý do là trong các mối quan hệ mà nó đóng vai trò là hạ nguồn, nó đang sử dụng lớp chống tham nhũng và các mối quan hệ khác đều là thượng nguồn.
+Và tại sao lại sẵn sàng cho câu trả lời? Câu trả lời là bán lẻ Ellacott. Và lý do là trong các mối quan hệ mà nó đóng vai trò là hạ nguồn, nó đang sử dụng lớp chống đổ vỡ và các mối quan hệ khác đều là thượng nguồn.
 
 23
 00: 04: 29, 220--> 00: 04: 36, 310
@@ -169,7 +169,7 @@ Tuân thủ các dịch vụ quản lý khách hàng thông thường, do đó, 
 
 27
 00: 05: 10, 440--> 00: 05: 20, 990
-Bây giờ Lecomte cũng đang sử dụng việc mua hàng, nhưng vì nó đang sử dụng vấn đề này hoặc luật chống tham nhũng nên những thay đổi sẽ chỉ cần thiết để dễ dàng hơn.
+Bây giờ Lecomte cũng đang sử dụng việc mua hàng, nhưng vì nó đang sử dụng vấn đề này hoặc luật chống đổ vỡ nên những thay đổi sẽ chỉ cần thiết để dễ dàng hơn.
 
 28
 00: 05: 21, 260--> 00: 05: 28, 310
@@ -2699,11 +2699,11 @@ Vì vậy, ở đây trong ví dụ này, thời gian dành cho Microsoft là a 
 
 33
 00: 07: 48, 590--> 00: 08: 03, 340
-Nhóm của Microsoft có thể áp dụng mô hình lớp chống tham nhũng trong việc này. Họ có thể tạo một lớp tách biệt tất cả mã dịch từ các mô hình từ B sang nó và ngược lại.
+Nhóm của Microsoft có thể áp dụng mô hình lớp chống đổ vỡ trong việc này. Họ có thể tạo một lớp tách biệt tất cả mã dịch từ các mô hình từ B sang nó và ngược lại.
 
 34
 00: 08: 03, 890--> 00: 08: 21, 080
-Ưu điểm của việc sử dụng mẫu lớp chống tham nhũng là những thay đổi trong mô hình của B sẽ không ảnh hưởng đến việc triển khai cốt lõi của Microsoft Office và mọi thay đổi cần thiết sẽ được tách biệt với lớp chống tham nhũng.
+Ưu điểm của việc sử dụng mẫu lớp chống đổ vỡ là những thay đổi trong mô hình của B sẽ không ảnh hưởng đến việc triển khai cốt lõi của Microsoft Office và mọi thay đổi cần thiết sẽ được tách biệt với lớp chống đổ vỡ .
 
 35
 00: 08: 22, 060--> 00: 08: 44, 640
@@ -3873,7 +3873,7 @@ Nói cách khác, Microsoft chính là nó. Và bất cứ khi nào có sự tha
 
 24
 00: 04: 47, 190--> 00: 04: 59, 730
-Nhóm của Microsoft là V có thể sử dụng lớp chống tham nhũng. Trong trường hợp này, tất cả những thay đổi trong sự kiện bắt nguồn từ Microsoft, nó sẽ bị cô lập với.
+Nhóm của Microsoft là V có thể sử dụng lớp chống đổ vỡ . Trong trường hợp này, tất cả những thay đổi trong sự kiện bắt nguồn từ Microsoft, nó sẽ bị cô lập với.
 
 25
 00: 04: 59, 840--> 00: 05: 08, 520
@@ -3917,7 +3917,7 @@ Chúng ta hãy điểm qua những điểm chính từ bài học này. Các s�
 
 35
 00: 06: 52, 510--> 00: 07: 05, 620
-Các vi dịch vụ tiêu dùng dành cho các sự kiện tích hợp có thể sử dụng Atheel hoặc lớp chống tham nhũng để tách biệt kiến ​​thức về bối cảnh giới hạn nguồn trước đó.
+Các vi dịch vụ tiêu dùng dành cho các sự kiện tích hợp có thể sử dụng Atheel hoặc lớp chống đổ vỡ để tách biệt kiến ​​thức về bối cảnh giới hạn nguồn trước đó.
 
 <!--@\08EventsDrivenArchitectureDomainEvents_VVN\000000011.srt-->
 
@@ -6873,7 +6873,7 @@ Ngay cả người đăng ký cũng sẽ thực hiện một số xử lý trên
 
 19
 00: 04: 07, 130--> 00: 04: 20, 450
-Thành phần thuê bao chẵn này sẽ hoạt động như một lớp chống tham nhũng. Nó sẽ chuyển đổi mô hình bên phải sang mô hình bên phải trước khi thêm nó vào kho dữ liệu bên phải.
+Thành phần thuê bao chẵn này sẽ hoạt động như một lớp chống đổ vỡ . Nó sẽ chuyển đổi mô hình bên phải sang mô hình bên phải trước khi thêm nó vào kho dữ liệu bên phải.
 
 20
 00: 04: 20, 570--> 00: 04: 28, 070
@@ -7357,7 +7357,7 @@ Và như chúng ta có thể thấy, bước đầu tiên đã thành công ở 
 
 1
 00: 00: 00, 390--> 00: 00: 11, 700
-Iran đang xây dựng thuê bao ACL vào cuối bài học này. Chúng tôi sẽ có một người đăng ký đang hoạt động đóng vai trò là luật chống tham nhũng cho Quyết định lại.
+Iran đang xây dựng thuê bao ACL vào cuối bài học này. Chúng tôi sẽ có một người đăng ký đang hoạt động đóng vai trò là luật chống đổ vỡ cho Quyết định lại.
 
 2
 00: 00: 11, 820--> 00: 00: 24, 120
@@ -7413,7 +7413,7 @@ Nguồn là nguồn của sự kiện, trong trường hợp của chúng tôi l
 
 15
 00: 03: 05, 380--> 00: 03: 16, 210
-Lớp người đăng ký đề xuất là lớp chống tham nhũng nhằm ngăn chặn sự tham nhũng của trang web đã đọc bởi các mô hình ở phía bên phải.
+Lớp người đăng ký đề xuất là lớp chống đổ vỡ nhằm ngăn chặn sự tham nhũng của trang web đã đọc bởi các mô hình ở phía bên phải.
 
 16
 00: 03: 16, 420--> 00: 03: 24, 190

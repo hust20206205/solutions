@@ -22,9 +22,9 @@
 
 <!---->
 
-<!-- [](3.0.ChiTietVaApDungTKHM.md) -->
-[](3.1.TKHMLaGi.md)
-[](3.2.Mien.md)
+[](3.0.ChiTietVaApDungTKHM.md)
+<!-- [](3.1.TKHMLaGi.md) -->
+<!-- [](3.2.Mien.md) -->
 [](3.3.MoHinhMien.md)
 [](3.4.TenMienPhu.md)
 

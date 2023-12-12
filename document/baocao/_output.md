@@ -434,7 +434,7 @@ Mẫu chiến lược áp dụng trên nhiều bối cảnh bị giới hạn, t
 
 6
 00: 01: 11, 790--> 00: 01: 27, 140
-Điều này sẽ trở nên rõ ràng khi bạn hiểu rõ hơn về các mô hình chiến lược và chiến thuật. Đây là các mẫu chiến lược thiết kế theo miền trong phần chúng tôi sẽ đề cập đến phần ngữ cảnh bị giới hạn và mẫu ngôn ngữ phổ biến.
+Điều này sẽ trở nên rõ ràng khi bạn hiểu rõ hơn về các mô hình chiến lược và chiến thuật. Đây là các mẫu chiến lược thiết kế theo miền trong phần chúng tôi sẽ đề cập đến phần ngữ cảnh bị giới hạn và mẫu ngôn ngữ chung .
 
 7
 00: 01: 27, 570--> 00: 01: 51, 960
@@ -446,7 +446,7 @@ Chúng ta hãy xem qua các mục tiêu của phần ở cuối phần này, b�
 
 9
 00: 02: 02, 400--> 00: 02: 12, 690
-Bạn biết tại sao việc hiểu bối cảnh kinh doanh lại quan trọng. Bạn sẽ có thể mô tả thiết kế hướng đến miền, đối tác chiến lược, ngôn ngữ phổ biến và bối cảnh bị giới hạn.
+Bạn biết tại sao việc hiểu bối cảnh kinh doanh lại quan trọng. Bạn sẽ có thể mô tả thiết kế hướng đến miền, đối tác chiến lược, ngôn ngữ chung và bối cảnh bị giới hạn.
 
 10
 00: 02: 13, 080--> 00: 02: 20, 070
@@ -894,7 +894,7 @@ Sự khác biệt về ngôn ngữ giữa các nhóm kinh doanh và I.T. các nh
 
 3
 00: 00: 16, 260--> 00: 00: 27, 210
-Thiết kế hướng miền đề xuất sử dụng ngôn ngữ phổ biến để giải quyết những thách thức ngôn ngữ này. Tôi sẽ bắt đầu bài học này bằng một bài tập vui nhộn nhanh chóng.
+Thiết kế hướng miền đề xuất sử dụng ngôn ngữ chung để giải quyết những thách thức ngôn ngữ này. Tôi sẽ bắt đầu bài học này bằng một bài tập vui nhộn nhanh chóng.
 
 4
 00: 00: 27, 570--> 00: 00: 36, 540
@@ -1022,11 +1022,11 @@ Tại thời điểm này, bạn có thể nói, được rồi, tôi biết v�
 
 35
 00: 06: 25, 690--> 00: 06: 34, 110
-Ngôn ngữ này được gọi là ngôn ngữ phổ biến. Đây là một trong những mô hình chiến lược trong thiết kế Theo nhu cầu.
+Ngôn ngữ này được gọi là ngôn ngữ chung . Đây là một trong những mô hình chiến lược trong thiết kế Theo nhu cầu.
 
 36
 00: 06: 34, 210--> 00: 06: 47, 750
-Trong các bài học sau, bạn sẽ tìm hiểu chi tiết về ngôn ngữ phổ biến và bạn cũng sẽ tìm hiểu cách nó giúp chia miền thành nhiều phần phù hợp để xây dựng các vi dịch vụ .
+Trong các bài học sau, bạn sẽ tìm hiểu chi tiết về ngôn ngữ chung và bạn cũng sẽ tìm hiểu cách nó giúp chia miền thành nhiều phần phù hợp để xây dựng các vi dịch vụ .
 
 37
 00: 06: 47, 770--> 00: 07: 10, 500
@@ -1036,27 +1036,27 @@ Trong các bài học sau, bạn sẽ tìm hiểu chi tiết về ngôn ngữ ph
 
 1
 00: 00: 00, 150--> 00: 00: 17, 010
-Ở bài trước tôi giới thiệu với các bạn thuật ngữ ngôn ngữ phổ biến trong bài giảng này, Al Gore, đặc điểm của ngôn ngữ phổ biến thảo luận về cách xây dựng và quản lý ngôn ngữ phổ biến và ngôn ngữ phổ biến được sử dụng ở đâu.
+Ở bài trước tôi giới thiệu với các bạn thuật ngữ ngôn ngữ chung trong bài giảng này, Al Gore, đặc điểm của ngôn ngữ chung thảo luận về cách xây dựng và quản lý ngôn ngữ chung và ngôn ngữ chung được sử dụng ở đâu.
 
 2
 00: 00: 17, 460--> 00: 00: 29, 190
-Ngôn ngữ phổ biến là một trong những mô hình chiến lược và thiết kế hướng miền, thiết kế hướng miền, chẳng hạn như thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh.
+ngôn ngữ chung là một trong những mô hình chiến lược và thiết kế hướng miền, thiết kế hướng miền, chẳng hạn như thiết lập một ngôn ngữ chung trong từng bối cảnh kinh doanh.
 
 3
 00: 00: 29, 400--> 00: 00: 38, 550
-Và ngôn ngữ chung này được gọi là ngôn ngữ phổ biến. Ý nghĩa tiếng Anh của khắp nơi là liên tục gặp phải hoặc nhìn thấy.
+Và ngôn ngữ chung này được gọi là ngôn ngữ chung . Ý nghĩa tiếng Anh của khắp nơi là liên tục gặp phải hoặc nhìn thấy.
 
 4
 00: 00: 38, 790--> 00: 00: 46, 650
-Ý tưởng là ngôn ngữ phổ biến giải quyết tất cả những thách thức ngôn ngữ mà tôi đã thảo luận trước đó.
+Ý tưởng là ngôn ngữ chung giải quyết tất cả những thách thức ngôn ngữ mà tôi đã thảo luận trước đó.
 
 5
 00: 00: 47, 010--> 00: 00: 52, 980
-Ngôn ngữ phổ biến có thể được coi là một phương ngữ được sử dụng bởi các nhóm khác nhau trong một tổ chức.
+ngôn ngữ chung có thể được coi là một phương ngữ được sử dụng bởi các nhóm khác nhau trong một tổ chức.
 
 6
 00: 00: 53, 340--> 00: 01: 04, 320
-Một phương ngữ được xác định bởi từ vựng và ngôn ngữ phổ biến có định nghĩa rõ ràng về ngữ cảnh mà từ vựng hoặc bảng chú giải thuật ngữ áp dụng.
+Một phương ngữ được xác định bởi từ vựng và ngôn ngữ chung có định nghĩa rõ ràng về ngữ cảnh mà từ vựng hoặc bảng chú giải thuật ngữ áp dụng.
 
 7
 00: 01: 04, 530--> 00: 01: 20, 660
@@ -1084,23 +1084,23 @@ Và điều đó đã làm tăng thêm sự phức tạp cho việc sử dụng 
 
 13
 00: 02: 19, 290--> 00: 02: 28, 040
-Bạn có thể tưởng tượng cuốn từ điển kinh doanh này đã đi đến đâu trong một khoảng thời gian. Ngôn ngữ phổ biến không được tạo và quản lý tập trung.
+Bạn có thể tưởng tượng cuốn từ điển kinh doanh này đã đi đến đâu trong một khoảng thời gian. ngôn ngữ chung không được tạo và quản lý tập trung.
 
 14
 00: 02: 28, 080--> 00: 02: 47, 560
-Có nhiều ngôn ngữ phổ biến trong một tổ chức. Vì vậy, trong trường hợp của ngân hàng, sẽ có một ngôn ngữ phổ biến cho tài khoản tiết kiệm và một ngôn ngữ phổ biến cho tài khoản tín dụng, đồng thời các nhóm tài khoản tiết kiệm và thẻ tín dụng sẽ tạo và quản lý các ngôn ngữ phổ biến này một cách độc lập.
+Có nhiều ngôn ngữ chung trong một tổ chức. Vì vậy, trong trường hợp của ngân hàng, sẽ có một ngôn ngữ chung cho tài khoản tiết kiệm và một ngôn ngữ chung cho tài khoản tín dụng, đồng thời các nhóm tài khoản tiết kiệm và thẻ tín dụng sẽ tạo và quản lý các ngôn ngữ chung này một cách độc lập.
 
 15
 00: 02: 47, 670--> 00: 03: 01, 350
-Hãy đi với ngôn ngữ phổ biến xuất phát từ doanh nghiệp. Xuất khẩu sử dụng ngôn ngữ bao gồm các thuật ngữ kinh doanh, trong khi chuyên gia công nghệ sử dụng ngôn ngữ bao gồm các thuật ngữ kỹ thuật.
+Hãy đi với ngôn ngữ chung xuất phát từ doanh nghiệp. Xuất khẩu sử dụng ngôn ngữ bao gồm các thuật ngữ kinh doanh, trong khi chuyên gia công nghệ sử dụng ngôn ngữ bao gồm các thuật ngữ kỹ thuật.
 
 16
 00: 03: 01, 350--> 00: 03: 08, 610
-Ngôn ngữ phổ biến bao gồm các cuốn sách thường được sử dụng bởi cả chuyên gia ngành và chuyên gia công nghệ.
+ngôn ngữ chung bao gồm các cuốn sách thường được sử dụng bởi cả chuyên gia ngành và chuyên gia công nghệ.
 
 17
 00: 03: 08, 610--> 00: 03: 16, 260
-Và có một quan niệm sai lầm đằng sau ngôn ngữ phổ biến này rằng việc xuất khẩu kinh doanh luôn xác định ngôn ngữ.
+Và có một quan niệm sai lầm đằng sau ngôn ngữ chung này rằng việc xuất khẩu kinh doanh luôn xác định ngôn ngữ.
 
 18
 00: 03: 16, 620--> 00: 03: 25, 230
@@ -1112,27 +1112,27 @@ Hãy coi nó như một ngôn ngữ nhóm, một ngôn ngữ bộ lạc phát tr
 
 20
 00: 03: 36, 750--> 00: 03: 46, 770
-Nhóm tạo ra ngôn ngữ phổ biến có thể sử dụng nhiều kỹ thuật, chẳng hạn như vẽ sơ đồ quy trình, câu chuyện của người dùng, viết kịch bản phân cảnh và thậm chí là gây bão.
+Nhóm tạo ra ngôn ngữ chung có thể sử dụng nhiều kỹ thuật, chẳng hạn như vẽ sơ đồ quy trình, câu chuyện của người dùng, viết kịch bản phân cảnh và thậm chí là gây bão.
 
 21
 00: 03: 47, 130--> 00: 03: 57, 720
-Và điều này dẫn đến việc tạo ra ngôn ngữ phổ biến. Điều quan trọng cần ghi nhớ là việc tạo ra ngôn ngữ phổ biến không phải là công việc chỉ làm một lần.
+Và điều này dẫn đến việc tạo ra ngôn ngữ chung . Điều quan trọng cần ghi nhớ là việc tạo ra ngôn ngữ chung không phải là công việc chỉ làm một lần.
 
 22
 00: 03: 57, 870--> 00: 04: 14, 910
-Đó là một quá trình liên tục vì ngôn ngữ phải mất một thời gian để đạt đến mức độ trưởng thành cao. Khi một câu hỏi phổ biến được đặt ra vào thời điểm này là liệu có bất kỳ công cụ đặc biệt nào để tạo và quản lý ngôn ngữ phổ biến hay không thì câu trả lời ngắn gọn là không.
+Đó là một quá trình liên tục vì ngôn ngữ phải mất một thời gian để đạt đến mức độ trưởng thành cao. Khi một câu hỏi phổ biến được đặt ra vào thời điểm này là liệu có bất kỳ công cụ đặc biệt nào để tạo và quản lý ngôn ngữ chung hay không thì câu trả lời ngắn gọn là không.
 
 23
 00: 04: 15, 300--> 00: 04: 28, 920
-Bạn có thể sử dụng bất kỳ công cụ nào miễn là nó giúp tất cả thành viên trong nhóm có thể tiếp cận được ngôn ngữ phổ biến này. Các công cụ cộng tác và chia sẻ kiến ​​thức như hội nghị và quip thường được sử dụng.
+Bạn có thể sử dụng bất kỳ công cụ nào miễn là nó giúp tất cả thành viên trong nhóm có thể tiếp cận được ngôn ngữ chung này. Các công cụ cộng tác và chia sẻ kiến ​​thức như hội nghị và quip thường được sử dụng.
 
 24
 00: 04: 28, 980--> 00: 04: 42, 930
-Xin lưu ý rằng đây không phải là công cụ cộng tác và chia sẻ kiến ​​thức duy nhất. Bất kỳ công cụ nào có sẵn trong tổ chức của bạn sẽ giúp các thành viên trong nhóm của chúng tôi có thể dễ dàng tiếp cận ngôn ngữ phổ biến này.
+Xin lưu ý rằng đây không phải là công cụ cộng tác và chia sẻ kiến ​​thức duy nhất. Bất kỳ công cụ nào có sẵn trong tổ chức của bạn sẽ giúp các thành viên trong nhóm của chúng tôi có thể dễ dàng tiếp cận ngôn ngữ chung này.
 
 25
 00: 04: 43, 650--> 00: 04: 51, 000
-Khi nhóm đã đạt đến mức độ trưởng thành khá cao đối với ngôn ngữ phổ biến của mình, họ nên bắt đầu sử dụng nó cho mọi thứ.
+Khi nhóm đã đạt đến mức độ trưởng thành khá cao đối với ngôn ngữ chung của mình, họ nên bắt đầu sử dụng nó cho mọi thứ.
 
 26
 00: 04: 51, 000--> 00: 04: 59, 880
@@ -1140,15 +1140,15 @@ Và sau đó ngôn ngữ này sẽ phát triển theo thời gian. Các chuyên 
 
 27
 00: 05: 00, 330--> 00: 05: 15, 310
-Và tất cả tài liệu nên sử dụng ngôn ngữ phổ biến nếu nhóm đang phát triển tài liệu và họ tạo một thuật ngữ mới hoặc tìm thấy một thuật ngữ mới, thì thuật ngữ đó sẽ được thêm vào ngôn ngữ phổ biến vào cuối ngày.
+Và tất cả tài liệu nên sử dụng ngôn ngữ chung nếu nhóm đang phát triển tài liệu và họ tạo một thuật ngữ mới hoặc tìm thấy một thuật ngữ mới, thì thuật ngữ đó sẽ được thêm vào ngôn ngữ chung vào cuối ngày.
 
 28
 00: 05: 15, 330--> 00: 05: 27, 150
-Ngôn ngữ phổ biến phải đóng vai trò là nguồn thông tin chính xác cho tất cả mọi người sử dụng vào thời điểm ngôn ngữ phổ biến đó được sử dụng trong mã ứng dụng cũng như trong mã thử nghiệm.
+ngôn ngữ chung phải đóng vai trò là nguồn thông tin chính xác cho tất cả mọi người sử dụng vào thời điểm ngôn ngữ chung đó được sử dụng trong mã ứng dụng cũng như trong mã thử nghiệm.
 
 29
 00: 05: 27, 270--> 00: 05: 38, 050
-Cuối cùng nhưng không kém phần quan trọng, các nhóm phải sử dụng ngôn ngữ phổ biến trong tất cả các cuộc trò chuyện của mình. Vì vậy, tại thời điểm này bạn có thể hỏi lợi ích của việc làm đó là gì?
+Cuối cùng nhưng không kém phần quan trọng, các nhóm phải sử dụng ngôn ngữ chung trong tất cả các cuộc trò chuyện của mình. Vì vậy, tại thời điểm này bạn có thể hỏi lợi ích của việc làm đó là gì?
 
 30
 00: 05: 38, 490--> 00: 05: 49, 260
@@ -1160,19 +1160,19 @@ Cái đó. chuyên gia phải dịch ngôn ngữ miền sang I.T. ngôn ngữ. B
 
 32
 00: 06: 01, 530--> 00: 06: 09, 700
-Bản dịch này không còn cần thiết nữa vì cả chuyên gia và chuyên gia lĩnh vực sẽ sử dụng ngôn ngữ phổ biến.
+Bản dịch này không còn cần thiết nữa vì cả chuyên gia và chuyên gia lĩnh vực sẽ sử dụng ngôn ngữ chung .
 
 33
 00: 06: 09, 900--> 00: 06: 28, 830
-Vì vậy, trong ví dụ này, một chuyên gia ngành đang giải thích cách mở tài khoản tiết kiệm và I.T. chuyên gia đang suy nghĩ về quy trình theo ngôn ngữ phổ biến, đó là ngôn ngữ mà chuyên gia lĩnh vực đang sử dụng để giải thích quy trình kinh doanh.
+Vì vậy, trong ví dụ này, một chuyên gia ngành đang giải thích cách mở tài khoản tiết kiệm và I.T. chuyên gia đang suy nghĩ về quy trình theo ngôn ngữ chung, đó là ngôn ngữ mà chuyên gia lĩnh vực đang sử dụng để giải thích quy trình kinh doanh.
 
 34
 00: 06: 29, 340--> 00: 06: 44, 340
-Mọi thứ trở nên nhất quán và dễ theo dõi hơn đối với cả chuyên gia ngành cũng như chuyên gia ID. Một tác dụng phụ thú vị của ngôn ngữ phổ biến là nó giúp xác định các liên hệ chồng chéo.
+Mọi thứ trở nên nhất quán và dễ theo dõi hơn đối với cả chuyên gia ngành cũng như chuyên gia ID. Một tác dụng phụ thú vị của ngôn ngữ chung là nó giúp xác định các liên hệ chồng chéo.
 
 35
 00: 06: 44, 520--> 00: 06: 55, 260
-Và điều đó có nghĩa là chúng ta có thể sử dụng ngôn ngữ phổ biến để chia các mối liên hệ kinh doanh của mình thành các phần nhỏ hơn và theo các thiết kế khác nhau về miền.
+Và điều đó có nghĩa là chúng ta có thể sử dụng ngôn ngữ chung để chia các mối liên hệ kinh doanh của mình thành các phần nhỏ hơn và theo các thiết kế khác nhau về miền.
 
 36
 00: 06: 55, 260--> 00: 07: 02, 350
@@ -1180,7 +1180,7 @@ Những phần nhỏ hơn của bối cảnh này được gọi là bối cản
 
 37
 00: 07: 02, 880--> 00: 07: 11, 490
-Trong bài học này, bạn đã học về ngôn ngữ phổ biến. Ba điểm chính cần ghi nhớ. Ngôn ngữ phổ biến phát triển trong một khoảng thời gian.
+Trong bài học này, bạn đã học về ngôn ngữ chung . Ba điểm chính cần ghi nhớ. ngôn ngữ chung phát triển trong một khoảng thời gian.
 
 38
 00: 07: 11, 760--> 00: 07: 19, 800
@@ -1188,13 +1188,13 @@ Trong bài học này, bạn đã học về ngôn ngữ phổ biến. Ba điể
 
 39
 00: 07: 19, 980--> 00: 07: 26, 820
-Ngôn ngữ phổ biến không yêu cầu bất kỳ công cụ đặc biệt nào mà bạn có thể sử dụng bất kỳ nền tảng cộng tác tri thức nào.
+ngôn ngữ chung không yêu cầu bất kỳ công cụ đặc biệt nào mà bạn có thể sử dụng bất kỳ nền tảng cộng tác tri thức nào.
 
 <!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000007.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 12, 060
-Mục tiêu của bài tập này là xác định các thuật ngữ ngôn ngữ phổ biến dành cho nhóm bán hàng và nhóm quản lý sản phẩm ACMS trong bài tập này.
+Mục tiêu của bài tập này là xác định các thuật ngữ ngôn ngữ chung dành cho nhóm bán hàng và nhóm quản lý sản phẩm ACMS trong bài tập này.
 
 2
 00: 00: 12, 090--> 00: 00: 21, 140
@@ -1278,7 +1278,7 @@ Và những đối tác quan trọng này là các hãng hàng không, tàu du l
 
 22
 00: 03: 51, 810--> 00: 04: 07, 890
-Vì vậy anh ấy đóng một vai trò cực kỳ quan trọng trong bài tập này. Bạn sẽ xem qua bản ghi mà bạn đã ghi lại làm người dẫn đầu và xác định càng nhiều thuật ngữ ngôn ngữ phổ biến càng tốt tại thời điểm này.
+Vì vậy anh ấy đóng một vai trò cực kỳ quan trọng trong bài tập này. Bạn sẽ xem qua bản ghi mà bạn đã ghi lại làm người dẫn đầu và xác định càng nhiều thuật ngữ ngôn ngữ chung càng tốt tại thời điểm này.
 
 23
 00: 04: 08, 040--> 00: 04: 15, 810
@@ -1436,7 +1436,7 @@ Và điều thứ ba là ngôn ngữ được sử dụng bằng các phương t
 
 26
 00: 04: 44, 850--> 00: 04: 56, 490
-Nói cách khác, mỗi bối cảnh bom nhỏ đều có ngôn ngữ phổ biến của riêng nó. Chúng ta hãy đi qua từng đặc điểm này để chỉ ra đặc điểm đầu tiên là các mô hình miền độc lập.
+Nói cách khác, mỗi bối cảnh bom nhỏ đều có ngôn ngữ chung của riêng nó. Chúng ta hãy đi qua từng đặc điểm này để chỉ ra đặc điểm đầu tiên là các mô hình miền độc lập.
 
 27
 00: 04: 56, 490--> 00: 05: 07, 360
@@ -1480,11 +1480,11 @@ Và tất cả đều tóm gọn lại một điều, đó là các mô hình c�
 
 37
 00: 06: 47, 130--> 00: 06: 58, 740
-Đây là ngôn ngữ phổ biến. Vì vậy, nói cách khác, mỗi ngữ cảnh bị giới hạn có một ngôn ngữ phổ biến có một tập hợp các thuật ngữ có ý nghĩa trong ngữ cảnh bị ràng buộc.
+Đây là ngôn ngữ chung . Vì vậy, nói cách khác, mỗi ngữ cảnh bị giới hạn có một ngôn ngữ chung có một tập hợp các thuật ngữ có ý nghĩa trong ngữ cảnh bị ràng buộc.
 
 38
 00: 06: 58, 980--> 00: 07: 09, 090
-Vì vậy, ví dụ: nhóm bán lẻ sẽ tạo ngôn ngữ phổ biến của riêng mình, trong khi nhóm thẻ tín dụng sẽ sử dụng ngôn ngữ phổ biến của riêng mình.
+Vì vậy, ví dụ: nhóm bán lẻ sẽ tạo ngôn ngữ chung của riêng mình, trong khi nhóm thẻ tín dụng sẽ sử dụng ngôn ngữ chung của riêng mình.
 
 39
 00: 07: 09, 750--> 00: 07: 17, 730
@@ -1500,7 +1500,7 @@ Các mô hình có thể được phát triển độc lập trong từng bối 
 
 42
 00: 07: 39, 870--> 00: 07: 47, 580
-Mỗi bối cảnh giới hạn có ngôn ngữ phổ biến riêng, ngôn ngữ này chỉ có ý nghĩa trong bối cảnh giới hạn đó.
+Mỗi bối cảnh giới hạn có ngôn ngữ chung riêng, ngôn ngữ này chỉ có ý nghĩa trong bối cảnh giới hạn đó.
 
 <!--@ \05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
 
@@ -2018,7 +2018,7 @@ Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát
 
 16
 00: 02: 49, 260--> 00: 03: 01, 200
-Không chỉ vậy, mỗi nhóm tham gia vào loại mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ phổ biến đó cho các mối liên hệ gắn kết do nhóm kia quản lý.
+Không chỉ vậy, mỗi nhóm tham gia vào loại mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung đó cho các mối liên hệ gắn kết do nhóm kia quản lý.
 
 17
 00: 03: 01, 230--> 00: 03: 14, 700
@@ -2480,7 +2480,7 @@ Và trong trường hợp thẻ tín dụng, bối cảnh bị giới hạn, ch�
 
 8
 00: 01: 16, 500--> 00: 01: 31, 620
-Các thực thể này và danh tính của chúng chỉ có ý nghĩa trong bối cảnh giới hạn tương ứng của chúng. Một thực thể có một tập hợp các thuộc tính được xác định bởi ngôn ngữ phổ biến cho ngữ cảnh bị chặn.
+Các thực thể này và danh tính của chúng chỉ có ý nghĩa trong bối cảnh giới hạn tương ứng của chúng. Một thực thể có một tập hợp các thuộc tính được xác định bởi ngôn ngữ chung cho ngữ cảnh bị chặn.
 
 9
 00: 01: 31, 930--> 00: 01: 41, 130
@@ -4402,7 +4402,7 @@ Và mức giá nêu trong gói kỳ nghỉ này chưa bao gồm thuế và phụ
 
 7
 00: 01: 15, 940--> 00: 01: 27, 670
-Bạn sẽ thêm phụ phí và các điều khoản về giá mỗi người vào từ vựng kinh doanh vốn là ngôn ngữ phổ biến của bạn và một số phụ phí là một thuật ngữ mới.
+Bạn sẽ thêm phụ phí và các điều khoản về giá mỗi người vào từ vựng kinh doanh vốn là ngôn ngữ chung của bạn và một số phụ phí là một thuật ngữ mới.
 
 8
 00: 01: 28, 060--> 00: 01: 35, 470
@@ -5396,11 +5396,11 @@ Sau đó, tôi sẽ nói về bản chất giao dịch của các sự kiện tr
 
 3
 00: 00: 22, 260--> 00: 00: 40, 920
-Trong ví dụ này ở đây, mỗi người trong số 100 người liên hệ sẽ có các sự kiện được xác định rõ ràng và vì các sự kiện là một phần của mô hình có thể áp dụng trong ngữ cảnh bị giới hạn nên định nghĩa chẵn luôn được quản lý bằng ngôn ngữ phổ biến cho ngữ cảnh ranh giới đó.
+Trong ví dụ này ở đây, mỗi người trong số 100 người liên hệ sẽ có các sự kiện được xác định rõ ràng và vì các sự kiện là một phần của mô hình có thể áp dụng trong ngữ cảnh bị giới hạn nên định nghĩa chẵn luôn được quản lý bằng ngôn ngữ chung cho ngữ cảnh ranh giới đó.
 
 4
 00: 00: 41, 040--> 00: 00: 53, 440
-Với tư cách là một chuyên gia, bạn có trách nhiệm đảm bảo rằng bạn đang nắm bắt tất cả các sự kiện có liên quan trong bối cảnh bị giới hạn như một phần của mô hình và ngôn ngữ phổ biến.
+Với tư cách là một chuyên gia, bạn có trách nhiệm đảm bảo rằng bạn đang nắm bắt tất cả các sự kiện có liên quan trong bối cảnh bị giới hạn như một phần của mô hình và ngôn ngữ chung .
 
 5
 00: 00: 53, 940--> 00: 01: 02, 190
@@ -5496,7 +5496,7 @@ Luôn sử dụng thì quá khứ, vì sự kiện thậm chí đã xảy ra. D�
 
 28
 00: 05: 19, 490--> 00: 05: 28, 930
-Bạn phải sử dụng ngôn ngữ phổ biến để không cần phải dịch giữa doanh nghiệp và ví dụ của nhóm CNTT.
+Bạn phải sử dụng ngôn ngữ chung để không cần phải dịch giữa doanh nghiệp và ví dụ của nhóm CNTT.
 
 29
 00: 05: 29, 240--> 00: 05: 40, 370
@@ -5520,7 +5520,7 @@ Những trình xử lý này đăng ký các sự kiện quan tâm và có thể
 
 34
 00: 06: 16, 490--> 00: 06: 25, 280
-Giống như các sự kiện, trình xử lý sự kiện phải được đặt tên phù hợp bằng cách sử dụng ngôn ngữ phổ biến như được đề xuất như một phương pháp hay nhất.
+Giống như các sự kiện, trình xử lý sự kiện phải được đặt tên phù hợp bằng cách sử dụng ngôn ngữ chung như được đề xuất như một phương pháp hay nhất.
 
 35
 00: 06: 25, 640--> 00: 06: 38, 630
@@ -5840,7 +5840,7 @@ Vì vậy chúng tôi đã mời hoặc tham gia cuộc họp và đây là nh�
 
 4
 00: 00: 58, 590--> 00: 01: 08, 580
-Vậy là có một thuật ngữ mới xuất hiện ở đây, lệnh thanh toán. Vì vậy, với tư cách là một chuyên gia CNTT, hãy đảm bảo bạn thêm thuật ngữ này vào ngôn ngữ phổ biến.
+Vậy là có một thuật ngữ mới xuất hiện ở đây, lệnh thanh toán. Vì vậy, với tư cách là một chuyên gia CNTT, hãy đảm bảo bạn thêm thuật ngữ này vào ngôn ngữ chung .
 
 5
 00: 01: 09, 000--> 00: 01: 17, 040
@@ -6630,7 +6630,7 @@ Giới thiệu về sự kiện gây bão, tôi sẽ bắt đầu bài giảng n
 
 3
 00: 00: 30, 240--> 00: 00: 46, 320
-Là một phần của khóa học, tôi đã cho bạn xem nhiều ví dụ trong đó chúng tôi phỏng vấn các chuyên gia miền và tạo ra các mô hình miền chủ yếu ở dạng UML và ngôn ngữ phổ biến tại thời điểm này.
+Là một phần của khóa học, tôi đã cho bạn xem nhiều ví dụ trong đó chúng tôi phỏng vấn các chuyên gia miền và tạo ra các mô hình miền chủ yếu ở dạng UML và ngôn ngữ chung tại thời điểm này.
 
 4
 00: 00: 46, 440--> 00: 01: 01, 790
@@ -12782,7 +12782,7 @@ AP của sản phẩm Acme Trong bài học này, bạn tìm hiểu về chiến
 
 2
 00: 00: 19, 830--> 00: 00: 30, 990
-Chúng tôi đã phân tích bản ghi cho cuộc phỏng vấn với giám đốc sản phẩm Acme. Chúng tôi cũng đã phát triển ngôn ngữ phổ biến cho bối cảnh giới hạn về quản lý sản phẩm.
+Chúng tôi đã phân tích bản ghi cho cuộc phỏng vấn với giám đốc sản phẩm Acme. Chúng tôi cũng đã phát triển ngôn ngữ chung cho bối cảnh giới hạn về quản lý sản phẩm.
 
 3
 00: 00: 31, 440--> 00: 00: 41, 280
@@ -13352,11 +13352,11 @@ Vui lòng tự nghiên cứu và chia sẻ suy nghĩ của bạn về các công
 
 44
 00: 08: 15, 040--> 00: 08: 22, 270
-Hãy coi định nghĩa lược đồ như một ngôn ngữ được chia sẻ. Đừng quên ngôn ngữ phổ biến của bạn cho tên miền.
+Hãy coi định nghĩa lược đồ như một ngôn ngữ được chia sẻ. Đừng quên ngôn ngữ chung của bạn cho tên miền.
 
 45
 00: 08: 22, 660--> 00: 08: 33, 010
-Vì vậy, hãy đảm bảo rằng các định nghĩa lược đồ của bạn được ánh xạ tới các thuật ngữ trong ngôn ngữ phổ biến. Thực hiện một cách tiếp cận tiến hóa để tạo API.
+Vì vậy, hãy đảm bảo rằng các định nghĩa lược đồ của bạn được ánh xạ tới các thuật ngữ trong ngôn ngữ chung . Thực hiện một cách tiếp cận tiến hóa để tạo API.
 
 46
 00: 08: 33, 310--> 00: 08: 46, 210

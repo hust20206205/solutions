@@ -1,6 +1,6 @@
 <!--@yêu cầu nghiệp vụ-->
 
-trình bày nội dung yêu cầu nghiệp vụ
+Trình bày nội dung yêu cầu nghiệp vụ
 
 <!--@Chi tiết và áp dụng thiết kế hướng miền-->
 <!--@Đôi nét về thiết kế hướng miền-->
@@ -34,6 +34,10 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 <!--Phần mềm cần phản ánh đúng miền và hiện thực hóa một cách chính xác quan hệ giữa các miền.-->
 
 <!--@Tên miền phụ (Sub-Domain)-->
+<!-- Tên miền được tạo thành từ nhiều tên miền phụ. -->
+ 
+<!-- Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các tên miền phụ trong tên miền lớn hơn. --> 
+ 
 Tên miền được tạo thành từ nhiều tên miền phụ.
 
 

@@ -417,7 +417,7 @@ Doanh nghiệp cần thực hiện nhiều chức năng khác nhau để hoạt 
 
 5
 00: 00: 45, 000--> 00: 01: 01, 440
-Nhưng mỗi ngân hàng có thể nhìn doanh nghiệp của mình theo một cách khác. Từ góc độ miền phụ, lý do phổ biến nhất là các doanh nghiệp có thể không hoạt động ở tất cả các miền phụ trong tên miền bao quát đó hoặc ngành, chẳng hạn như ngân hàng.
+Nhưng mỗi ngân hàng có thể nhìn doanh nghiệp của mình theo một cách khác. Từ góc độ miền phụ, lý do phổ biến nhất là các doanh nghiệp có thể không hoạt động ở tất cả các miền phụ trong miền bao quát đó hoặc ngành, chẳng hạn như ngân hàng.
 
 6
 00: 01: 01, 440--> 00: 01: 12, 390
@@ -457,7 +457,7 @@ Phần tiếp theo là các quy trình và việc xử lý được yêu cầu g
 
 15
 00: 02: 49, 230--> 00: 03: 07, 590
-Đó là một điều thú vị. Ý tưởng ở đây là nếu miền phụ yêu cầu thay đổi quy trình, quy tắc, cấu trúc hoặc bất kỳ khía cạnh nào khác thì sẽ khó quản lý kiến ​​thức và hiểu biết về tên miền vì nó thay đổi theo thời gian chứ không phụ thuộc vào doanh nghiệp, tùy thuộc vào trên ngành công nghiệp.
+Đó là một điều thú vị. Ý tưởng ở đây là nếu miền phụ yêu cầu thay đổi quy trình, quy tắc, cấu trúc hoặc bất kỳ khía cạnh nào khác thì sẽ khó quản lý kiến ​​thức và hiểu biết về miền vì nó thay đổi theo thời gian chứ không phụ thuộc vào doanh nghiệp, tùy thuộc vào trên ngành công nghiệp.
 
 16
 00: 03: 07, 770--> 00: 03: 26, 460
@@ -473,7 +473,7 @@ Miền phụ chung được đặc trưng bởi thực tế là không có giả
 
 19
 00: 03: 42, 570--> 00: 03: 48, 660
-Không có gì đặc biệt về những miền phụ này và các phương pháp hay nhất đều có sẵn cho những tên miền này.
+Không có gì đặc biệt về những miền phụ này và các phương pháp hay nhất đều có sẵn cho những miền này.
 
 20
 00: 03: 49, 020--> 00: 03: 57, 300
@@ -557,7 +557,7 @@ Và câu trả lời đó là có thì rất có thể đó là một subdomain 
 
 40
 00: 07: 43, 430--> 00: 07: 51, 920
-Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu tên miền doanh nghiệp có độ phức tạp cao hay không.
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không.
 
 41
 00: 07: 52, 010--> 00: 07: 58, 310
@@ -609,7 +609,7 @@ Hãy gọi với một điểm quan trọng từ bài học này. Đầu tiên l
 
 53
 00: 09: 48, 080--> 00: 09: 59, 690
-Miền phụ chung có sẵn các giải pháp mà doanh nghiệp có thể mua vì tên miền là miền phụ mà doanh nghiệp có cơ hội xác định.
+Miền phụ chung có sẵn các giải pháp mà doanh nghiệp có thể mua vì miền là miền phụ mà doanh nghiệp có cơ hội xác định.
 
 54
 00: 09: 59, 840--> 00: 10: 14, 930
@@ -867,7 +867,7 @@ Thông điệp ở đây là cùng một giọng điệu được sử dụng �
 
 10
 00: 01: 21, 990--> 00: 01: 31, 830
-Điều đó có nghĩa là nếu chúng ta đang sử dụng các thuật ngữ kinh doanh từ tên miền này sang tên miền khác thì điều đó có thể dẫn đến nhầm lẫn và hiểu sai.
+Điều đó có nghĩa là nếu chúng ta đang sử dụng các thuật ngữ kinh doanh từ miền này sang miền khác thì điều đó có thể dẫn đến nhầm lẫn và hiểu sai.
 
 11
 00: 01: 32, 100--> 00: 01: 43, 030
@@ -899,7 +899,7 @@ Tương tự, một chuyên gia về miền từ miền thẻ tín dụng sẽ s
 
 18
 00: 03: 04, 200--> 00: 03: 13, 220
-Vì vậy, rõ ràng để hiểu tên miền hoặc để có được kiến ​​thức về tên miền, người ta phải hiểu ngôn ngữ được sử dụng bởi các chuyên gia ngành .
+Vì vậy, rõ ràng để hiểu miền hoặc để có được kiến ​​thức về miền, người ta phải hiểu ngôn ngữ được sử dụng bởi các chuyên gia ngành .
 
 19
 00: 03: 13, 230--> 00: 03: 21, 060
@@ -935,7 +935,7 @@ Thử thách thứ ba liên quan đến việc nó có biệt ngữ riêng. Gett
 
 27
 00: 04: 53, 050--> 00: 04: 59, 760
-Và vì vậy khi họ nhận được thông tin về tên miền hoặc những kiến ​​thức về tên miền từ các chuyên gia về tên miền.
+Và vì vậy khi họ nhận được thông tin về miền hoặc những kiến ​​thức về miền từ các chuyên gia về miền .
 
 28
 00: 05: 00, 110--> 00: 05: 19, 240
@@ -3507,7 +3507,7 @@ Tại thời điểm này, chúng ta có thể có một câu hỏi. Có phải 
 
 34
 00: 06: 01, 020--> 00: 06: 20, 400
-Câu trả lời của tôi cho câu hỏi này là không thực sự, đặc biệt trong trường hợp các vấn đề tên miền đơn giản. Bạn cần suy nghĩ về kịch bản, trường hợp sử dụng của mình và sau đó quyết định, chẳng hạn như nếu không có hoặc thiếu logic kinh doanh hoặc nếu logic kinh doanh thay đổi không thường xuyên, thì một mô hình yếu kém có thể không phải là một thách thức lớn.
+Câu trả lời của tôi cho câu hỏi này là không thực sự, đặc biệt trong trường hợp các vấn đề miền đơn giản. Bạn cần suy nghĩ về kịch bản, trường hợp sử dụng của mình và sau đó quyết định, chẳng hạn như nếu không có hoặc thiếu logic kinh doanh hoặc nếu logic kinh doanh thay đổi không thường xuyên, thì một mô hình yếu kém có thể không phải là một thách thức lớn.
 
 35
 00: 06: 20, 400--> 00: 06: 28, 740
@@ -3977,7 +3977,7 @@ Hiện tại, yêu cầu cụ thể này không thể được coi là hành vi 
 
 4
 00: 00: 35, 490--> 00: 00: 44, 010
-Vì vậy, câu hỏi dành cho chúng ta là chúng ta sẽ xây dựng chức năng này ở đâu? Đây là nơi dịch vụ tên miền xuất hiện.
+Vì vậy, câu hỏi dành cho chúng ta là chúng ta sẽ xây dựng chức năng này ở đâu? Đây là nơi dịch vụ miền xuất hiện.
 
 5
 00: 00: 44, 490--> 00: 00: 54, 770
@@ -4001,7 +4001,7 @@ Một định nghĩa chính thức hơn về dịch vụ miền là đối tư�
 
 10
 00: 02: 00, 150--> 00: 02: 09, 390
-Điều quan trọng là chúng ta phải hiểu các đặc điểm của dịch vụ tên miền. Dịch vụ miền luôn thực hiện hành vi kinh doanh cho miền.
+Điều quan trọng là chúng ta phải hiểu các đặc điểm của dịch vụ miền . Dịch vụ miền luôn thực hiện hành vi kinh doanh cho miền.
 
 11
 00: 02: 09, 540--> 00: 02: 17, 830
@@ -4041,11 +4041,11 @@ Trong trường hợp đó, dịch vụ miền phụ thuộc vào các đối t�
 
 20
 00: 03: 57, 300--> 00: 04: 06, 050
-Vì vậy, điểm mấu chốt là không có mối tương quan giữa bất kỳ cuộc gọi nào bắt nguồn từ bất kỳ tên miền nào. Các dịch vụ có tính gắn kết cao.
+Vì vậy, điểm mấu chốt là không có mối tương quan giữa bất kỳ cuộc gọi nào bắt nguồn từ bất kỳ miền nào. Các dịch vụ có tính gắn kết cao.
 
 21
 00: 04: 06, 060--> 00: 04: 19, 980
-Điều đó có nghĩa là dịch vụ tên miền thực hiện một và chỉ một việc và không coi trọng khoản vay. Dịch vụ kiểm tra đủ điều kiện thực hiện việc kiểm tra xem khách hàng có đủ điều kiện vay vốn hay không.
+Điều đó có nghĩa là dịch vụ miền thực hiện một và chỉ một việc và không coi trọng khoản vay. Dịch vụ kiểm tra đủ điều kiện thực hiện việc kiểm tra xem khách hàng có đủ điều kiện vay vốn hay không.
 
 22
 00: 04: 20, 010--> 00: 04: 30, 530
@@ -4057,7 +4057,7 @@ Nói cách khác, khi khách hàng đăng ký vay, đây là dịch vụ đảm 
 
 24
 00: 04: 42, 930--> 00: 04: 58, 770
-Một dịch vụ miền có thể tương tác với các dịch vụ miền khác. Hãy để tôi giải thích điều này bằng một ví dụ. Giả sử có một dịch vụ hỗ trợ tên miền mà khách hàng hoặc người phụ trách chuyên mục gọi để bắt đầu quy trình đăng ký khoản vay.
+Một dịch vụ miền có thể tương tác với các dịch vụ miền khác. Hãy để tôi giải thích điều này bằng một ví dụ. Giả sử có một dịch vụ hỗ trợ miền mà khách hàng hoặc người phụ trách chuyên mục gọi để bắt đầu quy trình đăng ký khoản vay.
 
 25
 00: 04: 59, 400--> 00: 05: 08, 470
@@ -4077,7 +4077,7 @@ Vì vậy, như chúng ta có thể thấy ở đây, một dịch vụ miền c
 
 29
 00: 05: 44, 010--> 00: 05: 54, 930
-Dịch vụ tên miền là bất khả tri về công nghệ. Có một quan niệm sai lầm phổ biến rằng dịch vụ của người bán hàng rong nên được coi là một hoạt động kinh doanh là không đúng.
+Dịch vụ miền là bất khả tri về công nghệ. Có một quan niệm sai lầm phổ biến rằng dịch vụ của người bán hàng rong nên được coi là một hoạt động kinh doanh là không đúng.
 
 30
 00: 05: 55, 380--> 00: 06: 12, 770
@@ -4115,7 +4115,7 @@ Câu hỏi dành cho chúng ta là liệu chúng ta có triển khai nó như m�
 
 4
 00: 00: 43, 100--> 00: 00: 52, 520
-Chúng ta hãy xem lại định nghĩa về dịch vụ tên miền. Nó tuyên bố rằng dịch vụ miền là một đối tượng miền thực hiện chức năng miền.
+Chúng ta hãy xem lại định nghĩa về dịch vụ miền . Nó tuyên bố rằng dịch vụ miền là một đối tượng miền thực hiện chức năng miền.
 
 5
 00: 00: 52, 850--> 00: 01: 01, 810
@@ -4387,7 +4387,7 @@ Tại sao? Bởi vì việc tính giá không phù hợp một cách tự nhiên
 
 17
 00: 03: 08, 800--> 00: 03: 17, 830
-Vì vậy, câu trả lời là ở một dịch vụ tên miền. Tất cả việc tính toán giá, vốn là logic nghiệp vụ, sẽ được triển khai trong dịch vụ miền.
+Vì vậy, câu trả lời là ở một dịch vụ miền . Tất cả việc tính toán giá, vốn là logic nghiệp vụ, sẽ được triển khai trong dịch vụ miền.
 
 18
 00: 03: 18, 190--> 00: 03: 29, 950
@@ -5453,7 +5453,7 @@ Tương tự, không thêm thao tác làm hậu tố. Vì vậy, tạo ra ở đ
 
 31
 00: 05: 49, 790--> 00: 05: 59, 600
-Vì vậy, người dùng đã đăng ký được ưu tiên hơn tên miền do người dùng tạo. Even Handler đề cập đến việc triển khai logic của người tiêu dùng chẵn.
+Vì vậy, người dùng đã đăng ký được ưu tiên hơn miền do người dùng tạo. Even Handler đề cập đến việc triển khai logic của người tiêu dùng chẵn.
 
 32
 00: 06: 00, 110--> 00: 06: 08, 650
@@ -5477,7 +5477,7 @@ Không thêm trình xử lý hoặc trình nhận làm hậu tố. Vì vậy, đ
 
 37
 00: 06: 47, 660--> 00: 06: 56, 800
-Hãy xem ví dụ về khoản vay cá nhân, vi dịch vụ, tên miền, thậm chí nguồn và trình xử lý sự kiện tên miền đều trong cùng một quy trình.
+Hãy xem ví dụ về khoản vay cá nhân, vi dịch vụ, miền, thậm chí nguồn và trình xử lý sự kiện miền đều trong cùng một quy trình.
 
 38
 00: 06: 57, 230--> 00: 07: 11, 660
@@ -5985,7 +5985,7 @@ Và những sự kiện tích hợp này cũng có thể được sử dụng b�
 
 6
 00: 01: 06, 160--> 00: 01: 12, 720
-Hãy cùng điểm qua những khác biệt giữa miền và các sự kiện tích hợp. Cái đầu tiên là một cái hiển nhiên, tên miền.
+Hãy cùng điểm qua những khác biệt giữa miền và các sự kiện tích hợp. Cái đầu tiên là một cái hiển nhiên, miền .
 
 7
 00: 01: 12, 720--> 00: 01: 41, 400
@@ -6033,7 +6033,7 @@ Công nghệ nhắn tin được sử dụng phổ biến. Đây là một số 
 
 18
 00: 03: 26, 760--> 00: 03: 38, 820
-Sự kiện tên miền cũng có thể được xuất bản dưới dạng sự kiện tích hợp. Nói cách khác, đối với cùng một sự kiện, có thể có người tiêu dùng trong bối cảnh bị ràng buộc cũng như bên ngoài bối cảnh bị ràng buộc.
+Sự kiện miền cũng có thể được xuất bản dưới dạng sự kiện tích hợp. Nói cách khác, đối với cùng một sự kiện, có thể có người tiêu dùng trong bối cảnh bị ràng buộc cũng như bên ngoài bối cảnh bị ràng buộc.
 
 19
 00: 03: 39, 180--> 00: 03: 46, 910
@@ -6785,7 +6785,7 @@ Dưới đây là ví dụ về một số sự kiện đã được đặt tên
 
 19
 00: 03: 21, 210--> 00: 03: 30, 240
-Nguyên nhân là một hành động tạo ra một sự kiện. Và trong trường hợp mua sắm trực tuyến, tác nhân tên miền là khách hàng.
+Nguyên nhân là một hành động tạo ra một sự kiện. Và trong trường hợp mua sắm trực tuyến, tác nhân miền là khách hàng.
 
 20
 00: 03: 30, 600--> 00: 03: 44, 430
@@ -6889,7 +6889,7 @@ Tác động của sự kiện miền được hiện thực hóa bằng chính 
 
 45
 00: 08: 13, 500--> 00: 08: 20, 960
-Tên miền thậm chí còn có một số dữ liệu có giá trị đối với các bên liên quan. Dữ liệu có giá trị này được thể hiện bằng cách reboard.
+Miền thậm chí còn có một số dữ liệu có giá trị đối với các bên liên quan. Dữ liệu có giá trị này được thể hiện bằng cách reboard.
 
 <!--@ \09EventStormingforcreatingsharedknowledge_VVN\000000004.srt-->
 
@@ -13297,7 +13297,7 @@ Vui lòng tự nghiên cứu và chia sẻ suy nghĩ của chúng ta về các c
 
 44
 00: 08: 15, 040--> 00: 08: 22, 270
-Hãy coi định nghĩa lược đồ như một ngôn ngữ được chia sẻ. Đừng quên ngôn ngữ chung của chúng ta cho tên miền.
+Hãy coi định nghĩa lược đồ như một ngôn ngữ được chia sẻ. Đừng quên ngôn ngữ chung của chúng ta cho miền .
 
 45
 00: 08: 22, 660--> 00: 08: 33, 010

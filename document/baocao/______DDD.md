@@ -31,12 +31,60 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 <!--@ Miền phụ (Sub-Domain)-->
 <!--!======================================================-->
 
+<!--thiết kế hướng miền là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh.-->
+
+<!--Problem Space / Business Domain: Không gian vấn đề / Lĩnh vực kinh doanh-->
+
+Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà chúng ta dự định giải quyết bằng thiết kế hướng miền .
+
+<!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
+
+<!--Bounded Context: Bối cảnh bị ràng buộc là gì?-->
+
+Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
+
+Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
+
+<!--Domain Model: Mô hình miền-->
+
+Mô hình miền là việc triển khai logic nghiệp vụ cốt lõi
+trong một Bối cảnh bị ràng buộc cụ thể.
+
+Trong ngôn ngữ kinh doanh, điều này liên quan đến việc xác định:
+
+- Thực thể kinh doanh (Business Entities)
+- Quy tắc kinh doanh (Business Rules)
+- Quy trình kinh doanh (Business Flows)
+- Hoạt động kinh doanh (Business Operations)
+- Sự kiện kinh doanh (Business Events)
+
+Theo ngôn ngữ kỹ thuật trong thế giới thiết kế hướng miền, điều này có nghĩa là xác định:
+
+- Tổng hợp/Thực thể/Đối tượng giá trị (Aggregates/Entities/Value Objects)
+- Quy tắc miền (Domain Rules)
+- Sagas (Sagas)
+- Lệnh/Truy vấn (Commands/Queries)
+- Sự kiện (Events)
+<!--=> bảng-->
+
+<!--Aggregates/Entities/Value Objects-->
+
+Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh bị ràng buộc của chúng ta và xác định phạm vi nhất quán trong bối cảnh bị ràng buộc đó.
+Tổng hợp = Mã định danh chính của Bối cảnh bị ràng buộc của chúng ta
+
+Đối tượng thực thể có bản sắc riêng nhưng không thể
+tồn tại nếu không có tập hợp gốc, nghĩa là chúng
+được tạo khi tập hợp gốc được tạo và bị hủy khi tập
+hợp gốc bị phá hủy.
+
+Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
+
 Miền được tạo thành từ nhiều miền phụ.
 Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
 Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó.
-Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các miền phụ trong tên miền lớn hơn.
+Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một miền hầu hết được liên kết với các miền phụ trong miền lớn hơn.
 
-<!-- Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết. -->
+<!--Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết.-->
 
 <!--$VD: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
@@ -50,7 +98,7 @@ Có ba loại miền phụ:
 
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 
-Không có gì đặc biệt về những miền phụ này và các phương pháp tốt nhất đã sẵn có cho những tên miền này.
+Không có gì đặc biệt về những miền phụ này và các phương pháp tốt nhất đã sẵn có cho những miền này.
 
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
@@ -94,7 +142,7 @@ Nếu có sẵn giải pháp đã biết thì có khả năng là Miền phụ c
 
 Nếu không có giá trị kinh doanh thì kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Và câu trả lời đó là có thì có khả năng là miền phụ hỗ trợ. Nếu câu trả lời là không thì đó là miền phụ chung.
 
-Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu tên miền doanh nghiệp có độ phức tạp cao hay không?
+Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không?
 
 Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Nếu không thì nó có khả năng là miền phụ cốt lõi.
 
@@ -124,7 +172,7 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
 <!--Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.-->
-<!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ use case, class, activiti, squen-->
+<!-- $VD: Ở đồ án này, mô hình miền là ... các sơ đồ: UML Use Case Diagrams    , UML Activity Diagrams    , UML Sequence Diagrams    , UML Class Diagrams -->
 
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
@@ -360,7 +408,7 @@ Có một số mối quan tâm chung liên quan đến các đối tượng kho 
 
 <!--Một định nghĩa chính thức hơn về dịch vụ miền là đối tượng miền thực hiện chức năng hoặc khái niệm miền có thể không được mô hình hóa một cách tự nhiên như một hành vi trong bất kỳ dịch vụ miền, thực thể hoặc đối tượng giá trị nào như một phần của mô hình miền, vì có các loại dịch vụ khác nhau.-->
 
-<!--Điều quan trọng là chúng ta phải hiểu các đặc điểm của dịch vụ tên miền.-->
+<!--Điều quan trọng là chúng ta phải hiểu các đặc điểm của dịch vụ miền .-->
 <!--Dịch vụ miền luôn thực hiện hành vi kinh doanh cho miền.-->
 <!--Dịch vụ miền không có trạng thái, dịch vụ miền có tính gắn kết cao.-->
 <!--Dịch vụ miền có thể tương tác với các dịch vụ miền khác.-->
@@ -370,7 +418,7 @@ Một dịch vụ miền có thể tương tác với các dịch vụ miền kh
 
 Trước khi kết thúc bài học này, tôi muốn nhấn mạnh một điểm quan trọng.
 
-Dịch vụ tên miền là bất khả tri về công nghệ. Có một quan niệm sai lầm phổ biến rằng dịch vụ của người bán hàng rong nên được coi là một hoạt động kinh doanh là không đúng.
+Dịch vụ miền là bất khả tri về công nghệ. Có một quan niệm sai lầm phổ biến rằng dịch vụ của người bán hàng rong nên được coi là một hoạt động kinh doanh là không đúng.
 
 Dịch vụ miền độc lập với công nghệ được sử dụng để gọi. Ví dụ: hoạt động dịch vụ miền, có thể chỉ là lệnh gọi hàm Java đơn giản hoặc có thể được thực hiện qua giao thức mạng như HTTP hoặc MQ.
 
@@ -383,7 +431,7 @@ Các đặc điểm khác là dịch vụ miền không có trạng thái, dịc
 <!--@ \07DomainDrivenDesignTacticalPatterns_VVN\000000013.srt-->
 <!--Dịch vụ ứng dụng (app sẻvice)-->
 
-Chúng ta hãy xem lại định nghĩa về dịch vụ tên miền. Nó tuyên bố rằng dịch vụ miền là một đối tượng miền thực hiện chức năng miền.
+Chúng ta hãy xem lại định nghĩa về dịch vụ miền . Nó tuyên bố rằng dịch vụ miền là một đối tượng miền thực hiện chức năng miền.
 Và vì dịch vụ danh mục khách hàng sẽ không triển khai bất kỳ chức năng miền nào nên chúng tôi không thể triển khai nó dưới dạng dịch vụ miền.
 Và đây là nơi các dịch vụ ứng dụng xuất hiện. Đó là một định nghĩa chính thức hơn về một dịch vụ ứng dụng.
 Nó là một đối tượng miền không triển khai bất kỳ chức năng miền nào mà phụ thuộc vào các đối tượng miền khác để hiển thị chức năng miền cấp cao cho bên ngoài của người tiêu dùng đối với mô hình.
@@ -503,54 +551,6 @@ Repository trong ORM
 
 # Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
 
-<!--thiết kế hướng miền là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh.-->
-
-<!--Problem Space / Business Domain: Không gian vấn đề / Lĩnh vực kinh doanh-->
-
-Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà chúng ta dự định giải quyết bằng thiết kế hướng miền .
-
-<!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
-
-<!--Bounded Context: Bối cảnh bị ràng buộc là gì?-->
-
-Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
-
-Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
-
-<!--Domain Model: Mô hình miền-->
-
-Mô hình miền là việc triển khai logic nghiệp vụ cốt lõi
-trong một Bối cảnh bị ràng buộc cụ thể.
-
-Trong ngôn ngữ kinh doanh, điều này liên quan đến việc xác định:
-
-- Thực thể kinh doanh (Business Entities)
-- Quy tắc kinh doanh (Business Rules)
-- Quy trình kinh doanh (Business Flows)
-- Hoạt động kinh doanh (Business Operations)
-- Sự kiện kinh doanh (Business Events)
-
-Theo ngôn ngữ kỹ thuật trong thế giới thiết kế hướng miền, điều này có nghĩa là xác định:
-
-- Tổng hợp/Thực thể/Đối tượng giá trị (Aggregates/Entities/Value Objects)
-- Quy tắc tên miền (Domain Rules)
-- Sagas (Sagas)
-- Lệnh/Truy vấn (Commands/Queries)
-- Sự kiện (Events)
-<!--=> bảng-->
-
-<!--Aggregates/Entities/Value Objects-->
-
-Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh bị ràng buộc của chúng ta và xác định phạm vi nhất quán trong bối cảnh bị ràng buộc đó.
-Tổng hợp = Mã định danh chính của Bối cảnh bị ràng buộc của chúng ta
-
-Đối tượng thực thể có bản sắc riêng nhưng không thể
-tồn tại nếu không có tập hợp gốc, nghĩa là chúng
-được tạo khi tập hợp gốc được tạo và bị hủy khi tập
-hợp gốc bị phá hủy.
-
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
-
 <!---->
 
 Bảng CSDL này được em thu thập dữ liệu từ trang web CƠ SỞ DỮU DANH MỤC DÙNG CHUNG (https: //dmdc.mof.gov.vn/khai-thac-pb/co-quan-thue)
@@ -612,14 +612,7 @@ Sử dụng hàm ngẫu nhiên (tỉ lệ 10%) cho trường hợp từ chối.
 <!--Phân tích và thiết kế-->
 
 Xác định các tính năng cần thiết và các yêu cầu kỹ thuật tạo ra một thiết kế hệ thống hoặc kiến trúc đáp ứng.
-UML Activity Diagrams
-UML Use Case Diagrams
-UML Class Diagrams
-UML Sequence Diagrams
-
-UML
-ORM
-SQL
+<!--  -->
 
 Business Model Canvas
 

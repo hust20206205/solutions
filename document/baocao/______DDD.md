@@ -10,7 +10,7 @@ Thiết kế hướng miền được Eric Evans giới thiệu trong cuốn sá
 
 Thiết kế hướng miền là một phương pháp thiết kế phần mềm tập trung vào việc hiểu và mô hình hóa lĩnh vực kinh doanh của một tổ chức.
 
-Thiết kế hướng miền nhấn mạnh việc sử dụng lĩnh vực nghiệp vụ kinh doanh để thảo luận và đề xuất giải pháp đáp ứng nhu cầu. Vì để tạo ra một phần mềm tốt, bạn cần phải hiểu rõ về chính phần mềm đó. Chính vì vậy mà để đạt được kết quả như mong đợi, chúng ta thường bắt đầu từ yêu cầu nghiệp vụ.
+Thiết kế hướng miền nhấn mạnh việc sử dụng lĩnh vực nghiệp vụ kinh doanh để thảo luận và đề xuất giải pháp đáp ứng nhu cầu. Vì để tạo   một phần mềm tốt, bạn cần phải hiểu rõ về chính phần mềm đó. Chính vì vậy mà để đạt được kết quả như mong đợi, chúng ta thường bắt đầu từ yêu cầu nghiệp vụ.
 
 Trong ứng dụng điển hình khó tương thích với lập trình hướng đối tượng vì có nhiều phần code xử lý các công việc không liên quan đến vấn đề nghiệp vụ như truy cập file, hạ tầng mạng, CSDL, ... được nhúng trực tiếp vào đối tượng nghiệp vụ kinh doanh. Cách này giúp tốc độ hoàn thiện ứng dụng nhanh. Tuy nhiên, cách này làm cho thiết kế bị mất đi tính hướng đối tượng trong thực tế với mức độ doanh nghiệp lớn. Đây là lý do thiết kế hướng miền trở nên quan trọng.
 
@@ -114,11 +114,9 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 <!--$VD:-->
 <!--Hướng dẫn: 5/3-->
 
-<!--@Bối cảnh giới hạn (Bounded Context)-->
-
-<!--@Mô hình miền (Domain model)-->
 <!--@Mô hình miền (Domain Models)-->
 
+Để tạo   một phần mềm tốt, bạn cần phải hiểu rõ về chính phần mềm đó. Chính vì vậy mà để đạt được kết quả như mong đợi, chúng ta thường bắt đầu từ yêu cầu nghiệp vụ.
 Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.
 
 Mô hình miền không phải là kiến thức của chuyên gia ngành, mà là sự trừu tượng hóa của cả nhóm.
@@ -128,6 +126,65 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 Mô hình miền giúp nhóm hiểu và đồng thuận khi làm việc.
 
 <!--$VD: Ở đồ án này, mô hình miền là ...-->
+
+
+
+<!-- Những mục tiêu này có thể là ngắn hạn hoặc có thể dài hạn. Điều quan trọng là kiến ​​trúc sư phải hiểu vấn đề doanh nghiệp và hiểu vấn đề doanh nghiệp. -->
+<!-- Kiến trúc sư phải hiểu miền nhanh và để làm được điều đó, kiến ​​trúc sư tạo ra các mô hình miền. Mô hình miền được định nghĩa là kiến ​​thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh. -->
+
+Các từ khóa ở đây là kiến ​​thức có tổ chức và có cấu trúc. Mô hình miền bao gồm nhiều phần.
+
+Các khái niệm chính là các khái niệm nền tảng liên quan đến lĩnh vực này, ví dụ như trong lĩnh vực ngân hàng.
+
+Các khái niệm chính có thể bao gồm việc tính toán lãi suất đơn giản và tính toán độ tin cậy thành phần. Tiếp theo là từ vựng miền.
+
+Từ vựng của miền bao gồm các thuật ngữ phổ biến và định nghĩa của chúng được các bên liên quan sử dụng khi họ thảo luận về các vấn đề gặp phải trong miền đó đối với lĩnh vực ngân hàng.
+
+Từ vựng miền sẽ bao gồm danh sách các mục như giao dịch, tín dụng, đăng giao dịch, v.v. kèm theo ý nghĩa của chúng.
+
+Điều này nhằm đảm bảo rằng tất cả các bên liên quan có sự hiểu biết chung về tất cả các thuật ngữ được sử dụng trong lĩnh vực đó.
+
+Hãy coi các thực thể miền là các đối tượng miền có nhận dạng duy nhất. Thuộc tính trong đối tượng miền có thể thay đổi trong suốt thời gian tồn tại của đối tượng, nhưng danh tính được giữ lại trong miền ngân hàng.
+
+Các ví dụ là tài khoản tiết kiệm và tài khoản séc, được tài khoản xác định duy nhất. Không có giao dịch nào là một thực thể khác được xác định duy nhất bằng ID giao dịch.
+
+Trong thế giới thực, các thực thể miền có mối quan hệ với các thực thể miền khác và mô hình miền nắm bắt các mối quan hệ này trong miền ngân hàng.
+
+Thực thể tài khoản có các thực thể giao dịch. Đây là sự mô tả về một mối quan hệ rất đơn giản trong lĩnh vực ngân hàng.
+
+Các doanh nghiệp sử dụng các quy trình đã xác định để thực hiện các hoạt động và các quy trình này được ghi lại trong mô hình miền bằng các quy trình công việc và hoạt động.
+
+Các ví dụ cho lĩnh vực ngân hàng là quy trình mở tài khoản tiết kiệm và quy trình phê duyệt khoản vay.
+
+Điều quan trọng cần ghi nhớ là mô hình miền. Nắm bắt kiến ​​thức có cấu trúc được sử dụng để giải quyết một vấn đề kinh doanh, nó không chỉ giới hạn ở những yếu tố mà tôi đã thảo luận.
+
+Trên thực tế, mô hình miền có thể chứa kiến ​​thức bổ sung bằng cách mô tả trực quan hoặc sơ đồ và tài liệu văn bản.
+
+Bạn, với tư cách là người tạo ra các mô hình miền, có quyền kiểm soát những gì sẽ có trong mô hình miền để làm cho mô hình miền hiệu quả nhất có thể.
+
+Không có công cụ đặc biệt nào để tạo mô hình miền để trực quan hóa, điều này thường xảy ra trong email của bạn.
+
+Bạn có thể sử dụng bất kỳ công cụ nào hỗ trợ việc lập mô hình con người hoặc tài liệu văn bản. Tôi đã thấy các nhóm sử dụng chó cũng như wiki và các công cụ quản lý thông tin khác.
+
+Vào cuối ngày, các bên liên quan làm việc trên các mô hình miền có thể quyết định các công cụ phù hợp nhất với họ.
+
+Đã đến lúc xem lại những điểm chính trong lĩnh vực bài học này. Morang là kiến ​​thức có tổ chức và có cấu trúc về miền.
+
+Mục đích của mô hình miền là giúp tạo ra giải pháp cho các vấn đề kinh doanh. Trong phạm vi đó được thảo luận.
+
+Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.
+
+
+
+
+
+
+
+
+
+
+<!--@Bối cảnh giới hạn (Bounded Context)-->
+
 
 
 **Ngôn ngữ phổ biến (Ubiquitous Language)**

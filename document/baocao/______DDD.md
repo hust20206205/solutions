@@ -134,6 +134,10 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 
 Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
 Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
+   
+
+
+
 
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->

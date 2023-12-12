@@ -168,13 +168,6 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 <!--Hướng dẫn 5/7-->
 
 
-
-
-
-
-
-
-
 <!--!======================================================-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 

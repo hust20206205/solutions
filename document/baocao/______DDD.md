@@ -193,7 +193,7 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 
 <!--$VD:-->
 
-![Alt text](pictures/BoiCanhGioiHan/___RanhGioi.png)
+![](pictures/BoiCanhGioiHan/___RanhGioi.png)
 
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->

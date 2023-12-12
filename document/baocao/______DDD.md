@@ -273,6 +273,7 @@ Các nhóm phát triển không phải cộng tác hay phối hợp cho bất k�
 
 <!--$VD: trong trường hợp ngân hàng, thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
 <!--@Mô hình hạt nhân chung (Shared Kernel)-->
+
 Khi các liên hệ trong bối cảnh giới hạn có sự phụ thuộc lẫn nhau. Sự phụ thuộc này dẫn đến mức độ kết hợp cao. Vì vậy, các nhóm phát triển không thể hoạt động độc lập.
 
 Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
@@ -320,18 +321,7 @@ Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng t
 <!--Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .-->
 
 để giải quyết vấn đề
-**Mô hình hợp tác (Partnership Pattern)**
 
-<!---->
-<!---->
-<!---->
-<!---->
-<!--$VD:-->
-
-<!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ giới hạn .-->
-<!--!Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .-->
-<!--!Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình. Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
-<!--!Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.-->
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 

@@ -1,3 +1,20 @@
+<!--Aggregates/Entities/Value Objects-->
+
+Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh bị ràng buộc của chúng ta và xác định phạm vi nhất quán trong bối cảnh bị ràng buộc đó.
+Tổng hợp = Mã định danh chính của Bối cảnh bị ràng buộc của chúng ta
+
+Đối tượng thực thể có bản sắc riêng nhưng không thể
+tồn tại nếu không có tập hợp gốc, nghĩa là chúng
+được tạo khi tập hợp gốc được tạo và bị hủy khi tập
+hợp gốc bị phá hủy.
+
+Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
+
+Miền được tạo thành từ nhiều miền phụ.
+Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
+Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó.
+Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một miền hầu hết được liên kết với các miền phụ trong miền lớn hơn.
+
 <!--@yêu cầu nghiệp vụ-->
 
 Trình bày nội dung yêu cầu nghiệp vụ
@@ -31,58 +48,11 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 <!--@ Miền phụ (Sub-Domain)-->
 <!--!======================================================-->
 
-<!--thiết kế hướng miền là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh.-->
-
-<!--Problem Space / Business Domain: Không gian vấn đề / Lĩnh vực kinh doanh-->
-
-Không gian vấn đề / Lĩnh vực kinh doanh là điểm khởi đầu của hành trình thiết kế hướng miền và nó xác định vấn đề kinh doanh chính mà chúng ta dự định giải quyết bằng thiết kế hướng miền .
-
-<!--=> Đầu tiên ta cần phải xem xét yêu cầu nghiệp vụ đó là Không gian vấn đề / Lĩnh vực kinh doanh. Bất kì 1 ứng dụng phần mềm kĩ thuật cntt nào đều giải quyết cho 1 vấn đề yêu cầu cụ thể nào đó.-->
-
 <!--Bounded Context: Bối cảnh bị ràng buộc là gì?-->
 
 Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
 
 Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
-
-<!--Domain Model: Mô hình miền-->
-
-Mô hình miền là việc triển khai logic nghiệp vụ cốt lõi
-trong một Bối cảnh bị ràng buộc cụ thể.
-
-Trong ngôn ngữ kinh doanh, điều này liên quan đến việc xác định:
-
-- Thực thể kinh doanh (Business Entities)
-- Quy tắc kinh doanh (Business Rules)
-- Quy trình kinh doanh (Business Flows)
-- Hoạt động kinh doanh (Business Operations)
-- Sự kiện kinh doanh (Business Events)
-
-Theo ngôn ngữ kỹ thuật trong thế giới thiết kế hướng miền, điều này có nghĩa là xác định:
-
-- Tổng hợp/Thực thể/Đối tượng giá trị (Aggregates/Entities/Value Objects)
-- Quy tắc miền (Domain Rules)
-- Sagas (Sagas)
-- Lệnh/Truy vấn (Commands/Queries)
-- Sự kiện (Events)
-<!--=> bảng-->
-
-<!--Aggregates/Entities/Value Objects-->
-
-Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh bị ràng buộc của chúng ta và xác định phạm vi nhất quán trong bối cảnh bị ràng buộc đó.
-Tổng hợp = Mã định danh chính của Bối cảnh bị ràng buộc của chúng ta
-
-Đối tượng thực thể có bản sắc riêng nhưng không thể
-tồn tại nếu không có tập hợp gốc, nghĩa là chúng
-được tạo khi tập hợp gốc được tạo và bị hủy khi tập
-hợp gốc bị phá hủy.
-
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
-
-Miền được tạo thành từ nhiều miền phụ.
-Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
-Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó.
-Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một miền hầu hết được liên kết với các miền phụ trong miền lớn hơn.
 
 <!--Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết.-->
 
@@ -612,6 +582,7 @@ Sử dụng hàm ngẫu nhiên (tỉ lệ 10%) cho trường hợp từ chối.
 <!--Phân tích và thiết kế-->
 
 Xác định các tính năng cần thiết và các yêu cầu kỹ thuật tạo ra một thiết kế hệ thống hoặc kiến trúc đáp ứng.
+
 <!---->
 
 Business Model Canvas

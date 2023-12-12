@@ -171,7 +171,7 @@ Việc tạo ra ngôn ngữ chung là một quá trình liên tục.
 <!--Hướng dẫn 5/7-->
 <!---->
 
-<!--@Bối cảnh -->
+<!--@Bối cảnh-->
 <!--@Bối cảnh kinh doanh-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 

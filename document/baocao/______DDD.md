@@ -132,19 +132,18 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 <!--$VD: Ở đồ án này, mô hình miền của em bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 <!--!======================================================-->
 
-cung cấp hai loại mẫu.
-
-Các mô hình chiến lược được sử dụng để chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
-
-Các mẫu kỹ thuật được sử dụng để chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
-
-Mẫu chiến lược áp dụng trên nhiều bối cảnh bị giới hạn, trong khi các mẫu kỹ thuật chỉ có thể áp dụng trong bối cảnh bị giới hạn.
-
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
 Thiết kế hướng miền cung cấp 2 loại mẫu:
 
-<!--Strategic và Tactical Patterns-->
+<!--  -->
+
+Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
+Các mẫu kỹ thuật (Tactical Patterns ): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
+
+<!-- @Các mô hình chiến lược -->
+
+<!-- @Các  mẫu kỹ thuật  -->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 <!--!======================================================-->
 

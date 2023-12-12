@@ -32,6 +32,7 @@ for file_path in file_paths:
         contents = contents.replace('{ ', '{')
     while ' }' in contents:
         contents = contents.replace(' }', '}') 
+    contents = '\n'.join(line.strip() for line in contents.split('\n'))
     with open(file_path, 'w', encoding="utf-8") as file:
         file.write(contents)
 # #     contents = [line.strip() for line in contents] 

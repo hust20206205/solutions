@@ -161,11 +161,12 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 
 <!--[Tổng quan mối quan hệ] Bản đồ bối cảnh (Context Maps)-->
 <!--[Phân lớp ] Kiến trúc phân lớp (Context Maps)-->
-dịch và cách ly đơn phương với
 
+dịch và cách ly đơn phương với
 
 "Bản đồ bối cảnh dịch chuyển và cách ly một cách đơn phương để tạo thành cấu trúc kiến ​​trúc phân lớp."
 Tách biệt
+
 <!--$ Vẽ lại sau:-->
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
@@ -241,8 +242,10 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 <!--Hướng dẫn 5/7-->
 
 <!--!======================================================-->
-
-**Bản đồ bối cảnh (Context Maps)**
+Symmetric Relationship : Separate ways , Partnership, Shared Kernel
+Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer
+One-to-Many Relationship: Open Host Service, Published Language
+<!-- @Bản đồ bối cảnh (Context Maps) -->
 
 Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ.
 
@@ -257,15 +260,102 @@ Giúp việc nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ 
 Giúp các nhóm đánh giá mức độ hợp tác cần thiết với các nhóm khác.
 Giúp sàng lọc các liên hệ được giới hạn và các mô hình.
 Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
+
+
+<!-- Bây giờ chúng tôi biết rằng các liên hệ ngoại quan không thể bị cô lập. Sẽ có những mối quan hệ phụ thuộc. -->
+
+5
+00: 01: 00, 960--> 00: 01: 11, 580
+<!-- Những mối quan hệ này cần được quản lý. Nếu không thì sẽ mất đi sự liêm chính về mặt đạo đức và sẽ mất đi khả năng hoạt động độc lập của nhóm. -->
+
+6
+00: 01: 11, 760--> 00: 01: 22, 200
+Chúng ta hãy vượt qua những thử thách này. Hãy xem xét kịch bản trong đó chúng ta có bối cảnh liên kết và bối cảnh liên kết đánh bại từng liên hệ liên kết này, có mô hình riêng.
+
+7
+00: 01: 22, 590--> 00: 01: 33, 540
+Bây giờ, giả sử hiện có sự phụ thuộc giữa A và B. Nó phụ thuộc vào B, có nghĩa là chúng ta sẽ có khả năng hiển thị các mô hình này.
+
+8
+00: 01: 33, 870--> 00: 01: 48, 930
+Và tác động là không có ranh giới ngôn ngữ trong bối cảnh ngoại quan, nó không giữ được. Có thể có sự nhầm lẫn về ngôn ngữ được sử dụng cho mô hình của A và B.
+
+9
+00: 01: 49, 080--> 00: 01: 58, 170
+<!-- Nói cách khác, bối cảnh pha trộn. Bây giờ nó đã bị ô nhiễm và đây là điều được gọi là sự mất liêm chính về mặt đạo đức. -->
+
+10
+00: 01: 59, 070--> 00: 02: 06, 350
+Bối cảnh ngoại quan được phát hiện trong lĩnh vực thiết kế đô thị được chuyển thành một hoặc nhiều vi dịch vụ .
+
+11
+00: 02: 06, 690--> 00: 02: 23, 070
+Vì vậy, trong ví dụ này, các liên hệ giới hạn quản lý khách hàng được dịch sang vi mạch khách hàng, trong khi ngữ cảnh giới hạn tài khoản bán lẻ được dịch sang hai tài khoản tiết kiệm vi dịch vụ, vi dịch vụ và vi dịch vụ tài khoản séc.
+
+12
+00: 02: 23, 100--> 00: 02: 31, 100
+Sự phụ thuộc giữa bối cảnh giới hạn cuối cùng được chuyển thành sự phụ thuộc giữa các vi dịch vụ .
+
+13
+00: 02: 31, 530--> 00: 02: 38, 890
+Vì vậy, trong ví dụ này, dịch vụ maiko tài khoản thẻ tín dụng phụ thuộc vào vi dịch vụ của khách hàng.
+
+14
+00: 02: 38, 910--> 00: 02: 55, 170
+Mỗi dịch vụ này được quản lý bởi các nhóm độc lập và mối quan hệ phụ thuộc giữa các vi dịch vụ này sẽ có nghĩa là bất cứ khi nào có thay đổi về vi dịch vụ của khách hàng thì vi dịch vụ thẻ tín dụng sẽ cần phải thay đổi.
+
+15
+00: 02: 55, 170--> 00: 03: 02, 160
+Vì vậy, tất cả các thay đổi sẽ yêu cầu một số hình thức hợp tác giữa các nhóm sở hữu các vi dịch vụ này.
+
+16
+00: 03: 02, 160--> 00: 03: 16, 560
+<!-- Và điều đó có nghĩa là các nhóm sẽ mất khả năng hoạt động độc lập và điều đó sẽ dẫn đến mất đi tính linh hoạt, điều này trái ngược với một trong những lý do khiến kiến ​​trúc vi dịch vụ được áp dụng. -->
+
+17
+00: 03: 17, 570--> 00: 03: 32, 270
+<!-- Bây giờ, chúng ta biết rằng các liên hệ Mongered, sự phụ thuộc hoặc Microsoft cho biết không thể tránh khỏi sự phụ thuộc. Vì vậy, đề xuất là quản lý các liên hệ, mối quan hệ được liên kết này bằng cách sử dụng các mẫu thiết kế hướng miền thích hợp. -->
+
+18
+00: 03: 32, 480--> 00: 03: 43, 730
+<!-- Các nhóm phải nỗ lực có ý thức để không tạo ra một quả bóng bùn lớn và họ phải ghi lại mối quan hệ giữa các điểm tiếp xúc được liên kết bằng cách sử dụng danh bạ, bản đồ. -->
+
+19
+00: 03: 44, 210--> 00: 03: 55, 260
+<!-- Hãy để tôi giải thích bản đồ bối cảnh là gì. Bản đồ bối cảnh là sự thể hiện trực quan của các hệ thống, các liên hệ Bundgaard và mối quan hệ giữa chúng. -->
+20
+00: 03: 55, 640--> 00: 04: 08, 060
+<!-- ![Alt text](image.png) -->
+<!-- Đây là một ví dụ về cách bản đồ liên hệ của chúng tôi trông giống như mối quan hệ giữa các liên hệ được liên kết được mô tả bằng các chữ cái này trong khối, chúng ta sẽ tìm hiểu các ký hiệu bản đồ ngữ cảnh. -->
+
+21
+00: 04: 08, 300--> 00: 04: 18, 010
+<!-- Trong phần này. Có nhiều lợi ích của việc sử dụng bản đồ liên lạc. Đầu tiên là nó giúp các thành viên trong nhóm dễ dàng hiểu được bức tranh toàn cảnh hơn. -->
+
+22
+00: 04: 18, 050--> 00: 04: 32, 420
+<!-- Tiếp theo là nó giúp hiểu được sự phụ thuộc lẫn nhau giữa các liên hệ bị ràng buộc. 
+Thứ ba là nó giúp các nhóm đánh giá mức độ hợp tác cần thiết với các nhóm khác. -->
+
+23
+00: 04: 32, 600--> 00: 04: 40, 730
+<!-- Bản đồ liên hệ cũng giúp sàng lọc các liên hệ được giới hạn và các mô hình. Chúng ta hãy điểm qua những điểm chính từ bài học này. -->
+
+24
+00: 04: 41, 250--> 00: 04: 58, 940
+ Ý tưởng là nếu chúng ta tạo quá nhiều sự phụ thuộc giữa các liên hệ bị ràng buộc, điều đó sẽ dẫn đến việc mất đi những lợi ích mà chúng ta mong đợi nhận được từ kiến ​​trúc vi dịch vụ .
+
+25
+00: 04: 59, 270--> 00: 05: 09, 950
+Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, chúng ta phải sử dụng các mẫu domain driven design  được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
+
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 
 <!---->
 
-
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 <!--CQRS, EventSourcing, Sagas-->
-
 
 <!--!-->
 

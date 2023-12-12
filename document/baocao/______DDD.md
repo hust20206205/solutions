@@ -141,9 +141,9 @@ Thiết kế hướng miền cung cấp 2 loại mẫu:
 Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
 Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
 
-<!--@ Các mô hình chiến lược (Strategic Patterns) -->
+<!--@ Các mô hình chiến lược (Strategic Patterns)-->
 
-<!--@ Các mẫu kỹ thuật (Tactical Patterns) -->
+<!--@ Các mẫu kỹ thuật (Tactical Patterns)-->
 
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 <!--!======================================================-->

@@ -176,7 +176,7 @@ Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ th�
 
 Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
-  <!-- $VD:  -->
+<!--$VD:-->
 
 ![](pictures/BoiCanhGioiHan/___RanhGioi.png)
 
@@ -191,11 +191,11 @@ Dựa vào trách nhiệm và hoạt động của chuyên gia ngành.
 
 Mỗi liên hệ bị giới hạn phải được thể hiện thông qua một mô hình miền riêng biệt không có sự chia sẻ về mô hình.
 
-<!-- $VD: Hình  mỗi domain có mô hình riêng ... user(id, name) ở domain1, user(id, name,sdt) ở domain2 -->
+<!--$VD: Hình mỗi domain có mô hình riêng ... user(id, name) ở domain1, user(id, name, sdt) ở domain2-->
 
 Những mô hình được tạo và quản lý độc lập bởi các nhóm.
 
-<!--$VD: -->
+<!--$VD:-->
 
 Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có tác dụng trong phạm vi giới hạn của nó.
 

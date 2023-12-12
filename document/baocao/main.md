@@ -16,7 +16,7 @@
 - [2. Giới thiệu chung](#2-giới-thiệu-chung)
   - [Giới thiệu về bài toán hóa đơn điện tử](#giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
   - [Giới thiệu về kiến trúc vi dịch vụ](#giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
-  - [Giới thiệu về  thiết kế hướng miền](#giới-thiệu-về--thiết-kế-hướng-miền)
+  - [Giới thiệu về thiết kế hướng miền](#giới-thiệu-về-thiết-kế-hướng-miền)
 
 <!--!======================================================-->
 
@@ -162,7 +162,7 @@ Việc vận dụng kết hợp giữa kiến trúc vi dịch vụ và thiết k
 
 Bài toán hóa đơn điện tử là một phần quan trọng của quá trình chuyển đổi số. Trong quá khứ, mọi người thường sử dụng hóa đơn giấy truyền thống. Ngày nay, khi có quy định kế toán và quản lý tài chính, hóa đơn điện tử đã trở nên phổ biến giúp giảm bớt sự phụ thuộc vào giấy tờ. Cùng với sự phát triển của công nghệ đã giúp hiệu quả công việc và tối ưu hóa quy trình kế toán và tài chính.
 
-Theo em tìm hiểu có các căn cứ pháp lý liên quan sau đây: 
+Theo em tìm hiểu có các căn cứ pháp lý liên quan sau đây:
 
 <!--@Hóa đơn là gì?-->
 <!--Theo quy định tại khoản 1 Điều 3 Nghị định 123/2020/NĐ-CP:-->
@@ -172,7 +172,7 @@ Hóa đơn là chứng từ kế toán do tổ chức, cá nhân bán hàng hóa
 <!--@Hóa đơn điện tử là gì?-->
 <!--Theo quy định tại khoản 2 Điều 3 Nghị định 123/2020/NĐ-CP:-->
 
-Hóa đơn điện tử là hóa đơn có mã hoặc không có mã của cơ quan thuế được thể hiện ở dạng dữ liệu điện tử do tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ lập bằng phương tiện điện tử để ghi nhận thông tin bán hàng hóa, cung cấp dịch vụ theo quy định của pháp luật về kế toán, pháp luật về thuế, bao gồm cả trường hợp hóa đơn được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế, trong đó: 
+Hóa đơn điện tử là hóa đơn có mã hoặc không có mã của cơ quan thuế được thể hiện ở dạng dữ liệu điện tử do tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ lập bằng phương tiện điện tử để ghi nhận thông tin bán hàng hóa, cung cấp dịch vụ theo quy định của pháp luật về kế toán, pháp luật về thuế, bao gồm cả trường hợp hóa đơn được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế, trong đó:
 
 a. Hóa đơn điện tử có mã của cơ quan thuế là hóa đơn điện tử được cơ quan thuế cấp mã trước khi tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ gửi cho người mua. Mã của cơ quan thuế trên hóa đơn điện tử bao gồm số giao dịch là một dãy số duy nhất do hệ thống của cơ quan thuế tạo ra và một chuỗi ký tự được cơ quan thuế mã hóa dựa trên thông tin của người bán lập trên hóa đơn.
 
@@ -183,7 +183,7 @@ b. Hóa đơn điện tử không có mã của cơ quan thuế là hóa đơn �
 
 Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2022, khuyến khích cơ quan, tổ chức, cá nhân đáp ứng điều kiện về hạ tầng công nghệ thông tin áp dụng quy định về hóa đơn, chứng từ điện tử của Nghị định này trước ngày 01 tháng 7 năm 2022.
 
-=> Theo quy định của Chính phủ và Bộ Tài Chính, tất cả các doanh nghiệp, tổ chức và hộ kinh doanh đều bắt buộc phải chuyển từ sử dụng hóa đơn giấy sang hóa đơn điện tử kể từ tháng 07/2022. Vì vậy, nhu cầu sử dụng và xử lý hóa đơn điện tử trở nên rất lớn. Do đó, em đã chọn chủ đề: 
+=> Theo quy định của Chính phủ và Bộ Tài Chính, tất cả các doanh nghiệp, tổ chức và hộ kinh doanh đều bắt buộc phải chuyển từ sử dụng hóa đơn giấy sang hóa đơn điện tử kể từ tháng 07/2022. Vì vậy, nhu cầu sử dụng và xử lý hóa đơn điện tử trở nên rất lớn. Do đó, em đã chọn chủ đề:
 
 <!--!"Xây dựng kiến trúc vi dịch vụ cho hệ thống quản lý hóa đơn điện tử".-->
 
@@ -196,7 +196,7 @@ Người bán, người mua hàng hoá, dịch vụ sử dụng hóa đơn đi�
 
 <!--Theo quy định tại khoản 5 Điều 41 Luật số 88/2015/QH13-->
 
-5. Tài liệu kế toán phải được lưu trữ theo thời hạn sau đây: 
+5. Tài liệu kế toán phải được lưu trữ theo thời hạn sau đây:
 
 a. Ít nhất là 05 năm đối với tài liệu kế toán dùng cho quản lý, điều hành của đơn vị kế toán, gồm cả chứng từ kế toán không sử dụng trực tiếp để ghi sổ kế toán và lập báo cáo tài chính.
 
@@ -216,8 +216,6 @@ Theo dõi tình hình tài chính của công ty (doanh thu, chi phí, lợi nhu
 Tuân thủ các quy định về thuế và pháp luật.
 Thể hiện tính minh bạch trong quá trình kinh doanh (bảo vệ quyền lợi của cả người mua và người bán).
 
-
-
 ## Giới thiệu về kiến trúc vi dịch vụ
 
 <!--@Kiến trúc nguyên khối-->
@@ -226,7 +224,7 @@ Trước khi kiến trúc vi dịch vụ trở nên phổ biến, kiến trúc n
 Kiến trúc nguyên khối là kiến trúc phần mềm trong đó toàn bộ dự án được xây dựng và triển khai như một đơn vị duy nhất.
 
 Ví dụ: Mô hình MVC (Model-View-Controller) là một trong những dạng của kiến trúc nguyên khối.
-Trong mô hình này, ứng dụng được chia thành ba thành phần chính: 
+Trong mô hình này, ứng dụng được chia thành ba thành phần chính:
 Mô hình (Model): Đại diện cho dữ liệu và logic xử lý dữ liệu.
 Giao diện (View): Đại diện cho giao diện người dùng.
 Bộ điều khiển (Controller): Nhận yêu cầu người dùng thông qua View, sau đó tương tác với Model để làm việc với dữ liệu.
@@ -292,10 +290,7 @@ Ràng buộc về thứ tự sự kiện.
 
 <!--@Có thể thêm giao tiếp trực tiếp gián tiếp-->
 
-
-
-## Giới thiệu về  thiết kế hướng miền
-
+## Giới thiệu về thiết kế hướng miền
 
 <!--Lý do tiếp theo là một trong những lý do lớn nhất khiến tổ chức cần chuyển đổi nhu cầu và mong đợi của khách hàng liên tục thay đổi để duy trì và mở rộng cơ sở khách hàng của mình.-->
 <!--Các tổ chức cần điều chỉnh hoạt động kinh doanh của mình để đáp ứng nhu cầu và mong đợi của khách hàng. Các doanh nghiệp bỏ qua kỳ vọng của khách hàng có xu hướng thua đối thủ cạnh tranh.-->
@@ -307,9 +302,11 @@ Ràng buộc về thứ tự sự kiện.
 
 Trong quá trình hoạt động, không phải mọi doanh nghiệp đều sẽ giữ nguyên mô hình kinh doanh được đưa ra ban đầu của mình. Khi quy mô thị trường thay đổi thì việc chuyển đổi mô hình kinh doanh là điều cần thiết. Chuyển đổi kinh doanh như một công cụ linh hoạt giúp các doanh nghiệp có thể phát triển và tồn tại giữa các đối thủ của mình.
 
-Ví dụ: 
+Ví dụ:
 Amazon từ hiệu sách trực tuyến thành thị trường cho nhà cung cấp khác như: Thương mại điện tử (E-commerce), Dịch vụ đám mây (Cloud Computing), ...
+
 <!--!Thêm google-->
+
 ![](pictures/KienTrucViDichVuAmazon.png)
 ![](pictures/KienTrucViDichVuAmazon.png)
 
@@ -328,9 +325,6 @@ Tuy nhiên, để xây dựng được kiến ​​trúc vi dịch vụ tốt c
 
 Và từ đó, mẫu thiết kế hướng miền sử dụng để phân tích xây dựng kiến ​​trúc vi dịch vụ.
 Thiết kế hướng miền xác định và tổ chức các dịch vụ dựa trên việc hiểu rõ về lĩnh vực kinh doanh, giúp dự án phản ánh đúng các quy trình và quy tắc kinh doanh.
-
-
-
 
 <!--!======================================================-->
 <!---->

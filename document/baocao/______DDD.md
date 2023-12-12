@@ -98,7 +98,6 @@ Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh t
 Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
 <!--$VD: Sau khi phân tích em có cccccccc-->
-<!--!======================================================-->
 
 <!--@Tại sao cần phân loại các miền phụ?-->
 
@@ -111,6 +110,7 @@ Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó
 <!--$VD:-->
 <!--Hướng dẫn: 5/3-->
 
+<!--!======================================================-->
 <!--@Mô hình miền (Domain Models)-->
 
 Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về chính phần mềm đó. Trong thiết kế hướng miền để có thể hiểu miền nhanh, chúng ta tạo ra các mô hình miền.

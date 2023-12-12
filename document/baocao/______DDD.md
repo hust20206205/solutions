@@ -1,5 +1,5 @@
 <!--@Chi tiết và áp dụng thiết kế hướng miền-->
-<!-- @Đôi nét về    thiết kế hướng miền -->
+<!--@Đôi nét về thiết kế hướng miền-->
 <!--@Thiết kế hướng miền là gì?-->
 
 Thiết kế hướng miền được Eric Evans giới thiệu trong cuốn sách “DomainDrivenDesign: Tackling Complexity in the Heart of Software”.

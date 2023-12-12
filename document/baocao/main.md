@@ -15,6 +15,12 @@
   - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
 - [2. Giới thiệu chung](#2-giới-thiệu-chung)
   - [2.1. Giới thiệu về bài toán hóa đơn điện tử](#21-giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
+    - [2.1.1. Hóa đơn](#211-hóa-đơn)
+    - [2.1.2. Hóa đơn điện tử](#212-hóa-đơn-điện-tử)
+    - [2.1.3. Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.](#213-bắt-buộc-sử-dụng-hóa-đơn-điện-tử-từ-01072022)
+    - [2.1.4. Bản thể hiện của hóa đơn điện tử:](#214-bản-thể-hiện-của-hóa-đơn-điện-tử)
+    - [2.1.5. Lưu trữ hóa đơn điện tử](#215-lưu-trữ-hóa-đơn-điện-tử)
+    - [2.1.6. Một số lợi ích của hóa đơn điện tử:](#216-một-số-lợi-ích-của-hóa-đơn-điện-tử)
   - [2.2. Giới thiệu về kiến trúc vi dịch vụ](#22-giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
   - [2.3. Giới thiệu về thiết kế hướng miền](#23-giới-thiệu-về-thiết-kế-hướng-miền)
 
@@ -164,13 +170,15 @@ Bài toán hóa đơn điện tử là một phần quan trọng của quá trì
 
 Theo em tìm hiểu có các căn cứ pháp lý liên quan sau đây:
 
-<!--@Hóa đơn là gì?-->
-<!--Theo quy định tại khoản 1 Điều 3 Nghị định 123/2020/NĐ-CP:-->
+### 2.1.1. Hóa đơn
+
+> Theo quy định tại khoản 1 Điều 3 Nghị định 123/2020/NĐ-CP:
 
 Hóa đơn là chứng từ kế toán do tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ lập, ghi nhận thông tin bán hàng hóa, cung cấp dịch vụ. Hóa đơn được thể hiện theo hình thức hóa đơn điện tử hoặc hóa đơn do cơ quan thuế đặt in.
 
-<!--@Hóa đơn điện tử là gì?-->
-<!--Theo quy định tại khoản 2 Điều 3 Nghị định 123/2020/NĐ-CP:-->
+### 2.1.2. Hóa đơn điện tử
+
+> Theo quy định tại khoản 2 Điều 3 Nghị định 123/2020/NĐ-CP:
 
 Hóa đơn điện tử là hóa đơn có mã hoặc không có mã của cơ quan thuế được thể hiện ở dạng dữ liệu điện tử do tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ lập bằng phương tiện điện tử để ghi nhận thông tin bán hàng hóa, cung cấp dịch vụ theo quy định của pháp luật về kế toán, pháp luật về thuế, bao gồm cả trường hợp hóa đơn được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế, trong đó:
 
@@ -178,8 +186,9 @@ a. Hóa đơn điện tử có mã của cơ quan thuế là hóa đơn điện 
 
 b. Hóa đơn điện tử không có mã của cơ quan thuế là hóa đơn điện tử do tổ chức bán hàng hóa, cung cấp dịch vụ gửi cho người mua không có mã của cơ quan thuế.
 
-<!--@Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.-->
-<!--Theo quy định tại khoản 1 Điều 59 Nghị định 123/2020/NĐ-CP:-->
+### 2.1.3. Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.
+
+> Theo quy định tại khoản 1 Điều 59 Nghị định 123/2020/NĐ-CP:
 
 Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2022, khuyến khích cơ quan, tổ chức, cá nhân đáp ứng điều kiện về hạ tầng công nghệ thông tin áp dụng quy định về hóa đơn, chứng từ điện tử của Nghị định này trước ngày 01 tháng 7 năm 2022.
 
@@ -187,16 +196,17 @@ Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 
 
 <!--!"Xây dựng kiến trúc vi dịch vụ cho hệ thống quản lý hóa đơn điện tử".-->
 
-<!--@Bản thể hiện của hóa đơn điện tử:-->
+### 2.1.4. Bản thể hiện của hóa đơn điện tử:
 
-<!--@Lưu trữ hóa đơn điện tử như thế nào?-->
-<!--Theo quy định tại khoản 1 Điều 11 Thông tư 32/2011/TT-BTC:-->
+### 2.1.5. Lưu trữ hóa đơn điện tử
+
+> Theo quy định tại khoản 1 Điều 11 Thông tư 32/2011/TT-BTC:
 
 Người bán, người mua hàng hoá, dịch vụ sử dụng hóa đơn điện tử để ghi sổ kế toán, lập báo cáo tài chính phải lưu trữ hóa đơn điện tử theo thời hạn quy định của Luật Kế toán. Trường hợp hóa đơn điện tử được khởi tạo từ hệ thống của tổ chức trung gian cung cấp giải pháp hóa đơn điện tử thì tổ chức trung gian này cũng phải thực hiện lưu trữ hóa đơn điện tử theo thời hạn nêu trên.
 
-<!--Theo quy định tại khoản 5 Điều 41 Luật số 88/2015/QH13-->
+>     Theo quy định tại khoản 5 Điều 41 Luật số 88/2015/QH13
 
-5. Tài liệu kế toán phải được lưu trữ theo thời hạn sau đây:
+1. Tài liệu kế toán phải được lưu trữ theo thời hạn sau đây:
 
 a. Ít nhất là 05 năm đối với tài liệu kế toán dùng cho quản lý, điều hành của đơn vị kế toán, gồm cả chứng từ kế toán không sử dụng trực tiếp để ghi sổ kế toán và lập báo cáo tài chính.
 
@@ -206,7 +216,7 @@ c. Lưu trữ vĩnh viễn đối với tài liệu kế toán có tính sử li
 
 => Như vậy, hóa đơn điện tử dạng tệp XML sẽ được lưu trữ trên hệ thống hóa đơn điện tử của nhà cung cấp hoặc doanh nghiệp có thể tải về để tự lưu trữ. Thời gian lưu trữ là 10 năm theo quy định của pháp luật.
 
-<!--@Một số lợi ích của hóa đơn điện tử:-->
+### 2.1.6. Một số lợi ích của hóa đơn điện tử:
 
 Giúp tiết kiệm chi phí in ấn, lưu trữ và bảo quản.
 Loại bỏ rủi ro cháy, hỏng hoặc mất và dễ dàng sao lưu.

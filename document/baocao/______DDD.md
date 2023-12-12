@@ -280,17 +280,8 @@ Từ đó, tách việc quản lí các mô hình hạt nhân chung này một c
 Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng các thư viện chung. Tuy nhiên, chỉ sử dụng mô hình hạt nhân chung nếu quan hệ của các liên hệ nhỏ nếu không thì sẽ tăng tính phụ thuộc làm phức tạp các dịch vụ.
 <!--$VD: hình giao như 2 tập hợp-->
 
-<!--!======================================================-->
-<!--các ký hiệu bản đồ ngữ cảnh.-->
-
-<!--mô hình tuân thủ-->
+<!--!======================================================--> 
 <!--mô hình lớp chống tham nhũng-->
-<!--!mẫu phù hợp (Conformist Pattern)-->
-<!--mô hình tuân thủ-->
-
-Trong trường hợp Upstream hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu của Downstream
-
-<!--CF-U-->
 <!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
 
 chống đổ vỡ
@@ -307,7 +298,7 @@ quyết định tạo ra mô hình của riêng mình thay vì áp dụng các m
 trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến ​​thức gì về mô hình của nhau.
 ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
-<!--: Customer-Supplier, Conformist, Anti Corruption Layer-->
+<!--:     Anti Corruption Layer-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
@@ -320,6 +311,7 @@ Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có s
 
 Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
 Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác.
+<!-- !ký hiệu: D   - U -->
 <!--$VD:-->
 <!--$VD: A Downstream (D) - B Upstream (U)-->
 <!--$VD: Bối cảnh A ràng buộc với bối cảnh B thì:-->
@@ -331,33 +323,26 @@ Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn ph�
 Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
 Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng.
 Đối với mô hình này cần tạo một bộ kiểm thử tích hợp tự động của nhóm nhà cung cấp, nhằm kiểm tra tính đúng đắn theo nhu cầu nhóm khách hàng.
+<!--@Mô hình tuân thủ  (Conformist Pattern)--> 
+Mô hình tuân thủ    là   một mối quan hệ trong đó bối cảnh giới hạn hạ lưu    áp dụng mô hình, ngôn ngữ chung và   các khái niệm được sử dụng bởi  bối cảnh giới hạn thượng nguồn.
+Cả hai bối cảnh   giới hạn đều sử dụng cùng một mô hình.   Vì vậy, chúng ta   không cần dịch  mô hình  giữa các       bối cảnh giới hạn.
+<!-- !ký hiệu: CF  - U -->
+<!--$VD:-->
+<!-- $VD: A - CF  - U - B  -->
+<!-- $VD: A - users(id,name)   - B cũng users(id,name)  -->
 
-<!--@=======================-->
+<!--@=======================-->   
 
-<!--Hãy thảo luận về tùy chọn số hai, trong đó bối cảnh giới hạn ngược dòng hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu nào của bối cảnh giới hạn ngược dòng.-->
-00: 02: 57, 210--> 00: 03: 05, 430
 
-Trong kịch bản, bối cảnh giới hạn xuôi dòng ngoại trừ các mô hình được hiển thị bởi bối cảnh giới hạn ngược dòng.
+<!-- Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng. -->
 
-Kiểu quan hệ này được gọi là mô hình tuân thủ. Trong mẫu này, bối cảnh ranh giới hạ lưu tuân theo các mô hình bối cảnh giới hạn thượng nguồn để mô tả mối quan hệ này, chữ D bên cạnh bối cảnh giới hạn hạ lưu được thay thế bằng ghế F, do đó, trong bối cảnh giới hạn sơ đồ này, nó phù hợp với các mô hình được biểu thị bởi bối cảnh giới hạn .
+<!-- Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn . -->
 
-B Một điểm quan trọng cần lưu ý ở đây là cả hai bối cảnh được giới hạn đều sử dụng cùng một mô hình. Để cho chúng ta một ví dụ từ lĩnh vực ngân hàng.
+<!-- Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn . -->
 
-Giả sử có thẻ tín dụng ngữ cảnh giới hạn và bối cảnh giới hạn để quản lý khách hàng. Đội ngũ quản lý khách hàng phát triển và làm chủ mô hình cho khách hàng và ranh giới quản lý khách hàng.
+<!-- Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng và mô hình này còn được gọi là Antichrist. -->
 
-Ngữ cảnh đóng vai trò ngược dòng đối với thẻ tín dụng. Nhóm thẻ tín dụng quyết định áp dụng mô hình do nhóm quản lý khách hàng tạo ra và quản lý.
-
-Trong trường hợp đó, họ sẽ không cần dịch đối tượng khách hàng giữa các liên hệ được giới hạn.
-
-Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
-
-Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
-
-Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .
-
-Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng và mô hình này còn được gọi là Antichrist.
-
-Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. Loại mối quan hệ này được mô tả bằng cách thay thế ACL.
+<!-- Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. Loại mối quan hệ này được mô tả bằng cách thay thế ACL. -->
 
 Vì vậy, ở đây chúng tôi đang mô tả mối quan hệ giữa A và B trong mỗi bối cảnh liên kết này, có mô hình riêng.
 

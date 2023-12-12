@@ -169,16 +169,12 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--!======================================================-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
+
 Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
 
 => Bối cảnh giới hạn giúp định rõ các ranh giới, chia miền thành các phần độc lập để giải quyết sự phức tạp trong mô hình doanh nghiệp.
 Bối cảnh giới hạn thể hiện phạm vi kinh doanh của vi dịch vụ.
 Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ trong miền kinh doanh.
-
-
-
-
-
 
 <!--Một số đặc điểm:-->
 
@@ -198,10 +194,8 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 
 <!--Hướng dẫn 5/10-->
 
-
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-
 
 **Tích hợp Liên tục (CI/CD)**
 
@@ -237,7 +231,6 @@ Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mìn
 
 <!--[](3.0.TrienKhaiKienTrucKienTrucViDichVu.md)-->
 <!--CQRS, EventSourcing, Sagas-->
-
 
 [](2.7.CICD.md)
 
@@ -683,6 +676,7 @@ Trong trường hợp Upstream hiển thị các mô hình mà không liên quan
 
 <!--CF-U-->
 <!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
+
 chống đổ vỡ
 bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
 quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh bị giới hạn.

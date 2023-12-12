@@ -139,9 +139,11 @@ Các mô hình chiến lược được sử dụng để chia một vấn đề
 Các mẫu kỹ thuật được sử dụng để chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
 
 Mẫu chiến lược áp dụng trên nhiều bối cảnh bị giới hạn, trong khi các mẫu kỹ thuật chỉ có thể áp dụng trong bối cảnh bị giới hạn.
-<!-- @Các khuôn mẫu trong domain driven design  -->
 
-domain driven design cung cấp 2 loại mẫu:
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+
+Thiết kế hướng miền cung cấp 2 loại mẫu:
+
 <!--Strategic và Tactical Patterns-->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 <!--!======================================================-->
@@ -657,6 +659,7 @@ Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phố
 <!--$VD:-->
 
 <!--Hãy giúp tôi sửa lỗi chính và ngữ pháp:-->
+
 **Miền (Domain)**
 
 <!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ bị chặn.-->

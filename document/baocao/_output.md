@@ -1,8 +1,3 @@
-
-\05DomainDrivenDesignStrategicPatterns_VVN\000000005.srt-->
-
-1
-00: 00: 00, 150--> 00: 00: 08, 760
 Nhóm kinh doanh sử dụng ngôn ngữ kinh doanh, trong khi nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ.
 
 2

@@ -1,5 +1,5 @@
 from modules.MyImport import MyImport
-MyImport.Import()
+# MyImport.Import()
 from modules.MyNow import MyNow
 message = "VuVanNghia20206205"
 message = MyNow()
@@ -13,17 +13,16 @@ MyClose.ScrollBar()
 # MyClose.CollapseFolders()
 MyClose.CloseAll()
 MyClose.Target(2)
-MyClose.Terminal()
-from modules.MyChrome import MyChrome
+# MyClose.Terminal()
+# from modules.MyChrome import MyChrome
 # MyChrome("https://github.com/vvn20206205/test")
 # MyChrome()
 import glob
 import os
-print(os.getcwd())
-# os.chdir("document/latex")
-print(os.getcwd())
-# latex_folder = os.getcwd()
-# # file_paths = glob.glob(os.path.join(latex_folder, f'**/*.tex'), recursive=True)
+latex_folder = os.getcwd()
+file_paths = glob.glob(os.path.join(latex_folder, f'**/*.tex'), recursive=True)
+for file_path in file_paths:
+    print(file_path)
  
 
 # #     content = content.replace('\\\\', '             \\\\          ')

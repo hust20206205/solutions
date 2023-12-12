@@ -157,7 +157,7 @@ Ngôn ngữ chung phát triển theo thời gian thông qua sự cộng tác gi�
 Việc tạo ra ngôn ngữ chung là một quá trình liên tục.
 Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.
 
-<!--$VD: Ngôn ngư chung sử dụng trong: ...-->
+<!--$VD: Ngôn ngữ chung   sử dụng trong toàn bộ hệ thống: ...-->
 
 ![](image-1.png)
 

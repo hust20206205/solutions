@@ -1,38 +1,4 @@
-<!--@ \03IntroductiontoDomainDrivenDesign_VVN\000000001.srt-->
-
-Hãy bắt đầu với ngôn ngữ tiếng Anh. Định nghĩa về miền hoặc miền được định nghĩa là một phạm vi kiến ​​thức, ảnh hưởng hoặc hoạt động.
-
-4
-00: 00: 26, 760--> 00: 00: 34, 710
-Dưới đây là ví dụ về các miền thuộc lĩnh vực kỹ thuật và khoa học. Một nhà hóa học có sự hiểu biết thấu đáo về hóa chất.
-
-5
-00: 00: 34, 920--> 00: 00: 42, 280
-Các hoạt động họ thực hiện bao gồm thử nghiệm các loại hóa chất khác nhau trong lĩnh vực khoa học vũ trụ.
-
-6
-00: 00: 42, 330--> 00: 00: 56, 160
-Các nhà khoa học có kiến ​​thức về cách đi lại trong không gian và các hoạt động có thể bao gồm hiểu biết về tác động của tình trạng không trọng lực lên cơ thể con người và điều đó có thể ảnh hưởng đến thiết kế của các trạm vũ trụ.
-
-7
-00: 00: 56, 180--> 00: 01: 04, 610
-Vì vậy, nếu bạn nghĩ về góc độ kinh doanh của tên miền hoặc tên miền, hãy đại diện cho một lĩnh vực hoặc ngành mà doanh nghiệp hoạt động.
-
-8
-00: 01: 04, 950--> 00: 01: 15, 830
-Ví dụ: Banking Chase và Bank of America hoạt động trong ngành ngân hàng. Oil and gas Shell và BP hoạt động trong lĩnh vực dầu khí.
-
-9
-00: 01: 15, 840--> 00: 01: 23, 490
-Và sau đó là bán lẻ và nhiều ngành khác mà bạn có thể nghĩ tới. Bây giờ chúng ta hãy nhìn vào miền từ góc độ phần mềm.
-
-10
-00: 01: 23, 730--> 00: 01: 34, 920
-Tên miền có thể được coi là đại diện cho không gian vấn đề cho phần mềm đó, ví dụ: thương mại điện tử, phương tiện truyền thông xã hội, phương tiện truyền thông, phát trực tuyến và lập kế hoạch tài nguyên.
-
-11
-00: 01: 35, 220--> 00: 01: 42, 780
-Đây là tất cả các ví dụ về miền cho hệ thống phần mềm. Tên miền được tạo thành từ nhiều tên miền phụ.
+  Tên miền được tạo thành từ nhiều tên miền phụ.
 
 12
 00: 01: 42, 810--> 00: 01: 57, 930

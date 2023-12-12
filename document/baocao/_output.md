@@ -1,6 +1,4 @@
 
-<!--@\06BoundedContextRelationships_VVN\000000004.srt-->
-
 1
 00: 00: 00, 180--> 00: 00: 15, 200
 Mối quan hệ bất đối xứng trong bài học này, chúng ta học hai thuật ngữ mới, bối cảnh ranh giới thượng nguồn và bối cảnh ranh giới hạ lưu, đồng thời tôi sẽ đề cập đến ba mô hình mô hình cung ứng khách hàng, mô hình tuân thủ và mô hình lớp chống tham nhũng.

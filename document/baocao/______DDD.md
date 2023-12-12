@@ -159,10 +159,10 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 
 <!--[Tổng quan mối quan hệ] Bản đồ bối cảnh (Context Maps)-->
 
+<!--Symmetric Relationship: Separate ways,   Shared Kernel-->
+<!--Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!---->
 
-<!--Symmetric Relationship: Separate ways, Partnership, Shared Kernel-->
-<!--Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!--One-to-Many Relationship: Open Host Service, Published Language-->
 
 <!--dịch và cách ly đơn phương với-->
@@ -260,9 +260,6 @@ Giúp các nhóm đánh giá mức độ hợp tác với các nhóm khác.
 Giúp sàng lọc các liên hệ giới hạn và các mô hình.
 Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 
-<!--!======================================================-->
-<!--!Mối quan hệ bất đối xứng-->
-
 <!--@Mối quan hệ đối xứng (Symmetric Relationship)-->
 <!--@Mô hình riêng biệt (Separate Ways)-->
 
@@ -281,8 +278,86 @@ Một cách để giải quyết vấn đề này là tạo ranh giới cho các
 Từ đó, tách việc quản lí các mô hình hạt nhân chung này một cách độc lập với phần còn lại của bối cảnh giới hạn. Khi cần đưa ra quyết định thay đổi mà không phải của mô hình hạt nhân chung thì nhóm sẽ đưa ra quyết định hoạt động độc lập.
 
 Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng các thư viện chung. Tuy nhiên, chỉ sử dụng mô hình hạt nhân chung nếu quan hệ của các liên hệ nhỏ nếu không thì sẽ tăng tính phụ thuộc làm phức tạp các dịch vụ.
+<!--$VD: hình giao như 2 tập hợp -->
 
 <!--!======================================================-->
+<!-- : Customer-Supplier, Conformist, Anti Corruption Layer -->
+<!-- @Mối quan hệ  bất đối xứng (Asymmetric Relationship) -->
+
+
+<!--// C: \Users\ionships_VVN\000000004.srt-->
+<!--các ký hiệu bản đồ ngữ cảnh.-->
+
+<!--Mối quan hệ bất đối xứng-->
+
+<!--Loại mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn .-->
+
+Bối cảnh A ràng buộc với bối cảnh B thì:
+Bối cảnh A đóng vai trò là bối cảnh ranh giới hạ lưu (Downstream)
+Bối cảnh B đóng vai trò là bối cảnh ranh giới thượng nguồn (Upstream)
+Bối cảnh giới hạn A có kiến thức về các mô hình trong Bối cảnh giới hạn B
+Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A
+
+<!--D-U-->
+<!--!Mô hình khách hàng-nhà cung cấp (Customer-Supplier Pattern)-->
+
+Trong trường hợp Upstream đáp ứng một số nhu cầu cụ thể của Downstream
+Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
+
+<!--!mẫu phù hợp (Conformist Pattern)-->
+<!--mô hình tuân thủ-->
+
+Trong trường hợp Upstream hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu của Downstream
+
+<!--CF-U-->
+<!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
+
+chống đổ vỡ
+bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
+quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
+
+<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
+
+<!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng-->
+
+<!--Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng.-->
+<!--ACL-U-->
+
+trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến ​​thức gì về mô hình của nhau.
+ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
+Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
+
+<!--!Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
+<!--!Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.-->
+<!--!Bối cảnh giới hạn ngược dòng điều chỉnh các mô hình theo nhu cầu của bối cảnh giới hạn xuôi dòng, trong khi ở mẫu tuân thủ, bối cảnh giới hạn ngược dòng không liên quan đến nhu cầu của bối cảnh giới hạn xuôi dòng.-->
+<!--!Và do đó, bối cảnh ranh giới phía hạ nguồn phù hợp với các mô hình thượng nguồn. Để bảo vệ bối cảnh ranh giới hạ nguồn, các nhóm sẽ quyết định sử dụng lớp chống tham nhũng.-->
+<!--!Lớp chống tham nhũng này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng.-->
+<!--!Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
+
+<!--// C: \Users\ionships_VVN\000000005.srt-->
+<!--One to Many Relationship-->
+
+Bối cảnh ranh giới cung cấp các dịch vụ chung được gọi là dịch vụ nguồn mở
+
+<!--Mở dịch vụ máy chủ Open Host Service-->
+
+mô tả dịch vụ chung này dưới dạng mẫu được đặt trước bối cảnh giới hạn ngược dòng cung cấp các dịch vụ chung, bối cảnh giới hạn ngược dòng hoặc nhà cung cấp dịch vụ được lưu trữ mở trong mối quan hệ này cung cấp một ngôn ngữ chung để tích hợp.
+Đối tác đầu tiên, mẫu dịch vụ được lưu trữ mở, trong đó bối cảnh kết hợp ngược dòng cung cấp một tập hợp các dịch vụ chung hoặc khả năng chung cho bối cảnh giới hạn xuôi dòng.
+
+<!--D-OHS-->
+<!--Published Language-->
+<!--Ngôn ngữ được xuất bản-->
+
+Ngôn ngữ chung này được các nhóm làm việc trong bối cảnh giới hạn ở hạ lưu chấp nhận. Ngôn ngữ chung này được gọi là ngôn ngữ được xuất bản và mẫu này được gọi là mẫu ngôn ngữ được xuất bản.
+
+<!--D-OHS|PL-->
+
+Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với dịch vụ lưu trữ mở. Trở lại ngược dòng, các liên hệ được giới hạn trên nhà cung cấp dịch vụ được lưu trữ mở sẽ hiển thị ngôn ngữ chung cho các dịch vụ chung và ngôn ngữ này được quản lý bởi nhóm chịu trách nhiệm về dịch vụ được lưu trữ mở, các liên hệ được giới hạn ở hạ nguồn ngoại trừ ngôn ngữ được xuất bản này.
+
+<!--Hướng dẫn 6/6-->
+<!---->
+<!--!======================================================--> 
+
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 
 <!---->
@@ -657,77 +732,6 @@ https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-
 
 <!--Hãy giúp tôi sửa lỗi chính và ngữ pháp:-->
 
-<!--// C: \Users\ionships_VVN\000000004.srt-->
-<!--các ký hiệu bản đồ ngữ cảnh.-->
-
-<!--Mối quan hệ bất đối xứng-->
-
-<!--Loại mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn .-->
-
-Bối cảnh A ràng buộc với bối cảnh B thì:
-Bối cảnh A đóng vai trò là bối cảnh ranh giới hạ lưu (Downstream)
-Bối cảnh B đóng vai trò là bối cảnh ranh giới thượng nguồn (Upstream)
-Bối cảnh giới hạn A có kiến thức về các mô hình trong Bối cảnh giới hạn B
-Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A
-
-<!--D-U-->
-<!--!Mô hình khách hàng-nhà cung cấp (Customer-Supplier Pattern)-->
-
-Trong trường hợp Upstream đáp ứng một số nhu cầu cụ thể của Downstream
-Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
-
-<!--!mẫu phù hợp (Conformist Pattern)-->
-<!--mô hình tuân thủ-->
-
-Trong trường hợp Upstream hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu của Downstream
-
-<!--CF-U-->
-<!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
-
-chống đổ vỡ
-bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
-quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
-
-<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
-
-<!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng-->
-
-<!--Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng.-->
-<!--ACL-U-->
-
-trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến ​​thức gì về mô hình của nhau.
-ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
-Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
-
-<!--!Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
-<!--!Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.-->
-<!--!Bối cảnh giới hạn ngược dòng điều chỉnh các mô hình theo nhu cầu của bối cảnh giới hạn xuôi dòng, trong khi ở mẫu tuân thủ, bối cảnh giới hạn ngược dòng không liên quan đến nhu cầu của bối cảnh giới hạn xuôi dòng.-->
-<!--!Và do đó, bối cảnh ranh giới phía hạ nguồn phù hợp với các mô hình thượng nguồn. Để bảo vệ bối cảnh ranh giới hạ nguồn, các nhóm sẽ quyết định sử dụng lớp chống tham nhũng.-->
-<!--!Lớp chống tham nhũng này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng.-->
-<!--!Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
-
-<!--// C: \Users\ionships_VVN\000000005.srt-->
-<!--One to Many Relationship-->
-
-Bối cảnh ranh giới cung cấp các dịch vụ chung được gọi là dịch vụ nguồn mở
-
-<!--Mở dịch vụ máy chủ Open Host Service-->
-
-mô tả dịch vụ chung này dưới dạng mẫu được đặt trước bối cảnh giới hạn ngược dòng cung cấp các dịch vụ chung, bối cảnh giới hạn ngược dòng hoặc nhà cung cấp dịch vụ được lưu trữ mở trong mối quan hệ này cung cấp một ngôn ngữ chung để tích hợp.
-Đối tác đầu tiên, mẫu dịch vụ được lưu trữ mở, trong đó bối cảnh kết hợp ngược dòng cung cấp một tập hợp các dịch vụ chung hoặc khả năng chung cho bối cảnh giới hạn xuôi dòng.
-
-<!--D-OHS-->
-<!--Published Language-->
-<!--Ngôn ngữ được xuất bản-->
-
-Ngôn ngữ chung này được các nhóm làm việc trong bối cảnh giới hạn ở hạ lưu chấp nhận. Ngôn ngữ chung này được gọi là ngôn ngữ được xuất bản và mẫu này được gọi là mẫu ngôn ngữ được xuất bản.
-
-<!--D-OHS|PL-->
-
-Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với dịch vụ lưu trữ mở. Trở lại ngược dòng, các liên hệ được giới hạn trên nhà cung cấp dịch vụ được lưu trữ mở sẽ hiển thị ngôn ngữ chung cho các dịch vụ chung và ngôn ngữ này được quản lý bởi nhóm chịu trách nhiệm về dịch vụ được lưu trữ mở, các liên hệ được giới hạn ở hạ nguồn ngoại trừ ngôn ngữ được xuất bản này.
-
-<!--Hướng dẫn 6/6-->
-<!---->
 
 <!--@Mô hình kinh doanh (Business Model Canvas)-->
 <!--Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh.-->

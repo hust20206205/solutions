@@ -72,36 +72,33 @@ Thành công của một doanh nghiệp nằm ở miền phụ cốt lõi. Vì m
 
 <!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
 
-<!--!======================================================-->
-
 Các miền phụ cốt lõi phụ thuộc vào các miền phụ hỗ trợ.
 
 Miền phụ hỗ trợ cung cấp các dịch vụ để miền phụ cốt lõi hoạt động hiệu quả.
 
 Miền phụ hỗ trợ không có mức độ phức tạp cao về logic nghiệp vụ.
 
-<!--$VD:-->
-<!--phụ thuộc rất nhiều vào bộ phận hỗ trợ khách hàng-->
-<!---->
-<!---->
-<!---->
+<!-- $VD: miền  phụ     hỗ trợ chăm sóc khách hàng -->
+
 <!--@Cách xác định các miền phụ-->
+<!-- Sơ đồ: -->
 
-Sơ đồ:
-![](pictures/XacDinhTenMienPhu/_XacDinhTenMienPhu.png)
+![Alt text](pictures/XacDinhMienPhu/_XacDinhMienPhu.png)
 
-Diễn giải:
+<!-- Mô tả: -->
+
 Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
 
-Nếu có sẵn giải pháp đã biết thì có khả năng là Miền phụ chung. Ngược lại, nghiệp vụ đó thêm bất kỳ giá trị kinh doanh nào không.
+Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không?
 
-Nếu không có giá trị kinh doanh thì kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Và câu trả lời đó là có thì có khả năng là miền phụ hỗ trợ. Nếu câu trả lời là không thì đó là miền phụ chung.
+Nếu không có giá trị kinh doanh thì chúng ta kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Nếu có thì có khả năng là miền phụ hỗ trợ. Nếu không thì đó là miền phụ chung.
 
 Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không?
 
-Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Nếu không thì nó có khả năng là miền phụ cốt lõi.
+Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
 <!--$VD: Sau khi phân tích em có cccccccc-->
+<!--!======================================================-->
 
 <!--@Tại sao cần phân loại các miền phụ?-->
 

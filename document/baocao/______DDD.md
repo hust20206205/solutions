@@ -132,7 +132,7 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
-<!--$VD: Ở đồ án này, mô hình miền bao gồm   các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
+<!--$VD: Ở đồ án này, mô hình miền bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 
 
 <!--@Mô hình kinh doanh (Business Model Canvas)-->

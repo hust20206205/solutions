@@ -1,6 +1,8 @@
 - [Trang bìa](#trang-bìa)
 - [Nhận xét của giảng viên](#nhận-xét-của-giảng-viên)
 - [Mục lục](#mục-lục)
+- [Lời cảm ơn](#lời-cảm-ơn)
+- [Lời mở đầu](#lời-mở-đầu)
 
 # Trang bìa
 
@@ -51,7 +53,12 @@ Giảng viên hướng dẫn
 
 \tableofcontents
 
-<!--[](0.2.LoiCamOn_LoiMoDau.md)-->
+# Lời cảm ơn
+
+# Lời mở đầu
+
+<!--!======================================================-->
+
 <!--Tóm tắt nội dung đồ án-->
 <!--[](0.3.TomTatNoiDungDoAn.md)-->
 <!--Đánh giá và thảo luận-->

@@ -169,8 +169,7 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--!======================================================-->
 <!--@Bối cảnh giới hạn (Bounded Context)-->
-<!--Bounded Context: Bối cảnh giới hạn là gì?-->
-<!--V Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của vi dịch vụ.-->
+<!--  Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của vi dịch vụ.-->
 
 Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
 
@@ -239,7 +238,7 @@ Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mìn
 <!--CQRS, EventSourcing, Sagas-->
 
 
-[](2.7.CICD.md) 
+[](2.7.CICD.md)
 
 <!--!-->
 

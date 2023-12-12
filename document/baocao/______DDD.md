@@ -318,9 +318,7 @@ Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn ph�
 <!--$VD: Bối cảnh giới hạn A có kiến thức về các mô hình trong bối cảnh giới hạn B-->
 <!--$VD: Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A-->
 <!--@Mô hình khách hàng - nhà cung cấp (Customer - Supplier Pattern)-->
-Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng     nhu cầu của bối cảnh giới hạn hạ lưu.
- 
-
+Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
 
 
 Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
@@ -329,8 +327,7 @@ Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý k
 <!--mô hình tuân thủ-->
 <!--mô hình lớp chống tham nhũng-->
 
-
- <!-- Hãy nghĩ về nó giống như một máy chủ khách, Pachon, trong đó máy chủ tạo ra các giao diện dựa trên nhu cầu của khách hàng. -->
+<!--Hãy nghĩ về nó giống như một máy chủ khách, Pachon, trong đó máy chủ tạo ra các giao diện dựa trên nhu cầu của khách hàng.-->
 
 12
 00: 02: 31, 260--> 00: 02: 44, 910
@@ -446,7 +443,6 @@ Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có ki�
 
 <!--@=======================-->
 
-
 <!--!Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
 <!--!Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.-->
 <!--!Bối cảnh giới hạn ngược dòng điều chỉnh các mô hình theo nhu cầu của bối cảnh giới hạn xuôi dòng, trong khi ở mẫu tuân thủ, bối cảnh giới hạn ngược dòng không liên quan đến nhu cầu của bối cảnh giới hạn xuôi dòng.-->
@@ -456,19 +452,16 @@ Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có ki�
 
 <!--// C: \Users\ionships_VVN\000000005.srt-->
 
-
-
-
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
 <!--One to Many Relationship-->
 
 Bối cảnh ranh giới cung cấp các dịch vụ chung được gọi là dịch vụ nguồn mở

@@ -1,22 +1,15 @@
 
 
-<!--@\05DomainDrivenDesignStrategicPatterns_VVN\000000008.srt-->
 
-1
-00: 00: 00, 180--> 00: 00: 10, 490
-Bối cảnh liên kết trong một trong những bài giảng trước đây tôi đã giới thiệu với chúng ta với Tom Bodett, bối cảnh và bối cảnh là một trong những mô hình chiến lược trong thiết kế hướng miền.
 
-2
-00: 00: 10, 740--> 00: 00: 18, 870
-Trong bài học này, tôi đã thảo luận về những thách thức liên quan đến việc sử dụng một mô hình chung trên nhiều miền phụ.
 
-3
-00: 00: 18, 900--> 00: 00: 29, 580
-Những thách thức đạo đức chung này được giải quyết bằng bối cảnh hỗn hợp. Tôi đã thảo luận về các đặc điểm của bối cảnh liên kết, sau đó là thảo luận về mối quan hệ giữa bối cảnh liên kết và các mô hình miền.
 
-4
-00: 00: 30, 120--> 00: 00: 45, 040
-Các mô hình miền doanh nghiệp thường được tạo bằng cách bố trí các khả năng của miền trong doanh nghiệp. Vì vậy, trong lĩnh vực ngân hàng, có nhiều khả năng như ngân hàng bán lẻ, cho vay tuân thủ thẻ tín dụng và quản lý khách hàng.
+
+
+
+
+
+
 
 5
 00: 00: 45, 060--> 00: 00: 54, 860
@@ -44,7 +37,7 @@ Và sự phụ thuộc này sẽ dẫn đến mất đi tính linh hoạt, xung 
 
 11
 00: 01: 57, 630--> 00: 02: 06, 600
-Và đây là vấn đề với mô hình miền chung. Bằng cách chia miền thành các phần độc lập được gọi là bối cảnh bị chặn.
+<!-- Và đây là vấn đề với mô hình miền chung. Bằng cách chia miền thành các phần độc lập được gọi là bối cảnh bị chặn. -->
 
 12
 00: 02: 06, 870--> 00: 02: 19, 350

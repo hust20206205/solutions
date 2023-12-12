@@ -25,7 +25,7 @@ VIỆN TOÁN ỨNG DỤNG VÀ TIN HỌC
 
 BÁO CÁO ĐỒ ÁN II
 
-ĐỀ TÀI: 
+ĐỀ TÀI:
 
 <!--Xây dựng kiến trúc vi dịch vụ cho bài toán hóa đơn điện tử-->
 
@@ -85,6 +85,7 @@ auto
 auto
 
 ## 1.11. Danh sách các cụm từ viết tắt
+
 <!--@sau-->
 
 <!--STT; Từ viết tắt; Từ viết đầy đủ; Mô tả-->
@@ -122,6 +123,7 @@ ORM
 SQL
 
 ## 1.12. Danh sách các thuật ngữ
+
 <!--@sau-->
 
 <!--STT; Tiếng Anh; Tiếng Việt-->
@@ -141,9 +143,16 @@ Thiết kế hướng lĩnh vực
 3 Abstraction Trừu tượng
 4 chuyên gia ngành
 
+# Giới thiệu chung
+
+Trong thời đại ngày nay, nhu cầu phát triển ứng dụng và hệ thống phức tạp ngày càng tăng, đặt ra thách thức lớn đối với kiến trúc phần mềm. Kiến trúc nguyên khối đã phục vụ hiệu quả trong quá khứ, nhưng kiến trúc này bắt đầu gặp khó khăn đối mặt với sự phức tạp, khả năng mở rộng và khả năng đáp ứng linh hoạt với thay đổi nhanh chóng trong yêu cầu kinh doanh.
+
+Kiến trúc vi dịch vụ là giải pháp cho những thách thức này. Kiến trúc vi dịch vụ chia dự án thành những dịch vụ nhỏ độc lập, mỗi dịch vụ chịu trách nhiệm về một chức năng cụ thể. Từ đó, giảm sự phức tạp của dự án tăng tính linh hoạt và dễ dàng quản lý.
+
+Việc vận dụng kết hợp giữa kiến trúc vi dịch vụ và thiết kế hướng miền là một cách tiếp cận toàn diện, giúp xác định và tổ chức các dịch vụ dựa trên việc hiểu rõ về lĩnh vực kinh doanh. Thiết kế hướng miền giúp xây dựng mô hình dựa trên yêu cầu nghiệp vụ thực tế, giúp dự án phản ánh đúng các quy trình và quy tắc kinh doanh.
+
 <!--!======================================================-->
 
-[](1.0.GioiThieuChung.md)
 [](1.1.GioiThieuBaiToanHoaDonDienTu.md)
 [](1.2.GioiThieuVeKienTrucViDichVu.md)
 [](1.3.GioiThieuVeTKHM.md)

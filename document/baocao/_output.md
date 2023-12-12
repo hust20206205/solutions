@@ -568,7 +568,7 @@ Vì vậy, trong ví dụ này, các liên hệ giới hạn quản lý khách h
 
 12
 00: 02: 23, 100--> 00: 02: 31, 100
-Sự phụ thuộc giữa bối cảnh bị ràng buộc cuối cùng được chuyển thành sự phụ thuộc giữa các vi dịch vụ .
+Sự phụ thuộc giữa bối cảnh giới hạn cuối cùng được chuyển thành sự phụ thuộc giữa các vi dịch vụ .
 
 13
 00: 02: 31, 530--> 00: 02: 38, 890
@@ -756,15 +756,15 @@ Mối quan hệ bất đối xứng trong bài học này, chúng ta học hai t
 
 2
 00: 00: 15, 780--> 00: 00: 32, 100
-Trong bài giảng trước chúng ta đã học về mối quan hệ đối xứng. Trong bài giảng này tôi sẽ trình bày chi tiết về mối quan hệ bất đối xứng giữa bối cảnh bị chặn trong một mối quan hệ bất đối xứng, một bối cảnh bị ràng buộc có sự phụ thuộc vào một bối cảnh bị ràng buộc khác.
+Trong bài giảng trước chúng ta đã học về mối quan hệ đối xứng. Trong bài giảng này tôi sẽ trình bày chi tiết về mối quan hệ bất đối xứng giữa bối cảnh bị chặn trong một mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác.
 
 3
 00: 00: 32, 220--> 00: 00: 53, 910
-Loại mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh bị ràng buộc. Bối cảnh BONARD đưa người dùng vào bối cảnh bị ràng buộc khác được đề cập đến trong vai trò thượng nguồn và bối cảnh bị ràng buộc phụ thuộc vào bối cảnh bị ràng buộc khác được đề cập đến bởi bối cảnh bị ràng buộc ở phía dưới.
+Loại mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn . Bối cảnh BONARD đưa người dùng vào bối cảnh giới hạn khác được đề cập đến trong vai trò thượng nguồn và bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác được đề cập đến bởi bối cảnh giới hạn ở phía dưới.
 
 4
 00: 00: 54, 030--> 00: 01: 03, 210
-Vì vậy, điều này mô tả một mối quan hệ trong đó bối cảnh bị ràng buộc. Nó phụ thuộc vào bối cảnh giới hạn. B nói cách khác, bối cảnh ranh giới.
+Vì vậy, điều này mô tả một mối quan hệ trong đó bối cảnh giới hạn . Nó phụ thuộc vào bối cảnh giới hạn. B nói cách khác, bối cảnh ranh giới.
 
 5
 00: 01: 03, 210--> 00: 01: 15, 530
@@ -836,7 +836,7 @@ Nói cách khác, nhóm dành cho bối cảnh bị giới hạn. Nó quyết đ
 
 22
 00: 04: 32, 940--> 00: 04: 46, 710
-Trong trường hợp đó, các mô hình từ ngữ cảnh bị chặn sẽ được hiển thị trong ngữ cảnh bị chặn. Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh bị ràng buộc sang bối cảnh bị ràng buộc.
+Trong trường hợp đó, các mô hình từ ngữ cảnh bị chặn sẽ được hiển thị trong ngữ cảnh bị chặn. Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .
 
 23
 00: 04: 47, 070--> 00: 04: 59, 730
@@ -904,13 +904,13 @@ Lớp chống tham nhũng này có logic để dịch các mô hình từ địn
 
 39
 00: 08: 00, 200--> 00: 08: 09, 410
-Formic, theo hướng đó xuôi dòng. Bối cảnh bị ràng buộc không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.
+Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.
 
 <!--@\06BoundedContextRelationships_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 17, 640
-Một đối nhiều, mối quan hệ trong bài giảng này nhấn mạnh hai mẫu khảo sát nội bộ mở và mẫu ngôn ngữ được công bố trong mối quan hệ một đến nhiều liên hệ giới hạn ngược dòng được gọi là Provida cung cấp các dịch vụ chung cho hai hoặc nhiều bối cảnh bị ràng buộc.
+Một đối nhiều, mối quan hệ trong bài giảng này nhấn mạnh hai mẫu khảo sát nội bộ mở và mẫu ngôn ngữ được công bố trong mối quan hệ một đến nhiều liên hệ giới hạn ngược dòng được gọi là Provida cung cấp các dịch vụ chung cho hai hoặc nhiều bối cảnh giới hạn .
 
 2
 00: 00: 17, 670--> 00: 00: 27, 300
@@ -918,7 +918,7 @@ Trong ví dụ này, Inbee là bối cảnh giới hạn xuôi dòng và C là b
 
 3
 00: 00: 27, 430--> 00: 00: 42, 780
-Và B các mô hình tích hợp chung được xác định bởi bối cảnh bị ràng buộc. C Bất kể nhu cầu của A hoặc B, bối cảnh giới hạn ở hạ lưu có thể quyết định tuân thủ hoặc sử dụng athea.
+Và B các mô hình tích hợp chung được xác định bởi bối cảnh giới hạn . C Bất kể nhu cầu của A hoặc B, bối cảnh giới hạn ở hạ lưu có thể quyết định tuân thủ hoặc sử dụng athea.
 
 4
 00: 00: 42, 990--> 00: 00: 55, 340
@@ -1212,7 +1212,7 @@ Các thực thể logic chỉ có ý nghĩa trong bối cảnh ranh giới mà c
 
 24
 00: 04: 21, 630--> 00: 04: 29, 200
-Nhưng chúng ta phải nhớ rằng định nghĩa của thực thể trong bối cảnh bị ràng buộc này không được đảm bảo giữ nguyên.
+Nhưng chúng ta phải nhớ rằng định nghĩa của thực thể trong bối cảnh giới hạn này không được đảm bảo giữ nguyên.
 
 25
 00: 04: 29, 310--> 00: 04: 39, 300
@@ -4756,7 +4756,7 @@ Công nghệ nhắn tin được sử dụng phổ biến. Đây là một số 
 
 18
 00: 03: 26, 760--> 00: 03: 38, 820
-Sự kiện miền cũng có thể được xuất bản dưới dạng sự kiện tích hợp. Nói cách khác, đối với cùng một sự kiện, có thể có người tiêu dùng trong bối cảnh bị ràng buộc cũng như bên ngoài bối cảnh bị ràng buộc.
+Sự kiện miền cũng có thể được xuất bản dưới dạng sự kiện tích hợp. Nói cách khác, đối với cùng một sự kiện, có thể có người tiêu dùng trong bối cảnh giới hạn cũng như bên ngoài bối cảnh giới hạn .
 
 19
 00: 03: 39, 180--> 00: 03: 46, 910

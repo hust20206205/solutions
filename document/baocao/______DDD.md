@@ -1,14 +1,14 @@
 <!--Aggregates/Entities/Value Objects-->
 
-Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh bị ràng buộc của chúng ta và xác định phạm vi nhất quán trong bối cảnh bị ràng buộc đó.
-Tổng hợp = Mã định danh chính của Bối cảnh bị ràng buộc của chúng ta
+Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh giới hạn của chúng ta và xác định phạm vi nhất quán trong bối cảnh giới hạn đó.
+Tổng hợp = Mã định danh chính của Bối cảnh giới hạn của chúng ta
 
 Đối tượng thực thể có bản sắc riêng nhưng không thể
 tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 được tạo khi tập hợp gốc được tạo và bị hủy khi tập
 hợp gốc bị phá hủy.
 
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
+Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
 
 <!--@Yêu cầu nghiệp vụ-->
 
@@ -175,11 +175,11 @@ Sử dụng trong sản phẩm và kiểm thử phần mềm
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
-<!--Bounded Context: Bối cảnh bị ràng buộc là gì?-->
+<!--Bounded Context: Bối cảnh giới hạn là gì?-->
 
 Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
 
-Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
+Việc xác định Bối cảnh giới hạn chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
 **Bối cảnh giới hạn (Bounded Context)**
 
 Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
@@ -668,12 +668,12 @@ Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phố
 
 <!--Mối quan hệ bất đối xứng-->
 
-<!--Loại mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh bị ràng buộc.-->
+<!--Loại mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn .-->
 
 Bối cảnh A ràng buộc với bối cảnh B thì:
 Bối cảnh A đóng vai trò là bối cảnh ranh giới hạ lưu (Downstream)
 Bối cảnh B đóng vai trò là bối cảnh ranh giới thượng nguồn (Upstream)
-Bối cảnh bị ràng buộc A có kiến thức về các mô hình trong Bối cảnh bị ràng buộc B
+Bối cảnh giới hạn A có kiến thức về các mô hình trong Bối cảnh giới hạn B
 Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh bị chặn A
 
 <!--D-U-->
@@ -693,7 +693,7 @@ Trong trường hợp Upstream hiển thị các mô hình mà không liên quan
 bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
 quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh bị giới hạn.
 
-<!--Trong trường hợp đó, các mô hình từ ngữ cảnh bị chặn sẽ được hiển thị trong ngữ cảnh bị chặn. Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh bị ràng buộc sang bối cảnh bị ràng buộc.-->
+<!--Trong trường hợp đó, các mô hình từ ngữ cảnh bị chặn sẽ được hiển thị trong ngữ cảnh bị chặn. Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
 
 <!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng-->
 
@@ -709,7 +709,7 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 <!--!Bối cảnh giới hạn ngược dòng điều chỉnh các mô hình theo nhu cầu của bối cảnh giới hạn xuôi dòng, trong khi ở mẫu tuân thủ, bối cảnh giới hạn ngược dòng không liên quan đến nhu cầu của bối cảnh giới hạn xuôi dòng.-->
 <!--!Và do đó, bối cảnh ranh giới phía hạ nguồn phù hợp với các mô hình thượng nguồn. Để bảo vệ bối cảnh ranh giới hạ nguồn, các nhóm sẽ quyết định sử dụng lớp chống tham nhũng.-->
 <!--!Lớp chống tham nhũng này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng.-->
-<!--!Formic, theo hướng đó xuôi dòng. Bối cảnh bị ràng buộc không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
+<!--!Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
 
 <!--// C: \Users\ionships_VVN\000000005.srt-->
 <!--One to Many Relationship-->

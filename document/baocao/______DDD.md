@@ -264,18 +264,18 @@ Giúp sàng lọc các liên hệ giới hạn và các mô hình.
 Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 
 <!--!======================================================-->
-<!--!Mối quan hệ bất đối xứng--> 
+<!--!Mối quan hệ bất đối xứng-->
 
-<!-- @Mối quan hệ đối xứng (Symmetric Relationship) -->
+<!--@Mối quan hệ đối xứng (Symmetric Relationship)-->
 
-<!--@Mô hình riêng biệt (Separate Ways)      -->
+<!--@Mô hình riêng biệt (Separate Ways)-->
 Các liên hệ được liên kết thực sự độc lập.
 Không có sự chia sẻ mô hình giữa hai liên hệ.
 Từ góc nhìn người dùng: liên hệ như là 1 chương trình.
 Từ góc nhìn mô hình và thiết kế: liên hệ có mô hình độc lập và thực thi riêng biệt.
 Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
 Không có mối quan hệ nào giữa các ranh giới liên hệ từ góc nhìn hiện thực hóa.
-<!--@Mô hình hợp tác (Partnership Pattern)      -->
+<!--@Mô hình hợp tác (Partnership Pattern)-->
 Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
 Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
 => Vì vậy, các nhóm không thể hoạt động độc lập.
@@ -287,7 +287,7 @@ Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa 
 Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
 Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
-<!--@Hạt nhân dùng chung (Shared Kernel)      -->
+<!--@Hạt nhân dùng chung (Shared Kernel)-->
 
 <!--Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
 <!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->

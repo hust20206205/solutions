@@ -1,10 +1,19 @@
-- [Trang bìa](#trang-bìa)
-- [Nhận xét của giảng viên](#nhận-xét-của-giảng-viên)
-- [Mục lục](#mục-lục)
-- [Lời cảm ơn](#lời-cảm-ơn)
-- [Lời mở đầu](#lời-mở-đầu)
+<!--!======================================================-->
 
-# Trang bìa
+- [1.](#1)
+  - [1.1. Trang bìa](#11-trang-bìa)
+  - [1.2. Nhận xét của giảng viên](#12-nhận-xét-của-giảng-viên)
+  - [1.3. Mục lục](#13-mục-lục)
+  - [1.4. Lời cảm ơn](#14-lời-cảm-ơn)
+  - [1.5. Lời mở đầu](#15-lời-mở-đầu)
+  - [1.6. Tóm tắt nội dung đồ án](#16-tóm-tắt-nội-dung-đồ-án)
+  - [1.7. Đánh giá và thảo luận](#17-đánh-giá-và-thảo-luận)
+
+<!--!======================================================-->
+
+# 1.
+
+## 1.1. Trang bìa
 
 ĐẠI HỌC BÁCH KHOA HÀ NỘI
 
@@ -34,7 +43,7 @@ Hà Nội - 2023
 
 \thispagestyle{empty}
 
-# Nhận xét của giảng viên
+## 1.2. Nhận xét của giảng viên
 
 Ý thức thực hiện: ...
 
@@ -49,20 +58,19 @@ Hà Nội, \today
 Giảng viên hướng dẫn
 (Kí tên)
 
-# Mục lục
+## 1.3. Mục lục
 
 \tableofcontents
 
-# Lời cảm ơn
+## 1.4. Lời cảm ơn
 
-# Lời mở đầu
+## 1.5. Lời mở đầu
+
+## 1.6. Tóm tắt nội dung đồ án
+
+## 1.7. Đánh giá và thảo luận
 
 <!--!======================================================-->
-
-<!--Tóm tắt nội dung đồ án-->
-<!--[](0.3.TomTatNoiDungDoAn.md)-->
-<!--Đánh giá và thảo luận-->
-<!--[](0.4.DanhGiaVaThaoLuan.md)-->
 
 [](0.5.DanhSach.md)
 [](1.0.GioiThieuChung.md)

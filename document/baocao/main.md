@@ -14,9 +14,9 @@
   - [1.11. Danh sách các cụm từ viết tắt](#111-danh-sách-các-cụm-từ-viết-tắt)
   - [1.12. Danh sách các thuật ngữ](#112-danh-sách-các-thuật-ngữ)
 - [2. Giới thiệu chung](#2-giới-thiệu-chung)
-  - [Giới thiệu về bài toán hóa đơn điện tử](#giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
-  - [Giới thiệu về kiến trúc vi dịch vụ](#giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
-  - [Giới thiệu về thiết kế hướng miền](#giới-thiệu-về-thiết-kế-hướng-miền)
+  - [2.1. Giới thiệu về bài toán hóa đơn điện tử](#21-giới-thiệu-về-bài-toán-hóa-đơn-điện-tử)
+  - [2.2. Giới thiệu về kiến trúc vi dịch vụ](#22-giới-thiệu-về-kiến-trúc-vi-dịch-vụ)
+  - [2.3. Giới thiệu về thiết kế hướng miền](#23-giới-thiệu-về-thiết-kế-hướng-miền)
 
 <!--!======================================================-->
 
@@ -158,7 +158,7 @@ Kiến trúc vi dịch vụ là giải pháp cho những thách thức này. Ki�
 
 Việc vận dụng kết hợp giữa kiến trúc vi dịch vụ và thiết kế hướng miền là một cách tiếp cận toàn diện, giúp xác định và tổ chức các dịch vụ dựa trên việc hiểu rõ về lĩnh vực kinh doanh. Thiết kế hướng miền giúp xây dựng mô hình dựa trên yêu cầu nghiệp vụ thực tế, giúp dự án phản ánh đúng các quy trình và quy tắc kinh doanh.
 
-## Giới thiệu về bài toán hóa đơn điện tử
+## 2.1. Giới thiệu về bài toán hóa đơn điện tử
 
 Bài toán hóa đơn điện tử là một phần quan trọng của quá trình chuyển đổi số. Trong quá khứ, mọi người thường sử dụng hóa đơn giấy truyền thống. Ngày nay, khi có quy định kế toán và quản lý tài chính, hóa đơn điện tử đã trở nên phổ biến giúp giảm bớt sự phụ thuộc vào giấy tờ. Cùng với sự phát triển của công nghệ đã giúp hiệu quả công việc và tối ưu hóa quy trình kế toán và tài chính.
 
@@ -216,7 +216,7 @@ Theo dõi tình hình tài chính của công ty (doanh thu, chi phí, lợi nhu
 Tuân thủ các quy định về thuế và pháp luật.
 Thể hiện tính minh bạch trong quá trình kinh doanh (bảo vệ quyền lợi của cả người mua và người bán).
 
-## Giới thiệu về kiến trúc vi dịch vụ
+## 2.2. Giới thiệu về kiến trúc vi dịch vụ
 
 <!--@Kiến trúc nguyên khối-->
 
@@ -290,7 +290,7 @@ Ràng buộc về thứ tự sự kiện.
 
 <!--@Có thể thêm giao tiếp trực tiếp gián tiếp-->
 
-## Giới thiệu về thiết kế hướng miền
+## 2.3. Giới thiệu về thiết kế hướng miền
 
 <!--Lý do tiếp theo là một trong những lý do lớn nhất khiến tổ chức cần chuyển đổi nhu cầu và mong đợi của khách hàng liên tục thay đổi để duy trì và mở rộng cơ sở khách hàng của mình.-->
 <!--Các tổ chức cần điều chỉnh hoạt động kinh doanh của mình để đáp ứng nhu cầu và mong đợi của khách hàng. Các doanh nghiệp bỏ qua kỳ vọng của khách hàng có xu hướng thua đối thủ cạnh tranh.-->

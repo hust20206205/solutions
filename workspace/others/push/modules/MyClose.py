@@ -16,7 +16,7 @@ class MyClose():
     def OpenGit():
         pyautogui.hotkey('ctrl', 'shift', 'g')
     def ScrollBar():
-        # pyautogui.hotkey('ctrl', 'shift', 'e')
+        pyautogui.hotkey('ctrl', 'shift', 'e')
         pyautogui.hotkey('ctrl', 'b')
 
 

@@ -329,11 +329,11 @@ Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn ph�
 <!--$VD: Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A-->
 <!--@Mô hình khách hàng - nhà cung cấp (Customer - Supplier Pattern)-->
 Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
-Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng. 
-Đối với mô hình này   cần tạo một bộ kiểm thử tích hợp tự động  của nhóm  nhà cung cấp,  nhằm kiểm tra tính đúng đắn theo     nhu cầu nhóm khách hàng. 
+Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng.
+Đối với mô hình này cần tạo một bộ kiểm thử tích hợp tự động của nhóm nhà cung cấp, nhằm kiểm tra tính đúng đắn theo nhu cầu nhóm khách hàng.
 
- 
- 
+
+
 <!--@=======================-->
 
 <!--Hãy thảo luận về tùy chọn số hai, trong đó bối cảnh giới hạn ngược dòng hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu nào của bối cảnh giới hạn ngược dòng.-->
@@ -378,13 +378,6 @@ Và ánh xạ này cũng liên quan đến việc đặt loại nhận dạng th
 Vì vậy, điều đó có nghĩa là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
 Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
-
-
-
-
-
-
-
 
 <!--!Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
 <!--!Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.-->

@@ -176,7 +176,11 @@ Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ th�
 
 Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
-<!-- Một vài cách  xác định bối cảnh giới hạn: -->
+  <!-- $VD:  -->
+
+![](pictures/BoiCanhGioiHan/___RanhGioi.png)
+
+<!--Một vài cách xác định bối cảnh giới hạn:-->
 
 Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ trong miền kinh doanh.
 Dựa vào sơ đồ cấu trúc tổ chức của doanh nghiệp.
@@ -187,17 +191,15 @@ Dựa vào trách nhiệm và hoạt động của chuyên gia ngành.
 
 Mỗi liên hệ bị giới hạn phải được thể hiện thông qua một mô hình miền riêng biệt không có sự chia sẻ về mô hình.
 
-<!--$VD:--> mỗi domain có mô hình riêng ... user ở domain1, user ở domain2
+<!-- $VD: Hình  mỗi domain có mô hình riêng ... user(id, name) ở domain1, user(id, name,sdt) ở domain2 -->
 
-Những mô hình được tạo ra và quản lý độc lập bởi các nhóm công nghệ được phân công cho từng đơn vị chức năng cụ thể.
+Những mô hình được tạo và quản lý độc lập bởi các nhóm.
 
-<!--$VD:-->
+<!--$VD: -->
 
 Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có tác dụng trong phạm vi giới hạn của nó.
 
 <!--$VD:-->
-
-![](pictures/BoiCanhGioiHan/___RanhGioi.png)
 
 <!--Hướng dẫn 5/10-->
 

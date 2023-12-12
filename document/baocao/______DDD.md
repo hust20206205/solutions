@@ -139,7 +139,7 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--!======================================================-->
-<!-- @Ngôn ngữ chung (Ubiquitous Language) -->
+<!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
 
@@ -155,9 +155,9 @@ Có nhiều ngôn ngữ chung trong một tổ chức được mỗi nhóm tạo
 Ngôn ngữ chung được sử dụng bởi cả chuyên gia ngành và chuyên gia công nghệ.
 Ngôn ngữ chung phát triển theo thời gian thông qua sự cộng tác giữa doanh nghiệp và các chuyên gia công nghệ.
 Việc tạo ra ngôn ngữ chung là một quá trình liên tục.
-Ngôn ngữ chung được sử dụng , áp dụng trong toàn bộ hệ thống.
+Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.
 
-  <!-- $VD: Ngôn ngư chung sử dụng trong: ... -->
+<!--$VD: Ngôn ngư chung sử dụng trong: ...-->
 
 ![](image-1.png)
 

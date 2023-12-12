@@ -141,17 +141,14 @@ quy trình làm việc và hoạt động cũng như các khái niệm chính.
 
 <!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 
-<!--@ Mô hình kinh doanh (Business Model Canvas)-->
-Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh.
-
-
-<!--! phân khúc khách hàng (Customer Segments)-->
-
-Các phân khúc khách hàng là lý do doanh nghiệp tồn tại, vì vậy người ta phải suy nghĩ cẩn thận xem khách hàng là ai.
-
-<!--VD: cá nhân, doanh nghiệp-->
-
+<!--@Mô hình kinh doanh (Business Model Canvas)-->
+<!-- Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh. -->
+<!--!Phân khúc khách hàng (Customer Segments)-->
+<!-- Các phân khúc khách hàng là lý do doanh nghiệp tồn tại, vì vậy chúng ta cần  phải xem xét  cẩn thận   khách hàng là ai. -->
+  <!-- $VD: với bài toán hóa đơn điện tử        phân khúc  khách hàng là   cá nhân, doanh nghiệp gọi chung là người nộp thuế -->
 <!--! phương án giá trị (Value Propositions)-->
+
+
 
 Bây giờ, loại giá trị nào đang mang lại cho mỗi khách hàng này? Đó là điều chúng ta cần phải suy nghĩ.
 

@@ -1,4 +1,4 @@
-  Tên miền được tạo thành từ nhiều tên miền phụ.
+Tên miền được tạo thành từ nhiều tên miền phụ.
 
 12
 00: 01: 42, 810--> 00: 01: 57, 930

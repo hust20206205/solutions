@@ -135,7 +135,6 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
 Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
 
-
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
@@ -183,7 +182,7 @@ Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
 ![](pictures/BoiCanhGioiHan/___RanhGioi.png)
 <!--$VD:-->
-<!--Một vài cách xác định bối cảnh giới hạn:-->
+<!--Một vài hướng  xác định bối cảnh giới hạn:-->
 
 Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ trong miền kinh doanh.
 Dựa vào sơ đồ cấu trúc tổ chức của doanh nghiệp.
@@ -279,21 +278,21 @@ Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa 
 Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
 Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
-<!--12-->
-<!--00: 01: 57, 300--> 00: 02: 16, 710-->
-<!--Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.-->
+<!-- 12 -->
+00: 01: 57, 300 00: 02: 16, 710-->
+Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.
 
-<!--13-->
-<!--00: 02: 16, 740--> 00: 02: 28, 290-->
-<!--Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao giữa bối cảnh gắn kết và loại mối quan hệ này được gọi là Quan hệ đối tác và Thiết kế theo nhu cầu.-->
+13
+00: 02: 16, 740 00: 02: 28, 290-->
+Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao giữa bối cảnh gắn kết và loại mối quan hệ này được gọi là Quan hệ đối tác và Thiết kế theo nhu cầu.
 
-<!--14-->
-<!--00: 02: 28, 710--> 00: 02: 36, 450-->
-<!--Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.-->
+14
+00: 02: 28, 710 00: 02: 36, 450-->
+Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
 
-<!--15-->
-<!--00: 02: 36, 480--> 00: 02: 49, 040-->
-<!--Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát triển bởi các nhóm khác nhau, nhưng do sự phụ thuộc lẫn nhau giữa các dịch vụ nên các nhóm không thể hoạt động độc lập.-->
+15
+00: 02: 36, 480 00: 02: 49, 040-->
+Vì vậy, điều đó có nghĩa là các dịch vụ có thể được phát triển bởi các nhóm khác nhau, nhưng do sự phụ thuộc lẫn nhau giữa các dịch vụ nên các nhóm không thể hoạt động độc lập.
 
 16
 00: 02: 49, 260--> 00: 03: 01, 200
@@ -303,9 +302,9 @@ Không chỉ vậy, mỗi nhóm tham gia vào loại mối quan hệ này sẽ c
 00: 03: 01, 230--> 00: 03: 14, 700
 Cuối cùng, điều này có nghĩa là các nhóm trong mối quan hệ kiểu này sẽ cần phối hợp các thay đổi, triển khai và phát hành của họ, và điều đó sẽ làm hỏng mục đích áp dụng kiến ​​trúc vi dịch vụ .
 
-18
+<!-- 18 -->
 00: 03: 15, 090--> 00: 03: 25, 670
-Bây giờ, câu hỏi hiển nhiên mà chúng ta có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
+<!-- Bây giờ, câu hỏi hiển nhiên mà chúng ta có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung. -->
 
 19
 00: 03: 26, 040--> 00: 03: 39, 400
@@ -343,20 +342,20 @@ Giữa các tiếp điểm liên kết được giới hạn ở một tập h�
 00: 05: 16, 960--> 00: 05: 27, 070
 Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .
 
-28
+<!-- 28 -->
 00: 05: 27, 580--> 00: 05: 37, 570
 Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ giới hạn .
 
 29
 00: 05: 37, 600--> 00: 05: 49, 840
-Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .
+Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập.
+ <!-- Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn . -->
 
 30
 00: 05: 49, 960--> 00: 06: 13, 070
-Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình. Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.
+Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình. 
+<!-- Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối. -->
 
-31
-00: 06: 13, 240--> 00: 06: 24, 940
 Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.
 
 <!--@Mô hình hạt nhân chung (Shared Kernel)-->

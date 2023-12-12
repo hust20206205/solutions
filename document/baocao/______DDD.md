@@ -49,7 +49,6 @@ Về góc độ phần mềm: miền có thể coi là đại diện cho không 
 Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác miền.
 
 <!--$VD: Ở đồ án này, miền được xác định là bài toán giải pháp hóa đơn điện tử.-->
-
 <!--@Miền phụ (Sub-Domain)-->
 
 Miền được tạo thành từ nhiều miền phụ.
@@ -130,7 +129,6 @@ Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô h�
 Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
 
 <!--$VD: Ở đồ án này, mô hình miền của em bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
-
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--Thiết kế hướng miền cung cấp 2 loại mẫu:-->
 
@@ -182,10 +180,8 @@ Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ th�
 
 Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
-<!--$VD:-->
-
 ![](pictures/BoiCanhGioiHan/___RanhGioi.png)
-
+<!--$VD:-->
 <!--Một vài cách xác định bối cảnh giới hạn:-->
 
 Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ trong miền kinh doanh.
@@ -206,9 +202,7 @@ Những mô hình được tạo và quản lý độc lập bởi các nhóm.
 Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có tác dụng trong phạm vi giới hạn của nó.
 
 <!--$VD:-->
-
 <!--Hướng dẫn 5/10-->
-
 <!--@Tích hợp Liên tục (Continuous Integration)-->
 
 Tích hợp Liên tục (Continuous Integration): là việc các thành viên trong nhóm phát triển tích hợp mã nguồn vào một hệ thống chung thường xuyên. Khi có mã nguồn mới việc tích hợp liên tục sẽ tự động kiểm thử và xây dựng giảm xung đột giữa các phiên bản mã nguồn khác nhau, giúp phát hiện và sửa lỗi sớm hơn.
@@ -216,7 +210,7 @@ Tích hợp Liên tục (Continuous Integration): là việc các thành viên t
 Khi một bối cảnh giới hạn đã được xác định, chúng ta cần đảm bảo rằng nó luôn ở trạng thái mới và hoạt động tốt như kỳ vọng. Đáp ứng nhu cầu doanh nghiệp phát triển thay đổi liên tục và nhanh chóng.
 Khi cùng vận hành và phát triển xung đột có thể xảy ra ở cùng hoặc khác bối cảnh giới hạn.
 => Vì vậy, cần sử dụng việc tích hợp liên tục tạo ra một quy trình tự động và liên tục từ việc tích hợp mã nguồn, kiểm thử tự động giúp tăng cường chất lượng phần mềm, giảm thời gian và rủi ro trong quá trình phát triển phần mềm.
-
+  <!-- $VD: jenkins -->
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 Trong quá trình xây dựng mô hình miền, cần có đối thoại trao đổi giữa những người thiết kế phần mềm và chuyên gia ngành để hiểu đúng về miền. Tuy nhiên, nhóm kinh doanh sử dụng ngôn ngữ kinh doanh và nhóm công nghệ có xu hướng sử dụng các thuật ngữ kỹ thuật trong giao tiếp của họ. Người phát triển phần mềm tập trung vào lớp, phương thức, thuật toán, trong khi chuyên gia ngành thường sử dụng ngôn ngữ chuyên ngành của họ. Sự khác biệt về ngôn ngữ giữa các thành viên có thể dẫn đến những thách thức về giao tiếp.
@@ -240,12 +234,9 @@ Sử dụng trong cuộc thảo luận trao đổi giữa các chuyên gia ngàn
 Sử dụng trong các tài liệu phát triển của nhóm
 Sử dụng trong sản phẩm và kiểm thử phần mềm
 
-<!--$VD: Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.-->
-
 ![](pictures/NgonNguChung/___NgonNguPhoBien.png)
-
+<!--$VD: Ngôn ngữ chung được sử dụng, áp dụng trong toàn bộ hệ thống.-->
 <!--Hướng dẫn 5/7-->
-
 <!--@Bản đồ bối cảnh (Context Maps)-->
 
 Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác quan hệ với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ. Nếu không thì các dịch vụ sẽ mất khả năng hoạt động độc lập, tính nhất quán và tính linh hoạt.
@@ -253,10 +244,9 @@ Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương 
 
 Bản đồ bối cảnh (Context Maps) là sự thể hiện trực quan của hệ thống, thể hiện các thành phần, liên kết và mối quan hệ.
 
-<!--$VD: Bản đồ bối cảnh-->
 
 ![](pictures/BanDoBoiCanh/image.png)
-
+<!--$VD: Bản đồ bối cảnh-->
 <!--Lợi ích của Bản đồ bối cảnh:-->
 
 Giúp thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
@@ -272,10 +262,23 @@ Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 <!--@Mô hình riêng biệt (Separate Ways)-->
 
 Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
-Các liên hệ  không có mối quan hệ nào với   các liên hệ       khác.
-Các liên hệ  có mô hình độc lập và thực thi riêng biệt.
+Các liên hệ không có mối quan hệ nào với các liên hệ khác.
+Các liên hệ có mô hình độc lập và thực thi riêng biệt.
 Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
-<!--$VD: trong trường hợp ngân hàng,   thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
+<!--$VD: trong trường hợp ngân hàng, thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
+<!--@Mô hình hợp tác (Partnership Pattern)-->
+
+Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
+Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
+=> Vì vậy, các nhóm không thể hoạt động độc lập.
+Mỗi nhóm tham gia vào mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung cho các mối liên hệ gắn kết do nhóm kia quản lý.
+=> Sự phụ thuộc cao dẫn tới mất đi tính độc lập của kiến trúc vi dịch vụ.
+
+Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
+Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
+Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
+Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
+Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
 <!--12-->
 <!--00: 01: 57, 300--> 00: 02: 16, 710-->
 <!--Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau. Loại mối quan hệ giữa các tiếp điểm được liên kết này được gọi là mối quan hệ đối xứng hoặc sự phụ thuộc hai chiều có thể là mối quan hệ đối xứng, một nơi chắc chắn không có ánh sáng giữa các tiếp điểm được liên kết.-->
@@ -356,19 +359,6 @@ Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay
 00: 06: 13, 240--> 00: 06: 24, 940
 Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.
 
-<!--@Mô hình hợp tác (Partnership Pattern)-->
-
-Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
-Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
-=> Vì vậy, các nhóm không thể hoạt động độc lập.
-Mỗi nhóm tham gia vào mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung cho các mối liên hệ gắn kết do nhóm kia quản lý.
-=> Sự phụ thuộc cao dẫn tới mất đi tính độc lập của kiến trúc vi dịch vụ.
-
-Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
-Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
-Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
-Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
-Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
 
 <!--@Mô hình hạt nhân chung (Shared Kernel)-->
 

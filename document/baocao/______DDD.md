@@ -161,17 +161,17 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 
 <!--[Tổng quan mối quan hệ] Bản đồ bối cảnh (Context Maps)-->
 
-<!--[Phân lớp ] Kiến trúc phân lớp (Context Maps)-->
 
-<!--  -->
+<!---->
 
 <!--Symmetric Relationship: Separate ways, Partnership, Shared Kernel-->
 <!--Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!--One-to-Many Relationship: Open Host Service, Published Language-->
 
-<!-- dịch và cách ly đơn phương với -->
-<!-- "Bản đồ bối cảnh dịch chuyển và cách ly một cách đơn phương để tạo thành cấu trúc kiến ​​trúc phân lớp." -->
-<!-- Tách biệt -->
+<!--dịch và cách ly đơn phương với-->
+<!--[ lớp ]  lớp (Context Maps)-->
+<!--"Bản đồ bối cảnh dịch chuyển và cách ly một cách đơn phương để tạo thành cấu trúc   lớp."-->
+<!--Tách biệt-->
 
 <!--$ Vẽ lại sau:-->
 
@@ -265,8 +265,55 @@ Giúp sàng lọc các liên hệ giới hạn và các mô hình.
 Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 
 <!--!======================================================-->
+<!--Symmetric Relationship: Separate ways, Partnership, Shared Kernel-->
+
+<!--!Mối quan hệ đối xứng-->
+<!--!Mối quan hệ bất đối xứng-->
+
+**Mô hình riêng biệt (Separate Ways)**
+Các liên hệ được liên kết thực sự độc lập.
+Không có sự chia sẻ mô hình giữa hai liên hệ.
+Từ góc nhìn người dùng: liên hệ như là 1 chương trình.
+Từ góc nhìn mô hình và thiết kế: liên hệ có mô hình độc lập và thực thi riêng biệt.
+Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
+Không có mối quan hệ nào giữa các ranh giới liên hệ từ góc nhìn hiện thực hóa.
+**Mô hình hợp tác (Partnership Pattern)**
+Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
+Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
+=> Vì vậy, các nhóm không thể hoạt động độc lập.
+Mỗi nhóm tham gia vào mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung cho các mối liên hệ gắn kết do nhóm kia quản lý.
+=> Sự phụ thuộc cao dẫn tới mất đi tính độc lập của kiến trúc vi dịch vụ.
+
+Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
+Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
+Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
+Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
+Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
+**Hạt nhân dùng chung (Shared Kernel)**
+
+<!--Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
+<!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->
+
+<!--Các nhóm có thể phát triển độc lập các dịch vụ sử dụng các thư viện dùng chung này. Các nhóm có thể sử dụng kernel dùng chung và Labrys dùng chung miễn là phạm vi chia sẻ.-->
+
+<!--Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.-->
+
+<!--Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .-->
+
+để giải quyết vấn đề
+**Mô hình hợp tác (Partnership Pattern)**
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!--$VD:-->
 
 
+<!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ giới hạn .-->
+<!--!Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .-->
+<!--!Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình. Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
+<!--!Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.-->
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 
@@ -640,56 +687,9 @@ https: //www.youtube.com/watch? v=glZs4QFfwbc
 
 https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
 
-<!--!Mối quan hệ đối xứng-->
-<!--!Mối quan hệ bất đối xứng-->
-
-**Mô hình riêng biệt (Separate Ways)**
-Các liên hệ được liên kết thực sự độc lập.
-Không có sự chia sẻ mô hình giữa hai liên hệ.
-Từ góc nhìn người dùng: liên hệ như là 1 chương trình.
-Từ góc nhìn mô hình và thiết kế: liên hệ có mô hình độc lập và thực thi riêng biệt.
-Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
-Không có mối quan hệ nào giữa các ranh giới liên hệ từ góc nhìn hiện thực hóa.
-**Mô hình hợp tác (Partnership Pattern)**
-Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
-Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
-=> Vì vậy, các nhóm không thể hoạt động độc lập.
-Mỗi nhóm tham gia vào mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung cho các mối liên hệ gắn kết do nhóm kia quản lý.
-=> Sự phụ thuộc cao dẫn tới mất đi tính độc lập của kiến trúc vi dịch vụ.
-
-Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
-Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
-Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
-Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
-Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
-**Hạt nhân dùng chung (Shared Kernel)**
-
-<!--Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
-<!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->
-
-<!--Các nhóm có thể phát triển độc lập các dịch vụ sử dụng các thư viện dùng chung này. Các nhóm có thể sử dụng kernel dùng chung và Labrys dùng chung miễn là phạm vi chia sẻ.-->
-
-<!--Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.-->
-
-<!--Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .-->
-
-để giải quyết vấn đề
-**Mô hình hợp tác (Partnership Pattern)**
-
-<!---->
-<!---->
-<!---->
-<!---->
-<!--$VD:-->
 
 <!--Hãy giúp tôi sửa lỗi chính và ngữ pháp:-->
 
-**Miền (Domain)**
-
-<!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ giới hạn .-->
-<!--!Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .-->
-<!--!Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình. Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
-<!--!Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.-->
 
 <!--// C: \Users\ionships_VVN\000000004.srt-->
 <!--các ký hiệu bản đồ ngữ cảnh.-->

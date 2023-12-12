@@ -1,9 +1,9 @@
-<!-- Mối quan hệ đối xứng -->
- các cách thức riêng biệt
- mô hình hợp tác
-  mô hình hạt nhân chung
+<!--Mối quan hệ đối xứng-->
+các cách thức riêng biệt
+mô hình hợp tác
+mô hình hạt nhân chung
 
-  , có thể xảy ra tình huống trong đó các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác.
+, có thể xảy ra tình huống trong đó các liên hệ được liên kết trong một hệ thống không có mối quan hệ nào với các liên hệ được liên kết khác.
 
 2
 00: 00: 18, 180--> 00: 00: 29, 440

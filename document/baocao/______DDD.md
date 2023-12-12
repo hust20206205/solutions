@@ -159,7 +159,7 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 
 <!--[Tổng quan mối quan hệ] Bản đồ bối cảnh (Context Maps)-->
 
-<!--Symmetric Relationship: Separate ways,   Shared Kernel-->
+<!--Symmetric Relationship: Separate ways, Shared Kernel-->
 <!--Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!---->
 
@@ -278,14 +278,11 @@ Một cách để giải quyết vấn đề này là tạo ranh giới cho các
 Từ đó, tách việc quản lí các mô hình hạt nhân chung này một cách độc lập với phần còn lại của bối cảnh giới hạn. Khi cần đưa ra quyết định thay đổi mà không phải của mô hình hạt nhân chung thì nhóm sẽ đưa ra quyết định hoạt động độc lập.
 
 Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng các thư viện chung. Tuy nhiên, chỉ sử dụng mô hình hạt nhân chung nếu quan hệ của các liên hệ nhỏ nếu không thì sẽ tăng tính phụ thuộc làm phức tạp các dịch vụ.
-<!--$VD: hình giao như 2 tập hợp -->
+<!--$VD: hình giao như 2 tập hợp-->
 
 <!--!======================================================-->
-<!-- : Customer-Supplier, Conformist, Anti Corruption Layer -->
-<!-- @Mối quan hệ  bất đối xứng (Asymmetric Relationship) -->
-
-
-<!--// C: \Users\ionships_VVN\000000004.srt-->
+<!--: Customer-Supplier, Conformist, Anti Corruption Layer-->
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--các ký hiệu bản đồ ngữ cảnh.-->
 
 <!--Mối quan hệ bất đối xứng-->
@@ -356,7 +353,7 @@ Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với d�
 
 <!--Hướng dẫn 6/6-->
 <!---->
-<!--!======================================================--> 
+<!--!======================================================-->
 
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 
@@ -731,7 +728,6 @@ https: //www.youtube.com/watch? v=glZs4QFfwbc
 https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
 
 <!--Hãy giúp tôi sửa lỗi chính và ngữ pháp:-->
-
 
 <!--@Mô hình kinh doanh (Business Model Canvas)-->
 <!--Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh.-->

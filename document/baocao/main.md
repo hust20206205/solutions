@@ -25,7 +25,7 @@ VIỆN TOÁN ỨNG DỤNG VÀ TIN HỌC
 
 BÁO CÁO ĐỒ ÁN II
 
-ĐỀ TÀI:
+ĐỀ TÀI: 
 
 <!--Xây dựng kiến trúc vi dịch vụ cho bài toán hóa đơn điện tử-->
 
@@ -85,7 +85,7 @@ auto
 auto
 
 ## 1.11. Danh sách các cụm từ viết tắt
-<!-- @sau -->
+<!--@sau-->
 
 <!--STT; Từ viết tắt; Từ viết đầy đủ; Mô tả-->
 
@@ -122,9 +122,9 @@ ORM
 SQL
 
 ## 1.12. Danh sách các thuật ngữ
-<!-- @sau -->
+<!--@sau-->
 
-<!-- STT; Tiếng Anh; Tiếng Việt -->
+<!--STT; Tiếng Anh; Tiếng Việt-->
 
 <!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
 <!--kiến trúc nguyên khối, kiến trúc nguyên khối-->

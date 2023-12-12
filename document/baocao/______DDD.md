@@ -280,7 +280,7 @@ Từ đó, tách việc quản lí các mô hình hạt nhân chung này một c
 Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng các thư viện chung. Tuy nhiên, chỉ sử dụng mô hình hạt nhân chung nếu quan hệ của các liên hệ nhỏ nếu không thì sẽ tăng tính phụ thuộc làm phức tạp các dịch vụ.
 <!--$VD: hình giao như 2 tập hợp-->
 
-<!--!======================================================--> 
+<!--!======================================================-->
 <!--mô hình lớp chống tham nhũng-->
 <!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
 
@@ -298,7 +298,7 @@ quyết định tạo ra mô hình của riêng mình thay vì áp dụng các m
 trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến ​​thức gì về mô hình của nhau.
 ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
-<!--:     Anti Corruption Layer-->
+<!--: Anti Corruption Layer-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
@@ -311,7 +311,7 @@ Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có s
 
 Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
 Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác.
-<!-- !ký hiệu: D   - U -->
+<!--!ký hiệu: D - U-->
 <!--$VD:-->
 <!--$VD: A Downstream (D) - B Upstream (U)-->
 <!--$VD: Bối cảnh A ràng buộc với bối cảnh B thì:-->
@@ -323,26 +323,25 @@ Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn ph�
 Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
 Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng.
 Đối với mô hình này cần tạo một bộ kiểm thử tích hợp tự động của nhóm nhà cung cấp, nhằm kiểm tra tính đúng đắn theo nhu cầu nhóm khách hàng.
-<!--@Mô hình tuân thủ  (Conformist Pattern)--> 
-Mô hình tuân thủ    là   một mối quan hệ trong đó bối cảnh giới hạn hạ lưu    áp dụng mô hình, ngôn ngữ chung và   các khái niệm được sử dụng bởi  bối cảnh giới hạn thượng nguồn.
-Cả hai bối cảnh   giới hạn đều sử dụng cùng một mô hình.   Vì vậy, chúng ta   không cần dịch  mô hình  giữa các       bối cảnh giới hạn.
-<!-- !ký hiệu: CF  - U -->
+<!--@Mô hình tuân thủ (Conformist Pattern)-->
+Mô hình tuân thủ là một mối quan hệ trong đó bối cảnh giới hạn hạ lưu áp dụng mô hình, ngôn ngữ chung và các khái niệm được sử dụng bởi bối cảnh giới hạn thượng nguồn.
+Cả hai bối cảnh giới hạn đều sử dụng cùng một mô hình. Vì vậy, chúng ta không cần dịch mô hình giữa các bối cảnh giới hạn.
+<!--!ký hiệu: CF - U-->
 <!--$VD:-->
-<!-- $VD: A - CF  - U - B  -->
-<!-- $VD: A - users(id,name)   - B cũng users(id,name)  -->
+<!--$VD: A - CF - U - B-->
+<!--$VD: A - users(id, name) - B cũng users(id, name)-->
 
-<!--@=======================-->   
+<!--@=======================-->
 
+<!--Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.-->
 
-<!-- Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng. -->
+<!--Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .-->
 
-<!-- Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn . -->
+<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
 
-<!-- Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn . -->
+<!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng và mô hình này còn được gọi là Antichrist.-->
 
-<!-- Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng và mô hình này còn được gọi là Antichrist. -->
-
-<!-- Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. Loại mối quan hệ này được mô tả bằng cách thay thế ACL. -->
+<!--Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. Loại mối quan hệ này được mô tả bằng cách thay thế ACL.-->
 
 Vì vậy, ở đây chúng tôi đang mô tả mối quan hệ giữa A và B trong mỗi bối cảnh liên kết này, có mô hình riêng.
 

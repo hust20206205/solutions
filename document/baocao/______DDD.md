@@ -276,51 +276,11 @@ Các nhóm phát triển không phải cộng tác hay phối hợp cho bất k�
 
 Khi các liên hệ trong bối cảnh giới hạn có sự phụ thuộc lẫn nhau. Sự phụ thuộc này dẫn đến mức độ kết hợp cao. Vì vậy, các nhóm phát triển không thể hoạt động độc lập.
 
-Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
-Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
-Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
-Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
-Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
+Một cách để giải quyết vấn đề này là tạo ranh giới cho các mô hình hạt nhân chung, ranh giới này phải được phân định rõ ràng và chỉ những thay đổi đối với mô hình hạt nhân chung mới cần được các nhóm phối hợp.
 
-<!--28-->
+Từ đó, tách việc quản lí các mô hình hạt nhân chung này một cách độc lập với phần còn lại của bối cảnh giới hạn. Khi cần đưa ra quyết định thay đổi mà không phải của mô hình hạt nhân chung thì nhóm sẽ đưa ra quyết định hoạt động độc lập.
 
-<!--đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
-<!--Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.-->
-
-<!--12-->
-
-<!--Bây giờ, câu hỏi hiển nhiên mà chúng ta có thể có vào thời điểm này là làm cách nào để giải quyết vấn đề này? Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.-->
-
-Vì vậy, giả sử hai nhóm độc lập đang làm việc trên bối cảnh hỗn hợp và bối cảnh tự nguyện. B, họ có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
-
-Ý tưởng là quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết. Vì vậy, điều đó có nghĩa là nếu cần thay đổi và thay đổi này không phải là một phần của mô hình được chia sẻ thì nhóm được chỉ định cho các liên hệ giới hạn có thể đưa ra quyết định độc lập.
-
-Tương tự, nếu có những thay đổi cần thiết bên ngoài các mô hình được chia sẻ và các liên hệ giới hạn, hãy là nhóm được chỉ định cho các liên hệ liên kết.
-
-B có thể đưa ra những quyết định đó một cách độc lập. Nhưng bất cứ lúc nào, nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
-
-Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Carneal được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.
-
-Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.
-
-Các nhóm có thể phát triển độc lập các dịch vụ sử dụng các thư viện dùng chung này. Các nhóm có thể sử dụng kernel dùng chung và Labrys dùng chung miễn là phạm vi chia sẻ.
-
-Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.
-
-Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .
-
-<!--@Mô hình hạt nhân chung (Shared Kernel)-->
-
-<!--Việc chia sẻ mô hình giữa các liên hệ giới hạn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
-<!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->
-
-<!--Các nhóm có thể phát triển độc lập các dịch vụ sử dụng các thư viện dùng chung này. Các nhóm có thể sử dụng kernel dùng chung và Labrys dùng chung miễn là phạm vi chia sẻ.-->
-
-<!--Giữa các tiếp điểm liên kết được giới hạn ở một tập hợp nhỏ các mô hình cho các tình huống liên quan đến việc chia sẻ quá nhiều mô hình giữa các tiếp điểm được liên kết, việc duy trì tính toàn vẹn của ranh giới của các tiếp điểm biên sẽ trở nên khó khăn.-->
-
-<!--Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ giới hạn .-->
-
-để giải quyết vấn đề
+Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng các thư viện chung. Tuy nhiên, chỉ sử dụng mô hình hạt nhân chung nếu quan hệ của các liên hệ nhỏ nếu không thì sẽ tăng tính phụ thuộc làm phức tạp các dịch vụ.
 
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->

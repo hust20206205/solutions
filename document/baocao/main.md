@@ -1,4 +1,6 @@
 - [Trang bìa](#trang-bìa)
+- [Nhận xét của giảng viên](#nhận-xét-của-giảng-viên)
+- [Mục lục](#mục-lục)
 
 # Trang bìa
 
@@ -30,7 +32,23 @@ Hà Nội - 2023
 
 \thispagestyle{empty}
 
-[](0.1.NhanXetCuaGiangVien.md)
+# Nhận xét của giảng viên
+
+Ý thức thực hiện: ...
+
+Nội dung thực hiện: ...
+
+Hình thức trình bày: ...
+
+Đánh giá kết quả đạt được: ...
+
+Hà Nội, \today
+
+Giảng viên hướng dẫn
+(Kí tên)
+
+# Mục lục
+
 \tableofcontents
 
 <!--[](0.2.LoiCamOn_LoiMoDau.md)-->

@@ -282,45 +282,59 @@ Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng
 
 <!--!======================================================-->
 <!--các ký hiệu bản đồ ngữ cảnh.-->
+<!--!mẫu phù hợp (Conformist Pattern)-->
+<!--mô hình tuân thủ-->
+
+Trong trường hợp Upstream hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu của Downstream
+
+<!--CF-U-->
+<!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
+
+chống đổ vỡ
+bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
+quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
+
+<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
+
+<!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng-->
+
+<!--Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng.-->
+<!--ACL-U-->
+
+trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến ​​thức gì về mô hình của nhau.
+ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
+Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
 <!--: Customer-Supplier, Conformist, Anti Corruption Layer-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
-Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò cho  bối cảnh giới hạn:
+Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn:
 
 Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
 Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác.
-<!--$VD:  -->
-<!--$VD:  A Downstream (D) - B Upstream (U)-->
-<!--$VD:  Bối cảnh A ràng buộc với bối cảnh B thì: -->
-<!--$VD:  Bối cảnh A đóng vai trò là bối cảnh   giới hạn hạ lưu (Downstream) -->
-<!--$VD:  Bối cảnh B đóng vai trò là bối cảnh   giới hạn thượng nguồn (Upstream) -->
-<!--$VD:  Bối cảnh giới hạn A có kiến thức về các mô hình trong bối cảnh giới hạn B -->
-<!--$VD:  Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A -->
-
- 
-Bây giờ có hai tùy chọn mà bối cảnh giới hạn ngược dòng có. Nó có thể hiển thị chức năng và mô hình dựa trên nhu cầu của bối cảnh giới hạn xuôi dòng. 
-Và tùy chọn thứ hai là bối cảnh giới hạn ngược dòng hiển thị các chức năng và mô hình nhất định mà không có bất kỳ sự cân nhắc nào đến nhu cầu của bối cảnh giới hạn xuôi dòng. 
-Đây là hai mẫu riêng biệt. Hãy thảo luận chi tiết về những điều này. 
-<!-- Vì vậy, trong trường hợp tùy chọn số một, bối cảnh giới hạn ngược dòng đã đáp ứng một số nhu cầu cụ thể của bối cảnh giới hạn xuôi dòng. -->
-
-11
-00: 02: 19, 050--> 00: 02: 31, 140
-
-
+<!--$VD:-->
+<!--$VD: A Downstream (D) - B Upstream (U)-->
+<!--$VD: Bối cảnh A ràng buộc với bối cảnh B thì:-->
+<!--$VD: Bối cảnh A đóng vai trò là bối cảnh giới hạn hạ lưu (Downstream)-->
+<!--$VD: Bối cảnh B đóng vai trò là bối cảnh giới hạn thượng nguồn (Upstream)-->
+<!--$VD: Bối cảnh giới hạn A có kiến thức về các mô hình trong bối cảnh giới hạn B-->
+<!--$VD: Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A-->
+<!--@Mô hình khách hàng - nhà cung cấp (Customer - Supplier Pattern)-->
+Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng     nhu cầu của bối cảnh giới hạn hạ lưu.
  
 
 
+
+Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.
 <!--@=======================-->
 
-<!--mô hình cung ứng khách hàng-->
 <!--mô hình tuân thủ-->
 <!--mô hình lớp chống tham nhũng-->
 
-<!--00: 00: 54, 030--> 00: 01: 03, 210-->
-Và mẫu này được gọi là nguồn cung mẫu của khách hàng. Hãy nghĩ về nó giống như một máy chủ khách, Pachon, trong đó máy chủ tạo ra các giao diện dựa trên nhu cầu của khách hàng.
+
+ <!-- Hãy nghĩ về nó giống như một máy chủ khách, Pachon, trong đó máy chủ tạo ra các giao diện dựa trên nhu cầu của khách hàng. -->
 
 12
 00: 02: 31, 260--> 00: 02: 44, 910
-<!-- Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng. -->
+<!--Từ góc độ hiện thực hóa, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng máy chủ của nhà cung cấp đáp ứng được nhu cầu dịch vụ khách hàng.-->
 
 13
 00: 02: 45, 810--> 00: 02: 57, 060
@@ -433,29 +447,6 @@ Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có ki�
 <!--@=======================-->
 
 
-<!--!mẫu phù hợp (Conformist Pattern)-->
-<!--mô hình tuân thủ-->
-
-Trong trường hợp Upstream hiển thị các mô hình mà không liên quan đến bất kỳ yêu cầu hoặc nhu cầu của Downstream
-
-<!--CF-U-->
-<!--!Mẫu lớp chống tham nhũng (Anti Corruption Layer Pattern)-->
-
-chống đổ vỡ
-bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
-quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
-
-<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
-
-<!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống tham nhũng-->
-
-<!--Ý tưởng đằng sau luật sư chống tham nhũng là bảo vệ bối cảnh ngoại quan khỏi tham nhũng.-->
-<!--ACL-U-->
-
-trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến ​​thức gì về mô hình của nhau.
-ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống tham nhũng cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
-Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống tham nhũng bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
-
 <!--!Trong bài học này, chúng ta đã tìm hiểu về mối quan hệ bất đối xứng giữa bối cảnh ranh giới và mối quan hệ bất đối xứng.-->
 <!--!Bối cảnh ranh giới hạ nguồn phụ thuộc vào bối cảnh ranh giới thượng nguồn trong mẫu nhà cung cấp khách hàng.-->
 <!--!Bối cảnh giới hạn ngược dòng điều chỉnh các mô hình theo nhu cầu của bối cảnh giới hạn xuôi dòng, trong khi ở mẫu tuân thủ, bối cảnh giới hạn ngược dòng không liên quan đến nhu cầu của bối cảnh giới hạn xuôi dòng.-->
@@ -464,6 +455,20 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 <!--!Formic, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
 
 <!--// C: \Users\ionships_VVN\000000005.srt-->
+
+
+
+
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
 <!--One to Many Relationship-->
 
 Bối cảnh ranh giới cung cấp các dịch vụ chung được gọi là dịch vụ nguồn mở

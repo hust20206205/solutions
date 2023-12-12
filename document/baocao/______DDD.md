@@ -10,11 +10,6 @@ hợp gốc bị phá hủy.
 
 Đối tượng thực thể = Mã định danh phụ của Bối cảnh bị ràng buộc của chúng ta
 
-Miền được tạo thành từ nhiều miền phụ.
-Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.
-Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó.
-Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một miền hầu hết được liên kết với các miền phụ trong miền lớn hơn.
-
 <!--@yêu cầu nghiệp vụ-->
 
 Trình bày nội dung yêu cầu nghiệp vụ
@@ -43,39 +38,31 @@ Về góc độ phần mềm: miền có thể coi là đại diện cho không 
 
 Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác miền.
 
-<!--$VD: Ở đồ án này, miền được xác định là bài toán giải pháp hóa đơn điện tử .-->
+<!--$VD: Ở đồ án này, miền được xác định là bài toán giải pháp hóa đơn điện tử.-->
 
 <!--@ Miền phụ (Sub-Domain)-->
-<!--!======================================================-->
 
-<!--Bounded Context: Bối cảnh bị ràng buộc là gì?-->
-
-Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
-
-Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
-
-<!--Việc xác định các miền phụ về cơ bản liên quan đến việc chia nhỏ các khả năng kinh doanh khác nhau của miền kinh doanh chính của chúng ta thành các đơn vị chức năng kinh doanh gắn kết.-->
+Miền được tạo thành từ nhiều miền phụ.
 
 <!--$VD: Người dùng Sub-Domain, Thông báo Sub-Domain, Hóa đơn Sub-Domain-->
 
-Một miền doanh nghiệp bao gồm nhiều miền phụ .
+Trong một miền phức tạp, không thể có một chuyên gia ngành có kiến thức về tất cả các miền phụ.  
+Việc xác định các miền phụ liên quan đến việc chia nhỏ các khả năng kinh doanh thành các đơn vị kinh doanh gắn kết.
 
 <!--@Phân loại các miền phụ .-->
 
-Có ba loại miền phụ:
+Có 3 loại miền phụ:
 
-<!--@ Miền phụ chung (Generic Subdomain)**-->
+<!--@ Miền phụ chung (Generic Subdomain)-->
 
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
-
-Không có gì đặc biệt về những miền phụ này và các phương pháp tốt nhất đã sẵn có cho những miền này.
-
 Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh nào bằng cách thực hiện những điều khác biệt trong miền phụ chung.
 
 <!--$VD:-->
 <!--Ví dụ về các miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
 
-<!--@ Miền phụ cốt lõi (Core Subdomain)**-->
+<!--@ Miền phụ cốt lõi (Core Subdomain)-->
+<!--!======================================================-->
 
 Miền phụ cốt lõi là điểm khác biệt quan trọng cho doanh nghiệp.
 
@@ -87,7 +74,7 @@ Doanh nghiệp luôn tìm cách thực hiện những điều khác biệt trong
 
 <!--$VD:-->
 
-<!--@ Miền phụ hỗ trợ (Supporting Subdomain)**-->
+<!--@ Miền phụ hỗ trợ (Supporting Subdomain)-->
 
 Các miền phụ cốt lõi phụ thuộc vào các miền phụ hỗ trợ.
 
@@ -175,6 +162,11 @@ Việc tạo ra ngôn ngữ chung là một quá trình liên tục.
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 
+<!--Bounded Context: Bối cảnh bị ràng buộc là gì?-->
+
+Bối cảnh bị giới hạn là giải pháp thiết kế cho Miền / Miền phụ doanh nghiệp đã được xác định của chúng tôi.
+
+Việc xác định Bối cảnh bị ràng buộc chủ yếu được điều chỉnh bởi sự gắn kết mà chúng ta cần trong miền kinh doanh và giữa các miền phụ của chúng ta .
 **Bối cảnh giới hạn (Bounded Context)**
 
 Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.

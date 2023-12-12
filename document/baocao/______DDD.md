@@ -4,6 +4,7 @@ Trình bày nội dung yêu cầu nghiệp vụ
 
 <!--@Chi tiết và áp dụng thiết kế hướng miền-->
 <!--@Đôi nét về thiết kế hướng miền-->
+
 Thiết kế hướng miền được Eric Evans giới thiệu trong cuốn sách "DomainDrivenDesign: Tackling Complexity in the Heart of Software".
 
 Thiết kế hướng miền (DomainDrivenDesign) là một phương pháp thiết kế phần mềm tập trung vào việc hiểu và mô hình hóa lĩnh vực kinh doanh của một tổ chức.
@@ -27,20 +28,16 @@ Phần mềm cần phản ánh đúng miền và hiện thực hóa chính xác 
 
 <!--$VD: Ở đồ án này, miền được xác định là bài toán giải pháp hóa đơn điện tử .-->
 
-<!--!======================================================-->
 <!--@Tên miền phụ (Sub-Domain)-->
-<!---->
-<!--Trong một miền phức tạp, không thể có một chuyên gia duy nhất có kiến thức tổng thể về tất cả các miền phụ.-->
-<!--Phần mềm cần phản ánh đúng miền và hiện thực hóa một cách chính xác quan hệ giữa các miền.-->
+<!--!======================================================-->
 
-<!--Tên miền được tạo thành từ nhiều tên miền phụ.-->
+Miền được tạo thành từ nhiều tên miền phụ.
+Trong một miền phức tạp, không thể có một chuyên gia ngành   có kiến thức    về tất cả các miền phụ.
+
 
 <!--Hầu như không thể có một chuyên gia về miền biết mọi thứ về miền đó. Kết quả là có nhiều chuyên gia về chủ đề hoặc chuyên gia ngành trong một tên miền hầu hết được liên kết với các tên miền phụ trong tên miền lớn hơn.-->
 
-Tên miền được tạo thành từ nhiều tên miền phụ.
-
 Một miền doanh nghiệp bao gồm nhiều tên miền phụ.
-Có nhiều yếu tố khác nhau góp phần tạo nên sự phức tạp của tên miền phụ.
 
 <!--@Phân loại các tên miền phụ.-->
 
@@ -56,7 +53,6 @@ Doanh nghiệp không thể đạt được bất kỳ lợi thế cạnh tranh 
 
 <!--$VD:-->
 <!--Ví dụ về các tên miền phụ như vậy là quản lý nguồn nhân lực và cơ sở vật chất. Vì vậy, bất kỳ ngành nào hoặc doanh nghiệp nào, các hoạt động quản lý nhân sự và quản lý cơ sở vật chất đều khá trưởng thành và không tạo thêm bất kỳ giá trị khác biệt nào cho doanh nghiệp.-->
-
 
 <!--@Tên miền phụ cốt lõi (Core Subdomain)**-->
 
@@ -127,7 +123,6 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 <!--Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.-->
 <!--$VD: Ở đồ án này, mô hình miền là ... các sơ đồ use case, class, activiti, squen-->
 
-
 <!--@Ngôn ngữ chung (Ubiquitous Language)-->
 
 <!--Và thứ ba là có những thách thức về mặt ngôn ngữ. Khi chúng ta cố gắng hợp nhất kiến ​​thức về nhiều lĩnh vực vào một mô hình duy nhất, việc thấy cùng một doanh nghiệp là điều rất bình thường.-->
@@ -158,6 +153,7 @@ Việc tạo ra ngôn ngữ chung là một quá trình liên tục.
 <!---->
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
+
 **Bối cảnh giới hạn (Bounded Context)**
 
 Một mô hình miền cần đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
@@ -219,27 +215,37 @@ Xác định mối quan hệ giữa các liên hệ bị ràng buộc của mìn
 [](2.5.UbiquitousLanguage.md)
 ngôn ngữ chung
 [](2.6.BoundedContext.md)
+
 <!--V Bối cảnh giới hạn của thiết kế hướng miền là sự thể hiện phạm vi kinh doanh của vi dịch vụ.-->
+
 [](2.7.CICD.md)
 [](2.8.ContextMaps.md)
 
 <!--!-->
 
-
-
 **Thiết kế hướng mô hình (model drivern design)**
 Thiết kế hướng mô hình cung cấp một khuôn khổ để hiện thực hóa mô hình hệ thống và sử dụng phương pháp thiết kế hướng miền, các mẫu chiến thuật là các khối xây dựng và thiết kế hướng mô hình.
+
 <!---->
+
 **Kiến trúc phân lớp**
 Khi phát triển ứng dụng phần mềm, một phần lớn thành phần không liên quan trực tiếp đến nghiệp vụ, nhưng chúng là một phần của hạ tầng. Ví dụ như truy cập CSDL, hạ tầng mạng, ... Trong một ứng dụng hướng đối tượng thuần túy, các đoạn mã lại được nhúng vào trong các hành vi của các đối tượng nghiệp vụ vì nó là cách dễ và nhanh chóng. Tuy nhiên, việc trộn lẫn các đoạn mã liên quan đến nghiệp vụ có thể làm cho việc refactor khó khăn, kém linh hoạt.
 => Cần phân chia một chương trình phức tạp thành các lớp. Theo thiết kế hướng miền có 4 lớp:
+
 <!--Giao diện người dùng (User Interface)-->
+
 Chịu trách nhiệm trình bày thông tin tới người sử dụng và thông dịch lệnh của người dùng.
+
 <!--Lớp ứng dụng (Application Layer)-->
+
 Đây là một lớp mỏng phối hợp các hoạt động của ứng dụng. Nó không chứa logic nghiệp vụ. Nó không lưu giữ trạng thái của các đối tượng nghiệp vụ nhưng nó có thể giữ trạng thái của một tiến trình của ứng dụng.
+
 <!--Lớp miền (Domain Layer)-->
+
 Lớp này chứa thông tin về các lĩnh vực. Đây là trái tim của nghiệp vụ phần mềm. Trạng thái của đối tượng nghiệp vụ được giữ tại đây. Persistence của các đối tượng nghiệp vụ và trạng thái của chúng có thể được ủy quyền cho Lớp hạ tầng.
+
 <!--Lớp hạ tầng (Infrastructure Layer)-->
+
 Lớp này đóng vai trò như một thư viện hỗ trợ cho tất cả các lớp còn lại. Nó cung cấp thông tin liên lạc giữa các lớp, cài đặt persistence cho đối tượng nghiệp vụ, đồng thời chứa các thư viện hỗ trợ cho Lớp giao diện người dùng, ...
 **Các đối tượng miền**
 **Đối tượng thực thể (Entities)**
@@ -254,29 +260,26 @@ Một đối tượng được dùng để mô tả các khía cạnh cố đị
 Đối tượng giá trị được tạo trong bộ nhớ tiến trình và sau đó bị hủy sau khi nó đã phục vụ mục đích của nó.
 Một điểm khác biệt quan trọng giữa các thực thể và đối tượng giá trị là đối tượng giá trị không tồn tại lâu dài trong CSDL.
 
-
 <!--VD-->
 <!--chúng ta sẽ đặt logic xác thực cho địa chỉ email ở đâu?-->
 <!--xác nhận kỹ thuật không liên quan đến bất kỳ khái niệm kinh doanh nào.-->
 <!--tạo một đối tượng giá trị để xác thực địa chỉ email.-->
 <!--Kết quả là, thực thể khách hàng sẽ sạch hơn và đơn giản hơn nhiều trong việc thực hiện.-->
 
-
-
-
-
 <!--Hướng dẫn 7/4-->
 <!--Hướng dẫn 7/5-->
-
-
 
 **Quản lý vòng đời của các đối tượng miền**
 Việc quản lý vòng đời các đối tượng trong miền không hề đơn giản, nếu như làm không đúng sẽ có thể gây ảnh hưởng đến việc mô hình hóa miền.
 
 **Mẫu tổng hợp (Aggregate)**
+
 <!--Tính tương đồng (Aggregate)-->
+
 Mẫu tổng hợp là một nhóm các thực thể và đối tượng giá trị được xem như một tổng thể thống nhất từ ​​góc độ dữ liệu và khái niệm miền.
+
 <!--Hãy để tôi giải thích điều này bằng một minh họa.-->
+
 Một tập hợp bao gồm một nhóm tổng hợp còn được gọi là thực thể gốc.
 Thực thể gốc này có một danh tính duy nhất từ ​​phối cảnh miền.
 Phần thứ hai của tập hợp là cụm, được hình thành bởi ranh giới của tập hợp.
@@ -287,15 +290,11 @@ Aggregate phải cung cấp các giao diện để vận hành trên các đối
 đảm bảo rằng tất cả hành vi cần thiết để vận hành trên đối tượng bên trong được hiển thị dưới dạng các hàm của đối tượng gốc tổng hợp.
 ![](image-5.png)
 
-
-
-
 <!--Các nhà máy (factori) là để tạo ra miền phức tạp.-->
 <!--Các reporitori được sử dụng để quản lý tính bền vững của các đối tượng miền.-->
 <!--Các dịch vụ được sử dụng để mô hình hóa sự tương tác của các đối tượng miền với các đối tượng miền khác, với cơ sở hạ tầng và với các thành phần bên ngoài khác.-->
 
 <!--tổng hợp và mẫu nhà máy (Aggregates & Factories)-->
-
 
 <!--!Mẫu nhà xưởng (Factory Pattern)-->
 <!--Mẫu thiết kế nhà máy là một mẫu phổ biến để xây dựng các tập hợp miền phức tạp. Cách thức hoạt động là chúng ta xác định một đối tượng có tất cả logic để tạo tổng hợp miền.-->
@@ -320,22 +319,6 @@ Vì vậy đây là mẫu thiết kế rất phổ biến, không nhất thiết
 <!---->
 <!---->
 <!---->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--mẫu kho lưu trữ (Repository Pattern)-->
 
@@ -514,7 +497,6 @@ Repository trong ORM
 <!--https: //images.viblo.asia/fd4b10a0-f1b1-4ed1-9bd1-578c871820ae.png-->
 
 , gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
-
 
 # Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
 
@@ -722,6 +704,7 @@ Tiếp theo là các kênh mà khách hàng muốn tiếp cận.
 Xem video hướng dẫn phân tích: 4\3
 
 <!--Các công nghệ phổ biến trong kiến trúc vi dịch vụ-->
+
 Docker container.....
 Docker container.....
 Docker container.....
@@ -741,7 +724,6 @@ https: //www.youtube.com/watch? v=UXHzxX4png0
 https: //www.youtube.com/watch? v=glZs4QFfwbc
 
 https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
-
 
 <!--!Mối quan hệ đối xứng-->
 <!--!Mối quan hệ bất đối xứng-->
@@ -767,11 +749,6 @@ Nếu cần thay đổi và thay đổi không phải là một phần của mô
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
 **Hạt nhân dùng chung (Shared Kernel)**
 
-
-
-
-
-
 <!--Việc chia sẻ mô hình giữa các liên hệ bị chặn được gọi là mẫu mục tiêu chung. Điều quan trọng cần ghi nhớ đối với Kernel được chia sẻ là các phần chồng chéo của các liên hệ thể hiện mô hình miền chung, các khái niệm được chia sẻ và ngôn ngữ kinh doanh được chia sẻ giữa hai liên hệ được liên kết.-->
 <!--Thông thường, hạt nhân dùng chung được hiện thực hóa bằng Labrys dùng chung, chẳng hạn như Java, Java, Gói Python và Ruby Gems.-->
 
@@ -781,12 +758,8 @@ Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phố
 
 <!--Và đó là lý do gợi ý chỉ sử dụng kernel dùng chung nếu chúng ta đang nói về một tập hợp nhỏ các khái niệm được chia sẻ giữa các liên hệ bị chặn.-->
 
-
 để giải quyết vấn đề
 **Mô hình hợp tác (Partnership Pattern)**
-
-
-
 
 <!---->
 <!---->
@@ -797,13 +770,6 @@ Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phố
 Hãy giúp tôi sửa lỗi chính và ngữ pháp:
 **Miền (Domain)**
 
-
-
-
-
-
-
-
 <!--!Trong bài học này, tôi đã đề cập đến ba mô hình chiến lược. Cách đầu tiên là những cách riêng biệt trong đó không có mối quan hệ nào giữa các liên hệ bị chặn.-->
 <!--!Kết quả là, các nhóm làm việc trên hai điểm tiếp xúc liên kết có thể làm việc thực sự độc lập. Tiếp theo là mô hình hợp tác trong đó có sự phụ thuộc lẫn nhau giữa các liên hệ bị ràng buộc.-->
 <!--!Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay đổi đối với các liên hệ giới hạn của riêng mình. Thứ ba là Kamna được chia sẻ, trong đó đề xuất rằng ranh giới của các khái niệm và mô hình được chia sẻ phải được phân định rõ ràng và chỉ những thay đổi đối với các mô hình chung này mới cần được các nhóm điều phối.-->
@@ -811,15 +777,6 @@ Hãy giúp tôi sửa lỗi chính và ngữ pháp:
 
 <!--// C: \Users\ionships_VVN\000000004.srt-->
 <!--các ký hiệu bản đồ ngữ cảnh.-->
-
-
-
-
-
-
-
-
-
 
 <!--Mối quan hệ bất đối xứng-->
 
@@ -887,9 +844,3 @@ Ngôn ngữ chung này được các nhóm làm việc trong bối cảnh giới
 Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với dịch vụ lưu trữ mở. Trở lại ngược dòng, các liên hệ được giới hạn trên nhà cung cấp dịch vụ được lưu trữ mở sẽ hiển thị ngôn ngữ chung cho các dịch vụ chung và ngôn ngữ này được quản lý bởi nhóm chịu trách nhiệm về dịch vụ được lưu trữ mở, các liên hệ được giới hạn ở hạ nguồn ngoại trừ ngôn ngữ được xuất bản này.
 
 <!--Hướng dẫn 6/6-->
-
-
-
-
-
-

@@ -1,15 +1,5 @@
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \03IntroductiontoDomainDrivenDesign_VVN\000000001.srt-->
-
-1
-00: 00: 00, 150--> 00: 00: 10, 050
-Hiểu được miền khi kết thúc bài học này, bạn sẽ có thể giải thích miền là gì và vai trò của chuyên gia về miền trong bài học này là gì.
-
-2
-00: 00: 10, 290--> 00: 00: 18, 310
-Tôi cũng sẽ giới thiệu với bạn về những chuyến đi của tôi, một công ty hư cấu được sử dụng làm ví dụ điển hình trong khóa học này.
-
-3
-00: 00: 18, 720--> 00: 00: 26, 700
+<!--@   \03IntroductiontoDomainDrivenDesign_VVN\000000001.srt-->
+ 
 Hãy bắt đầu với ngôn ngữ tiếng Anh. Định nghĩa về miền hoặc miền được định nghĩa là một phạm vi kiến ​​thức, ảnh hưởng hoặc hoạt động.
 
 4
@@ -128,7 +118,7 @@ Khí đốt và bán lẻ là các miền kinh doanh, các miền được tạo
 00: 05: 13, 610--> 00: 05: 25, 040
 Do đó, cần có nhiều chuyên gia về lĩnh vực để hỗ trợ các chức năng kinh doanh. Hầu hết, các chuyên gia ngành này được liên kết với các tên miền phụ trong tên miền lớn hơn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \03IntroductiontoDomainDrivenDesign_VVN\000000002.srt-->
+<!--@   \03IntroductiontoDomainDrivenDesign_VVN\000000002.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 500
@@ -322,7 +312,7 @@ Macario thiết kế chi tiết cho từng bộ phận. Có ba khái niệm chí
 00: 09: 02, 710--> 00: 09: 13, 630
 Kiến trúc hơn không có bất kỳ chi tiết triển khai nào, trong khi thiết kế là sự thể hiện có cấu trúc của một giải pháp có một số mức độ chi tiết triển khai trong đó.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \03IntroductiontoDomainDrivenDesign_VVN\000000003.srt-->
+<!--@   \03IntroductiontoDomainDrivenDesign_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 10, 860
@@ -520,7 +510,7 @@ Mỗi phong cách này tuân theo một bộ nguyên tắc chung và chúng tậ
 00: 07: 43, 470--> 00: 07: 53, 880
 Các kiến ​​trúc sư điên cuồng thực hiện bất kỳ phong cách nào trong số này tùy thuộc vào nhu cầu và sở thích của họ. Thiết kế hướng miền là một phong cách kiến ​​trúc trong đó trọng tâm là lĩnh vực kinh doanh.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \03IntroductiontoDomainDrivenDesign_VVN\000000004.srt-->
+<!--@   \03IntroductiontoDomainDrivenDesign_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 08, 820
@@ -670,7 +660,7 @@ Mục đích của mô hình miền là giúp tạo ra giải pháp cho các v�
 00: 06: 11, 450--> 00: 06: 23, 500
 Năm yếu tố tạo nên mô hình miền, miền, từ vựng, thực thể miền, mối quan hệ giữa các thực thể, quy trình làm việc và hoạt động cũng như các khái niệm chính.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \03IntroductiontoDomainDrivenDesign_VVN\000000005.srt-->
+<!--@   \03IntroductiontoDomainDrivenDesign_VVN\000000005.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 14, 600
@@ -796,7 +786,7 @@ Chúng ta hãy điểm qua những bài học quan trọng từ bài học này.
 00: 05: 54, 790--> 00: 06: 04, 630
 Có nhiều thách thức khi tạo mô hình cho các miền phức tạp và những thách thức này được giải quyết bằng phương pháp thiết kế hướng miền.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \04UnderstandingtheBusinessDomain_VVN\000000001.srt-->
+<!--@   \04UnderstandingtheBusinessDomain_VVN\000000001.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 11, 950
@@ -850,7 +840,7 @@ Các bài giảng trong phần này sẽ dạy cho bạn một kỹ thuật mà 
 00: 02: 14, 760--> 00: 02: 36, 590
 Kỹ thuật này được gọi là mục tiêu của phần canvas mô hình kinh doanh. Các bài giảng trong phần này sẽ hướng dẫn bạn cách phát triển canvas mô hình kinh doanh và đến cuối phần này, chúng tôi sẽ phát triển canvas mô hình kinh doanh cho Akhmatova và chúng tôi sẽ sử dụng canvas mô hình kinh doanh này trong các bài giảng sau trong suốt khóa học.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \04UnderstandingtheBusinessDomain_VVN\000000002.srt-->
+<!--@   \04UnderstandingtheBusinessDomain_VVN\000000002.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 09, 230
@@ -1020,7 +1010,7 @@ Theo quan điểm của chủ tịch, các dịch vụ được cung cấp cho k
 00: 06: 55, 350--> 00: 07: 10, 620
 Uber kiếm tiền bằng hoa hồng phù hợp, các chuyến đi cao cấp, giá tăng đột biến và phí hủy. Uber phải chịu các chi phí và chi trả cho hoạt động tiếp thị, pháp lý, phát triển công nghệ, R&D và trả lương cho nhân viên.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \04UnderstandingtheBusinessDomain_VVN\000000003.srt-->
+<!--@   \04UnderstandingtheBusinessDomain_VVN\000000003.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 14, 310
@@ -1206,7 +1196,7 @@ Nó cũng phải trả tiền hoa hồng cho đối tác bán hàng của mình.
 00: 07: 59, 670--> 00: 08: 06, 960
 Cuối cùng nhưng không kém phần quan trọng, tiền lương nhân viên và hoa hồng cho chuyên gia du lịch cũng là một khoản chi lớn khác đối với Acme.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000001.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000001.srt-->
 
 1
 00: 00: 00, 200--> 00: 00: 27, 930
@@ -1248,7 +1238,7 @@ Bạn biết tại sao việc hiểu bối cảnh kinh doanh lại quan trọng.
 00: 02: 13, 080--> 00: 02: 20, 070
 Và bạn cũng sẽ có thể mô tả quy trình có thể được sử dụng để khám phá các liên hệ được liên kết trong một miền.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000002.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000002.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 13, 760
@@ -1470,7 +1460,7 @@ Tên miền phụ chung có sẵn các giải pháp mà doanh nghiệp có thể
 00: 10: 14, 930--> 00: 10: 28, 470
 Và doanh nghiệp nhận được lợi tức đầu tư cao nhất bằng cách đầu tư vào các giải pháp. Thông thường, doanh nghiệp sẽ sử dụng tài năng và nguồn lực tốt nhất của mình để xây dựng các giải pháp trong miền phụ cốt lõi.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000003.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000003.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 09, 150
@@ -1588,7 +1578,7 @@ Bạn nghĩ sao? Vì vậy, có một điều rõ ràng. Hoạt động tiếp t
 00: 04: 40, 440--> 00: 04: 49, 980
 Nhưng việc quản lý sản phẩm và chức năng của kênh bán hàng lại phụ thuộc vào hoạt động tiếp thị. Vì vậy, tất cả đều đặt hoạt động tiếp thị vào danh mục hỗ trợ.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000004.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000004.srt-->
 
 1
 00: 00: 00, 500--> 00: 00: 13, 190
@@ -1678,7 +1668,7 @@ Bây giờ, nếu bạn đang nghĩ tại sao tôi lại chú trọng nhiều đ
 00: 04: 25, 310--> 00: 04: 33, 200
 Điều bắt buộc là nhóm CNTT phải hiểu bối cảnh kinh doanh mà không có sự hiểu biết phù hợp về bối cảnh kinh doanh.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000005.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 08, 760
@@ -1828,7 +1818,7 @@ Trong các bài học sau, bạn sẽ tìm hiểu chi tiết về ngôn ngữ ph
 00: 06: 47, 770--> 00: 07: 10, 500
 Đã đến lúc bắt đầu với những bài học quan trọng từ bài học này. NÓ. các nhóm phải học ngôn ngữ kinh doanh. NÓ. các nhóm có I.T. biệt ngữ và sự nhầm lẫn xảy ra do sự dịch thuật giữa miền và thiết kế hướng miền ngôn ngữ IP, chẳng hạn như việc tạo ra một ngôn ngữ chung phải được sử dụng bởi tất cả các bên liên quan, bao gồm cả CNTT.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000006.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 17, 010
@@ -1986,7 +1976,7 @@ Trong bài học này, bạn đã học về ngôn ngữ phổ biến. Ba điể
 00: 07: 19, 980--> 00: 07: 26, 820
 Ngôn ngữ phổ biến không yêu cầu bất kỳ công cụ đặc biệt nào mà bạn có thể sử dụng bất kỳ nền tảng cộng tác tri thức nào.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000007.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000007.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 12, 060
@@ -2128,7 +2118,7 @@ Ngoài hai điều khoản này, cho đến nay không có sự trùng lặp nà
 00: 06: 20, 480--> 00: 06: 27, 350
 Chúng tôi tìm hiểu thêm các thuật ngữ và có khả năng trùng lặp giữa các thuật ngữ mới mà chúng tôi sẽ học từ chúng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000008.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000008.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 10, 490
@@ -2298,7 +2288,7 @@ Các mô hình có thể được phát triển độc lập trong từng bối 
 00: 07: 39, 870--> 00: 07: 47, 580
 Mỗi bối cảnh giới hạn có ngôn ngữ phổ biến riêng, ngôn ngữ này chỉ có ý nghĩa trong bối cảnh giới hạn đó.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000009.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 12, 870
@@ -2440,7 +2430,7 @@ Trong bài học này, tôi đã hướng dẫn bạn một loạt các bước 
 00: 06: 55, 510--> 00: 07: 04, 570
 Bạn cần chú ý đến ngôn ngữ kinh doanh và những manh mối ngôn ngữ sẽ giúp bạn phân định ranh giới của bối cảnh bị giới hạn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \05DomainDrivenDesignStrategicPatterns_VVN\000000010.srt-->
+<!--@   \05DomainDrivenDesignStrategicPatterns_VVN\000000010.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 11, 420
@@ -2598,7 +2588,7 @@ Sau đó, chúng tôi tập trung vào các hoạt động hỗ trợ và nhận
 00: 07: 59, 860--> 00: 08: 17, 020
 Khi chúng ta xem qua các hoạt động chính này, chúng ta tập hợp các nhóm kinh doanh. Sau đó, chúng tôi so sánh các điều khoản kinh doanh và nhận ra rằng việc chia các liên hệ hỗ trợ thành các liên hệ hỗ trợ khách hàng và cung cấp bối cảnh hỗ trợ là hợp lý.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \06BoundedContextRelationships_VVN\000000001.srt-->
+<!--@   \06BoundedContextRelationships_VVN\000000001.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 17, 050
@@ -2648,7 +2638,7 @@ Quả bóng bùn lớn và các địa chỉ liên hệ, bản đồ, bạn sẽ
 00: 02: 11, 260--> 00: 02: 18, 960
 Vì vậy, bạn sẽ có thể chọn một mẫu mối quan hệ thích hợp để xác định các phụ thuộc bối cảnh liên kết của mình.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \06BoundedContextRelationships_VVN\000000002.srt-->
+<!--@   \06BoundedContextRelationships_VVN\000000002.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 24, 510
@@ -2750,7 +2740,7 @@ Với tư cách là người thiết kế các máy chủ vi mô, bạn phải t
 00: 04: 59, 270--> 00: 05: 09, 950
 Điều tiếp theo là với tư cách là nhà thiết kế vi dịch vụ, bạn phải sử dụng các mẫu DTT được xác định rõ ràng để xác định mối quan hệ giữa các liên hệ bị ràng buộc của mình.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \06BoundedContextRelationships_VVN\000000003.srt-->
+<!--@   \06BoundedContextRelationships_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 17, 970
@@ -2876,7 +2866,7 @@ Do đó, các nhóm phải phối hợp với nhau để thực hiện các thay
 00: 06: 13, 240--> 00: 06: 24, 940
 Nói cách khác, nếu nhóm đang thực hiện những thay đổi không liên quan đến các mô hình hoặc khái niệm được chia sẻ thì nhóm có thể thực hiện những thay đổi đó mà không cần ý kiến ​​đóng góp của nhóm khác.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \06BoundedContextRelationships_VVN\000000004.srt-->
+<!--@   \06BoundedContextRelationships_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 15, 200
@@ -3034,7 +3024,7 @@ Lớp chống tham nhũng này có logic để dịch các mô hình từ địn
 00: 08: 00, 200--> 00: 08: 09, 410
 Formic, theo hướng đó xuôi dòng. Bối cảnh bị ràng buộc không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \06BoundedContextRelationships_VVN\000000005.srt-->
+<!--@   \06BoundedContextRelationships_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 17, 640
@@ -3096,7 +3086,7 @@ Không có sự khác biệt trong bài học này. Bạn đã tìm hiểu về 
 00: 03: 10, 800--> 00: 03: 34, 110
 Ngôn ngữ thứ hai là ngôn ngữ được xuất bản, đi đôi với dịch vụ lưu trữ mở. Trở lại ngược dòng, các liên hệ được giới hạn trên nhà cung cấp dịch vụ được lưu trữ mở sẽ hiển thị ngôn ngữ chung cho các dịch vụ chung và ngôn ngữ này được quản lý bởi nhóm chịu trách nhiệm về dịch vụ được lưu trữ mở, các liên hệ được giới hạn ở hạ nguồn ngoại trừ ngôn ngữ được xuất bản này.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \06BoundedContextRelationships_VVN\000000006.srt-->
+<!--@   \06BoundedContextRelationships_VVN\000000006.srt-->
 
 1
 00: 00: 00, 090--> 00: 00: 17, 880
@@ -3210,7 +3200,7 @@ Bây giờ Lecomte cũng đang sử dụng việc mua hàng, nhưng vì nó đan
 00: 05: 21, 260--> 00: 05: 28, 310
 Và hợp đồng ngoại quan tài khoản bán lẻ sẽ không cần phải điều chỉnh. Tôi hy vọng bạn thích bài tập này.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000001.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 15, 560
@@ -3244,7 +3234,7 @@ Bạn sẽ tìm hiểu tất cả các mẫu chiến thuật này trong phần n
 00: 01: 27, 090--> 00: 01: 37, 980
 Tôi sẽ chỉ cho bạn cách lập mô hình các mẫu này cho các vi dịch vụ của bạn nói chung và cách xây dựng các mẫu kỹ thuật này bằng cách sử dụng các lớp Java cũ đơn giản.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000002.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000002.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 13, 890
@@ -3382,7 +3372,7 @@ Nơi chúng được xác định là các thực thể được xác định du
 00: 06: 27, 060--> 00: 06: 35, 700
 Hành vi này triển khai logic nghiệp vụ có thể thay đổi trạng thái của thực thể. Các thực thể được lưu trữ lâu dài.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000003.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000003.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 15, 080
@@ -3532,7 +3522,7 @@ Tên miền phụ và tài khoản cá nhân không thành vấn đề. Vì vậ
 00: 07: 33, 280--> 00: 07: 55, 180
 Các đối tượng giá trị không được tồn tại trong CSDL như một đối tượng độc lập. Nó được lưu trữ như một phần của đối tượng thực thể hoặc thậm chí nó không được lưu trữ trong CSDL, một thực thể trong một ngữ cảnh bị chặn, có thể là một đối tượng giá trị trong một ngữ cảnh bị chặn khác và ngược lại.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000004.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000004.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 19, 900
@@ -3698,7 +3688,7 @@ Thực thể đề xuất có một hoặc nhiều đối tượng giá trị Ba
 00: 08: 22, 550--> 00: 08: 39, 050
 Hãy kết hợp mô hình đề xuất với mô hình khách hàng. Thực thể đề xuất đề cập đến thực thể khách hàng và đây là mô hình tổng thể mà chúng tôi đã đưa ra, với khái niệm được xác định trong bối cảnh bán hàng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000005.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000005.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 15, 130
@@ -3920,7 +3910,7 @@ Cộng với đề xuất này. Bảng liệt kê trạng thái được sử d�
 00: 10: 21, 330--> 00: 10: 31, 820
 Vì vậy, đây là cách lớp đề xuất trông như thế nào. Tôi khuyên bạn nên tự mình xem các mô hình và thoải mái thực hiện các thay đổi để làm cho nó tốt hơn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000006.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 07, 410
@@ -4034,7 +4024,7 @@ Vì vậy, hãy ghi nhớ điều đó trong trường hợp này cũng như khi
 00: 05: 15, 160--> 00: 05: 24, 640
 Tất cả các thay đổi đối với tổng hợp đều được lưu. Các đối tác nguyên tử và nhà máy thường được sử dụng để tạo các tập hợp miền phức tạp.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000007.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000007.srt-->
 
 1
 00: 00: 00, 460--> 00: 00: 14, 530
@@ -4128,7 +4118,7 @@ Nếu quá trình hoàn tiền không thành công, hãy khôi phục tất cả
 00: 03: 45, 620--> 00: 03: 53, 860
 Vì vậy, đây là một ví dụ trong đó việc triển khai lộ trình tổng hợp nhằm đảm bảo rằng tất cả các thay đổi đều mang tính nguyên tử.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000008.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000008.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 07, 680
@@ -4222,7 +4212,7 @@ Rõ ràng là có một số quy tắc kinh doanh nhất định mà chúng ta c
 00: 04: 41, 490--> 00: 04: 51, 960
 Khi đó, trạng thái sẽ thay đổi thành hủy và đó sẽ là sự kết thúc của vòng đời đặt chỗ. Sau đó, không thể thực hiện thay đổi nào đối với đối tượng xác nhận đặt phòng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000009.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000009.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 09, 810
@@ -4408,7 +4398,7 @@ Một câu hỏi quan trọng mà tôi đã trả lời trong bài học này l�
 00: 08: 34, 620--> 00: 08: 55, 380
 Nó phụ thuộc vào yêu cầu của người dùng và các yếu tố khác. Xin lưu ý rằng đây là ý kiến ​​​​của tôi. Đề nghị của tôi dành cho bạn là bạn nên hình thành quan điểm của riêng mình bằng cách thực hiện thêm một số nghiên cứu, bằng cách xem xét các mô hình mà bạn đã phát triển trong quá khứ và kinh nghiệm của bạn trong việc quản lý các thay đổi đối với các mô hình đó.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000010.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000010.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 530
@@ -4606,7 +4596,7 @@ Các hoạt động CSDL trên tổng hợp phải là nguyên tử, đối tư�
 00: 09: 37, 670--> 00: 10: 01, 910
 Có một số mối quan tâm chung liên quan đến các đối tượng kho lưu trữ, nhưng những mối quan tâm chung này liên quan đến chức năng truy vấn có thể được giải quyết bằng cách hiển thị các hàm truy vấn cấp cao trong đối tượng kho lưu trữ bằng cách sử dụng các giải pháp bộ nhớ đệm như Radice và Memcache cũng như bằng cách tạo và hiển thị các hàm truy vấn bên ngoài của đối tượng kho lưu trữ.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000011.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000011.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 15, 310
@@ -4812,7 +4802,7 @@ Và sau đó, như mong đợi, xác nhận đặt phòng ở trạng thái ch�
 00: 10: 01, 380--> 00: 10: 11, 670
 Tôi khuyên bạn nên tự mình đi đến điểm số và dùng thử để cảm nhận cách hoạt động của các đối tượng kho lưu trữ và các thành phần mô hình khác.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000012.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000012.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 11, 760
@@ -4950,7 +4940,7 @@ Tôi đã nói về dịch vụ miền và bạn cần phải biết những đ�
 00: 06: 41, 100--> 00: 06: 50, 310
 Các đặc điểm khác là dịch vụ miền không có trạng thái, dịch vụ miền có tính Cohasset cao và dịch vụ miền với các dịch vụ miền khác.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000013.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000013.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 920
@@ -5072,7 +5062,7 @@ Chúng cung cấp các dịch vụ cấp cao bằng cách phối hợp thực th
 00: 05: 57, 520--> 00: 06: 12, 070
 Các dịch vụ ứng dụng hiển thị giao diện cho các thành phần bên ngoài. Nghĩa là, các thành phần nằm ngoài mô hình miền thông qua giao thức mạng như HTP và NQ.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000014.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000014.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 25, 530
@@ -5170,7 +5160,7 @@ Trong bài giảng này, bạn đã tìm hiểu về các dịch vụ cơ sở h
 00: 04: 56, 530--> 00: 05: 11, 950
 Các dịch vụ cơ sở hạ tầng cung cấp các tài nguyên bên ngoài thông qua giao diện tiêu chuẩn hoặc hợp đồng tiêu chuẩn và cơ chế hợp đồng tiêu chuẩn này bảo vệ mô hình miền khỏi những thay đổi trong dịch vụ bên ngoài.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000015.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000015.srt-->
 
 1
 00: 00: 00, 610--> 00: 00: 14, 470
@@ -5280,7 +5270,7 @@ Nếu có, tổng phụ phí sẽ được tính toán và cộng thêm. Tương
 00: 04: 59, 570--> 00: 05: 14, 730
 Việc trùng lặp sẽ được tính toán và cộng thêm khoản phụ phí tương tự vào khoản phụ phí của khu nghỉ dưỡng, sau đó thuế bán hàng sẽ được tính dựa trên quốc gia cư trú của khách hàng, giá cuối cùng sau đó sẽ được trả lại cho người gọi.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \07DomainDrivenDesignTacticalPatterns_VVN\000000016.srt-->
+<!--@   \07DomainDrivenDesignTacticalPatterns_VVN\000000016.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 10, 530
@@ -5410,7 +5400,7 @@ Nếu bạn quan tâm, bạn có thể đi qua tòa án để thực hiện hai 
 00: 06: 02, 880--> 00: 06: 12, 030
 Ngoài ra còn có bản triển khai thử nghiệm giao diện cổng thanh toán để cho thấy cách thực hiện giao diện cổng thanh toán.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000001.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000001.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 14, 790
@@ -5452,7 +5442,7 @@ MQ COFCO cũng rất phổ biến và bạn sẽ thấy cách sử dụng Kafka 
 00: 01: 36, 960--> 00: 01: 54, 480
 Bạn tìm hiểu về các loại sự kiện vi dịch vụ khác nhau. Tôi sẽ cung cấp cho bạn cái nhìn tổng quan về khái niệm AQAP liên quan đến việc triển khai cơ bản các sự kiện và bạn cũng sẽ thấy các sự kiện mô hình bán hàng đang hoạt động bằng cách sử dụng Java và Rabbit MQ.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000002.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000002.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 09, 920
@@ -5602,7 +5592,7 @@ Tức là nó không bị chặn. Các nền tảng nhắn tin như Kafka, Rabbi
 00: 06: 57, 080--> 00: 07: 07, 130
 Cửa sổ bật lên thường được sử dụng khi có nhiều người nhận tin nhắn. Trong bài giảng tiếp theo, bạn sẽ tìm hiểu cách các vi dịch vụ sử dụng các mẫu này.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000003.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000003.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 22, 140
@@ -5752,7 +5742,7 @@ Với tư cách là nhà thiết kế hoặc các vi dịch vụ, bạn sẽ s�
 00: 08: 56, 980--> 00: 09: 14, 530
 Đó là, giao tiếp dịch vụ. Bạn sẽ luôn sử dụng các ứng dụng và nhắn tin. Điều quan trọng nhất cần ghi nhớ là bạn cần đưa ra quyết định về việc quản lý sự phụ thuộc giữa các vi dịch vụ bằng cách sử dụng các mẫu tích hợp ngữ cảnh giới hạn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000004.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000004.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 16, 620
@@ -5966,7 +5956,7 @@ Edir sử dụng giao tiếp không đồng bộ giữa nhà sản xuất và ng
 00: 10: 37, 520--> 00: 10: 47, 550
 Điều đó có nghĩa là tất cả các thành phần trong hệ thống đều có logic nghiệp vụ nhất định có thể được quản lý độc lập với các thành phần khác trong hệ thống.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000005.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000005.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 11, 630
@@ -6180,7 +6170,7 @@ Hãy đọc tin nhắn số hai, và đây là tin nhắn số hai, kiểm tra D
 00: 09: 37, 500--> 00: 09: 45, 840
 Tôi khuyên bạn nên tự mình thử trao đổi và liên kết hàng đợi để hiểu rõ hơn về cách hoạt động của Rabbit Amcu.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000006.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 300
@@ -6426,7 +6416,7 @@ Có hai loại sự kiện miền và sự kiện tích hợp. Các sự kiện 
 00: 11: 16, 810--> 00: 11: 27, 550
 Các sự kiện miền có thể được xử lý đồng bộ cũng như không đồng bộ. Nên sử dụng các quy ước đặt tên phù hợp để đặt tên cho các sự kiện và trình xử lý sự kiện.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000007.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000007.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 10, 180
@@ -6620,7 +6610,7 @@ Tuyến tổng hợp đã thực hiện hành động thành công và sau đó 
 00: 08: 18, 650--> 00: 08: 27, 050
 Con gái ông chủ đang ở trong lộ trình tổng hợp. Đề nghị bạn đi bộ đến tòa án và tự mình thử.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000008.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000008.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 18, 410
@@ -6746,7 +6736,7 @@ Hãy thực hiện nghiên cứu của riêng bạn và chia sẻ những phát 
 00: 06: 02, 290--> 00: 06: 08, 290
 Nếu bạn không quan tâm đến việc xem qua mã và xem nó hoạt động như thế nào, bạn có thể bỏ qua bài giảng tiếp theo.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000009.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000009.srt-->
 
 1
 00: 00: 00, 300--> 00: 00: 09, 160
@@ -6812,7 +6802,7 @@ Ngay cả người xử lý sau đó cũng cập nhật tham chiếu đặt ch�
 00: 02: 57, 390--> 00: 03: 05, 640
 Đề xuất của tôi dành cho bạn là bạn nên tự mình xem mã này, kiểm tra mã và các lớp liên quan và cho tôi biết nếu bạn có bất kỳ câu hỏi nào.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000010.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000010.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 13, 860
@@ -6954,7 +6944,7 @@ Chúng ta hãy điểm qua những điểm chính từ bài học này. Các s�
 00: 06: 52, 510--> 00: 07: 05, 620
 Các vi dịch vụ tiêu dùng dành cho các sự kiện tích hợp có thể sử dụng Atheel hoặc lớp chống tham nhũng để tách biệt kiến ​​thức về bối cảnh giới hạn nguồn trước đó.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000011.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000011.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 250
@@ -7120,7 +7110,7 @@ Vì vậy, để bảo vệ mô hình khỏi bị hiểu biết về các công 
 00: 08: 13, 290--> 00: 08: 21, 330
 Vì vậy chúng tôi đã tạo ra dịch vụ cơ sở hạ tầng tin nhắn. Trong bài giảng tiếp theo, bạn sẽ thấy hoạt động của sự kiện xác nhận đặt chỗ đang diễn ra.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000012.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000012.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 12, 340
@@ -7286,7 +7276,7 @@ Và tôi sẽ chỉ nói từ tin nhắn đã xuất bản của bạn, tin nh�
 00: 07: 35, 750--> 00: 07: 46, 760
 Hãy thử một lần nữa. Tôi sẽ chỉ đặt tin nhắn được xuất bản thử nghiệm thứ hai và đây là thử nghiệm thứ hai của chúng tôi. Và lúc này, chúng ta cũng sẽ thấy tin nhắn trong thông báo qua email.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \08EventsDrivenArchitectureDomainEvents_VVN\000000013.srt-->
+<!--@   \08EventsDrivenArchitectureDomainEvents_VVN\000000013.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 11, 340
@@ -7384,7 +7374,7 @@ Thử nghiệm này tương tự như thử nghiệm trước đó, ngoại tr�
 00: 04: 13, 290--> 00: 04: 25, 830
 Như bạn có thể thấy ở đây, một sự kiện đã được nêu ra. Hãy kiểm tra Q và trong Q, như mong đợi, chúng ta thấy một thông báo và nếu nhận được thông báo, chúng ta sẽ thấy nội dung thông báo cho sự kiện.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \09EventStormingforcreatingsharedknowledge_VVN\000000001.srt-->
+<!--@   \09EventStormingforcreatingsharedknowledge_VVN\000000001.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 12, 960
@@ -7414,7 +7404,7 @@ Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Đến cu�
 00: 01: 17, 160--> 00: 01: 35, 580
 Bạn có thể mô tả quá trình được sử dụng để tạo ra các mô hình kiến ​​thức. Bạn sẽ học cách chuẩn bị và tiến hành hội thảo gây bão sự kiện và trong bài giảng cuối cùng, bạn sẽ thấy cách sử dụng các công cụ cộng tác để tiến hành và hội thảo trực tuyến, thậm chí là gây bão.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \09EventStormingforcreatingsharedknowledge_VVN\000000002.srt-->
+<!--@   \09EventStormingforcreatingsharedknowledge_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 15, 630
@@ -7560,7 +7550,7 @@ Mục tiêu là không thể trả lời tất cả các câu hỏi. Và nó kh�
 00: 07: 06, 140--> 00: 07: 15, 020
 Ngay cả việc gây bão cũng được thực hiện dưới hình thức hội thảo được hỗ trợ và có thể được tiến hành trực tiếp hoặc trực tuyến.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \09EventStormingforcreatingsharedknowledge_VVN\000000003.srt-->
+<!--@   \09EventStormingforcreatingsharedknowledge_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 10, 030
@@ -7742,7 +7732,7 @@ Tác động của sự kiện miền được hiện thực hóa bằng chính 
 00: 08: 13, 500--> 00: 08: 20, 960
 Tên miền thậm chí còn có một số dữ liệu có giá trị đối với các bên liên quan. Dữ liệu có giá trị này được thể hiện bằng cách reboard.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \09EventStormingforcreatingsharedknowledge_VVN\000000004.srt-->
+<!--@   \09EventStormingforcreatingsharedknowledge_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 850
@@ -7864,7 +7854,7 @@ Một trong những vai trò quan trọng của người điều phối là đ�
 00: 06: 35, 670--> 00: 06: 45, 930
 Người tham gia phải cảm thấy gắn bó. Người tham gia phải tích cực trong suốt hội thảo. Vì vậy, người điều phối phải ghi nhớ những khía cạnh đó.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \09EventStormingforcreatingsharedknowledge_VVN\000000005.srt-->
+<!--@   \09EventStormingforcreatingsharedknowledge_VVN\000000005.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 10, 170
@@ -8010,7 +8000,7 @@ Những gì cần phải được thay đổi? Kỳ vọng là người điều 
 00: 06: 48, 360--> 00: 07: 09, 030
 Trong vòng hai đến ba ngày. Người điều phối củng cố Kiến thức và chia sẻ mô hình kiến ​​thức với tất cả những người tham gia Người điều phối yêu cầu người tham gia xem lại mô hình kiến ​​thức để đảm bảo tính chính xác của nó Người điều phối quyết định các bước tiếp theo và đảm bảo rằng tất cả các hạng mục trong bãi đậu xe đều được giải quyết.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \09EventStormingforcreatingsharedknowledge_VVN\000000006.srt-->
+<!--@   \09EventStormingforcreatingsharedknowledge_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 09, 390
@@ -8216,7 +8206,7 @@ Vì vậy, đây là trạng thái cuối cùng của mô hình kiến ​​th�
 00: 09: 23, 940--> 00: 09: 38, 880
 Mục đích của tôi chỉ là cung cấp cho bạn ý tưởng về cách hoạt động của hội thảo thậm chí còn gây bão. Cuối cùng, mô hình kiến ​​thức này sẽ được mở rộng để bao gồm việc xử lý nhiều sự kiện ở đây và các chi tiết khác.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000001.srt-->
+<!--@   \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000001.srt-->
 
 1
 00: 00: 00, 190--> 00: 00: 07, 960
@@ -8246,7 +8236,7 @@ Tôi sẽ thảo luận về một số thách thức này trong phần này và
 00: 01: 21, 660--> 00: 01: 30, 300
 Các phần mà tôi sẽ đề cập trong phần này là parathion CSDL dùng chung, parathion CSDL Sopra và mẫu hình tam giác này.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000002.srt-->
+<!--@   \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 13, 140
@@ -8356,7 +8346,7 @@ Vì vậy, việc đưa các nhà phát triển mới vào nhóm sẽ là một 
 00: 05: 18, 900--> 00: 05: 29, 130
 Nhưng hóa ra SOA giống như một phương tiện hỗ trợ cho một vấn đề lớn hơn là một giải pháp. Trong bài giảng tiếp theo, tôi sẽ nói về kiến ​​trúc hướng dịch vụ.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000003.srt-->
+<!--@   \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000003.srt-->
 
 1
 00: 00: 00, 060--> 00: 00: 20, 040
@@ -8402,7 +8392,7 @@ Dịch vụ Azor không phải là một vi dịch vụ . Hãy suy nghĩ về n�
 00: 02: 11, 930--> 00: 02: 19, 000
 Hãy tóm tắt những gì chúng ta đã học được trong bài học này. Các dịch vụ xã hội cách ly các ứng dụng khỏi những thay đổi CSDL .
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000004.srt-->
+<!--@   \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000004.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 12, 480
@@ -8488,7 +8478,7 @@ Hãy cùng chuyển sang điểm chính trong bài giảng này cho Greenfield, 
 00: 03: 55, 470--> 00: 04: 05, 490
 Mỗi Microsoft Office đều có phiên bản CSDL riêng. Hiện tại, đôi khi có thể không áp dụng được mẫu CSDL riêng biệt.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000005.srt-->
+<!--@   \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000005.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 690
@@ -8622,7 +8612,7 @@ Mẫu Strangler có thể được sử dụng để chuyển từ việc triể
 00: 06: 43, 750--> 00: 06: 54, 670
 Trong bài giảng tiếp theo, bạn sẽ tìm hiểu về cách tái cấu trúc CSDL và phân tách logic các CSDL trong đó CSDL dùng chung được giữ lại ở trạng thái đích.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000006.srt-->
+<!--@   \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 10, 290
@@ -8812,7 +8802,7 @@ Bạn sẽ cần xem xét công nghệ, độ phức tạp, kỹ năng mà bạn
 00: 09: 19, 340--> 00: 09: 28, 610
 Và sau đó dựa trên kết quả phân tích này, bạn sẽ có hai lựa chọn. Bạn có thể thực hiện thay đổi thiết kế và thực hiện tái cấu trúc CSDL .
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000007.srt-->
+<!--@   \10 kiến trúc vi dịch vụ DataManagementPatterns_VVN\000000007.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 11, 190
@@ -8982,7 +8972,7 @@ Suy giảm hiệu suất do phân phối dữ liệu có thể được giải q
 00: 08: 04, 990--> 00: 08: 12, 220
 Trong phần tiếp theo, bạn tìm hiểu về mẫu Securus, thậm chí tìm nguồn cung cấp thông điệp thích hợp và đáng tin cậy cho Saagar.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000001.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 10, 470
@@ -9032,7 +9022,7 @@ Và để đạt được điều này, cần có thêm các mẫu trong phần 
 00: 02: 11, 740--> 00: 02: 29, 860
 Trên nhiều CSDL . Bạn sẽ học lệnh, phân tách truy vấn. Bạn sẽ tìm hiểu lệnh, trách nhiệm truy vấn, mẫu phân tách, thậm chí cả mẫu tìm nguồn cung ứng và bạn sẽ thấy các mẫu này hoạt động như một phần của quá trình triển khai khả năng đề xuất bán hàng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000002.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000002.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 16, 140
@@ -9114,7 +9104,7 @@ Thông thường, các lệnh và truy vấn trong mẫu trình tự là một p
 00: 04: 05, 390--> 00: 04: 25, 290
 Chúng ta hãy đi với những điểm chính từ bài học này. Các lệnh thể hiện các hành động hoặc truy vấn ý định, do đó, dữ liệu miền và các mẫu phân tách truy vấn lệnh gợi ý rằng hoạt động được đối tượng miền hiển thị phải là một lệnh hoặc một truy vấn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000003.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000003.srt-->
 
 1
 00: 00: 00, 360--> 00: 00: 14, 490
@@ -9304,7 +9294,7 @@ Và sau đó chúng ta có mệnh đề đẳng thức này và là kết quả 
 00: 09: 37, 420--> 00: 09: 52, 960
 Và bây giờ chúng tôi có ba quy tắc khuyên bạn nên thử thực hiện các thay đổi đối với lớp kiểm tra báo cáo GBC để xem cách thực thi các phần tiếp theo bằng cách sử dụng các hàm được hiển thị trong lớp dựa trên Geremek.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000004.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 07, 850
@@ -9418,7 +9408,7 @@ Các chỉ mục thường được sử dụng để thực hiện các truy v�
 00: 05: 33, 640--> 00: 05: 41, 110
 Các miền cộng tác có ít sự chấp nhận đối với quy định về hiệu suất và đối với các miền cộng tác cũng vậy.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000005.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 07, 950
@@ -9624,7 +9614,7 @@ Phải. Bấm vào lớp Lệnh kiểm tra và chạy lệnh kiểm tra. Lệnh 
 00: 10: 20, 080--> 00: 10: 31, 240
 Tôi bấm vào truy vấn kiểm tra và chạy truy vấn kiểm tra. Chúng tôi đang nhận được tất cả các đề xuất cho khách hàng và đây là tất cả các đề xuất cho khách hàng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000006.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 11, 140
@@ -9766,7 +9756,7 @@ Có một số cân nhắc nhất định mà bạn cần lưu ý khi quyết đ
 00: 06: 57, 840--> 00: 07: 16, 280
 Đã đến lúc ôn lại những điểm chính của bài học này. Bạn có thể cân nhắc sử dụng Securus cho các miền cộng tác với Securus, với Securus, bên phải và bên phải có thể được quản lý độc lập từ góc độ hiệu suất, khả năng mở rộng và thay đổi.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000007.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000007.srt-->
 
 1
 00: 00: 00, 330--> 00: 00: 19, 590
@@ -9832,7 +9822,7 @@ Bài giảng trong phần này sẽ cho bạn thấy cơ chế hoạt động n�
 00: 03: 13, 590--> 00: 03: 28, 320
 Ứng dụng này có thể đồng bộ hoặc không đồng bộ. Bạn sẽ cần xem xét các yêu cầu cụ thể và công nghệ hỗ trợ của mình để quyết định công nghệ sao chép nào sẽ phù hợp hơn với trường hợp sử dụng của bạn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000008.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000008.srt-->
 
 1
 00: 00: 00, 510--> 00: 00: 13, 170
@@ -9946,7 +9936,7 @@ Một truy vấn được con người gọi ra đối với giao diện ngườ
 00: 06: 16, 520--> 00: 06: 25, 670
 Trong phần này, bạn sẽ thấy cách triển khai bảo mật End-To-End mà tôi đã thảo luận trong bài học này.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000009.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000009.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 08, 130
@@ -10056,7 +10046,7 @@ Hãy tới Rabbitt MQ. Mở trình quản lý thỏ Amcu trong trình quản lý
 00: 05: 50, 830--> 00: 06: 04, 570
 Hãy tiếp tục và đọc tin nhắn. Nhấp vào đề xuất, đọc Q, cuộn xuống và nhấp vào Nhận tin nhắn và đây là thông báo đề xuất của chúng tôi đã được lệnh xuất bản.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000010.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000010.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 11, 930
@@ -10222,7 +10212,7 @@ Lợi ích của việc kiên trì như vậy là bạn sẽ thoát khỏi cơ c
 00: 08: 18, 040--> 00: 08: 27, 100
 Các sự kiện được lưu trữ và thậm chí được lưu trữ. Đó có thể là CSDL truyền thống như RDBMS hoặc CSDL cuộc gọi dễ dàng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000011.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000011.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 10, 080
@@ -10388,7 +10378,7 @@ Và như bạn có thể thấy, bước đầu tiên đã thành công ở bư�
 00: 07: 45, 760--> 00: 07: 51, 880
 Đây là dữ liệu mà chúng tôi vừa chèn đề xuất bạn nên tự mình thử lớp học dựa trên Mongo TV.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000012.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000012.srt-->
 
 1
 00: 00: 00, 390--> 00: 00: 11, 700
@@ -10518,7 +10508,7 @@ Làm cho khỏe lại. Và đây là hai đề xuất bộ sưu tập mới, th�
 00: 06: 28, 020--> 00: 06: 38, 580
 Và nếu chúng ta nhìn vào bộ sưu tập đề xuất, chúng ta sẽ thấy dữ liệu chỉ dành cho đề xuất đó. Vậy tại thời điểm này, người đăng ký có hoạt động như mong đợi không?
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000013.srt-->
+<!--@   \11 kiến trúc vi dịch vụ DBPerformanceManagement_VVN\000000013.srt-->
 
 1
 00: 00: 00, 250--> 00: 00: 13, 010
@@ -10568,7 +10558,7 @@ Jason, hãy tiếp tục và chạy truy vấn thử nghiệm. Phải, nhấp v�
 00: 02: 04, 230--> 00: 02: 15, 120
 Một điều bạn cần lưu ý ở đây là cấu trúc liền kề cho phiên bản hai của truy vấn khác với cấu trúc liền kề của phiên bản, một trong những cách triển khai truy vấn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000001.srt-->
+<!--@   \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000001.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 08, 940
@@ -10606,7 +10596,7 @@ Trong phần này, bạn sẽ học cách giải quyết hai tình huống thấ
 00: 01: 35, 880--> 00: 01: 48, 270
 Bạn tìm hiểu nguyên tắc thiết kế cho lỗi sẽ xem xét mẫu thông báo đáng tin cậy. Bạn học cách xử lý các tin nhắn trùng lặp và khi chúng ta tiếp tục các bài giảng, sẽ đề cập đến đề xuất của Ackmann.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000002.srt-->
+<!--@   \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000002.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 09, 680
@@ -10804,7 +10794,7 @@ Nhưng hãy nhớ, có nhiều thách thức trong việc sử dụng truyện t
 00: 10: 23, 530--> 00: 10: 33, 010
 Bạn có thể sử dụng mẫu tin nhắn đáng tin cậy. Trong một số bài giảng tiếp theo, bạn sẽ thấy mô hình nhắn tin đáng tin cậy đang hoạt động.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000003.srt-->
+<!--@   \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000003.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 12, 070
@@ -11038,7 +11028,7 @@ Và đây là thông điệp của chúng tôi. Hãy đi tới trình duyệt ph
 00: 11: 51, 710--> 00: 12: 02, 690
 Và như bạn có thể thấy ở đây, chúng ta có một sự kiện ở đây và quy trình được đặt thành đúng. Đây là tải trọng 64 và quý tốt nhất cho sự kiện.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000004.srt-->
+<!--@   \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000004.srt-->
 
 1
 00: 00: 00, 240--> 00: 00: 16, 980
@@ -11232,7 +11222,7 @@ Với logic này, các sự kiện trùng lặp sẽ bị bỏ qua và không ba
 00: 09: 05, 390--> 00: 09: 17, 630
 Tác động có thể được cảm nhận bởi các hệ thống hoặc thành phần hạ nguồn. Điều thứ hai là mỗi nhóm trong hệ thống phân tán phải thiết kế để xử lý các lỗi.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000005.srt-->
+<!--@   \12 kiến trúc vi dịch vụ ManagingtheDataIntegrity_VVN\000000005.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 15, 390
@@ -11358,7 +11348,7 @@ Hãy xem thuê bao đã làm gì, thuê bao khi nhận được điện thoại 
 00: 05: 40, 900--> 00: 05: 49, 330
 Kết quả là nó chỉ bỏ qua sự kiện đó. Và do đó, việc quyết định lại sẽ đảm bảo rằng các sự kiện trùng lặp sẽ bị bỏ qua.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000001.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000001.srt-->
 
 1
 00: 00: 00, 390--> 00: 00: 18, 390
@@ -11384,7 +11374,7 @@ Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Bạn sẽ 
 00: 01: 15, 870--> 00: 01: 26, 100
 Nhiều trường hợp sử dụng vi dịch vụ trong đó Kafka phù hợp hơn nhiều so với cupie và bạn sẽ thấy Kafka hoạt động.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000002.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000002.srt-->
 
 1
 00: 00: 00, 390--> 00: 00: 06, 930
@@ -11458,7 +11448,7 @@ Trong bài học này, tôi đã cung cấp cho bạn một cái nhìn tổng qu
 00: 03: 30, 800--> 00: 03: 44, 270
 Vui lòng bỏ qua các bài giảng về khái niệm Kafka, nhưng vui lòng theo dõi các bài giảng về trải nghiệm thực tế với Kafka vì anh ấy sẽ tạo ra một cụm Kafka mà chúng ta sẽ sử dụng trong các bài giảng sau.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000003.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000003.srt-->
 
 1
 00: 00: 00, 660--> 00: 00: 09, 790
@@ -11672,7 +11662,7 @@ Kafka duy trì phần bù của tin nhắn cuối cùng trên cơ sở người 
 00: 11: 08, 140--> 00: 11: 21, 820
 Người tiêu dùng có thể đọc tin nhắn từ một chủ đề dưới dạng nhóm bằng ID nhóm. Trong bài giảng tiếp theo, chúng ta sẽ tạo một cụm Kafka và bạn sẽ thấy tất cả các khái niệm này đang hoạt động.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000004.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000004.srt-->
 
 1
 00: 00: 00, 510--> 00: 00: 09, 300
@@ -11826,7 +11816,7 @@ Nhấp vào các nhà môi giới để kiểm tra các nhà môi giới trong c
 00: 06: 09, 040--> 00: 06: 31, 030
 Tôi khuyên bạn nên tạo một chủ đề và để làm điều đó, hãy quay lại bảng điều khiển cloud craft của bạn, nhấp vào chủ đề, cung cấp tên chủ đề ở đây, đặt tham số và chỉ cần tạo thời gian để xuất bản một số thông báo cho chủ đề đó và bắt đầu người tiêu dùng trong trình duyệt để xem mọi thứ hoạt động như thế nào.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000005.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000005.srt-->
 
 1
 00: 00: 00, 480--> 00: 00: 10, 110
@@ -11936,7 +11926,7 @@ Và phân vùng cũng như thông tin về các tin nhắn đã xuất bản đ�
 00: 05: 05, 820--> 00: 05: 19, 740
 Một tin nhắn không có chìa khóa và một tin nhắn khác có chìa khóa. Hãy quay trở lại trình duyệt. Và như bạn có thể thấy ở đây, người tiêu dùng đã nhận được hai thông báo đề nghị bạn tự mình thử lớp nhà sản xuất.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000006.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000006.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 23, 520
@@ -12094,7 +12084,7 @@ Hãy chú ý đến phân vùng được chỉ định và bạn sẽ thấy r�
 00: 07: 58, 440--> 00: 08: 06, 600
 Vì vậy, đây là minh chứng cho thấy cách Kafka thực hiện việc tái cân bằng một cách tự động trong một nhóm người tiêu dùng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000007.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000007.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 15, 420
@@ -12196,7 +12186,7 @@ Họ được giữ lại. Kafka không hỗ trợ các khái niệm cupie như 
 00: 05: 00, 570--> 00: 05: 10, 710
 Điều đó có nghĩa là không có nền tảng nào khác đang sử dụng giao thức Cafcass. Cafcass chỉ hỗ trợ các tin nhắn bật lên và đầy đủ.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \13 kiến trúc vi dịch vụ andKafka_VVN\000000008.srt-->
+<!--@   \13 kiến trúc vi dịch vụ andKafka_VVN\000000008.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 09, 570
@@ -12350,7 +12340,7 @@ Vì vậy, bạn tiếp cận nhóm của mình và thảo luận xem nên sử 
 00: 06: 55, 800--> 00: 07: 04, 290
 Bây giờ, với giả định này, bạn thích cái nào hơn? Kafka hay Thỏ? MQ Tại sao? Tôi sẽ đi với Rabbit Amcu.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \14ManagingDistributedTransactionswithSAGA_VVN\000000001.srt-->
+<!--@   \14ManagingDistributedTransactionswithSAGA_VVN\000000001.srt-->
 
 1
 00: 00: 00, 120--> 00: 00: 08, 640
@@ -12376,7 +12366,7 @@ Chúng ta hãy đi qua các mục tiêu học tập cho phần này. Bạn học
 00: 00: 46, 110--> 00: 00: 51, 420
 Có nhiều cân nhắc triển khai mà bạn cần lưu ý khi xây dựng sagas.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \14ManagingDistributedTransactionswithSAGA_VVN\000000002.srt-->
+<!--@   \14ManagingDistributedTransactionswithSAGA_VVN\000000002.srt-->
 
 1
 00: 00: 00, 420--> 00: 00: 12, 560
@@ -12530,7 +12520,7 @@ Mẫu Saga được sử dụng để quản lý tính nhất quán của dữ l
 00: 07: 52, 450--> 00: 08: 00, 250
 Cơ sở dữ liệu thay đổi trong bài học tiếp theo. Tôi sẽ thảo luận về những cách khác nhau mà mô hình Taga có thể được hiện thực hóa.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \14ManagingDistributedTransactionswithSAGA_VVN\000000003.srt-->
+<!--@   \14ManagingDistributedTransactionswithSAGA_VVN\000000003.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 11, 130
@@ -12668,7 +12658,7 @@ Trong bài học này, tôi đã nói về cách xây dựng Saga bằng cách s
 00: 06: 48, 430--> 00: 07: 01, 600
 Một đối tượng miền có thể hoạt động như câu chuyện. Điều phối viên thực thi cho một máy tính bên ngoài như quy trình làm việc, công cụ hoặc khung có thể được sử dụng làm điều phối viên thực thi saga.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \14ManagingDistributedTransactionswithSAGA_VVN\000000004.srt-->
+<!--@   \14ManagingDistributedTransactionswithSAGA_VVN\000000004.srt-->
 
 1
 00: 00: 00, 450--> 00: 00: 28, 550
@@ -12742,7 +12732,7 @@ Nhắn tin được ưu tiên hơn cho việc liên lạc giữa các dịch v�
 00: 03: 53, 190--> 00: 04: 07, 170
 Điều đó có nghĩa là một số giao dịch có thể được thực hiện nhiều lần mà không làm mất tính nhất quán của dữ liệu. Giao dịch có thể thất bại, nhưng nếu giao dịch thất bại thì giao dịch bù đắp phải được thực hiện.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \14ManagingDistributedTransactionswithSAGA_VVN\000000005.srt-->
+<!--@   \14ManagingDistributedTransactionswithSAGA_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 10, 270
@@ -13000,7 +12990,7 @@ Vì vậy, câu chuyện của chúng tôi dường như đã có tác dụng tr
 00: 11: 30, 190--> 00: 11: 38, 260
 Tôi cũng sẽ chỉ cho bạn các bước mà chúng tôi cần thực hiện để thử nghiệm tầng này tại địa phương. Vậy hãy cùng tôi tham gia bài học tiếp theo nhé.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \14ManagingDistributedTransactionswithSAGA_VVN\000000006.srt-->
+<!--@   \14ManagingDistributedTransactionswithSAGA_VVN\000000006.srt-->
 
 1
 00: 00: 00, 090--> 00: 00: 08, 970
@@ -13186,7 +13176,7 @@ Mỗi trong số này có một chức năng chính trong bước tiếp theo. T
 00: 08: 52, 320--> 00: 09: 04, 470
 Quan sát dòng chẵn trong người tiêu dùng. Bạn cũng sẽ có thể kiểm tra dữ liệu và các bộ sưu tập trong CSDL của Akhmatova trên phiên bản được hỗ trợ trên đám mây.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000001.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000001.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 18, 150
@@ -13228,7 +13218,7 @@ Sự khác biệt giữa hai điều này là ở cách họ xác định hợp 
 00: 01: 57, 780--> 00: 02: 09, 630
 Tôi hy vọng rằng đến cuối phần này, bạn sẽ có thể quyết định nên sử dụng API còn lại hay sử dụng đồ họa cho AP được hiển thị bởi các vi dịch vụ của bạn.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000002.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000002.srt-->
 
 1
 00: 00: 00, 340--> 00: 00: 10, 860
@@ -13290,7 +13280,7 @@ Ràng buộc này là tùy chọn. Vì vậy, điều đó có nghĩa là miễn
 00: 02: 26, 700--> 00: 02: 44, 630
 Hãy nhớ lại rằng các API còn lại không bị giới hạn ở giao thức HTP. Vì vậy, nếu bạn đang sử dụng SCDP và nó tuân theo các ràng buộc về kiến ​​​​trúc thì nó được cho là API còn lại EDP hoặc khôi phục S2P.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000003.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000003.srt-->
 
 1
 00: 00: 00, 330--> 00: 00: 12, 840
@@ -13444,7 +13434,7 @@ Và đây là những lựa chọn sai lầm còn lại. Lợn vòi không bị 
 00: 07: 06, 860--> 00: 07: 16, 130
 Ít heo vòi hơn có thể sử dụng bất kỳ giao thức truyền thông và bất kỳ định dạng dữ liệu nào. Nó không gắn liền với HTP và Jason, đây là một quan niệm sai lầm phổ biến.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000004.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000004.srt-->
 
 1
 00: 00: 00, 180--> 00: 00: 18, 270
@@ -13570,7 +13560,7 @@ Các vi dịch vụ cung cấp API và người tiêu dùng không kết nối t
 00: 06: 27, 460--> 00: 06: 37, 050
 Vì những mối quan tâm chung này được giải quyết bằng nền tảng quản lý API nên các vi dịch vụ chỉ triển khai logic nghiệp vụ cho ứng dụng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000005.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000005.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 19, 360
@@ -13652,7 +13642,7 @@ API đau khổ có thể được phát triển bằng các ngôn ngữ khác nh
 00: 04: 06, 920--> 00: 04: 15, 620
 Trong bài giảng tiếp theo, tôi sẽ hướng dẫn bạn cách triển khai API sản phẩm và nhà cung cấp được triển khai bằng Java và Springboard.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000006.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000006.srt-->
 
 1
 00: 00: 00, 150--> 00: 00: 21, 120
@@ -13770,7 +13760,7 @@ Như bạn có thể thấy, nó là một bộ điều khiển bàn đạp. Đ�
 00: 05: 54, 100--> 00: 06: 01, 900
 Trước khi học lớp này, tôi khuyên bạn nên xem phần hướng dẫn về cách triển khai ứng dụng bằng Springboard.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000007.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000007.srt-->
 
 1
 00: 00: 00, 270--> 00: 00: 10, 400
@@ -13972,7 +13962,7 @@ Một máy chủ đồ họa, thực hiện đồ họa đặc biệt. Holidays,
 00: 10: 12, 290--> 00: 10: 19, 040
 Loại thành phần mà nhà phát triển phải kết hợp với nhau tùy thuộc vào máy chủ đồ họa đang sử dụng.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000008.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000008.srt-->
 
 1
 00: 00: 00, 330--> 00: 00: 10, 960
@@ -14170,7 +14160,7 @@ Sarah sử dụng lược đồ để xác thực yêu cầu hoạt động đ�
 00: 09: 13, 120--> 00: 09: 20, 890
 Máy khách sử dụng lược đồ để tạo tải trọng yêu cầu và phân tích các phản hồi mà nó nhận được từ máy chủ.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000009.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000009.srt-->
 
 1
 00: 00: 00, 210--> 00: 00: 15, 700
@@ -14272,7 +14262,7 @@ Tôi khuyên bạn nên xem xét đối tượng miền được xác định tr
 00: 04: 41, 910--> 00: 04: 52, 170
 Tương tự, nhà cung cấp có cùng một bộ thuộc tính có trong các lớp nhà cung cấp. Trong bài học tiếp theo, bạn sẽ thấy những truy vấn này hoạt động như thế nào.
 
-<!--@ C: \Users\vvn20206205\Downloads\Video\VideoOK\__ thiết kế hướng miền \15 kiến trúc vi dịch vụ andAPI_VVN\000000010.srt-->
+<!--@   \15 kiến trúc vi dịch vụ andAPI_VVN\000000010.srt-->
 
 1
 00: 00: 00, 630--> 00: 00: 08, 320

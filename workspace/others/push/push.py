@@ -100,6 +100,7 @@ for file_path in file_paths:
 
 
         'tổng cục thuế': 'TCT',
+        "kiến ​​trúc": 'kiến trúc',
     }
 
     for key, value in replacements.items():

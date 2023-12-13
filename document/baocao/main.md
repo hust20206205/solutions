@@ -1,18 +1,4 @@
 
-## 1.2. Nhận xét của giảng viên
-
-Ý thức thực hiện: ...
-
-Nội dung thực hiện: ...
-
-Hình thức trình bày: ...
-
-Đánh giá kết quả đạt được: ...
-
-Hà Nội, \today
-
-Giảng viên hướng dẫn
-(Kí tên)
 
 ## 1.3. Mục lục
 

@@ -18,6 +18,8 @@ class MyClose():
     def ScrollBar():
         pyautogui.hotkey('ctrl', 'shift', 'e')
         pyautogui.hotkey('ctrl', 'b')
+    def Latex():
+        pyautogui.hotkey('ctrl', 'alt', 'v')
 
 
     def CollapseFolders():

@@ -22,7 +22,7 @@ import os
 latex_folder = os.getcwd()
 file_paths = glob.glob(os.path.join(latex_folder, f'**/*.tex'), recursive=True)
 for file_path in file_paths:
-    print(file_path)
+    # print(file_path)
     with open(file_path, 'r', encoding="utf-8") as file:
         contents = file.read()
     contents = contents.replace('\\\\', '             \\\\          ')

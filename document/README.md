@@ -507,14 +507,7 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 <!--   https://ddd-practitioners.com/home/glossary  -->
 
 
-<!-- L -->
-<!-- Long-running Transaction*   -->
-<!-- O -->
-<!-- Object-Oriented Programming*   -->
-<!-- OLAP*   -->
-<!-- OLTP*   -->
-<!-- Open-Closed Principle*   -->
-<!-- Outbox Pattern*   -->
+
 <!-- P -->
 <!-- Parallel Database*   -->
 <!-- Procedural Programming*   -->
@@ -604,17 +597,17 @@ Identity : https://ddd-practitioners.com/entity-identity/
 Infrastructure Service : https://ddd-practitioners.com/infrastructure-service/
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!-- Inverse Conway Maneuver*   -->
-
-
-
-
-
-
-
-
-
+<!-- L -->
 Layered Architecture : https://ddd-practitioners.com/layered-architecture/
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle/
+<!-- Long-running Transaction*   -->
+
+
+
+
+
+
+
 
 Microservices Architecture : https://ddd-practitioners.com/?page_id=398
 
@@ -622,6 +615,19 @@ Module : https://ddd-practitioners.com/?page_id=618
 
 Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
 
+
+
+
+
+
+
+
+<!-- O -->
+<!-- Object-Oriented Programming*   -->
+<!-- OLAP*   -->
+<!-- OLTP*   -->
+<!-- Open-Closed Principle*   -->
+<!-- Outbox Pattern*   -->
 Onion Architecture : https://ddd-practitioners.com/home/glossary/onion-architecture/
 
 Open-Host Service : https://ddd-practitioners.com/open-host-service/

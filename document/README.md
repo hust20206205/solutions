@@ -51,11 +51,16 @@ ACID (Atomicity, Consistency, Isolation, Durability)
 BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với ACID
 
 <!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
 
 
 Business Capability : https://ddd-practitioners.com/business-capability  
 Business Model Canvas : https://ddd-practitioners.com/business-value-canvas  
-Business Value Canvas : https://ddd-practitioners.com/business-value-canvas
 
 <!-- C -->
 

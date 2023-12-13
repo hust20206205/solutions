@@ -682,64 +682,16 @@ Test-Driven Development : https://ddd-practitioners.com/test-driven-development/
 
 <!-- Transactional Outbox*   -->
 
-
 <!-- U -->
+
 Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language/
 
-
-
 <!-- V -->
+
 Value Object : https://ddd-practitioners.com/home/glossary/value-object/
+Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture/
 
 <!-- W -->
 <!-- Wardley Mapping* -->
+
 <!--  -->
-
-Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture/
-: https://www.amazon.com/Domain-Driven-Design-Java-Practitioners-inventive-ebook/dp/B09MV42W27
-
-analysis : https://ddd-practitioners.com/category/ddd/analysis/
-
-basics : https://ddd-practitioners.com/category/basics/
-
-ddd : https://ddd-practitioners.com/category/ddd/
-
-design : https://ddd-practitioners.com/category/design/
-
-faq : https://ddd-practitioners.com/category/faq/
-
-leadership : https://ddd-practitioners.com/category/leadership/
-
-patterns : https://ddd-practitioners.com/category/patterns/
-
-Blog at WordPress.com. : https://wordpress.com/?ref=footer_blog
-
-Follow :
-
-Following :
-
-Domain-driven Design: A Practitioner's Guide : https://ddd-practitioners.com
-
-Log in now. : https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fddd-practitioners.com%252Fhome%252Fglossary%252F
-
-Domain-driven Design: A Practitioner's Guide : https://ddd-practitioners.com
-
-Customize : https://4cdb6jt49p.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2F4cdb6jt49p.wordpress.com%2Fhome%2Fglossary%2F
-
-Follow :
-
-Following :
-
-Sign up : https://wordpress.com/start/
-
-Log in : https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fddd-practitioners.com%252Fhome%252Fglossary%252F
-
-Copy shortlink : https://wp.me/PelqJC-2J
-
-Report this content : http://en.wordpress.com/abuse/?report_url=https://ddd-practitioners.com/home/glossary/
-
-View post in Reader : https://wordpress.com/read/blogs/211976364/posts/169
-
-Manage subscriptions : https://subscribe.wordpress.com/
-
-Collapse this bar :

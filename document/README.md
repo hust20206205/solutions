@@ -57,7 +57,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
-
+https://trunkbaseddevelopment.com/branch-by-abstraction
 
 Business Capability : https://ddd-practitioners.com/business-capability  
 Business Model Canvas : https://ddd-practitioners.com/business-value-canvas  
@@ -292,9 +292,9 @@ Excerpted from [[Domain-Driven Design Book]]
 
 [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things.
 
-[[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]].
+<!-- [[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]]. -->
 
-[[Model]] A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
+<!-- [[Model]] A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain. -->
 
 [[Model-Driven Design]] A design in which some subset of software elements corresponds closely to elements of a model. Also, a process of codeveloping a model and an implementation that stay aligned with each other.
 
@@ -304,7 +304,7 @@ Excerpted from [[Domain-Driven Design Book]]
 
 [[Responsibility]] An obligation to perform a task or know information (Wirfs-Brock et al. 2003, p. 3).
 
-[[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state.
+<!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
 
 [[Side Effect]] Any observable change of state resulting from an operation, whether intentional or not, even a deliberate update.
 
@@ -314,16 +314,16 @@ Excerpted from [[Domain-Driven Design Book]]
 
 [[Stateless]] The property of a design element that allows a client to use any of its operations without regard to the element’s history. A stateless element may use information that is accessible globally and may even change that global information (that is, it may have side effects) but holds no private state that affects its behavior.
 
-[[Strategic Design]] Modeling and design decisions that apply to large parts of the system. Such decisions affect the entire project and have to be decided at team level.
+<!-- [[Strategic Design]] Modeling and design decisions that apply to large parts of the system. Such decisions affect the entire project and have to be decided at team level. -->
 
 [[Supple Design]] A design that puts the power inherent in a deep model into the hands of a client developer to make clear, flexible expressions that give expected results robustly. Equally important, it leverages that same deep model to make the design itself easy for the implementer to mold and reshape to accommodate new insight.
 
-[[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software.
+<!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
 
 [[Unification]] The internal consistency of a model such that each term is unambiguous and no rules contradict.
 
 [[Test-Driven Development]] TDD is a lightweight programming methodology that emphasizes fast, incremental development and especially writing tests before writing code. Ideally these follow one another in cycles measured in minutes. (see full definition under [[Test-Driven Development]] topic)
 
-[[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity.
+<!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
 
 [[Whole Value]] An object that models a single, complete concept.

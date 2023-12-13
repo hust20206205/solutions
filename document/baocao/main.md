@@ -1,28 +1,5 @@
 
 
-## 1.3. Mục lục
-
-\tableofcontents
-
-## 1.4. Lời cảm ơn
-
-## 1.5. Lời mở đầu
-
-## 1.6. Tóm tắt nội dung đồ án
-
-## 1.7. Đánh giá và thảo luận
-
-## 1.8. Danh sách bảng
-
-auto
-
-## 1.9. Danh sách hình ảnh
-
-auto
-
-## 1.10. Danh sách mã nguồn
-
-auto
 
 ## 1.11. Danh sách các cụm từ viết tắt
 

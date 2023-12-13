@@ -83,7 +83,23 @@ for file_path in file_paths:
         'bị giới hạn': 'giới hạn',
         'bị chặn': 'giới hạn',
 
-        'chống tham nhũng': 'chống đổ vỡ'
+        'chống tham nhũng': 'chống đổ vỡ',
+
+
+        'Tổng Cục Thuế': 'TCT',
+
+        'tổng Cục Thuế': 'TCT',
+        'Tổng cục Thuế': 'TCT',
+        'Tổng Cục thuế': 'TCT',
+
+        'tổng cục Thuế': 'TCT',
+        'tổng Cục thuế': 'TCT',
+        'Tổng cục thuế': 'TCT', 
+
+
+
+
+        'tổng cục thuế': 'TCT',
     }
 
     for key, value in replacements.items():

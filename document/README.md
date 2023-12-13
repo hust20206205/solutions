@@ -676,11 +676,19 @@ Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain/
 <!-- System Event*   -->
 
 <!-- T -->
-<!-- Transactional Outbox*   -->
 
 Tactical Design : https://ddd-practitioners.com/?page_id=453
 Test-Driven Development : https://ddd-practitioners.com/test-driven-development/
+
+<!-- Transactional Outbox*   -->
+
+
+<!-- U -->
 Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language/
+
+
+
+<!-- V -->
 Value Object : https://ddd-practitioners.com/home/glossary/value-object/
 
 <!-- W -->

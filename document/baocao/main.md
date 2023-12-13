@@ -1,43 +1,4 @@
 
-Để đơn giản hóa bài toán, các chức năng trong đồ án này đã thay đổi so với bài toán thực tế trong tài liệu hướng dẫn sử dụng cổng thông tin điện tử của Tổng Cục Thuế cho hóa đơn điện tử:
-
-<!--Bỏ qua xxxxxxxx-->
-<!--Bỏ qua xxxxxxxx-->
-<!--Bỏ qua xxxxxxxx-->
-
-<!--Hình thức hóa đơn:-->
-
-Có mã của cơ quan thuế
-Không có mã của cơ quan thuế
-
-<!--Loại hóa đơn khác nhau:-->
-
-Hóa đơn điện tử giá trị gia tăng
-Hóa đơn bán hàng
-Hóa đơn bán tài sản công
-Hóa đơn bán hàng dự trữ quốc gia
-...
-
-<!--Ký số: thông tin chứng thư số là chữ ký số theo đúng quy định của Bộ Thông tin và Truyền thông.-->
-
-<!--Ký hiệu hóa đơn-->
-
-<!--Chức năng: "Lập hóa đơn điều chỉnh"-->
-
-<!--Không có phê duyệt hóa đơn-->
-
-<!--Đọc hóa đơn XML-->
-
-<!--Có mã của cơ quan thuế-->
-<!--Không có mã của cơ quan thuế-->
-
-<!--Phát hành hóa đơn điện tử-->
-
-<!--CHƯƠNG V. THÔNG BÁO HÓA ĐƠN CÓ SAI SÓT.............................. 130-->
-<!--CHƯƠNG VI. ĐỀ NGHỊ CẤP HÓA ĐƠN THEO LẦN PHÁT SINH ..... 143-->
-<!--CHƯƠNG VII. QUẢN LÝ HÓA ĐƠN PHÁT SINH........................-->
-<!---->
-
 ## Mẫu mail
 
 <!--// NNT nhận được thư điện tử của CQT thông báo tiếp nhận tờ khai đăng ký-->
@@ -191,41 +152,25 @@ Mật khẩu mới: {{Mật khẩu mới}}
 Cơ quan thuế thông báo để NNT được biết và thực hiện.
 ```
 
-Các chức năng tổng quan của Tổng Cục Thuế Demo bao gồm:
 
-<!--QUẢN LÝ TÀI KHOẢN-->
 
-Đăng ký sử dụng hóa đơn điện tử
-Thay đổi đăng ký sử dụng hóa đơn điện tử
-Đăng nhập tài khoản
-Đăng xuất tài khoản
-Đổi mật khẩu
-Quên mật khẩu
 
-<!--QUẢN LÝ HỆ THỐNG-->
 
-Quản lý vai trò
-Quản lý người dùng
 
-<!--QUẢN LÝ DANH MỤC-->
 
-Danh mục khách hàng
-Danh mục hàng hóa
 
-<!--QUẢN LÝ HÓA ĐƠN ĐIỆN TỬ-->
 
-Lập hóa đơn mới
-Lập hóa đơn thay thế
-Hủy hóa đơn
 
-<!--TRA CỨU HÓA ĐƠN-->
 
-Tra cứu hóa đơn khi NNT chưa đăng nhập
-Tra cứu hóa đơn khi NNT đã đăng nhập
 
-<!--GỬI PHẢN HỒI QUA THƯ ĐIỆN TỬ-->
 
-Gửi thông tin của TCT đến NNT
+
+
+
+
+
+
+
 
 # Chi tiết các chức năng của Tổng cục thuế Demo:
 

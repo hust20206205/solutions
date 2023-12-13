@@ -1,12 +1,4 @@
-
-
-# 3. Yêu cầu nghiệp vụ
-
-Trình bày nội dung yêu cầu nghiệp vụ
-
-# Yêu cầu nghiệp vụ
-
-Yêu cầu nghiệp vụ Xác định nội dung, phạm vi, mục tiêu và chức năng mong muốn của hệ thống.
+ 
 
 ## Yêu cầu nghiệp vụ của bài toán phụ
 

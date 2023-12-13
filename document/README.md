@@ -506,18 +506,6 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 <!-- </div> --> 
 <!--   https://ddd-practitioners.com/home/glossary  -->
 
-<!-- R -->
-<!-- Read Model*   -->
-<!-- Refactoring*   -->
-<!-- S -->
-<!-- Service-Oriented Architecture*   -->
-<!-- Strangler Fig*   -->
-<!-- System Event*   -->
-<!-- T -->
-<!-- Transactional Outbox*   -->
-<!-- W -->
-<!-- Wardley Mapping* -->
-
 <!-- A -->
 
 Abstract Core : https://ddd-practitioners.com/?page_id=1311
@@ -657,7 +645,17 @@ Published Language : https://ddd-practitioners.com/published-language/
 <!-- Q -->
 <!-- Query*   -->
 
+<!-- R -->
+<!-- Read Model*   -->
+<!-- Refactoring*   -->
+
 Repository : https://ddd-practitioners.com/?page_id=555
+
+<!-- S -->
+<!-- Service-Oriented Architecture*   -->
+<!-- Strangler Fig*   -->
+<!-- System Event*   -->
+
 Saga : https://ddd-practitioners.com/home/glossary/saga/
 Segregated Core : https://ddd-practitioners.com/?page_id=378
 Separate Ways : https://ddd-practitioners.com/separate-ways/
@@ -671,11 +669,17 @@ Strategic Design : https://ddd-practitioners.com/strategic-design/
 Strong Consistency : https://ddd-practitioners.com/?page_id=421
 Subdomain : https://ddd-practitioners.com/subdomain/
 Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain/
+
+<!-- T -->
+<!-- Transactional Outbox*   -->
+
 Tactical Design : https://ddd-practitioners.com/?page_id=453
 Test-Driven Development : https://ddd-practitioners.com/test-driven-development/
 Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language/
 Value Object : https://ddd-practitioners.com/home/glossary/value-object/
 
+<!-- W -->
+<!-- Wardley Mapping* -->
 <!--  -->
 
 Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture/

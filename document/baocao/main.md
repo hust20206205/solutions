@@ -1,24 +1,4 @@
 
-## 1.12. Danh sách các thuật ngữ
-
-<!--@sau-->
-
-<!--STT; Tiếng Anh; Tiếng Việt-->
-
-<!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
-<!--kiến trúc nguyên khối, kiến trúc nguyên khối-->
-<!--kiến trúc vi dịch, kiến trúc vi dịch-->
-<!--kiến trúc vi dịch, kiến trúc vi dịch-->
-<!--kiến trúc vi dịch, kiến trúc vi dịch-->
-<!--kiến trúc vi dịch, kiến trúc vi dịch-->
-<!--thiết kế hướng miền, thiết kế hướng miền-->
-<!--thiết kế hướng miền, thiết kế hướng miền-->
-
-1 thiết kế hướng miền
-Thiết kế hướng lĩnh vực
-2 Domain (không dịch)
-3 Abstraction Trừu tượng
-4 chuyên gia ngành
 
 # 2. Giới thiệu chung
 

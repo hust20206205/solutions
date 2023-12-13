@@ -1,15 +1,6 @@
 
 
 
-### 2.1.3. Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022.
-
-> Theo quy định tại khoản 1 Điều 59 Nghị định 123/2020/NĐ-CP:
-
-Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2022, khuyến khích cơ quan, tổ chức, cá nhân đáp ứng điều kiện về hạ tầng công nghệ thông tin áp dụng quy định về hóa đơn, chứng từ điện tử của Nghị định này trước ngày 01 tháng 7 năm 2022.
-
-=> Theo quy định của Chính phủ và Bộ Tài Chính, tất cả các doanh nghiệp, tổ chức và hộ kinh doanh đều bắt buộc phải chuyển từ sử dụng hóa đơn giấy sang hóa đơn điện tử kể từ tháng 07/2022. Vì vậy, nhu cầu sử dụng và xử lý hóa đơn điện tử trở nên rất lớn. Do đó, em đã chọn chủ đề:
-
-<!--!"Xây dựng kiến trúc vi dịch vụ cho hệ thống quản lý hóa đơn điện tử".-->
 
 ### 2.1.4. Bản thể hiện của hóa đơn điện tử:
 

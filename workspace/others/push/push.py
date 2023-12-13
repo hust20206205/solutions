@@ -32,10 +32,19 @@ for file_path in file_paths:
     contents = contents.replace("\\(", "            $                ") 
     contents = contents.replace("\\)", "            $                ") 
     
+#   . ? , : !       
  
 
     while '  ' in contents:
         contents = contents.replace('  ', ' ')
+    while '( ' in contents:
+        contents = contents.replace('( ', '(')
+    while ' )' in contents:
+        contents = contents.replace(' )', ')') 
+    while '[ ' in contents:
+        contents = contents.replace('[ ', '[')
+    while ' ]' in contents:
+        contents = contents.replace(' ]', ']')  
     while '{ ' in contents:
         contents = contents.replace('{ ', '{')
     while ' }' in contents:
@@ -98,37 +107,6 @@ for file_path in file_paths:
 # 
 # 
 # 
-# 
-#     # contents = contents.replace('.' 
-    
-#     while " ?" in contents:
-#         contents = contents.replace(" ?", "?")
-#     contents = contents.replace("?", "? ")
-    
-#     while " ," in contents:
-#         contents = contents.replace(" ,", ",")
-#     contents = contents.replace(",", ", ")
-    
-#     # while " :" in contents:
-#     #     contents = contents.replace(" :", ":")
-#     # contents = contents.replace(":", ": ")
-    
-    
-#     # while " !" in contents:
-#     #     contents = contents.replace(" !", "!")
-#     # contents = contents.replace("!", "! ")
-
  
-#     while '! ' in contents:
-#         contents = contents.replace('! ', '!')
-#     while ' !' in contents:
-#         contents = contents.replace(' !', '!')
-
- 
-#     while '( ' in contents:
-#         contents = contents.replace('( ', '(')
-#     while ' )' in contents:
-#         contents = contents.replace(' )', ')')
-#         #  
 
 # # https://www.udemy.com/course/domain-driven-design-and-microservices

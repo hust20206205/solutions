@@ -169,6 +169,7 @@
       }
     ], 
      // pip install Pygments
+    "latex-workshop.latex.autoClean.run": "onSucceeded",
     "latex-workshop.latex.autoBuild.run": "onFileChange",
     // "latex-workshop.latex.autoBuild.run": "never",
     "latex-workshop.latex.tools": [

@@ -1,30 +1,4 @@
 
- 
-  Theo quy định tại khoản 1 Điều 11 Thông tư 32/2011/TT-BTC:
-
-Người bán, người mua hàng hoá, dịch vụ sử dụng hóa đơn điện tử để ghi sổ kế toán, lập báo cáo tài chính phải lưu trữ hóa đơn điện tử theo thời hạn quy định của Luật Kế toán. Trường hợp hóa đơn điện tử được khởi tạo từ hệ thống của tổ chức trung gian cung cấp giải pháp hóa đơn điện tử thì tổ chức trung gian này cũng phải thực hiện lưu trữ hóa đơn điện tử theo thời hạn nêu trên.
-
-> Theo quy định tại khoản 5 Điều 41 Luật số 88/2015/QH13
-
-1. Tài liệu kế toán phải được lưu trữ theo thời hạn sau đây:
-
-a. Ít nhất là 05 năm đối với tài liệu kế toán dùng cho quản lý, điều hành của đơn vị kế toán, gồm cả chứng từ kế toán không sử dụng trực tiếp để ghi sổ kế toán và lập báo cáo tài chính.
-
-b. Ít nhất là 10 năm đối với chứng từ kế toán sử dụng trực tiếp để ghi sổ kế toán và lập báo cáo tài chính, sổ kế toán và báo cáo tài chính năm, trừ trường hợp pháp luật có quy định khác.
-
-c. Lưu trữ vĩnh viễn đối với tài liệu kế toán có tính sử liệu, có ý nghĩa quan trọng về kinh tế, an ninh, quốc phòng.
-
-=> Như vậy, hóa đơn điện tử dạng tệp XML sẽ được lưu trữ trên hệ thống hóa đơn điện tử của nhà cung cấp hoặc doanh nghiệp có thể tải về để tự lưu trữ. Thời gian lưu trữ là 10 năm theo quy định của pháp luật.
-
-### 2.1.6. Một số lợi ích của hóa đơn điện tử:
-
-Giúp tiết kiệm chi phí in ấn, lưu trữ và bảo quản.
-Loại bỏ rủi ro cháy, hỏng hoặc mất và dễ dàng sao lưu.
-Dễ dàng linh hoạt trong việc tra cứu, phát hành, quản lý và tạo báo cáo.
-Tối ưu hóa quá trình kế toán (giảm sai sót và tiết kiệm thời gian) và giảm thủ tục giấy tờ.
-Theo dõi tình hình tài chính của công ty (doanh thu, chi phí, lợi nhuận).
-Tuân thủ các quy định về thuế và pháp luật.
-Thể hiện tính minh bạch trong quá trình kinh doanh (bảo vệ quyền lợi của cả người mua và người bán).
 
 ## 2.2. Giới thiệu về kiến trúc vi dịch vụ
 

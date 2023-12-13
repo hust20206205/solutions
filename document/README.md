@@ -507,30 +507,38 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 <!--   https://ddd-practitioners.com/home/glossary  -->
 
 
-Dependency Inversion Principle*  
-Distributed System*  
-Dual Write*  
-Example Mapping*  
-Functional Programming*  
-Impact Mapping*  
-Inverse Conway Maneuver*  
-Long-running Transaction*  
-Object-Oriented Programming*  
-OLAP*  
-OLTP*  
-Open-Closed Principle*  
-Outbox Pattern*  
-Parallel Database*  
-Procedural Programming*  
-Projection*  
-Query*  
-Read Model*  
-Refactoring*  
-Service-Oriented Architecture*  
-Strangler Fig*  
-System Event*  
-Transactional Outbox*  
-Wardley Mapping*
+<!-- E -->
+<!-- Example Mapping*   -->
+<!-- F -->
+<!-- Functional Programming*   -->
+<!-- I -->
+<!-- Impact Mapping*   -->
+<!-- Inverse Conway Maneuver*   -->
+<!-- L -->
+<!-- Long-running Transaction*   -->
+<!-- O -->
+<!-- Object-Oriented Programming*   -->
+<!-- OLAP*   -->
+<!-- OLTP*   -->
+<!-- Open-Closed Principle*   -->
+<!-- Outbox Pattern*   -->
+<!-- P -->
+<!-- Parallel Database*   -->
+<!-- Procedural Programming*   -->
+<!-- Projection*   -->
+<!-- Q -->
+<!-- Query*   -->
+<!-- R -->
+<!-- Read Model*   -->
+<!-- Refactoring*   -->
+<!-- S -->
+<!-- Service-Oriented Architecture*   -->
+<!-- Strangler Fig*   -->
+<!-- System Event*   -->
+<!-- T -->
+<!-- Transactional Outbox*   -->
+<!-- W -->
+<!-- Wardley Mapping* -->
 
 <!-- A -->
 Abstract Core : https://ddd-practitioners.com/?page_id=1311
@@ -568,19 +576,16 @@ CQRS : https://ddd-practitioners.com/?page_id=574
 Customer/Supplier : https://ddd-practitioners.com/customer-supplier/
 CUPID : https://ddd-practitioners.com/home/glossary/cupid/
 <!-- D -->
+<!-- Dependency Inversion Principle*   -->
+<!-- Distributed System*   -->
 Domain : https://ddd-practitioners.com/domain/
-
 Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design/
-
 Domain Event : https://ddd-practitioners.com/domain-event/
-
 Domain Model : https://ddd-practitioners.com/domain-model/
-
 Domain Object : https://ddd-practitioners.com/domain-object/
-
 Domain Service : https://ddd-practitioners.com/domain-service/
-
 Domain Storytelling : https://ddd-practitioners.com/?page_id=1005
+<!-- Dual Write*   -->
 
 Entity : https://ddd-practitioners.com/entity/
 

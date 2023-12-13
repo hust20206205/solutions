@@ -652,23 +652,28 @@ Published Language : https://ddd-practitioners.com/published-language/
 Repository : https://ddd-practitioners.com/?page_id=555
 
 <!-- S -->
-<!-- Service-Oriented Architecture*   -->
-<!-- Strangler Fig*   -->
-<!-- System Event*   -->
 
 Saga : https://ddd-practitioners.com/home/glossary/saga/
 Segregated Core : https://ddd-practitioners.com/?page_id=378
 Separate Ways : https://ddd-practitioners.com/separate-ways/
 Service : https://ddd-practitioners.com/service/
+
+<!-- Service-Oriented Architecture*   -->
+
 Shared Kernel : https://ddd-practitioners.com/shared-kernel/
 Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle/
 Snapshots : https://ddd-practitioners.com/snapshots/
 SOLID : https://ddd-practitioners.com/home/glossary/solid/
+
+<!-- Strangler Fig*   -->
+
 State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate/
 Strategic Design : https://ddd-practitioners.com/strategic-design/
 Strong Consistency : https://ddd-practitioners.com/?page_id=421
 Subdomain : https://ddd-practitioners.com/subdomain/
 Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain/
+
+<!-- System Event*   -->
 
 <!-- T -->
 <!-- Transactional Outbox*   -->

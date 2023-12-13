@@ -508,10 +508,6 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 
 
 
-<!-- P -->
-<!-- Parallel Database*   -->
-<!-- Procedural Programming*   -->
-<!-- Projection*   -->
 <!-- Q -->
 <!-- Query*   -->
 <!-- R -->
@@ -615,10 +611,10 @@ Open-Host Service : https://ddd-practitioners.com/open-host-service/
 Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609
 Orchestration : https://ddd-practitioners.com/?page_id=630
 <!-- Outbox Pattern*   -->
-
-
-
-
+<!-- P -->
+<!-- Parallel Database*   -->
+<!-- Procedural Programming*   -->
+<!-- Projection*   -->
 
 
 
@@ -640,46 +636,37 @@ Orchestration : https://ddd-practitioners.com/?page_id=630
 
 
 Partnership : https://ddd-practitioners.com/partnership/
-
 Ports and Adapters : https://ddd-practitioners.com/hexagonal-architecture/
-
 Published Language : https://ddd-practitioners.com/published-language/
-
 Repository : https://ddd-practitioners.com/?page_id=555
-
 Saga : https://ddd-practitioners.com/home/glossary/saga/
-
 Segregated Core : https://ddd-practitioners.com/?page_id=378
-
 Separate Ways : https://ddd-practitioners.com/separate-ways/
-
 Service : https://ddd-practitioners.com/service/
-
 Shared Kernel : https://ddd-practitioners.com/shared-kernel/
-
 Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle/
-
 Snapshots : https://ddd-practitioners.com/snapshots/
-
 SOLID : https://ddd-practitioners.com/home/glossary/solid/
-
 State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate/
-
 Strategic Design : https://ddd-practitioners.com/strategic-design/
-
 Strong Consistency : https://ddd-practitioners.com/?page_id=421
-
 Subdomain : https://ddd-practitioners.com/subdomain/
-
 Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain/
-
 Tactical Design : https://ddd-practitioners.com/?page_id=453
-
 Test-Driven Development : https://ddd-practitioners.com/test-driven-development/
-
 Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language/
-
 Value Object : https://ddd-practitioners.com/home/glossary/value-object/
+
+
+
+
+
+
+
+
+
+
+
 
 Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture/
 : https://www.amazon.com/Domain-Driven-Design-Java-Practitioners-inventive-ebook/dp/B09MV42W27

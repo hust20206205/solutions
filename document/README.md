@@ -1,6 +1,5 @@
 <!-- Hãy sử dụng Ngôn ngữ chung (Ubiquitous Language) trong domain driven design (DDD) với nội dung nghiệp vụ kinh doanh sau: -->
 
-
 <!-- 1. **Khách hàng (Customer):** -->
    <!-- - **Mô tả:** Người sử dụng dịch vụ, có thể là cá nhân hoặc tổ chức. -->
 
@@ -8,23 +7,12 @@
    <!-- - **Mô tả:** Hóa đơn được tạo và quản lý điện tử thay vì truyền thống trên giấy. -->
 
 <!-- Bằng cách sử dụng ngôn ngữ chung như trên, chúng ta có thể tạo ra một mô hình DDD rõ ràng và dễ hiểu, giúp các đội phát triển, quản lý dự án và người dùng hiểu rõ về các yêu cầu và chức năng của hệ thống. -->
-Bảng chú giải 
 
+Bảng chú giải
+Thiết kế hướng tên miền
 
-Thiết kế hướng tên miền    
-<!-- href="https://ddd-practitioners.com/home/glossary/" -->
-
-
-
-
-
-
-  
-           
-                  >
-            
-
-                    <!-- <h2 class="wp-block-heading">A</h2> -->
+<!-- href="https://ddd-practitioners.com/home/glossary" -->
+<!-- A -->
 
                     <p class="has-primary-color has-text-color">
                       <a href="https://ddd-practitioners.com/?page_id=1311"
@@ -56,7 +44,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">B</h2> -->
+<!--       B               -->
 
                     <p>BASE Transaction*</p>
 
@@ -107,7 +95,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">C</h2> -->
+<!--       C               -->
 
                     <p>
                       <a href="https://ddd-practitioners.com/?page_id=1193"
@@ -214,7 +202,7 @@ Thiết kế hướng tên miền
                       >
                     </p>
 
-                    <!-- <h2 class="wp-block-heading">D</h2> -->
+<!--       D               -->
 
                     <p>Dependency Inversion Principle*</p>
 
@@ -267,7 +255,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">E</h2> -->
+<!--       E               -->
 
                     <p>
                       <a href="https://ddd-practitioners.com/entity/">Entity</a>
@@ -355,7 +343,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">G</h2> -->
+<!--       G               -->
 
                     <p>
                       <a href="https://ddd-practitioners.com/generic-subdomain/"
@@ -367,7 +355,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">H</h2> -->
+<!--       H               -->
 
                     <p>
                       <a
@@ -386,7 +374,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">I</h2> -->
+<!--       I               -->
 
                     <p>
                       <a href="https://ddd-practitioners.com/entity-identity/"
@@ -411,7 +399,7 @@ Thiết kế hướng tên miền
 
                     <p>Inverse Conway Maneuver*</p>
 
-                    <!-- <h2 class="wp-block-heading">L</h2> -->
+<!--       L               -->
 
                     <p>
                       <a
@@ -433,7 +421,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">M</h2> -->
+<!--       M               -->
 
                     <p>
                       <a href="https://ddd-practitioners.com/?page_id=398"
@@ -457,7 +445,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">O</h2> -->
+<!--       O               -->
 
                     <p>Object-Oriented Programming*</p>
 
@@ -498,7 +486,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">P</h2> -->
+<!--       P               -->
 
                     <p>Parallel Database*</p>
 
@@ -530,7 +518,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">Q</h2> -->
+<!--       Q               -->
 
                     <p>Query*</p>
 
@@ -538,7 +526,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">R</h2> -->
+<!--       R               -->
 
                     <p>Read Model*</p>
 
@@ -562,7 +550,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">S</h2> -->
+<!--       S               -->
 
                     <p>
                       <a
@@ -657,7 +645,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">T</h2> -->
+<!--       T               -->
 
                     <p>
                       <a href="https://ddd-practitioners.com/?page_id=453"
@@ -678,7 +666,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">U</h2> -->
+<!--       U               -->
 
                     <p>
                       <a
@@ -691,7 +679,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">V</h2> -->
+<!--       V               -->
 
                     <p>
                       <a
@@ -711,7 +699,7 @@ Thiết kế hướng tên miền
                       class="wp-block-separator has-alpha-channel-opacity is-style-wide"
                     />
 
-                    <!-- <h2 class="wp-block-heading">W</h2> -->
+<!--       W               -->
 
                     <p>Wardley Mapping*</p>
 
@@ -720,8 +708,8 @@ Thiết kế hướng tên miền
                     />
                   </div>
                 </div>
- 
- 
- 
-        
-        
+
+
+
+
+

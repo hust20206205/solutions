@@ -14,13 +14,13 @@
 <!--  -->
 <!--  -->
 
-Trình bày về BASE Transaction trong domain driven design
+Trình bày về  Branch by Abstraction   trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
 <!--@Thiết kế hướng tên miền -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
-<!-- dịch vụ miền -->
+<!--!dịch vụ miền -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
 
@@ -30,8 +30,14 @@ Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời
  <!-- nợ kỹ thuật -->
 
 và các vấn đề dài hạn cho một dự án phần mềm.
+<!-- CI/CD -->
+
 
 <!-- Bounded Context : https://ddd-practitioners.com/bounded-context   -->
+Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
+
+<!--!bản đồ -->
+
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship   -->
 <!--@CQRS -->
 
@@ -46,7 +52,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 
 <!--!========================================================== -->
 
-Branch by Abstraction 
+
 Business Capability : https://ddd-practitioners.com/business-capability  
 Business Model Canvas : https://ddd-practitioners.com/business-value-canvas  
 Business Value Canvas : https://ddd-practitioners.com/business-value-canvas

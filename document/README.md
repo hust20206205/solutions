@@ -507,13 +507,6 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 <!--   https://ddd-practitioners.com/home/glossary  -->
 
 
-<!-- E -->
-<!-- Example Mapping*   -->
-<!-- F -->
-<!-- Functional Programming*   -->
-<!-- I -->
-<!-- Impact Mapping*   -->
-<!-- Inverse Conway Maneuver*   -->
 <!-- L -->
 <!-- Long-running Transaction*   -->
 <!-- O -->
@@ -586,41 +579,41 @@ Domain Object : https://ddd-practitioners.com/domain-object/
 Domain Service : https://ddd-practitioners.com/domain-service/
 Domain Storytelling : https://ddd-practitioners.com/?page_id=1005
 <!-- Dual Write*   -->
-
+<!-- E -->
 Entity : https://ddd-practitioners.com/entity/
-
 Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture/
-
 Entity Identity : https://ddd-practitioners.com/entity-identity/
-
 Event Modeling : https://ddd-practitioners.com/?page_id=994
-
 Event Replay : https://ddd-practitioners.com/?page_id=585
-
 Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing/
-
 Event Sourcing : https://ddd-practitioners.com/?page_id=581
-
 EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming/
-
 Eventual Consistency : https://ddd-practitioners.com/?page_id=419
-
+<!-- Example Mapping*   -->
+<!-- F -->
 Factory : https://ddd-practitioners.com/factory/
-
+<!-- Functional Programming*   -->
+<!-- G -->
 Generic Subdomain : https://ddd-practitioners.com/generic-subdomain/
-
+<!-- H -->
 Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture/
-
 Highlighted Core : https://ddd-practitioners.com/highlighted-core/
-
+<!-- I -->
 Identity : https://ddd-practitioners.com/entity-identity/
-
+<!-- Impact Mapping*   -->
 Infrastructure Service : https://ddd-practitioners.com/infrastructure-service/
-
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
+<!-- Inverse Conway Maneuver*   -->
+
+
+
+
+
+
+
+
 
 Layered Architecture : https://ddd-practitioners.com/layered-architecture/
-
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle/
 
 Microservices Architecture : https://ddd-practitioners.com/?page_id=398

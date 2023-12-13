@@ -21,8 +21,13 @@ https://ddd-practitioners.com/home/glossary
 <!--@Thiết kế hướng tên miền -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- dịch vụ miền -->
-<!-- Application Service : https://ddd-practitioners.com/application-service/ -->
-Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud  
+<!-- Application Service : https://ddd-practitioners.com/application-service -->
+<!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
+là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
+ Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến 
+ <!-- nợ kỹ thuật -->
+  và các vấn đề dài hạn cho một dự án phần mềm. 
+
 <!--@CQRS -->
 
 <!--@event -->

@@ -601,19 +601,19 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 Layered Architecture : https://ddd-practitioners.com/layered-architecture/
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle/
 <!-- Long-running Transaction*   -->
-
-
-
-
-
-
-
-
+<!-- M -->
 Microservices Architecture : https://ddd-practitioners.com/?page_id=398
-
 Module : https://ddd-practitioners.com/?page_id=618
-
 Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
+
+
+
+
+
+
+
+
+
 
 
 

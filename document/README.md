@@ -506,8 +506,6 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 <!-- </div> --> 
 <!--   https://ddd-practitioners.com/home/glossary  -->
 
-BASE Transaction*  
-Branch by Abstraction*  
 CAP Theorem*  
 Change Data Capture*  
 Clean Architecture*  
@@ -540,30 +538,26 @@ Transactional Outbox*
 Wardley Mapping*
 
 <!-- A -->
-
 Abstract Core : https://ddd-practitioners.com/?page_id=1311
-
 ACID Transaction : https://ddd-practitioners.com/?page_id=415
-
 Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer/
-
 Application Service : https://ddd-practitioners.com/application-service/
-
 <!-- B -->
-
-BASE Transaction\*
-
+BASE Transaction*  
 Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud/
-
 Bounded Context : https://ddd-practitioners.com/bounded-context/
-
 Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship/
-
+Branch by Abstraction*  
 Business Capability : https://ddd-practitioners.com/business-capability/
-
 Business Model Canvas : https://ddd-practitioners.com/business-value-canvas/
-
 Business Value Canvas : https://ddd-practitioners.com/business-value-canvas/
+
+
+
+
+
+
+
 
 C4 Model : https://ddd-practitioners.com/?page_id=1193
 

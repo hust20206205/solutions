@@ -1,12 +1,6 @@
 
 
 
-### 2.1.1. Hóa đơn
-
-> Theo quy định tại khoản 1 Điều 3 Nghị định 123/2020/NĐ-CP:
-
-Hóa đơn là chứng từ kế toán do tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ lập, ghi nhận thông tin bán hàng hóa, cung cấp dịch vụ. Hóa đơn được thể hiện theo hình thức hóa đơn điện tử hoặc hóa đơn do cơ quan thuế đặt in.
-
 ### 2.1.2. Hóa đơn điện tử
 
 > Theo quy định tại khoản 2 Điều 3 Nghị định 123/2020/NĐ-CP:

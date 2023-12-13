@@ -1,12 +1,6 @@
 
-
-
-
-### 2.1.4. Bản thể hiện của hóa đơn điện tử:
-
-### 2.1.5. Lưu trữ hóa đơn điện tử
-
-> Theo quy định tại khoản 1 Điều 11 Thông tư 32/2011/TT-BTC:
+ 
+  Theo quy định tại khoản 1 Điều 11 Thông tư 32/2011/TT-BTC:
 
 Người bán, người mua hàng hoá, dịch vụ sử dụng hóa đơn điện tử để ghi sổ kế toán, lập báo cáo tài chính phải lưu trữ hóa đơn điện tử theo thời hạn quy định của Luật Kế toán. Trường hợp hóa đơn điện tử được khởi tạo từ hệ thống của tổ chức trung gian cung cấp giải pháp hóa đơn điện tử thì tổ chức trung gian này cũng phải thực hiện lưu trữ hóa đơn điện tử theo thời hạn nêu trên.
 

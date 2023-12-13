@@ -605,36 +605,39 @@ Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/lisk
 Microservices Architecture : https://ddd-practitioners.com/?page_id=398
 Module : https://ddd-practitioners.com/?page_id=618
 Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- O -->
 <!-- Object-Oriented Programming*   -->
 <!-- OLAP*   -->
 <!-- OLTP*   -->
-<!-- Open-Closed Principle*   -->
-<!-- Outbox Pattern*   -->
 Onion Architecture : https://ddd-practitioners.com/home/glossary/onion-architecture/
-
+<!-- Open-Closed Principle*   -->
 Open-Host Service : https://ddd-practitioners.com/open-host-service/
-
 Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609
-
 Orchestration : https://ddd-practitioners.com/?page_id=630
+<!-- Outbox Pattern*   -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Partnership : https://ddd-practitioners.com/partnership/
 

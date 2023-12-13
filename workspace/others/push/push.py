@@ -26,6 +26,12 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         contents = file.read()
     contents = contents.replace('\\\\', '             \\\\          ')
+    # contents = contents.replace("=", " = ")
+    contents = contents.replace("+", "             +                ")
+    contents = contents.replace("-", "             -                ") 
+    
+ 
+
     while '  ' in contents:
         contents = contents.replace('  ', ' ')
     while '{ ' in contents:
@@ -33,8 +39,6 @@ for file_path in file_paths:
     while ' }' in contents:
         contents = contents.replace(' }', '}') 
     contents = '\n'.join(line.strip() for line in contents.split('\n'))
-    # contents = contents.replace("\n\n\n", "\n\n")
-    
     while "\n\n\n" in contents:
         contents = contents.replace("\n\n\n", "\n\n")
     with open(file_path, 'w', encoding="utf-8") as file:
@@ -44,16 +48,6 @@ for file_path in file_paths:
 
 
 
-
-
-# file_paths = glob.glob(os.path.join(latex_folder, f'**/*.md'), recursive=True)
-# for file_path in file_paths:
-#     with open(file_path, 'r', encoding="utf-8") as file:
-#         contents = file.read()
-
-#     # contents = contents.replace("=", " = ")
-#     # contents = contents.replace("+", " + ")
-#     # contents = contents.replace("-", " - ") 
 #     contents = contents.replace('Monolithic', '                                     kiến trúc nguyên khối ')
 #     contents = contents.replace('monolithic', '                                 kiến trúc nguyên khối ')
 #     contents = contents.replace('Microservices', '                                 kiến trúc vi dịch vụ   ')
@@ -96,9 +90,15 @@ for file_path in file_paths:
 #     contents = contents.replace('bị giới hạn', '       giới hạn   ')
 #     contents = contents.replace('bị chặn', '       giới hạn   ')
 #     contents = contents.replace('chống tham nhũng', '       chống đổ vỡ   ')
+
+
+# 
+# 
+# 
+# 
+# 
 #     # contents = contents.replace('.' 
     
-#     contents = contents.replace("?", "? ")
 #     while " ?" in contents:
 #         contents = contents.replace(" ?", "?")
 #     contents = contents.replace("?", "? ")
@@ -116,21 +116,13 @@ for file_path in file_paths:
 #     #     contents = contents.replace(" !", "!")
 #     # contents = contents.replace("!", "! ")
 
-
-#     while '  ' in contents:
-#         contents = contents.replace('  ', ' ')
-#     while '<!-- ' in contents:
-#         contents = contents.replace('<!-- ', '<!--')
-#     while ' -->' in contents:
-#         contents = contents.replace(' -->', '-->')
+ 
 #     while '! ' in contents:
 #         contents = contents.replace('! ', '!')
 #     while ' !' in contents:
 #         contents = contents.replace(' !', '!')
-#     while '@ ' in contents:
-#         contents = contents.replace('@ ', '@')
-#     while ' @' in contents:
-#         contents = contents.replace(' @', '@')
+
+ 
 #     while '( ' in contents:
 #         contents = contents.replace('( ', '(')
 #     while ' )' in contents:

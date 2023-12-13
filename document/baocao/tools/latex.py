@@ -20,5 +20,5 @@ ten_file_nguon = r"../contents/_a.tex"
 ten_file_dich = os.path.join("../contents", f"{output}"+".tex")
 shutil.copy(ten_file_nguon, ten_file_dich)
 # return văn bản
-output = "\\input{contents/" + output + "}\n"
+output = "\n\\input{contents/" + output + "}\n"
 pyperclip.copy(output)

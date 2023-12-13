@@ -506,12 +506,7 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 <!-- </div> --> 
 <!--   https://ddd-practitioners.com/home/glossary  -->
 
-CAP Theorem*  
-Change Data Capture*  
-Clean Architecture*  
-Consumer-Driven Contracts*  
-Contract Testing*  
-Conway’s Law*  
+
 Dependency Inversion Principle*  
 Distributed System*  
 Dual Write*  
@@ -551,42 +546,28 @@ Branch by Abstraction*
 Business Capability : https://ddd-practitioners.com/business-capability/
 Business Model Canvas : https://ddd-practitioners.com/business-value-canvas/
 Business Value Canvas : https://ddd-practitioners.com/business-value-canvas/
-
-
-
-
-
-
-
-
+<!-- C --> 
 C4 Model : https://ddd-practitioners.com/?page_id=1193
-
+<!-- CAP Theorem*   -->
+<!-- Change Data Capture*   -->
 Choreography : https://ddd-practitioners.com/?page_id=628
-
+<!-- Clean Architecture*   -->
 Command : https://ddd-practitioners.com/?page_id=596
-
 Command Handler : https://ddd-practitioners.com/?page_id=599
-
 Compensating Action : https://ddd-practitioners.com/compensating-action/
-
 Compensating Transaction : https://ddd-practitioners.com/compensating-transaction/
-
 Compensating Workflow : https://ddd-practitioners.com/compensating-workflow/
-
 Conformist : https://ddd-practitioners.com/conformist/
-
 Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary/
-
+<!-- Consumer-Driven Contracts*   -->
 Context Mapping : https://ddd-practitioners.com/context-map/
-
+<!-- Contract Testing*   -->
+<!-- Conway’s Law*   -->
 Core Domain : https://ddd-practitioners.com/?page_id=380
-
 CQRS : https://ddd-practitioners.com/?page_id=574
-
 Customer/Supplier : https://ddd-practitioners.com/customer-supplier/
-
 CUPID : https://ddd-practitioners.com/home/glossary/cupid/
-
+<!-- D -->
 Domain : https://ddd-practitioners.com/domain/
 
 Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design/

@@ -29,8 +29,8 @@ for file_path in file_paths:
     # contents = contents.replace("=", " = ")
     contents = contents.replace("+", "             +                ")
     contents = contents.replace("-", "             -                ") 
-    contents = contents.replace("\(", "            $                ") 
-    contents = contents.replace("\)", "            $                ") 
+    contents = contents.replace("\\(", "            $                ") 
+    contents = contents.replace("\\)", "            $                ") 
     
  
 

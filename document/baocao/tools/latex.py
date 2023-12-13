@@ -2,27 +2,23 @@ from modules.Convert import Convert
 import os
 import shutil
 import pyperclip
+import re
 # nhận văn bản
 input = pyperclip.paste()
-
-# Define a regular expression pattern to match text inside curly braces
-pattern = r'\{([^}]+)\}'
-
-# Use re.search to find the pattern in the input string
-match = re.search(pattern, input_str)
-
-# Extract the text inside curly braces if a match is found
+match = re.search(r'\{([^}]+)\}', input)
 if match:
-    output_str = match.group(1)
-    print(output_str)
+    input = match.group(1)
+    print(input)
 else:
     print("No match found.")
+    exit()
+input = input.replace("(", "")
+input = input.replace(")", "")
 output = Convert.VarSnakeCase(input)
 # sao chép file
-ten_file_nguon = r"C:\Users\vvn20206205\Desktop\LatexATS\document\latex\contents\a.tex"
-ten_file_dich = os.path.join(os.path.dirname(
-    ten_file_nguon), f"{output}"+".tex")
+ten_file_nguon = r"../contents/_a.tex"
+ten_file_dich = os.path.join("../contents", f"{output}"+".tex")
 shutil.copy(ten_file_nguon, ten_file_dich)
 # return văn bản
-output = "\\input{contents/" + output + "}"
+output = "\\input{contents/" + output + "}\n"
 pyperclip.copy(output)

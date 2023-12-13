@@ -22,6 +22,7 @@ https://ddd-practitioners.com/home/glossary
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- dịch vụ miền -->
 <!-- Application Service : https://ddd-practitioners.com/application-service/ -->
+Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud  
 <!--@CQRS -->
 
 <!--@event -->
@@ -30,10 +31,9 @@ https://ddd-practitioners.com/home/glossary
 ACID (Atomicity, Consistency, Isolation, Durability)
 
 <!-- BASE Transaction  -->
+BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với ACID
+<!--!========================================================== -->
 
-BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với
-
-Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud  
 Bounded Context : https://ddd-practitioners.com/bounded-context  
 Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship  
 Branch by Abstraction\*  

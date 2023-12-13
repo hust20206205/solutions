@@ -14,30 +14,31 @@
 <!--  -->
 <!--  -->
 
-<!-- Trình bày về Abstract Core  trong domain driven design  -->
+Trình bày về   BASE Transaction  trong domain driven design 
 
 https://ddd-practitioners.com/home/glossary
 
 <!--@Thiết kế hướng tên miền -->
+<!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
+<!-- dịch vụ miền -->
+<!-- Application Service : https://ddd-practitioners.com/application-service/ -->
 <!--@CQRS -->
 
 <!--@event -->
 <!-- ACID Transaction : https://ddd-practitioners.com/?page_id=415 -->
+ACID (Atomicity, Consistency, Isolation, Durability)
+<!-- BASE Transaction  -->
+BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với 
 
-Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer/
+ 
 
-Application Service : https://ddd-practitioners.com/application-service/
-
-<!-- B -->
-
-BASE Transaction*  
-Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud/
-Bounded Context : https://ddd-practitioners.com/bounded-context/
-Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship/
+Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud                
+Bounded Context : https://ddd-practitioners.com/bounded-context                
+Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship                
 Branch by Abstraction*  
-Business Capability : https://ddd-practitioners.com/business-capability/
-Business Model Canvas : https://ddd-practitioners.com/business-value-canvas/
-Business Value Canvas : https://ddd-practitioners.com/business-value-canvas/
+Business Capability : https://ddd-practitioners.com/business-capability                
+Business Model Canvas : https://ddd-practitioners.com/business-value-canvas                
+Business Value Canvas : https://ddd-practitioners.com/business-value-canvas                
 
 <!-- C -->
 
@@ -52,78 +53,78 @@ Choreography : https://ddd-practitioners.com/?page_id=628
 
 Command : https://ddd-practitioners.com/?page_id=596
 Command Handler : https://ddd-practitioners.com/?page_id=599
-Compensating Action : https://ddd-practitioners.com/compensating-action/
-Compensating Transaction : https://ddd-practitioners.com/compensating-transaction/
-Compensating Workflow : https://ddd-practitioners.com/compensating-workflow/
-Conformist : https://ddd-practitioners.com/conformist/
-Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary/
+Compensating Action : https://ddd-practitioners.com/compensating-action                
+Compensating Transaction : https://ddd-practitioners.com/compensating-transaction                
+Compensating Workflow : https://ddd-practitioners.com/compensating-workflow                
+Conformist : https://ddd-practitioners.com/conformist                
+Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary                
 
 <!-- Consumer-Driven Contracts*   -->
 
-Context Mapping : https://ddd-practitioners.com/context-map/
+Context Mapping : https://ddd-practitioners.com/context-map                
 
 <!-- Contract Testing*   -->
 <!-- Conway’s Law*   -->
 
 Core Domain : https://ddd-practitioners.com/?page_id=380
 CQRS : https://ddd-practitioners.com/?page_id=574
-Customer/Supplier : https://ddd-practitioners.com/customer-supplier/
-CUPID : https://ddd-practitioners.com/home/glossary/cupid/
+Customer/Supplier : https://ddd-practitioners.com/customer-supplier                
+CUPID : https://ddd-practitioners.com/home/glossary/cupid                
 
 <!-- D -->
 <!-- Dependency Inversion Principle*   -->
 <!-- Distributed System*   -->
 
-Domain : https://ddd-practitioners.com/domain/
-Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design/
-Domain Event : https://ddd-practitioners.com/domain-event/
-Domain Model : https://ddd-practitioners.com/domain-model/
-Domain Object : https://ddd-practitioners.com/domain-object/
-Domain Service : https://ddd-practitioners.com/domain-service/
+Domain : https://ddd-practitioners.com/domain                
+Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design                
+Domain Event : https://ddd-practitioners.com/domain-event                
+Domain Model : https://ddd-practitioners.com/domain-model                
+Domain Object : https://ddd-practitioners.com/domain-object                
+Domain Service : https://ddd-practitioners.com/domain-service                
 Domain Storytelling : https://ddd-practitioners.com/?page_id=1005
 
 <!-- Dual Write*   -->
 <!-- E -->
 
-Entity : https://ddd-practitioners.com/entity/
-Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture/
-Entity Identity : https://ddd-practitioners.com/entity-identity/
+Entity : https://ddd-practitioners.com/entity                
+Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture                
+Entity Identity : https://ddd-practitioners.com/entity-identity                
 Event Modeling : https://ddd-practitioners.com/?page_id=994
 Event Replay : https://ddd-practitioners.com/?page_id=585
-Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing/
+Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing                
 Event Sourcing : https://ddd-practitioners.com/?page_id=581
-EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming/
+EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming                
 Eventual Consistency : https://ddd-practitioners.com/?page_id=419
 
 <!-- Example Mapping*   -->
 <!-- F -->
 
-Factory : https://ddd-practitioners.com/factory/
+Factory : https://ddd-practitioners.com/factory                
 
 <!-- Functional Programming*   -->
 <!-- G -->
 
-Generic Subdomain : https://ddd-practitioners.com/generic-subdomain/
+Generic Subdomain : https://ddd-practitioners.com/generic-subdomain                
 
 <!-- H -->
 
-Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture/
-Highlighted Core : https://ddd-practitioners.com/highlighted-core/
+Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture                
+Highlighted Core : https://ddd-practitioners.com/highlighted-core                
 
 <!-- I -->
 
-Identity : https://ddd-practitioners.com/entity-identity/
+Identity : https://ddd-practitioners.com/entity-identity                
 
 <!-- Impact Mapping*   -->
 
-Infrastructure Service : https://ddd-practitioners.com/infrastructure-service/
+Infrastructure Service : https://ddd-practitioners.com/infrastructure-service                
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!-- Inverse Conway Maneuver*   -->
 <!-- L -->
 
-Layered Architecture : https://ddd-practitioners.com/layered-architecture/
-Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle/
+Layered Architecture : https://ddd-practitioners.com/layered-architecture                
+Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle                
 
 <!-- Long-running Transaction*   -->
 <!-- M -->
@@ -137,11 +138,11 @@ Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
 <!-- OLAP*   -->
 <!-- OLTP*   -->
 
-Onion Architecture : https://ddd-practitioners.com/home/glossary/onion-architecture/
+Onion Architecture : https://ddd-practitioners.com/home/glossary/onion-architecture                
 
 <!-- Open-Closed Principle*   -->
 
-Open-Host Service : https://ddd-practitioners.com/open-host-service/
+Open-Host Service : https://ddd-practitioners.com/open-host-service                
 Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609
 Orchestration : https://ddd-practitioners.com/?page_id=630
 
@@ -149,13 +150,13 @@ Orchestration : https://ddd-practitioners.com/?page_id=630
 <!-- P -->
 <!-- Parallel Database*   -->
 
-Partnership : https://ddd-practitioners.com/partnership/
-Ports and Adapters : https://ddd-practitioners.com/hexagonal-architecture/
+Partnership : https://ddd-practitioners.com/partnership                
+Ports and Adapters : https://ddd-practitioners.com/hexagonal-architecture                
 
 <!-- Procedural Programming*   -->
 <!-- Projection*   -->
 
-Published Language : https://ddd-practitioners.com/published-language/
+Published Language : https://ddd-practitioners.com/published-language                
 
 <!-- Q -->
 <!-- Query*   -->
@@ -168,43 +169,43 @@ Repository : https://ddd-practitioners.com/?page_id=555
 
 <!-- S -->
 
-Saga : https://ddd-practitioners.com/home/glossary/saga/
+Saga : https://ddd-practitioners.com/home/glossary/saga                
 Segregated Core : https://ddd-practitioners.com/?page_id=378
-Separate Ways : https://ddd-practitioners.com/separate-ways/
-Service : https://ddd-practitioners.com/service/
+Separate Ways : https://ddd-practitioners.com/separate-ways                
+Service : https://ddd-practitioners.com/service                
 
 <!-- Service-Oriented Architecture*   -->
 
-Shared Kernel : https://ddd-practitioners.com/shared-kernel/
-Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle/
-Snapshots : https://ddd-practitioners.com/snapshots/
-SOLID : https://ddd-practitioners.com/home/glossary/solid/
+Shared Kernel : https://ddd-practitioners.com/shared-kernel                
+Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle                
+Snapshots : https://ddd-practitioners.com/snapshots                
+SOLID : https://ddd-practitioners.com/home/glossary/solid                
 
 <!-- Strangler Fig*   -->
 
-State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate/
-Strategic Design : https://ddd-practitioners.com/strategic-design/
+State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate                
+Strategic Design : https://ddd-practitioners.com/strategic-design                
 Strong Consistency : https://ddd-practitioners.com/?page_id=421
-Subdomain : https://ddd-practitioners.com/subdomain/
-Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain/
+Subdomain : https://ddd-practitioners.com/subdomain                
+Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain                
 
 <!-- System Event*   -->
 
 <!-- T -->
 
 Tactical Design : https://ddd-practitioners.com/?page_id=453
-Test-Driven Development : https://ddd-practitioners.com/test-driven-development/
+Test-Driven Development : https://ddd-practitioners.com/test-driven-development                
 
 <!-- Transactional Outbox*   -->
 
 <!-- U -->
 
-Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language/
+Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language                
 
 <!-- V -->
 
-Value Object : https://ddd-practitioners.com/home/glossary/value-object/
-Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture/
+Value Object : https://ddd-practitioners.com/home/glossary/value-object                
+Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture                
 
 <!-- W -->
 <!-- Wardley Mapping* -->

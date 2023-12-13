@@ -503,336 +503,316 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 />
 </div>
-<!-- </div> -->
-Text: Skip to content
-Link: #content
-
-Text: 
-Link: https://ddd-practitioners.com/
-
-Text: Domain-driven Design: A Practitioner's Guide
-Link: https://ddd-practitioners.com/
-
-Text: FAQs
-Link: https://ddd-practitioners.com/home/faqs/
-
-Text: Glossary
-Link: https://ddd-practitioners.com/home/glossary/
-
-Text: About Us
-Link: https://ddd-practitioners.com/home/about-us/
-
-Text: Our Book!
-Link: https://ddd-practitioners.com/home/about-our-book/
-
-Text: Home
-Link: https://ddd-practitioners.com/
-
-Text: Home
-Link: https://ddd-practitioners.com/home/
-
-Text: Abstract Core
+<!-- </div> --> 
+<!--   https://ddd-practitioners.com/home/glossary  -->
+<!-- A -->
+            Abstract Core
 Link: https://ddd-practitioners.com/?page_id=1311
 
-Text: ACID Transaction
+            ACID Transaction
 Link: https://ddd-practitioners.com/?page_id=415
 
-Text: Anti-Corruption Layer (ACL)
+            Anti-Corruption Layer (ACL)
 Link: https://ddd-practitioners.com/anticorruption-layer/
 
-Text: Application Service
+            Application Service
 Link: https://ddd-practitioners.com/application-service/
 
-Text: Big Ball of Mud
+
+
+<!-- B -->
+BASE Transaction*
+
+            Big Ball of Mud
 Link: https://ddd-practitioners.com/home/glossary/big-ball-of-mud/
 
-Text: Bounded Context
+            Bounded Context
 Link: https://ddd-practitioners.com/bounded-context/
 
-Text: Bounded Context Relationships
+            Bounded Context Relationships
 Link: https://ddd-practitioners.com/bounded-context-relationship/
 
-Text: Business Capability
+            Business Capability
 Link: https://ddd-practitioners.com/business-capability/
 
-Text: Business Model Canvas
+            Business Model Canvas
 Link: https://ddd-practitioners.com/business-value-canvas/
 
-Text: Business Value Canvas
+            Business Value Canvas
 Link: https://ddd-practitioners.com/business-value-canvas/
 
-Text: C4 Model
+            C4 Model
 Link: https://ddd-practitioners.com/?page_id=1193
 
-Text: Choreography
+            Choreography
 Link: https://ddd-practitioners.com/?page_id=628
 
-Text: Command
+            Command
 Link: https://ddd-practitioners.com/?page_id=596
 
-Text: Command Handler
+            Command Handler
 Link: https://ddd-practitioners.com/?page_id=599
 
-Text: Compensating Action
+            Compensating Action
 Link: https://ddd-practitioners.com/compensating-action/
 
-Text: Compensating Transaction
+            Compensating Transaction
 Link: https://ddd-practitioners.com/compensating-transaction/
 
-Text: Compensating Workflow
+            Compensating Workflow
 Link: https://ddd-practitioners.com/compensating-workflow/
 
-Text: Conformist
+            Conformist
 Link: https://ddd-practitioners.com/conformist/
 
-Text: Consistency Boundary
+            Consistency Boundary
 Link: https://ddd-practitioners.com/glossary/consistency-boundary/
 
-Text: Context Mapping
+            Context Mapping
 Link: https://ddd-practitioners.com/context-map/
 
-Text: Core Domain
+            Core Domain
 Link: https://ddd-practitioners.com/?page_id=380
 
-Text: CQRS
+            CQRS
 Link: https://ddd-practitioners.com/?page_id=574
 
-Text: Customer/Supplier
+            Customer/Supplier
 Link: https://ddd-practitioners.com/customer-supplier/
 
-Text: CUPID
+            CUPID
 Link: https://ddd-practitioners.com/home/glossary/cupid/
 
-Text: Domain
+            Domain
 Link: https://ddd-practitioners.com/domain/
 
-Text: Domain-Driven Design
+            Domain-Driven Design
 Link: https://ddd-practitioners.com/domain-driven-design/
 
-Text: Domain Event
+            Domain Event
 Link: https://ddd-practitioners.com/domain-event/
 
-Text: Domain Model
+            Domain Model
 Link: https://ddd-practitioners.com/domain-model/
 
-Text: Domain Object
+            Domain Object
 Link: https://ddd-practitioners.com/domain-object/
 
-Text: Domain Service
+            Domain Service
 Link: https://ddd-practitioners.com/domain-service/
 
-Text: Domain Storytelling
+            Domain Storytelling
 Link: https://ddd-practitioners.com/?page_id=1005
 
-Text: Entity
+            Entity
 Link: https://ddd-practitioners.com/entity/
 
-Text: Event-Driven Architecture
+            Event-Driven Architecture
 Link: https://ddd-practitioners.com/home/glossary/event-driven-architecture/
 
-Text: Entity Identity
+            Entity Identity
 Link: https://ddd-practitioners.com/entity-identity/
 
-Text: Event Modeling
+            Event Modeling
 Link: https://ddd-practitioners.com/?page_id=994
 
-Text: Event Replay
+            Event Replay
 Link: https://ddd-practitioners.com/?page_id=585
 
-Text: Event Sourced Aggregates
+            Event Sourced Aggregates
 Link: https://ddd-practitioners.com/event-sourcing/
 
-Text: Event Sourcing
+            Event Sourcing
 Link: https://ddd-practitioners.com/?page_id=581
 
-Text: EventStorming
+            EventStorming
 Link: https://ddd-practitioners.com/home/glossary/eventstorming/
 
-Text: Eventual Consistency
+            Eventual Consistency
 Link: https://ddd-practitioners.com/?page_id=419
 
-Text: Factory
+            Factory
 Link: https://ddd-practitioners.com/factory/
 
-Text: Generic Subdomain
+            Generic Subdomain
 Link: https://ddd-practitioners.com/generic-subdomain/
 
-Text: Hexagonal Architecture
+            Hexagonal Architecture
 Link: https://ddd-practitioners.com/hexagonal-architecture/
 
-Text: Highlighted Core
+            Highlighted Core
 Link: https://ddd-practitioners.com/highlighted-core/
 
-Text: Identity
+            Identity
 Link: https://ddd-practitioners.com/entity-identity/
 
-Text: Infrastructure Service
+            Infrastructure Service
 Link: https://ddd-practitioners.com/infrastructure-service/
 
-Text: Interface Segregation Principle
+            Interface Segregation Principle
 Link: https://ddd-practitioners.com/?page_id=817
 
-Text: Layered Architecture
+            Layered Architecture
 Link: https://ddd-practitioners.com/layered-architecture/
 
-Text: Liskov Substitution Principle
+            Liskov Substitution Principle
 Link: https://ddd-practitioners.com/home/glossary/liskov-substitution-principle/
 
-Text: Microservices Architecture
+            Microservices Architecture
 Link: https://ddd-practitioners.com/?page_id=398
 
-Text: Module
+            Module
 Link: https://ddd-practitioners.com/?page_id=618
 
-Text: Monolithic Architecture
+            Monolithic Architecture
 Link: https://ddd-practitioners.com/?page_id=391
 
-Text: Onion Architecture
+            Onion Architecture
 Link: https://ddd-practitioners.com/home/glossary/onion-architecture/
 
-Text: Open-Host Service
+            Open-Host Service
 Link: https://ddd-practitioners.com/open-host-service/
 
-Text: Optimistic Concurrency Control
+            Optimistic Concurrency Control
 Link: https://ddd-practitioners.com/?page_id=609
 
-Text: Orchestration
+            Orchestration
 Link: https://ddd-practitioners.com/?page_id=630
 
-Text: Partnership
+            Partnership
 Link: https://ddd-practitioners.com/partnership/
 
-Text: Ports and Adapters
+            Ports and Adapters
 Link: https://ddd-practitioners.com/hexagonal-architecture/
 
-Text: Published Language
+            Published Language
 Link: https://ddd-practitioners.com/published-language/
 
-Text: Repository
+            Repository
 Link: https://ddd-practitioners.com/?page_id=555
 
-Text: Saga
+            Saga
 Link: https://ddd-practitioners.com/home/glossary/saga/
 
-Text: Segregated Core
+            Segregated Core
 Link: https://ddd-practitioners.com/?page_id=378
 
-Text: Separate Ways
+            Separate Ways
 Link: https://ddd-practitioners.com/separate-ways/
 
-Text: Service
+            Service
 Link: https://ddd-practitioners.com/service/
 
-Text: Shared Kernel
+            Shared Kernel
 Link: https://ddd-practitioners.com/shared-kernel/
 
-Text: Single Responsibility Principle
+            Single Responsibility Principle
 Link: https://ddd-practitioners.com/single-responsibility-principle/
 
-Text: Snapshots
+            Snapshots
 Link: https://ddd-practitioners.com/snapshots/
 
-Text: SOLID
+            SOLID
 Link: https://ddd-practitioners.com/home/glossary/solid/
 
-Text: State Stored Aggregates
+            State Stored Aggregates
 Link: https://ddd-practitioners.com/state-stored-aggregate/
 
-Text: Strategic Design
+            Strategic Design
 Link: https://ddd-practitioners.com/strategic-design/
 
-Text: Strong Consistency
+            Strong Consistency
 Link: https://ddd-practitioners.com/?page_id=421
 
-Text: Subdomain
+            Subdomain
 Link: https://ddd-practitioners.com/subdomain/
 
-Text: Supporting Subdomain
+            Supporting Subdomain
 Link: https://ddd-practitioners.com/supporting-subdomain/
 
-Text: Tactical Design
+            Tactical Design
 Link: https://ddd-practitioners.com/?page_id=453
 
-Text: Test-Driven Development
+            Test-Driven Development
 Link: https://ddd-practitioners.com/test-driven-development/
 
-Text: Ubiquitous Language
+            Ubiquitous Language
 Link: https://ddd-practitioners.com/home/glossary/ubiquitous-language/
 
-Text: Value Object
+            Value Object
 Link: https://ddd-practitioners.com/home/glossary/value-object/
 
-Text: Vertical Slice Architecture
+            Vertical Slice Architecture
 Link: https://ddd-practitioners.com/home/glossary/vertical-slice-architecture/
 
-Text:
+           
 Link: https://www.amazon.com/Domain-Driven-Design-Java-Practitioners-inventive-ebook/dp/B09MV42W27
 
-Text: analysis
+            analysis
 Link: https://ddd-practitioners.com/category/ddd/analysis/
 
-Text: basics
+            basics
 Link: https://ddd-practitioners.com/category/basics/
 
-Text: ddd
+            ddd
 Link: https://ddd-practitioners.com/category/ddd/
 
-Text: design
+            design
 Link: https://ddd-practitioners.com/category/design/
 
-Text: faq
+            faq
 Link: https://ddd-practitioners.com/category/faq/
 
-Text: leadership
+            leadership
 Link: https://ddd-practitioners.com/category/leadership/
 
-Text: patterns
+            patterns
 Link: https://ddd-practitioners.com/category/patterns/
 
-Text: Blog at WordPress.com.
+            Blog at WordPress.com.
 Link: https://wordpress.com/?ref=footer_blog
 
-Text: Follow
+            Follow
 Link:
 
-Text: Following
+            Following
 Link:
 
-Text: Domain-driven Design: A Practitioner's Guide
+            Domain-driven Design: A Practitioner's Guide
 Link: https://ddd-practitioners.com
 
-Text: Log in now.
+            Log in now.
 Link: https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fddd-practitioners.com%252Fhome%252Fglossary%252F
 
-Text: Domain-driven Design: A Practitioner's Guide
+            Domain-driven Design: A Practitioner's Guide
 Link: https://ddd-practitioners.com
 
-Text: Customize
+            Customize
 Link: https://4cdb6jt49p.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2F4cdb6jt49p.wordpress.com%2Fhome%2Fglossary%2F
 
-Text: Follow
+            Follow
 Link:
 
-Text: Following
+            Following
 Link:
 
-Text: Sign up
+            Sign up
 Link: https://wordpress.com/start/
 
-Text: Log in
+            Log in
 Link: https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fddd-practitioners.com%252Fhome%252Fglossary%252F
 
-Text: Copy shortlink
+            Copy shortlink
 Link: https://wp.me/PelqJC-2J
 
-Text: Report this content
+            Report this content
 Link: http://en.wordpress.com/abuse/?report_url=https://ddd-practitioners.com/home/glossary/
 
-Text: View post in Reader
+            View post in Reader
 Link: https://wordpress.com/read/blogs/211976364/posts/169
 
-Text: Manage subscriptions
+            Manage subscriptions
 Link: https://subscribe.wordpress.com/
 
-Text: Collapse this bar
+            Collapse this bar
 Link:

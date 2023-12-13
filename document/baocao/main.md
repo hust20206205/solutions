@@ -1,28 +1,5 @@
 
 
-## 2.2. Giới thiệu về kiến trúc vi dịch vụ
-
-### 2.2.1. Kiến trúc nguyên khối
-
-Trước khi kiến trúc vi dịch vụ trở nên phổ biến, kiến trúc nguyên khối đã được áp dụng rộng rãi trong kiến trúc phần mềm truyền thống. Kiến trúc nguyên khối là kiến trúc phần mềm trong đó toàn bộ dự án được xây dựng và triển khai như một đơn vị duy nhất.
-
-Ví dụ: Mô hình MVC (Model-View-Controller) là một trong những dạng của kiến trúc nguyên khối.
-Trong mô hình này, ứng dụng được chia thành ba thành phần chính:
-Mô hình (Model): Đại diện cho dữ liệu và logic xử lý dữ liệu.
-Giao diện (View): Đại diện cho giao diện người dùng.
-Bộ điều khiển (Controller): Nhận yêu cầu người dùng thông qua View, sau đó tương tác với Model để làm việc với dữ liệu.
-
-### 2.2.2. Kiến trúc vi dịch vụ
-
-Kiến trúc vi dịch vụ chia dự án thành các thành phần nhỏ hơn được gọi là các dịch vụ.
-Các dịch vụ này chịu trách nhiệm cho một chức năng cụ thể nhằm hiện thực hóa khả năng kinh doanh cụ thể.
-
-Các dịch vụ này độc lập về ngôn ngữ lập trình, CSDL, triển khai, ...
-Các dịch vụ này tương tác với nhau qua hạ tầng mạng.
-
-![](pictures/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu.jpg)
-![](pictures/AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png)
-
 ### 2.2.3. Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ
 
 Kiến trúc vi dịch vụ có nhiều ưu điểm đặc biệt với các dự án có quy mô lớn và phức tạp.

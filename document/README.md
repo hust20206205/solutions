@@ -23,10 +23,13 @@ https://ddd-practitioners.com/home/glossary
 <!-- dịch vụ miền -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
+
 là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
- Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến 
+Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến
+
  <!-- nợ kỹ thuật -->
-  và các vấn đề dài hạn cho một dự án phần mềm. 
+
+và các vấn đề dài hạn cho một dự án phần mềm.
 
 <!-- Bounded Context : https://ddd-practitioners.com/bounded-context   -->
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship   -->
@@ -38,10 +41,12 @@ là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầ
 ACID (Atomicity, Consistency, Isolation, Durability)
 
 <!-- BASE Transaction  -->
+
 BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với ACID
+
 <!--!========================================================== -->
 
-Branch by Abstraction*  
+Branch by Abstraction 
 Business Capability : https://ddd-practitioners.com/business-capability  
 Business Model Canvas : https://ddd-practitioners.com/business-value-canvas  
 Business Value Canvas : https://ddd-practitioners.com/business-value-canvas
@@ -217,6 +222,7 @@ Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertic
 <!-- Wardley Mapping* -->
 
 <!--  -->
+
 Excerpted from [[Domain-Driven Design Book]]
 
 [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries.

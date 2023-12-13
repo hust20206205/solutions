@@ -506,8 +506,6 @@ class="wp-block-separator has-alpha-channel-opacity is-style-wide"
 <!-- </div> --> 
 <!--   https://ddd-practitioners.com/home/glossary  -->
 
-<!-- Q -->
-<!-- Query*   -->
 <!-- R -->
 <!-- Read Model*   -->
 <!-- Refactoring*   -->
@@ -647,12 +645,18 @@ Orchestration : https://ddd-practitioners.com/?page_id=630
 <!-- Outbox Pattern*   -->
 <!-- P -->
 <!-- Parallel Database*   -->
-<!-- Procedural Programming*   -->
-<!-- Projection*   -->
 
 Partnership : https://ddd-practitioners.com/partnership/
 Ports and Adapters : https://ddd-practitioners.com/hexagonal-architecture/
+
+<!-- Procedural Programming*   -->
+<!-- Projection*   -->
+
 Published Language : https://ddd-practitioners.com/published-language/
+
+<!-- Q -->
+<!-- Query*   -->
+
 Repository : https://ddd-practitioners.com/?page_id=555
 Saga : https://ddd-practitioners.com/home/glossary/saga/
 Segregated Core : https://ddd-practitioners.com/?page_id=378
@@ -671,7 +675,9 @@ Tactical Design : https://ddd-practitioners.com/?page_id=453
 Test-Driven Development : https://ddd-practitioners.com/test-driven-development/
 Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language/
 Value Object : https://ddd-practitioners.com/home/glossary/value-object/
+
 <!--  -->
+
 Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture/
 : https://www.amazon.com/Domain-Driven-Design-Java-Practitioners-inventive-ebook/dp/B09MV42W27
 

@@ -39,7 +39,6 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!--!Entity -->
 <!--!Value -->
 
-Domain Service : https://ddd-practitioners.com/domain-service  
 Domain Storytelling : https://ddd-practitioners.com/?page_id=1005
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
@@ -334,41 +333,3 @@ Excerpted from [[Domain-Driven Design Book]]
 
 [[Whole Value]] An object that models a single, complete concept.
 
-<!--  -->
-Chuyển đến nội dung
-Đối với người hành nghề bởi người hành nghề
-Tìm kiếm
-Thiết kế hướng miền: Hướng dẫn dành cho người thực hành
-Câu hỏi thường gặp
-Bảng chú giải
-Về chúng tôi
-Cuốn sách của chúng tôi!
-Trang chủTrang chủBảng chú giảiDịch vụ tên miền
-Dịch vụ tên miền
-Trong Thiết kế hướng tên miền (DDD), dịch vụ miền là một thành phần đóng gói một quy tắc hoặc hoạt động kinh doanh cụ thể mà bản chất không phải là một phần của thực thể hoặc đối tượng giá trị. Dịch vụ miền xác định một tập hợp các phương thức thực hiện các hoạt động dành riêng cho miền và không phù hợp với bất kỳ đối tượng miền hiện có nào.
-
-Ví dụ: một ứng dụng ngân hàng có thể có dịch vụ miền xử lý việc chuyển tiền giữa các tài khoản. Hoạt động này liên quan đến nhiều đối tượng miền (ví dụ: tài khoản) và cũng có thể có các quy tắc kinh doanh phức tạp (ví dụ: xác thực rằng các tài khoản liên quan đến chuyển khoản thuộc về cùng một khách hàng), do đó, đây không phải là thứ có thể được xử lý bởi một thực thể hoặc đối tượng giá trị duy nhất. Trong trường hợp này, dịch vụ miền sẽ là nơi thích hợp để gói gọn hành vi này.
-
-Một dịch vụ miền chỉ nên được sử dụng khi nó có ý nghĩa trong ngữ cảnh của miền, nó phải ở trạng thái không trạng thái và không có sự tồn tại lâu dài của riêng nó.
-
-Điều quan trọng cần lưu ý là dịch vụ miền không phải là dịch vụ kỹ thuật, nó là dịch vụ dành riêng cho Miền, nó phải được sử dụng để giải quyết một vấn đề kinh doanh cụ thể và phải được đặt tên theo khái niệm kinh doanh mà nó đại diện.
-
-Ngoài các dịch vụ miền, còn có một số loại dịch vụ khác có thể được tạo khi làm việc với Thiết kế hướng miền (DDD):
-
-Dịch vụ ứng dụng: Các dịch vụ này xử lý việc trình bày và phối hợp ứng dụng. Chúng xử lý đầu vào và đầu ra của hệ thống và đóng vai trò trung gian giữa giao diện người dùng của ứng dụng và mô hình miền.
-Dịch vụ cơ sở hạ tầng: Các dịch vụ này xử lý các khía cạnh kỹ thuật của ứng dụng như tính bền vững, ghi nhật ký và giao tiếp. Chúng cung cấp chức năng cần thiết để ứng dụng chạy nhưng không được chứa bất kỳ miền logic nào.
-Bộ điều hợp giao diện: Các dịch vụ này xử lý việc chuyển đổi dữ liệu giữa mô hình miền và các hệ thống bên ngoài như cơ sở dữ liệu hoặc dịch vụ web. Họ chịu trách nhiệm ánh xạ dữ liệu giữa các cách biểu diễn khác nhau của cùng một thông tin.
-Nhà máy và kho lưu trữ: Các dịch vụ này xử lý việc tạo và truy xuất các đối tượng miền. Các nhà máy chịu trách nhiệm tạo các đối tượng mới và khởi tạo chúng với dữ liệu thích hợp, trong khi các kho lưu trữ chịu trách nhiệm truy xuất các đối tượng hiện có từ lớp lưu giữ lâu dài.
-Điều quan trọng cần lưu ý là tất cả các dịch vụ này phải được tổ chức theo cách tuân thủ nguyên tắc trách nhiệm duy nhất và giảm thiểu sự kết hợp giữa các dịch vụ khác nhau.
-
-
-Thể loại
-
-Phân tích
-điều cơ bản
-ddd
-thiết kế
-câu hỏi thường gặp
-Khả năng lãnh đạo
-hoa văn
-Blog tại WordPress.com.

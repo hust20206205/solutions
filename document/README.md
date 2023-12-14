@@ -67,11 +67,16 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 <!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object   -->
 <!-- Service : https://ddd-practitioners.com/service -->
 <!-- Quản lí vòng  đời -->
+<!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
+<!-- State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate -->
+<!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
 <!-- Factory : https://ddd-practitioners.com/factory -->
 
 https://refactoring.guru/design-patterns/factory-method
 https://refactoring.guru/design-patterns/abstract-factory
 https://culttt.com/2014/12/24/factories-domain-driven-design
+
+<!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
 
 <!-- Module : https://ddd-practitioners.com/?page_id=618 -->
 
@@ -99,18 +104,9 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service   -->
 
-Shared Kernel : https://ddd-practitioners.com/shared-kernel
+<!-- Shared Kernel : https://ddd-practitioners.com/shared-kernel -->
 
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
-
-<!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
-
-State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate
-
-<!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
-
-<!--! factor  -->
-<!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
 
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
 <!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->

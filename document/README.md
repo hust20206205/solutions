@@ -45,7 +45,6 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-
 <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
 [[Context]] The setting in which a word or statement appears that determines its meaning. See [[Bounded Context]].
 
@@ -55,15 +54,8 @@ Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc v
 
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
 
-
-
-
-
-
-
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
 <!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
-
 
 <!-- CI/CD -->
 
@@ -115,16 +107,12 @@ https://culttt.com/2014/12/24/factories-domain-driven-design
 
 <!-- Module : https://ddd-practitioners.com/?page_id=618 -->
 
-
-
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
 <!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
-
 
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 <!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service -->
-
 
 <!--@saga -->
 <!--@saga -->

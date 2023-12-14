@@ -35,34 +35,15 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 <!--@  -->
-<!--@  -->
-<!--@  -->
-<!--@  -->
 
 Trình bày về Model trong domain driven design
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
+<!--@  -->
+<!--@  -->
+<!--@  -->
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
-
-có thể nêu thêm thôi
-
-<!--  -->
-
-<!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
-<!-- Entity : https://ddd-practitioners.com/entity   -->
-<!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
-
-<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object   -->
-<!-- Service : https://ddd-practitioners.com/service -->
-
-<!-- Factory : https://ddd-practitioners.com/factory -->
-<!-- Module : https://ddd-practitioners.com/?page_id=618 -->
-
-https://refactoring.guru/design-patterns/factory-method
-https://refactoring.guru/design-patterns/abstract-factory
-
+<!-- có thể nêu thêm thôi -->
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
-
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
 
 là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
@@ -71,6 +52,28 @@ Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời
  <!-- nợ kỹ thuật -->
 
 và các vấn đề dài hạn cho một dự án phần mềm.
+
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
+<!-- Entity : https://ddd-practitioners.com/entity   -->
+<!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
+<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object   -->
+<!-- Service : https://ddd-practitioners.com/service -->
+<!-- Quản lí vòng  đời -->
+<!-- Factory : https://ddd-practitioners.com/factory -->
+
+https://refactoring.guru/design-patterns/factory-method
+https://refactoring.guru/design-patterns/abstract-factory
+https://culttt.com/2014/12/24/factories-domain-driven-design
+
+<!-- Module : https://ddd-practitioners.com/?page_id=618 -->
 
 <!-- CI/CD -->
 

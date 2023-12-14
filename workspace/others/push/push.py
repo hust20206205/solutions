@@ -46,6 +46,7 @@ for file_path in file_paths:
         'microservice': 'kiến trúc vi dịch vụ',
         'dịch vụ vi mô': 'vi dịch vụ',
 
+        'Domain - Driven Design': 'thiết kế hướng miền',
         'Domain-Driven Design': 'thiết kế hướng miền',
         'Domain Driven Design': 'thiết kế hướng miền',
         'domain driven design': 'thiết kế hướng miền',
@@ -102,7 +103,7 @@ for file_path in file_paths:
 
 
         'tổng cục thuế': 'TCT',
-        "kiến ​​trúc": 'kiến trúc',
+        " ​​": '    ',
     }
 
     for key, value in replacements.items():

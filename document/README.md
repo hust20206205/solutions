@@ -60,15 +60,6 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-
-
-
-
-
-
-
-
-
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
@@ -111,6 +102,7 @@ https://culttt.com/2014/12/24/factories-domain-driven-design
 <!-- CI/CD -->
 
 <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
+[[Context]] The setting in which a word or statement appears that determines its meaning. See [[Bounded Context]].
 
 Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận cụ thể trong tổ chức. Sự tương ứng này có thể giúp giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các đội ngũ.
 
@@ -119,6 +111,7 @@ Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc v
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
 
 <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+[[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.
 
 Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
@@ -242,7 +235,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!-- -->
 
-
 [[Analysis Pattern]] A group of concepts that represents a common construction in business modeling. It may be relevant to only one domain or may span many domains (Fowler 1997, p. 8).
 
 [[Assertion]] A statement of the correct state of a program at some point, independent of how it does it. Typically, an ASSERTION specifies the result of an operation or an invariant of a design element.
@@ -255,11 +247,9 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Command]] (a.k.a. modifier) An operation that effects some change to the system (for example, setting a variable). An operation that intentionally creates a side effect.
 
-[[Context]] The setting in which a word or statement appears that determines its meaning. See [[Bounded Context]].
 
 [[Conceptual Contour]] An underlying consistency of the domain itself, which, if reflected in a model, can help the design accommodate change more naturally.
 
-[[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.
 
 [[Declarative Design]] A form of programming in which a precise description of properties actually controls the software. An executable specification.
 
@@ -298,6 +288,5 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 [[Supple Design]] A design that puts the power inherent in a deep model into the hands of a client developer to make clear, flexible expressions that give expected results robustly. Equally important, it leverages that same deep model to make the design itself easy for the implementer to mold and reshape to accommodate new insight.
 
 [[Unification]] The internal consistency of a model such that each term is unambiguous and no rules contradict.
-
 
 [[Whole Value]] An object that models a single, complete concept.

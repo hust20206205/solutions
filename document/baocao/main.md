@@ -20,19 +20,6 @@ hợp gốc bị phá hủy.
 <!-- -->
 <!-- -->
 
-<!--@Mô hình miền (Domain Models)-->
-
-Để tạo một phần mềm tốt, chúng ta cần phải hiểu rõ về phần mềm đó. Trong thiết kế hướng miền để có thể hiểu miền nhanh, chúng ta tạo ra các mô hình miền.
-
-Mô hình miền là kiến thức có tổ chức và có cấu trúc về miền phù hợp để giải quyết vấn đề kinh doanh.
-
-Mô hình miền không phải là kiến thức của chuyên gia ngành, mà là sự trừu tượng hóa của cả nhóm.
-
-Trong quá trình phát triển, nhóm trao đổi và thảo luận về mô hình của nhóm.
-
-Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm việc.
-
-<!--$VD: Ở đồ án này, mô hình miền của em bao gồm yêu câu nghiệp vụ và các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->

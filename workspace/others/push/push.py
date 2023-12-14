@@ -72,6 +72,7 @@ for file_path in file_paths:
 
         'Ngôn ngữ phổ biến': 'ngôn ngữ chung',
         'ngôn ngữ phổ biến': 'ngôn ngữ chung',
+        'phổ biến': 'chung',
 
         'bạn': 'chúng ta',
         'Bạn': 'Chúng ta',

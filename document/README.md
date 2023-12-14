@@ -14,7 +14,7 @@
 <!--  -->
 <!--  -->
 
-Trình bày về Consumer-Driven Contracts trong domain driven design
+Trình bày về Consumer          trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
@@ -40,7 +40,8 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 
 Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
 
-<!--!bản đồ -->
+<!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+
 
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship   -->
 <!-- Conformist : https://ddd-practitioners.com/conformist   -->
@@ -78,9 +79,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
-Context Mapping : https://ddd-practitioners.com/context-map
-
-<!-- Contract Testing*   -->
+ 
 <!-- Conway’s Law*   -->
 
 Core Domain : https://ddd-practitioners.com/?page_id=380

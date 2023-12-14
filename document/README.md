@@ -14,7 +14,6 @@
 
 https://viblo.asia/p/domain-driven-design-phan-2-MgNeWoZAeYx
 
-
 https://culttt.com/search
 https://culttt.com/2014/04/09/use-exception
 https://culttt.com/2014/08/18/encapsulating-applications-business-rules
@@ -28,7 +27,6 @@ https://culttt.com/2015/01/05/using-aggregates-gateway-functionality
 https://culttt.com/2015/01/07/service-oriented-architecture
 https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs
 https://culttt.com/2015/11/11/what-is-active-model
-
 
 <!--@  -->
 <!--@  -->

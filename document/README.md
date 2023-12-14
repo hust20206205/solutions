@@ -10,8 +10,6 @@
 <!--@  -->
 <!--@  -->
 
-Microservices Architecture : https://ddd-practitioners.com/?page_id=398
-Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
 
 <!--@  -->
 <!--@  -->

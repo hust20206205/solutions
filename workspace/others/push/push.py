@@ -179,9 +179,9 @@ for file_path in file_paths:
 
    
 
-    for key, value in replacements.items():
-        value = f"  {value}  "
-        contents = contents.replace(key, value)
+    # for key, value in replacements.items():
+    #     value = f"  {value}  "
+    #     contents = contents.replace(key, value)
  
     while '  ' in contents:
         contents = contents.replace('  ', ' ')        

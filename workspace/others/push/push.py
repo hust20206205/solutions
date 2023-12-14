@@ -45,7 +45,7 @@ for file_path in file_paths:
         'Microservice': 'kiến trúc vi dịch vụ',
         'microservice': 'kiến trúc vi dịch vụ',
         'dịch vụ vi mô': 'vi dịch vụ',
-
+        
         'Domain - Driven Design': 'thiết kế hướng miền',
         'Domain-Driven Design': 'thiết kế hướng miền',
         'Domain Driven Design': 'thiết kế hướng miền',

@@ -31,7 +31,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về Mapping trong domain driven design
+Trình bày về  Impact Mapping trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
@@ -66,6 +66,7 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
 <!-- Entity : https://ddd-practitioners.com/entity   -->
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
+
 
 <!--!Value -->
 <!-- Factory : https://ddd-practitioners.com/factory -->
@@ -167,21 +168,16 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--  -->
 <!-- Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture   -->
 <!--  -->
+ 
 
 
-<!-- I -->
-
-Identity : https://ddd-practitioners.com/entity-identity
-
-<!-- Impact Mapping*   -->
-
-Infrastructure Service : https://ddd-practitioners.com/infrastructure-service  
+<!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
+<!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!-- Inverse Conway Maneuver*   -->
 <!-- L -->
 
-Layered Architecture : https://ddd-practitioners.com/layered-architecture  
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
 
 <!-- Long-running Transaction*   -->

@@ -35,7 +35,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về    Pattern trong domain driven design
+Trình bày về       Strangler Fig trong domain driven design
  
 
 https://ddd-practitioners.com/home/glossary
@@ -61,6 +61,7 @@ https://ddd-practitioners.com/home/glossary/domain-expert/
 Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ và chung có thể khác nhau ngay cả đối với các doanh nghiệp hoạt động trong cùng một tên miền. Điều này là do các tên miền phụ và vai trò của chúng được xác định theo nhu cầu kinh doanh và bối cảnh cụ thể của mỗi tổ chức. Ví dụ:
 
 <!-- Highlighted Core : https://ddd-practitioners.com/highlighted-core -->
+<!-- Segregated Core : https://ddd-practitioners.com/?page_id=378 -->
 
 <!-- Generic Subdomain : https://ddd-practitioners.com/generic-subdomain -->
 <!-- Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain -->
@@ -114,6 +115,7 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Conformist : https://ddd-practitioners.com/conformist   -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service   -->
+Shared Kernel : https://ddd-practitioners.com/shared-kernel  
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 
 <!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
@@ -132,6 +134,7 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--@Event Sourcing: -->
+<!-- Snapshots : https://ddd-practitioners.com/snapshots   -->
 <!-- Saga : https://ddd-practitioners.com/home/glossary/saga   -->
  <!-- Outbox Pattern -->
 <!-- Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609 -->
@@ -200,14 +203,7 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!--  --> 
  
  
-
-Segregated Core : https://ddd-practitioners.com/?page_id=378
-
-
-Shared Kernel : https://ddd-practitioners.com/shared-kernel  
-Snapshots : https://ddd-practitioners.com/snapshots  
-
-<!-- Strangler Fig*   -->
+ 
 
 State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate  
 Strategic Design : https://ddd-practitioners.com/strategic-design  

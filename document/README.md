@@ -7,12 +7,12 @@
 <!-- - **Mô tả:** Hóa đơn được tạo và quản lý điện tử thay vì truyền thống trên giấy. -->
 
 <!-- Bằng cách sử dụng ngôn ngữ chung như trên, chúng ta có thể tạo ra một mô hình DDD rõ ràng và dễ hiểu, giúp các đội phát triển, quản lý dự án và người dùng hiểu rõ về các yêu cầu và chức năng của hệ thống. -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
 
 Trình bày về     Dependency Inversion Principle     trong domain driven design
 
@@ -22,6 +22,16 @@ https://ddd-practitioners.com/home/glossary
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 
 có thể nêu thêm thôi
+
+Domain : https://ddd-practitioners.com/domain  
+Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design  
+Domain Event : https://ddd-practitioners.com/domain-event  
+
+
+Domain Object : https://ddd-practitioners.com/domain-object  
+Domain Service : https://ddd-practitioners.com/domain-service  
+Domain Storytelling : https://ddd-practitioners.com/?page_id=1005
+
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
 
@@ -91,14 +101,6 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
  
 <!-- *   -->
 
-Domain : https://ddd-practitioners.com/domain  
-Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design  
-Domain Event : https://ddd-practitioners.com/domain-event  
-
-
-Domain Object : https://ddd-practitioners.com/domain-object  
-Domain Service : https://ddd-practitioners.com/domain-service  
-Domain Storytelling : https://ddd-practitioners.com/?page_id=1005
 
 <!-- Dual Write*   -->
 <!-- E -->

@@ -14,7 +14,7 @@
 <!--@  -->
 <!--@  -->
 
-Trình bày về Dual Write trong domain driven design
+Trình bày về   Mapping trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
@@ -40,6 +40,8 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 
 <!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
 <!-- Entity : https://ddd-practitioners.com/entity   -->
+<!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
+
 <!--!Value -->
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
@@ -93,6 +95,25 @@ CQRS chia để thoải mái, chặt chẽ
 Là một nguyên tắc trong DDD, CQRS tách biệt giữa phần xử lý câu lệnh (Command) và phần truy vấn dữ liệu (Query).
 Command đại diện cho các thao tác cập nhật dữ liệu, trong khi Query đại diện cho các thao tác truy vấn dữ liệu.
 
+<!-- Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture   -->
+
+<!-- Event Modeling : https://ddd-practitioners.com/?page_id=994 -->
+
+
+<!-- Event Replay : https://ddd-practitioners.com/?page_id=585 -->
+
+<!-- Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing   -->
+
+<!-- Event Sourcing : https://ddd-practitioners.com/?page_id=581 -->
+
+<!-- Eventual Consistency : https://ddd-practitioners.com/?page_id=419 -->
+
+ 
+
+
+
+
+
 <!-- Change Data Capture: https://en.wikipedia.org/wiki/CAP_theorem -->
 
 <!-- ACID Transaction : https://ddd-practitioners.com/?page_id=415 -->
@@ -121,19 +142,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
-<!--  -->
-
-Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture  
-Entity Identity : https://ddd-practitioners.com/entity-identity  
-Event Modeling : https://ddd-practitioners.com/?page_id=994
-Event Replay : https://ddd-practitioners.com/?page_id=585
-Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing  
-Event Sourcing : https://ddd-practitioners.com/?page_id=581
-
-Eventual Consistency : https://ddd-practitioners.com/?page_id=419
-
-<!-- Example Mapping*   -->
-<!-- F -->
+<!--  --> 
 
 Factory : https://ddd-practitioners.com/factory
 

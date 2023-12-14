@@ -36,7 +36,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@ -->
 <!--@ -->
 
-Trình bày về Big Ball of Mud trong domain driven design
+Trình bày về  Các  mẫu chiến lược (Strategic Patterns)  trong domain driven design
 https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@ -->

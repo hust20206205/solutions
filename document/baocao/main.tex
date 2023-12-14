@@ -5,71 +5,11 @@
 \usetikzlibrary{calc} % tính toán vẽ hình
 \begin{document} % bắt đầu
 
-\begin{titlepage}
-\begin{tikzpicture}[remember picture, overlay]
-\draw [line width = 3pt]
-($ (current page.north west) + (3.0cm, - 2.5cm)$)
-rectangle
-($ (current page.south east) + (- 2.5cm, 2.5cm)$);
-\draw [line width = 0.5pt]
-($ (current page.north west) + (3.1cm, - 2.6cm)$)
-rectangle
-($ (current page.south east) + (- 2.6cm, 2.6cm)$);
-\end{tikzpicture}
-\begin{center}
-\vspace{- 0.4cm}
-\textbf{ĐẠI HỌC BÁCH KHOA HÀ NỘI} \\
-\textbf{VIỆN TOÁN ỨNG DỤNG VÀ TIN HỌC} \\
-\textbf{******}
-\vspace{0.8cm}
-
-\begin{figure}[h]
-\centering
-\includegraphics[scale = .5]{pictures/logoBK.png}
-\end{figure}
-\vspace{0.7cm}
-\textbf{\fontsize{16pt}{30pt}\selectfont {BÁO CÁO ĐỒ ÁN II}} \\
-\vspace{1cm}
-\textbf{\fontsize{20pt}{24pt}\selectfont {ĐỀ TÀI:}} \\
-\textbf{\fontsize{19pt}{24pt}\selectfont {Xây dựng kiến trúc vi dịch vụ cho bài toán hóa đơn điện tử}} \\
-% \textbf{\fontsize{20pt}{24pt}\selectfont {Sử dụng thiết kế hướng miền xây dựng kiến trúc vi dịch vụ cho bài toán hóa đơn điện tử}} \\
-\end{center}
-\vspace{0.7cm}
-
-\hspace{2.4cm}
-\begin{minipage}{0.8\textwidth}
-\textbf{Giảng viên hướng dẫn: TS. Vũ Thành Nam}
-\end{minipage}
-
-\hspace{3cm}
-\begin{minipage}{0.7\textwidth}
-\begin{tabular}{l l l}
-Sinh viên thực hiện & Vũ Văn Nghĩa \\
-Mã số sinh viên & 20206205 \\
-Lớp & Toán Tin 02 - K65 \\
-\end{tabular}
-\end{minipage}
-
-\hspace{2.4cm}
-\begin{center}
-\textbf{\fontsize{20pt}{24pt}\selectfont {Chuyên ngành: Toán Tin}}
-\end{center}
-
-\vspace{0.5cm}
-\begin{center}
-\textbf{Hà Nội, \the\month - \the\year}
-\end{center}
-\end{titlepage}
-
 % % Mục lục
 % \newpage
 % \renewcommand*\contentsname{\centering MỤC LỤC}
 % \tableofcontents
-\input{contents/minipage}
 
-
-\subsubsection{xxxxxxx}
 \input{contents/_a.tex}
-
 
 \end{document} % kết thúc

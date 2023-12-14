@@ -23,6 +23,9 @@ output = Convert.VarSnakeCase(input)
 ten_file_nguon = r"../contents/_a.tex"
 ten_file_dich = os.path.join("../contents", f"{output}"+".tex")
 shutil.copy(ten_file_nguon, ten_file_dich)
+# xóa file
+with open(ten_file_nguon, 'w') as file:
+    file.write('')
 # return văn bản
 output = "\n\\input{contents/" + output + "}\n\n\n" 
 # output += "\\section{xxxxxxx}\n" 

@@ -14,7 +14,7 @@
 <!--  -->
 <!--  -->
 
-Trình bày về Consumer          trong domain driven design
+Trình bày về     Dependency Inversion Principle     trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
@@ -22,6 +22,11 @@ https://ddd-practitioners.com/home/glossary
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 
 có thể nêu thêm thôi
+
+<!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
+
+<!-- Core Domain : https://ddd-practitioners.com/?page_id=380 -->
+Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ và chung có thể khác nhau ngay cả đối với các doanh nghiệp hoạt động trong cùng một tên miền. Điều này là do các tên miền phụ và vai trò của chúng được xác định theo nhu cầu kinh doanh và bối cảnh cụ thể của mỗi tổ chức. Ví dụ: 
 
 <!--!dịch vụ miền -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
@@ -37,13 +42,17 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 <!-- CI/CD -->
 
 <!-- Bounded Context : https://ddd-practitioners.com/bounded-context   -->
+. Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận cụ thể trong tổ chức. Sự tương ứng này có thể giúp giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các đội ngũ.
 
 Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
 
-<!-- Context Mapping : https://ddd-practitioners.com/context-map -->
-
-
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship   -->
+
+<!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+Hữu ích cho việc hiểu kiến ​​trúc tổng thể
+
+<!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier   -->
+
 <!-- Conformist : https://ddd-practitioners.com/conformist   -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 
@@ -53,7 +62,8 @@ Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc v
 <!--@saga -->
 <!--@CQRS -->
 <!--@event -->
-
+<!-- CQRS : https://ddd-practitioners.com/?page_id=574 -->
+CQRS chia để thoải mái, chặt chẽ
 <!-- Change Data Capture: https://en.wikipedia.org/wiki/CAP_theorem -->
 
 <!-- ACID Transaction : https://ddd-practitioners.com/?page_id=415 -->
@@ -78,23 +88,14 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
 <!--!========================================================== -->
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
-
  
-<!-- Conway’s Law*   -->
-
-Core Domain : https://ddd-practitioners.com/?page_id=380
-CQRS : https://ddd-practitioners.com/?page_id=574
-Customer/Supplier : https://ddd-practitioners.com/customer-supplier  
-CUPID : https://ddd-practitioners.com/home/glossary/cupid
-
-<!-- D -->
-<!-- Dependency Inversion Principle*   -->
-<!-- Distributed System*   -->
+<!-- *   -->
 
 Domain : https://ddd-practitioners.com/domain  
 Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design  
 Domain Event : https://ddd-practitioners.com/domain-event  
-Domain Model : https://ddd-practitioners.com/domain-model  
+
+
 Domain Object : https://ddd-practitioners.com/domain-object  
 Domain Service : https://ddd-practitioners.com/domain-service  
 Domain Storytelling : https://ddd-practitioners.com/?page_id=1005

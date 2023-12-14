@@ -18,23 +18,6 @@ hợp gốc bị phá hủy.
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 
-<!--@Bản đồ bối cảnh (Context Maps)-->
-
-Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác quan hệ với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ. Nếu không thì các dịch vụ sẽ mất khả năng hoạt động độc lập, tính nhất quán và tính linh hoạt.
-=> Do đó, các nhóm phải nỗ lực để ghi lại mối quan hệ giữa các quan hệ thông qua việc sử dụng bản đồ bối cảnh.
-
-Bản đồ bối cảnh (Context Maps) là sự thể hiện trực quan của hệ thống, thể hiện các thành phần, liên kết và mối quan hệ.
-
-![](pictures/BanDoBoiCanh/image.png)
-
-<!--$VD: Bản đồ bối cảnh-->
-<!--Lợi ích của Bản đồ bối cảnh:-->
-
-Giúp thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
-Giúp nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .
-Giúp các nhóm đánh giá mức độ hợp tác với các nhóm khác.
-Giúp sàng lọc các liên hệ giới hạn và các mô hình.
-Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
 
 <!--@Mối quan hệ đối xứng (Symmetric Relationship)-->
 <!--@Mô hình riêng biệt (Separate Ways)-->

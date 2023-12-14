@@ -45,10 +45,6 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- Context Mapping : https://ddd-practitioners.com/context-map -->
-[[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.
-
-Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 <!-- Separate Ways : https://ddd-practitioners.com/separate-ways -->
 <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->

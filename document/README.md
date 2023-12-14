@@ -268,3 +268,11 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 [[Unification]] The internal consistency of a model such that each term is unambiguous and no rules contradict.
 
 [[Whole Value]] An object that models a single, complete concept.
+
+
+
+
+![Alt text](image.png)
+
+
+![Alt text](image-1.png)

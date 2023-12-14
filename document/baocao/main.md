@@ -9,7 +9,7 @@ tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 được tạo khi tập hợp gốc được tạo và bị hủy khi tập
 hợp gốc bị phá hủy.
 
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta  
+Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->

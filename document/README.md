@@ -45,19 +45,12 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
-[[Context]] The setting in which a word or statement appears that determines its meaning. See [[Bounded Context]].
-
-Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận cụ thể trong tổ chức. Sự tương ứng này có thể giúp giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các đội ngũ.
-
-Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
-
-<!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
+<!-- CI/CD -->
+local nên không có CD
 
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
 <!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
 
-<!-- CI/CD -->
 
 <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
 [[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.

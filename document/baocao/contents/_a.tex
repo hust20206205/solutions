@@ -30,3 +30,88 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 
 %!<! - - $VD: - - >
 %!<! - - Hướng dẫn 5/10 - - >
+
+
+
+% <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
+% <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
+
+Chuyển đến nội dung
+Đối với người hành nghề bởi người hành nghề
+Tìm kiếm
+Thiết kế hướng miền: Hướng dẫn dành cho người thực hành
+Câu hỏi thường gặp
+Bảng chú giải
+Về chúng tôi
+Cuốn sách của chúng tôi!
+Trang chủTrang chủBảng chú giảiBối cảnh bị ràng buộc
+Bối cảnh bị ràng buộc
+Trong thiết kế hướng miền (DDD), bối cảnh giới hạn là ranh giới xác định phạm vi áp dụng một mô hình nhất định. Nó được sử dụng để tách biệt các mô hình khác nhau và tránh nhầm lẫn. Ý tưởng đằng sau bối cảnh giới hạn là tạo ra các mô hình khác nhau cho các khía cạnh khác nhau của miền và xác định rõ ràng ranh giới giữa chúng, sao cho các thuật ngữ giống nhau có thể được sử dụng với ý nghĩa khác nhau trong các ngữ cảnh khác nhau.
+
+Ví dụ: một khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
+
+Bối cảnh bị ràng buộc được sử dụng để tạo bản đồ bối cảnh, hiển thị mối quan hệ giữa các mô hình khác nhau và cách chúng tương tác với nhau. Nó cũng giúp xác định các khu vực của miền cần có các mô hình khác nhau và xác định ranh giới giữa chúng.
+
+Bối cảnh bị ràng buộc cũng giúp cải thiện giao tiếp và cộng tác giữa các nhà phát triển, các bên liên quan và chuyên gia tên miền bằng cách cung cấp ngôn ngữ chung và hiểu biết chung về tên miền. Nó cũng thúc đẩy tính mô đun, khả năng bảo trì và khả năng thích ứng của mã.
+
+Khi tạo bối cảnh giới hạn, điều quan trọng là xác định bối cảnh trong đó mô hình được áp dụng, xác định ranh giới của bối cảnh, tạo mô hình phù hợp với mô hình miền tổng thể và truyền đạt bối cảnh tới các bối cảnh khác và miền tổng thể.
+
+
+Thể loại
+
+Phân tích
+điều cơ bản
+ddd
+thiết kế
+câu hỏi thường gặp
+Khả năng lãnh đạo
+hoa văn
+Blog tại WordPress.com.
+
+% <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
+% <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
+[[Context]] The setting in which a word or statement appears that determines its meaning. See [[Bounded Context]].
+
+Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận cụ thể trong tổ chức. Sự tương ứng này có thể giúp giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các đội ngũ.
+
+Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
+
+% <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
+% <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
+
+Chuyển đến nội dung
+Đối với người hành nghề bởi người hành nghề
+Tìm kiếm
+Thiết kế hướng miền: Hướng dẫn dành cho người thực hành
+Câu hỏi thường gặp
+Bảng chú giải
+Về chúng tôi
+Cuốn sách của chúng tôi!
+Trang chủTrang chủBảng chú giảiBối cảnh bị ràng buộcMối quan hệ bối cảnh bị ràng buộc
+Mối quan hệ bối cảnh bị ràng buộc
+Trong Thiết kế hướng miền (DDD), bối cảnh giới hạn là ranh giới trong đó một mô hình miền cụ thể tồn tại và hợp lệ. Các ngữ cảnh bị giới hạn giúp xác định phạm vi của mô hình miền và thiết lập sự hiểu biết rõ ràng về ngôn ngữ được sử dụng trong ngữ cảnh đó.
+
+Các bối cảnh bị ràng buộc phải độc lập trong bối cảnh riêng của chúng, nhưng chúng vẫn có thể cần tương tác với các bối cảnh bị ràng buộc khác để hoàn thành trách nhiệm của chính chúng. Mặc dù chúng độc lập về mặt mô hình nhưng chúng có thể cần giao tiếp với các bối cảnh bị giới hạn khác để trao đổi thông tin hoặc cộng tác trong một số nhiệm vụ nhất định. Vì vậy các bối cảnh bị giới hạn có thể có mối quan hệ với nhau. Những mối quan hệ này rất quan trọng vì chúng giúp xác định sự tương tác giữa các phần khác nhau của hệ thống, cũng như thiết lập ranh giới và trách nhiệm giữa các nhóm khác nhau làm việc trên cùng một hệ thống. Có một số loại mối quan hệ bối cảnh bị ràng buộc, bao gồm:
+
+Quan hệ đối tác : Đây là mối quan hệ trong đó hai hoặc nhiều bối cảnh bị ràng buộc cộng tác và chia sẻ thông tin. Mối quan hệ hợp tác có thể đạt được thông qua một sự kiện tích hợp hoặc bằng cách gọi một dịch vụ.
+Hạt nhân được chia sẻ : Trong mối quan hệ này, hai bối cảnh bị chặn chia sẻ một lược đồ mô hình, mã hoặc cơ sở dữ liệu chung. Các thành phần được chia sẻ phải ổn định, hoàn thiện và được cả hai nhóm đồng ý. Những thay đổi được thực hiện đối với các thành phần dùng chung cần phải được phối hợp cẩn thận để đảm bảo chúng không phá vỡ chức năng của bối cảnh khác.
+Khách hàng-Nhà cung cấp : Đây là mối quan hệ trong đó một bối cảnh bị giới hạn cung cấp dịch vụ hoặc dữ liệu cho bối cảnh khác. Bối cảnh khách hàng dựa vào bối cảnh nhà cung cấp để có những khả năng hoặc dữ liệu nhất định. Những thay đổi trong bối cảnh nhà cung cấp có thể tác động đến bối cảnh khách hàng, vì vậy điều quan trọng là phải quản lý mối quan hệ này một cách cẩn thận.
+Người theo chủ nghĩa tuân thủ : Mối quan hệ này tồn tại khi một bối cảnh bị giới hạn tuân theo cùng một ngôn ngữ và khái niệm phổ biến như một bối cảnh bị giới hạn khác. Điều này đảm bảo rằng giao tiếp giữa hai bối cảnh là rõ ràng và rõ ràng.
+Lớp chống tham nhũng : Đây là mối quan hệ trong đó ngữ cảnh được giới hạn sử dụng một lớp để dịch giữa ngôn ngữ của chính nó và ngôn ngữ của ngữ cảnh bị giới hạn khác. Điều này cho phép hai ngữ cảnh giao tiếp với nhau ngay cả khi chúng có từ vựng hoặc mô hình khác nhau.
+Dịch vụ máy chủ mở : Mối quan hệ này xảy ra khi một bối cảnh bị giới hạn hiển thị một API công khai, mở mà các ngữ cảnh khác có thể sử dụng. Điều này cho phép các ngữ cảnh khác tận dụng chức năng của ngữ cảnh máy chủ theo cách được tiêu chuẩn hóa.
+Ngôn ngữ được xuất bản : Trong mối quan hệ này, một ngữ cảnh giới hạn sẽ xuất bản từ vựng và mô hình của nó cho các ngữ cảnh khác sử dụng. Điều này hữu ích khi nhiều bối cảnh cần cộng tác nhưng không muốn tích hợp trực tiếp. Ngôn ngữ được xuất bản đảm bảo rằng ý nghĩa của các thuật ngữ nhất quán trong mọi ngữ cảnh.
+Các cách riêng biệt : Mối quan hệ này đề cập đến tình huống trong đó hai hoặc nhiều bối cảnh bị ràng buộc không còn có mối quan hệ với nhau và các nhóm chịu trách nhiệm về chúng chọn làm việc độc lập.
+
+Thể loại
+
+Phân tích
+điều cơ bản
+ddd
+thiết kế
+câu hỏi thường gặp
+Khả năng lãnh đạo
+hoa văn
+Blog tại WordPress.com.
+
+% <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
+% <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->

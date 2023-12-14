@@ -35,16 +35,8 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về       Strangler Fig trong domain driven design
- 
+Trình bày về Strangler Fig trong domain driven design
 
-https://ddd-practitioners.com/home/glossary
-
-<!--@Thiết kế hướng tên miền -->
-
-DDD là một phương pháp thiết kế phần mềm tập trung vào việc hiểu rõ và mô hình hóa ngữ cảnh kinh doanh trong các hệ thống phần mềm.
-
-<!-- Domain-Driven Design : https://ddd-practitioners.com/domain-driven-design   -->
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 
 có thể nêu thêm thôi
@@ -69,8 +61,6 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
 <!-- Entity : https://ddd-practitioners.com/entity   -->
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
- 
-
 
 <!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object   -->
 <!-- Service : https://ddd-practitioners.com/service -->
@@ -82,8 +72,6 @@ https://refactoring.guru/design-patterns/factory-method
 https://refactoring.guru/design-patterns/abstract-factory
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
-
-
 
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
 
@@ -108,11 +96,8 @@ Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc v
 
 Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
-
-
 <!-- Separate Ways : https://ddd-practitioners.com/separate-ways   -->
 <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier   -->
-
 
 <!-- Partnership : https://ddd-practitioners.com/partnership   -->
 
@@ -120,13 +105,16 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service   -->
-Shared Kernel : https://ddd-practitioners.com/shared-kernel  
+
+Shared Kernel : https://ddd-practitioners.com/shared-kernel
+
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 
 <!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
-State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate  
-<!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
 
+State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate
+
+<!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
 
 <!--! factor  -->
 <!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
@@ -137,14 +125,10 @@ State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 
-
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
 <!-- Strategic Design : https://ddd-practitioners.com/strategic-design   -->
 
-
 <!-- Tactical Design : https://ddd-practitioners.com/?page_id=453 -->
-
-
 
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->
@@ -216,15 +200,9 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!--!========================================================== -->
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
-<!--  --> 
- 
- 
- 
-
-
- 
 <!--  -->
 
+<!--  -->
 
 <!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
 

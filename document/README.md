@@ -72,8 +72,6 @@ https://refactoring.guru/design-patterns/abstract-factory
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
 
-<!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
-<!-- Application Service : https://ddd-practitioners.com/application-service -->
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
 
 là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
@@ -108,9 +106,12 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 
 
+<!-- Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture   -->
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
 <!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->
 
+<!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
+<!-- Application Service : https://ddd-practitioners.com/application-service -->
 
 
 <!--@saga -->

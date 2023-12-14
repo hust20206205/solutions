@@ -20,8 +20,7 @@
 \usepackage{listing}
 % \renewcommand*{\listlistingname}{Danh sách mã nguồn}
 \DeclareCaptionLabelFormat{code_caption}{{Mã nguồn #2}}
-\captionsetup[listing]{labelformat=code_caption}
-
+\captionsetup*[listing]{labelformat = code_caption}
 
 % Sử dụng gói minted để đính kèm và định dạng mã nguồn
 \usepackage{minted} %! code_python
@@ -43,49 +42,29 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \includepdf[pages = -]{contents/bao_cao_tien_do_1.pdf}
 % \includepdf[pages = -]{contents/bao_cao_tien_do_2.pdf}
 
-\input{contents/muc_luc}
-\input{contents/loi_cam_on}
-\input{contents/loi_mo_dau}
-\input{contents/tom_tat_noi_dung_do_an}
-\input{contents/danh_gia_va_thao_luan}
+% \input{contents/muc_luc}
+% \input{contents/loi_cam_on}
+% \input{contents/loi_mo_dau}
+% \input{contents/tom_tat_noi_dung_do_an}
+% \input{contents/danh_gia_va_thao_luan}
 
-\input{contents/danh_sach_bang}
-\input{contents/danh_sach_hinh_anh}
-\input{contents/danh_sach_ma_nguon}
+% \input{contents/danh_sach_bang}
+% \input{contents/danh_sach_hinh_anh}
+% \input{contents/danh_sach_ma_nguon}
 
-% \subsubsection{xxxxxxx}
+\subsubsection{xxxxxxx}
 % \input{contents/_a.tex}
 
-\begin{listing}[h]
-\centering
-\inputminted{javascript}{code/hello.js}
-\caption{MoTaChoDoanMaJavascript}
-\label{code:nghia3}
-\end{listing}
 
-\begin{figure}[h]
-\centering
-\includegraphics[height = 3cm]{pictures/logoBK.png}
-\caption{ViDuHinhAnhTheoChieuDoc} %!nghia
-\label{pictures:nghia2} %!nghia
-\end{figure}
 
-\begin{table}[ht]
-\centering
-\caption{Một ví dụ về bảng}
-\begin{tabular}{|c|c|c|}
-\hline
-\textbf{STT} & \textbf{Tên} & \textbf{Điểm} \\
-\hline
-1 & Alice & 90 \\
-2 & Bob & 85 \\
-3 & Charlie & 92 \\
-\hline
-\end{tabular}
-\label{table:example}
-\end{table}
+
+
+
+
 
 \end{document} % kết thúc
+
+
 
 % \section{Danh sách các cụm từ viết tắt}
 % \input{contents/danh_sach_cac_cum_tu_viet_tat}

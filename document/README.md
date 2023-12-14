@@ -43,6 +43,9 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
 
 <!--!Value -->
+<!-- Factory : https://ddd-practitioners.com/factory -->
+https://refactoring.guru/design-patterns/factory-method
+https://refactoring.guru/design-patterns/abstract-factory
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
 
@@ -142,15 +145,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
-<!--  --> 
-
-Factory : https://ddd-practitioners.com/factory
-
-<!-- Functional Programming*   -->
-<!-- G -->
-
-<!-- H -->
-
+<!--  -->  
 Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture  
 Highlighted Core : https://ddd-practitioners.com/highlighted-core
 

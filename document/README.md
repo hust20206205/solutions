@@ -44,6 +44,7 @@ Trình bày về Big Ball of Mud trong domain driven design
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 <!-- có thể nêu thêm thôi -->
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
+<!-- [[Model]] A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain. -->
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud -->
 
 là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
@@ -55,41 +56,25 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
-
-<!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
-
-<!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
-
-<!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
-
-<!-- [[Strategic Design]] Modeling and design decisions that apply to large parts of the system. Such decisions affect the entire project and have to be decided at team level. -->
-
-<!-- [[Strategic Design]] Modeling and design decisions that apply to large parts of the system. Such decisions affect the entire project and have to be decided at team level. -->
-
-<!-- [[Factory]] A mechanism for encapsulating complex creation logic and abstracting the type of a created object for the sake of a client. -->
-
-<!-- [[Repository]] A mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects. -->
-
-<!-- [[Entity]] An object fundamentally defined not by its attributes, but by a thread of continuity and identity. -->
-
-
-<!-- [[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]]. -->
-
-
-<!-- [[Model]] A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain. -->
-
-
-
 <!-- [[Core Domain]] The distinctive part of the model, central to the user’s goals, that differentiates the application and makes it valuable. -->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+
+
+
+
+
+
+
+
+
 
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!-- Strategic Design : https://ddd-practitioners.com/strategic-design -->
+<!-- [[Strategic Design]] Modeling and design decisions that apply to large parts of the system. Such decisions affect the entire project and have to be decided at team level. -->
 
 <!-- Tactical Design : https://ddd-practitioners.com/?page_id=453 -->
 
@@ -99,21 +84,28 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 
 <!-- Domain Object : https://ddd-practitioners.com/domain-object -->
 <!-- Entity : https://ddd-practitioners.com/entity -->
+<!-- [[Entity]] An object fundamentally defined not by its attributes, but by a thread of continuity and identity. -->
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
 <!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object -->
+<!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
 <!-- Service : https://ddd-practitioners.com/service -->
+<!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
+
 <!-- Quản lí vòng đời -->
+<!-- [[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]]. -->
 <!-- Aggregate: https://ddd-practitioners.com/home/glossary/aggregate/ -->
+<!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
 <!-- State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate -->
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
 <!-- Factory : https://ddd-practitioners.com/factory -->
+<!-- [[Factory]] A mechanism for encapsulating complex creation logic and abstracting the type of a created object for the sake of a client. -->
 
 https://refactoring.guru/design-patterns/factory-method
 https://refactoring.guru/design-patterns/abstract-factory
 https://culttt.com/2014/12/24/factories-domain-driven-design
 
 <!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
-
+<!-- [[Repository]] A mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects. -->
 <!-- Module : https://ddd-practitioners.com/?page_id=618 -->
 
 <!-- CI/CD -->
@@ -138,6 +130,8 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Conformist : https://ddd-practitioners.com/conformist -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
+[[Test-Driven Development]] TDD is a lightweight programming methodology that emphasizes fast, incremental development and especially writing tests before writing code. Ideally these follow one another in cycles measured in minutes. (see full definition under [[Test-Driven Development]] topic)
+
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->
 
 <!-- Shared Kernel : https://ddd-practitioners.com/shared-kernel -->
@@ -145,13 +139,35 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
+<!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
+
 <!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service -->
 
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
+<!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
 
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--@Event Sourcing: -->
@@ -226,7 +242,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!-- -->
 
-<!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
 
 [[Analysis Pattern]] A group of concepts that represents a common construction in business modeling. It may be relevant to only one domain or may span many domains (Fowler 1997, p. 8).
 
@@ -246,7 +261,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.
 
-
 [[Declarative Design]] A form of programming in which a precise description of properties actually controls the software. An executable specification.
 
 [[Design Pattern]] A description of communicating objects and classes that are customized to solve a general design problem in a particular context. (Gamma et al. 1995, p. 3)
@@ -254,8 +268,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 [[Distillation]] A process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful. In software design, the abstraction of key aspects in a model, or the partitioning of a larger system to bring the CORE DOMAIN to the fore.
 
 <!-- [[Domain Layer]] That portion of the design and implementation responsible for domain logic within a LAYERED ARCHITECTURE. The domain layer is where the software expression of the domain model lives. -->
-
-
 
 [[Function]] An operation that computes and returns a result without observable side effects.
 
@@ -269,16 +281,11 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Large-Scale Structure]] A set of high-level concepts, rules, or both that establishes a pattern of design for an entire system. A language that allows the system to be discussed and understood in broad strokes.
 
-
-
-
 <!-- [[Model-Driven Design]] A design in which some subset of software elements corresponds closely to elements of a model. Also, a process of codeveloping a model and an implementation that stay aligned with each other. -->
 
 [[Modeling Paradigm]] A particular style of carving out concepts in a domain, combined with tools to create software analogs of those concepts (for example, object-oriented programming and logic programming).
 
-
 [[Responsibility]] An obligation to perform a task or know information (Wirfs-Brock et al. 2003, p. 3).
-
 
 [[Side Effect]] Any observable change of state resulting from an operation, whether intentional or not, even a deliberate update.
 
@@ -288,13 +295,9 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Stateless]] The property of a design element that allows a client to use any of its operations without regard to the element’s history. A stateless element may use information that is accessible globally and may even change that global information (that is, it may have side effects) but holds no private state that affects its behavior.
 
-
 [[Supple Design]] A design that puts the power inherent in a deep model into the hands of a client developer to make clear, flexible expressions that give expected results robustly. Equally important, it leverages that same deep model to make the design itself easy for the implementer to mold and reshape to accommodate new insight.
 
-
 [[Unification]] The internal consistency of a model such that each term is unambiguous and no rules contradict.
-
-[[Test-Driven Development]] TDD is a lightweight programming methodology that emphasizes fast, incremental development and especially writing tests before writing code. Ideally these follow one another in cycles measured in minutes. (see full definition under [[Test-Driven Development]] topic)
 
 
 [[Whole Value]] An object that models a single, complete concept.

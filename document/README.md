@@ -1,3 +1,6 @@
+tối nay phair xong ddd 
+nếu có thể thì làm cái nghiệp vụ
+<!--  -->
 <!-- Hãy sử dụng Ngôn ngữ chung (Ubiquitous Language) trong domain driven design (DDD) với nội dung nghiệp vụ kinh doanh sau: -->
 
 <!-- 1. **Khách hàng (Customer):** -->

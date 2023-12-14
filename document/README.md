@@ -269,10 +269,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Whole Value]] An object that models a single, complete concept.
 
+![Alt text](2cai.png)
 
-
-
-![Alt text](image.png)
-
-
-![Alt text](image-1.png)
+![Alt text](cu_hanh_onion.png)

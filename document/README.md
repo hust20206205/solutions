@@ -43,43 +43,8 @@ Trình bày về Các mẫu chiến lược (Strategic Patterns) trong domain dr
 https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@ -->
-<!--@ -->
-
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- Domain Object : https://ddd-practitioners.com/domain-object -->
-<!-- Entity : https://ddd-practitioners.com/entity -->
-<!-- [[Entity]] An object fundamentally defined not by its attributes, but by a thread of continuity and identity. -->
-<!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
-<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object -->
-<!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
-<!-- Service : https://ddd-practitioners.com/service -->
-<!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
-
-<!-- Quản lí vòng đời -->
-<!-- [[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]]. -->
-<!-- Aggregate: https://ddd-practitioners.com/home/glossary/aggregate/ -->
-<!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
-<!-- State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate -->
-<!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
-<!-- Factory : https://ddd-practitioners.com/factory -->
-<!-- [[Factory]] A mechanism for encapsulating complex creation logic and abstracting the type of a created object for the sake of a client. -->
-
-https://refactoring.guru/design-patterns/factory-method
-https://refactoring.guru/design-patterns/abstract-factory
-https://culttt.com/2014/12/24/factories-domain-driven-design
-
-<!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
-<!-- [[Repository]] A mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects. -->
-<!-- Module : https://ddd-practitioners.com/?page_id=618 -->
-
-<!-- CI/CD -->
 
 <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
 [[Context]] The setting in which a word or statement appears that determines its meaning. See [[Bounded Context]].
@@ -89,6 +54,18 @@ Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận c�
 Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
 
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
+
+
+
+
+
+
+
+<!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
+<!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
+
+
+<!-- CI/CD -->
 
 <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
 [[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.
@@ -111,16 +88,43 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 
+<!--@============================================== -->
+<!-- Domain Object : https://ddd-practitioners.com/domain-object -->
+<!-- Entity : https://ddd-practitioners.com/entity -->
+<!-- [[Entity]] An object fundamentally defined not by its attributes, but by a thread of continuity and identity. -->
+<!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
+<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object -->
+<!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
+<!-- Service : https://ddd-practitioners.com/service -->
+<!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
+
+<!-- Quản lí vòng đời -->
+<!-- [[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]]. -->
+<!-- Aggregate: https://ddd-practitioners.com/home/glossary/aggregate/ -->
+<!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
+<!-- State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate -->
+<!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
+<!-- Factory : https://ddd-practitioners.com/factory -->
+<!-- [[Factory]] A mechanism for encapsulating complex creation logic and abstracting the type of a created object for the sake of a client. -->
+https://refactoring.guru/design-patterns/factory-method
+https://refactoring.guru/design-patterns/abstract-factory
+https://culttt.com/2014/12/24/factories-domain-driven-design
+
+<!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
+<!-- [[Repository]] A mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects. -->
+
+<!-- Module : https://ddd-practitioners.com/?page_id=618 -->
+
+
+
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
 <!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
 
-<!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service -->
 
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
+<!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service -->
 
-<!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
-<!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
 
 <!--@saga -->
 <!--@saga -->

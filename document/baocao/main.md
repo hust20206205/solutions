@@ -9,34 +9,7 @@ tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 được tạo khi tập hợp gốc được tạo và bị hủy khi tập
 hợp gốc bị phá hủy.
 
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!--Thiết kế hướng miền cung cấp 2 loại mẫu:-->
-
-Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.
-Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệm sang các thiết kế dịch vụ và ứng dụng phần mềm.
-
+Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta  
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
@@ -44,35 +17,6 @@ Các mẫu kỹ thuật (Tactical Patterns): chuyển các mô hình khái niệ
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
 <!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-
-![](pictures/CacMoHinhChienLuoc/0_CacMoHinhChienLuoc.png)
-
-<!--Sơ đồ về các mô hình chiến lược-->
-<!--$ Vẽ lại sau:-->
-<!--Bối cảnh giới hạn (Bounded Context)-->
-<!--[Giữ cho mô hình thống nhất] Tích hợp Liên tục (Continuous Integration)-->
-<!--[Tính nhất quán trong trao đổi] Ngôn ngữ chung (Ubiquitous Language)-->
-
-<!--[Tổng quan mối quan hệ] Bản đồ bối cảnh (Context Maps)-->
-
-<!--Symmetric Relationship: Separate ways, Shared Kernel-->
-<!--Asymmetric Relationship: Customer-Supplier, Conformist, Anti Corruption Layer-->
-<!---->
-
-<!--One-to-Many Relationship: Open Host Service, Published Language-->
-
-<!--dịch và cách ly đơn phương với-->
-<!--[ lớp ] lớp (Context Maps)-->
-<!--"Bản đồ bối cảnh dịch chuyển và cách ly một cách đơn phương để tạo thành cấu trúc lớp."-->
-<!--Tách biệt-->
-
-<!--$ Vẽ lại sau:-->
 
 <!--@Bối cảnh giới hạn (Bounded Context)-->
 

@@ -61,6 +61,21 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!-- Strategic Design : https://ddd-practitioners.com/strategic-design -->
+
+<!-- Tactical Design : https://ddd-practitioners.com/?page_id=453 -->
+
+% Hai vấn đề cốt lõi được giải quyết bằng thiết kế hướng miền:
+% 1. Thiết kế, phân chia cơ cấu doanh nghiệp như thế nào cho hợp lý?
+% 2. Kiến trúc kỹ thuật có phù hợp với kiến trúc kinh doanh không?
+
+
+
+
+
+
+
+
 <!-- Domain Object : https://ddd-practitioners.com/domain-object -->
 <!-- Entity : https://ddd-practitioners.com/entity -->
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
@@ -115,9 +130,6 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
-<!-- Strategic Design : https://ddd-practitioners.com/strategic-design -->
-
-<!-- Tactical Design : https://ddd-practitioners.com/?page_id=453 -->
 
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->

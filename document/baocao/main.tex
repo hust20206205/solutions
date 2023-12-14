@@ -6,8 +6,6 @@
 \usepackage{graphicx} % hình ảnh
 \usepackage{pdfpages} % thêm file pdf bao_cao_tien_do
 
-
-
 \begin{document} % bắt đầu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % \input{contents/trang_bia}
@@ -21,32 +19,48 @@
 % \input{contents/tom_tat_noi_dung_do_an}
 % \input{contents/danh_gia_va_thao_luan}
 
-
 \input{contents/danh_sach_bang}
 
+\input{contents/danh_sach_hinh_anh}
 
-% \subsubsection{xxxxxxx}
-% \input{contents/_a.tex}
+ 
+
+
+
+
+
+
+ 
+\begin{figure}[h]  
+\centering
+\includegraphics[height=3cm]{pictures/logoBK.png}
+\caption{ViDuHinhAnhTheoChieuDoc} %!nghia
+\label{pictures:nghia2} %!nghia
+\end{figure} 
+
+
 
 
 
 \begin{table}[ht]
-    \centering
-    \caption{Một ví dụ về bảng}
-    \begin{tabular}{|c|c|c|}
-        \hline
-        \textbf{STT} & \textbf{Tên} & \textbf{Điểm} \\
-        \hline
-        1            & Alice        & 90            \\
-        2            & Bob          & 85            \\
-        3            & Charlie      & 92            \\
-        \hline
-    \end{tabular}
-    \label{table:example}
+\centering
+\caption{Một ví dụ về bảng}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{STT} & \textbf{Tên} & \textbf{Điểm} \\
+\hline
+1 & Alice & 90 \\
+2 & Bob & 85 \\
+3 & Charlie & 92 \\
+\hline
+\end{tabular}
+\label{table:example}
 \end{table}
+
+
+
 \end{document} % kết thúc
 
-% \section{Danh sách hình ảnh}
 % \section{Danh sách mã nguồn}
 
 % \section{Danh sách các cụm từ viết tắt}
@@ -54,7 +68,6 @@
 
 % \section{Danh sách các thuật ngữ}
 % \input{contents/danh_sach_cac_thuat_ngu}
-
 
 % \subsubsection{xxxxxxx}
 % \input{contents/_a.tex}

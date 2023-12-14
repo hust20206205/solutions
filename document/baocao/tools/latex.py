@@ -8,9 +8,9 @@ input = pyperclip.paste()
 match = re.search(r'\{([^}]+)\}', input)
 if match:
     input = match.group(1)
-    print(input)
 else:
     print("No match found.")
+print(input)
 input = input.replace("(", "")
 input = input.replace(")", "")
 input = input.replace("/", "")
@@ -18,6 +18,7 @@ input = input.replace("-", "")
 input = input.replace("%", "")
 while "  " in input:
     input = input.replace("  ", " ")
+print(input)
 output = Convert.VarSnakeCase(input)
 # sao chép file
 ten_file_nguon = r"../contents/_a.tex"

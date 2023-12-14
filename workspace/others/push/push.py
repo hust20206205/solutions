@@ -21,14 +21,11 @@ MyClose.Terminal()
 # from modules.MyChrome import MyChrome
 # MyChrome("https://github.com/vvn20206205/test")
 # MyChrome()
-latex_folder = os.getcwd()
-file_paths = glob.glob(os.path.join(latex_folder, f'**/*.tex'), recursive=True)
-for file_path in file_paths:
-    # print(file_path)
-    with open(file_path, 'r', encoding="utf-8") as file:
-        contents = file.read()
+folder = os.getcwd()
+# 
 
-    replacements = {
+
+replacements = {
         'Chuyển đến nội dung\nĐối với người hành nghề bởi người hành nghề\nTìm kiếm\nThiết kế hướng miền: Hướng dẫn dành cho người thực hành\nCâu hỏi thường gặp\nBảng chú giải\nVề chúng tôi\nCuốn sách của chúng tôi!': '',
 
 
@@ -126,7 +123,12 @@ for file_path in file_paths:
         
 
     }
-
+# 
+file_paths = glob.glob(os.path.join(folder, f'**/*.tex'), recursive=True)
+for file_path in file_paths:
+    # print(file_path)
+    with open(file_path, 'r', encoding="utf-8") as file:
+        contents = file.read()
     for key, value in replacements.items():
         value = f"  {value}  "
         contents = contents.replace(key, value)
@@ -168,10 +170,27 @@ for file_path in file_paths:
         file.write(contents)
 
 
-#
-#
-#
-#
+# 
+file_paths = glob.glob(os.path.join(folder, f'**/*.md'), recursive=True)
+for file_path in file_paths:
+    # print(file_path)
+    with open(file_path, 'r', encoding="utf-8") as file:
+        contents = file.read()
+
+   
+
+    for key, value in replacements.items():
+        value = f"  {value}  "
+        contents = contents.replace(key, value)
+ 
+    while '  ' in contents:
+        contents = contents.replace('  ', ' ')        
+    contents = '\n'.join(line.strip() for line in contents.split('\n'))
+    while "\n\n\n" in contents:
+        contents = contents.replace("\n\n\n", "\n\n")
+    contents = contents.lstrip('\n')
+    with open(file_path, 'w', encoding="utf-8") as file:
+        file.write(contents) 
 
 
 # # https://www.udemy.com/course/domain-driven-design-and-microservices

@@ -7,11 +7,11 @@
 <!-- - **Mô tả:** Hóa đơn được tạo và quản lý điện tử thay vì truyền thống trên giấy. -->
 
 <!-- Bằng cách sử dụng ngôn ngữ chung như trên, chúng ta có thể tạo ra một mô hình DDD rõ ràng và dễ hiểu, giúp các đội phát triển, quản lý dự án và người dùng hiểu rõ về các yêu cầu và chức năng của hệ thống. -->
-<!--@  -->
-<!--@  -->
+<!--@ -->
+<!--@ -->
 
-<!--@  -->
-<!--@  -->
+<!--@ -->
+<!--@ -->
 
 https://viblo.asia/p/domain-driven-design-phan-2-MgNeWoZAeYx
 
@@ -29,22 +29,22 @@ https://culttt.com/2015/01/07/service-oriented-architecture
 https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs
 https://culttt.com/2015/11/11/what-is-active-model
 
-<!--@  -->
-<!--@  -->
-<!--@  -->
-<!--@  -->
-<!--@  -->
-<!--@  -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
 
 Trình bày về Model trong domain driven design
 
-<!--@  -->
-<!--@  -->
-<!--@  -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 <!-- có thể nêu thêm thôi -->
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
-<!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
+<!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud -->
 
 là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
 Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến
@@ -61,13 +61,13 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
-<!-- Entity : https://ddd-practitioners.com/entity   -->
-<!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
-<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object   -->
+<!-- Domain Object : https://ddd-practitioners.com/domain-object -->
+<!-- Entity : https://ddd-practitioners.com/entity -->
+<!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
+<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object -->
 <!-- Service : https://ddd-practitioners.com/service -->
-<!-- Quản lí vòng  đời -->
-<!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
+<!-- Quản lí vòng đời -->
+<!-- Aggregate: https://ddd-practitioners.com/home/glossary/aggregate/ -->
 <!-- State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate -->
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
 <!-- Factory : https://ddd-practitioners.com/factory -->
@@ -88,34 +88,34 @@ Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận c�
 
 Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
 
-<!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship   -->
+<!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship -->
 
 <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
 
 Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
-<!-- Separate Ways : https://ddd-practitioners.com/separate-ways   -->
-<!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier   -->
+<!-- Separate Ways : https://ddd-practitioners.com/separate-ways -->
+<!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
 
-<!-- Partnership : https://ddd-practitioners.com/partnership   -->
+<!-- Partnership : https://ddd-practitioners.com/partnership -->
 
-<!-- Conformist : https://ddd-practitioners.com/conformist   -->
+<!-- Conformist : https://ddd-practitioners.com/conformist -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
-<!-- Open-Host Service : https://ddd-practitioners.com/open-host-service   -->
+<!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->
 
 <!-- Shared Kernel : https://ddd-practitioners.com/shared-kernel -->
 
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 
-<!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
-<!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->
+<!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
+<!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service -->
 
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
-<!-- Strategic Design : https://ddd-practitioners.com/strategic-design   -->
+<!-- Strategic Design : https://ddd-practitioners.com/strategic-design -->
 
 <!-- Tactical Design : https://ddd-practitioners.com/?page_id=453 -->
 
@@ -123,8 +123,8 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--@Event Sourcing: -->
 <!-- Strong Consistency : https://ddd-practitioners.com/?page_id=421 -->
-<!-- Snapshots : https://ddd-practitioners.com/snapshots   -->
-<!-- Saga : https://ddd-practitioners.com/home/glossary/saga   -->
+<!-- Snapshots : https://ddd-practitioners.com/snapshots -->
+<!-- Saga : https://ddd-practitioners.com/home/glossary/saga -->
  <!-- Outbox Pattern -->
 <!-- Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609 -->
 
@@ -132,7 +132,7 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 Một mô hình lưu trữ dữ liệu, trong đó tất cả các thay đổi trạng thái của hệ thống được biểu diễn dưới dạng sự kiện (event).
 
-<!-- EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming   -->
+<!-- EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming -->
 <!-- Domain Storytelling : https://ddd-practitioners.com/?page_id=1005 -->
 
 <!-- CQRS : https://ddd-practitioners.com/?page_id=574 -->
@@ -142,13 +142,13 @@ CQRS chia để thoải mái, chặt chẽ
 Là một nguyên tắc trong DDD, CQRS tách biệt giữa phần xử lý câu lệnh (Command) và phần truy vấn dữ liệu (Query).
 Command đại diện cho các thao tác cập nhật dữ liệu, trong khi Query đại diện cho các thao tác truy vấn dữ liệu.
 
-<!-- Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture   -->
+<!-- Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture -->
 
 <!-- Event Modeling : https://ddd-practitioners.com/?page_id=994 -->
 
 <!-- Event Replay : https://ddd-practitioners.com/?page_id=585 -->
 
-<!-- Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing   -->
+<!-- Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing -->
 
 <!-- Event Sourcing : https://ddd-practitioners.com/?page_id=581 -->
 
@@ -160,22 +160,22 @@ Command đại diện cho các thao tác cập nhật dữ liệu, trong khi Que
 
 ACID (Atomicity, Consistency, Isolation, Durability)
 
-<!-- BASE Transaction  -->
+<!-- BASE Transaction -->
 
 BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với ACID
 
 <!-- Command : https://ddd-practitioners.com/?page_id=596 -->
 <!-- Command Handler : https://ddd-practitioners.com/?page_id=599 -->
-<!-- Compensating Action : https://ddd-practitioners.com/compensating-action   -->
-<!-- Compensating Transaction : https://ddd-practitioners.com/compensating-transaction   -->
-<!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow   -->
+<!-- Compensating Action : https://ddd-practitioners.com/compensating-action -->
+<!-- Compensating Transaction : https://ddd-practitioners.com/compensating-transaction -->
+<!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow -->
 
-<!-- Domain Event : https://ddd-practitioners.com/domain-event   -->
+<!-- Domain Event : https://ddd-practitioners.com/domain-event -->
 <!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
-<!--@ Dependency Inversion Principle    -->
+<!--@ Dependency Inversion Principle -->
 
 SOLID : https://ddd-practitioners.com/home/glossary/solid
-Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle  
+Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle 
 Open-Closed Principle
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
@@ -187,11 +187,11 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
- <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
+ <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần. Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì. Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
-<!--  -->
+<!-- -->
 
-<!--  -->
+<!-- -->
 
 <!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
 

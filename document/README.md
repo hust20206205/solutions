@@ -119,7 +119,11 @@ Shared Kernel : https://ddd-practitioners.com/shared-kernel
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 
 <!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
+State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate  
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
+
+
+<!--! factor  -->
 <!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
 
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
@@ -205,7 +209,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
  
  
 
-State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate  
 Strategic Design : https://ddd-practitioners.com/strategic-design  
 Strong Consistency : https://ddd-practitioners.com/?page_id=421
 

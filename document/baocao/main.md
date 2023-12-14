@@ -10,46 +10,18 @@ tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 hợp gốc bị phá hủy.
 
 Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
-<!--@Các mô hình chiến lược (Strategic Patterns)-->
+<!--!Các mô hình chiến lược (Strategic Patterns)-->
+<!--!Các mô hình chiến lược (Strategic Patterns)-->
+<!--!Các mô hình chiến lược (Strategic Patterns)-->
+<!--!Các mô hình chiến lược (Strategic Patterns)-->
+<!--!Các mô hình chiến lược (Strategic Patterns)-->
+<!--!Các mô hình chiến lược (Strategic Patterns)-->
+<!--!Các mô hình chiến lược (Strategic Patterns)-->
 
-<!--@Bối cảnh giới hạn (Bounded Context)-->
 
-Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
 
-=> Bối cảnh giới hạn (Bounded Context) giúp định rõ các ranh giới, chia miền thành các phần độc lập để giải quyết sự phức tạp trong mô hình doanh nghiệp.
 
-Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
-![](pictures/BoiCanhGioiHan/___RanhGioi.png)
-
-<!--$VD:-->
-<!--Một vài hướng xác định bối cảnh giới hạn:-->
-
-Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ trong miền kinh doanh.
-Dựa vào sơ đồ cấu trúc tổ chức của doanh nghiệp.
-Dựa vào modules của các ứng dụng kiến trúc nguyên khối hiện tại (nếu việc phân chia tốt).
-Dựa vào trách nhiệm và hoạt động của chuyên gia ngành.
-
-<!--Một số đặc điểm:-->
-
-Mỗi liên hệ giới hạn phải được thể hiện thông qua một mô hình miền riêng biệt không có sự chia sẻ về mô hình.
-
-<!--$VD: Hình mỗi domain có mô hình riêng ... user(id, name) ở domain1, user(id, name, sdt) ở domain2-->
-
-Những mô hình được tạo và quản lý độc lập bởi các nhóm.
-
-<!--$VD:-->
-
-Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có tác dụng trong phạm vi giới hạn của nó.
-
-<!--$VD:-->
-<!--Hướng dẫn 5/10-->
 <!--@Tích hợp Liên tục (Continuous Integration)-->
 
 Tích hợp Liên tục (Continuous Integration): là việc các thành viên trong nhóm phát triển tích hợp mã nguồn vào một hệ thống chung thường xuyên. Khi có mã nguồn mới việc tích hợp liên tục sẽ tự động kiểm thử và xây dựng giảm xung đột giữa các phiên bản mã nguồn khác nhau, giúp phát hiện và sửa lỗi sớm hơn.

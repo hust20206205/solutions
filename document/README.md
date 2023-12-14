@@ -45,8 +45,7 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- CI/CD -->
-http://localhost nên không có CD
+
 
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
 <!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->

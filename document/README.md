@@ -43,7 +43,9 @@ có thể nêu thêm thôi
 
 <!-- Domain : https://ddd-practitioners.com/domain   -->
 
-https://ddd-practitioners.com/home/glossary/domain-expert/
+https://ddd-practitioners.com/home/glossary/domain-expert
+[[Deep Model]] An incisive expression of the primary concerns of the domain experts and their most relevant knowledge. A deep model sloughs off superficial aspects of the domain and naive interpretations.
+<!-- [[Domain Expert]] A member of a software project whose field is the domain of the application, rather than software development. Not just any user of the software, the domain expert has deep knowledge of the subject. -->
 
 <!-- Problem Domain :https://ddd-practitioners.com/home/glossary/problem-domain -->
 <!-- Solution Domain :https://ddd-practitioners.com/home/glossary/solution-domain -->
@@ -228,7 +230,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Declarative Design]] A form of programming in which a precise description of properties actually controls the software. An executable specification.
 
-[[Deep Model]] An incisive expression of the primary concerns of the domain experts and their most relevant knowledge. A deep model sloughs off superficial aspects of the domain and naive interpretations.
 
 [[Design Pattern]] A description of communicating objects and classes that are customized to solve a general design problem in a particular context. (Gamma et al. 1995, p. 3)
 
@@ -238,7 +239,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!-- [[Domain-Driven Design]] An approach to software development that suggests that (1) For most software projects, the primary focus should be on the domain and domain logic; and (2) Complex domain designs should be based on a model. -->
 
-<!-- [[Domain Expert]] A member of a software project whose field is the domain of the application, rather than software development. Not just any user of the software, the domain expert has deep knowledge of the subject. -->
 
 <!-- [[Domain Layer]] That portion of the design and implementation responsible for domain logic within a LAYERED ARCHITECTURE. The domain layer is where the software expression of the domain model lives. -->
 

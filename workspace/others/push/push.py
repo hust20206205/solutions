@@ -67,11 +67,19 @@ for file_path in file_paths:
 
         '![Alt text](': '![](',
 
-        'Domain expert': 'chuyên gia ngành',
         'domain expert': 'chuyên gia ngành',
         'chuyên gia kinh doanh': 'chuyên gia ngành',
         'chuyên gia nghiệp vụ': 'chuyên gia ngành',
         'chuyên gia tên miền': 'chuyên gia ngành',
+        'chuyên gia miền': 'chuyên gia ngành',
+
+        'Domain expert': 'Chuyên gia ngành',
+        'Chuyên gia kinh doanh': 'Chuyên gia ngành',
+        'Chuyên gia nghiệp vụ': 'Chuyên gia ngành',
+        'Chuyên gia tên miền': 'Chuyên gia ngành',
+        'Chuyên gia miền': 'Chuyên gia ngành',
+
+
 
         'Ngôn ngữ phổ biến': 'ngôn ngữ chung',
         'ngôn ngữ phổ biến': 'ngôn ngữ chung',
@@ -110,7 +118,7 @@ for file_path in file_paths:
 
         'Thể loại\n\nPhân tích\nđiều cơ bản\nthiết kế hướng miền\nthiết kế\ncâu hỏi thường gặp\nKhả năng lãnh đạo\nhoa văn\nBlog tại WordPress.com.': '',
 
-        
+
         'Thể loại\n\nPhân tích\nđiều cơ bản\nddd\nthiết kế\ncâu hỏi thường gặp\nKhả năng lãnh đạo\nhoa văn\nBlog tại WordPress.com.': '',
 
     }

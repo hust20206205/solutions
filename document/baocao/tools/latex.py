@@ -11,11 +11,11 @@ if match:
     print(input)
 else:
     print("No match found.")
-    exit()
 input = input.replace("(", "")
 input = input.replace(")", "")
 input = input.replace("/", "")
 input = input.replace("-", "")
+input = input.replace("%", "")
 while "  " in input:
     input = input.replace("  ", " ")
 output = Convert.VarSnakeCase(input)

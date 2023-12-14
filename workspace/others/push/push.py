@@ -133,9 +133,9 @@ for file_path in file_paths:
         value = f"  {value}  "
         contents = contents.replace(key, value)
 
-    while ' .' in contents:
-        contents = contents.replace(' .', '. ')
-    contents = contents.replace(' .', '. ')
+    # while ' .' in contents:
+    #     contents = contents.replace(' .', '. ')
+    # contents = contents.replace(' .', '. ')
     while ' ,' in contents:
         contents = contents.replace(' ,', ', ')
     contents = contents.replace(' ,', ', ')

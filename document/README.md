@@ -41,6 +41,7 @@ Trình bày về       Strangler Fig trong domain driven design
 https://ddd-practitioners.com/home/glossary
 
 <!--@Thiết kế hướng tên miền -->
+<!-- Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture -->
 
 DDD là một phương pháp thiết kế phần mềm tập trung vào việc hiểu rõ và mô hình hóa ngữ cảnh kinh doanh trong các hệ thống phần mềm.
 
@@ -69,8 +70,10 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
 <!-- Entity : https://ddd-practitioners.com/entity   -->
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
+ 
 
-<!--!Value -->
+
+<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object   -->
 <!-- Service : https://ddd-practitioners.com/service -->
 
 <!-- Factory : https://ddd-practitioners.com/factory -->
@@ -80,6 +83,8 @@ https://refactoring.guru/design-patterns/factory-method
 https://refactoring.guru/design-patterns/abstract-factory
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
+
+
 
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
 
@@ -114,6 +119,7 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 <!-- Conformist : https://ddd-practitioners.com/conformist   -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
+<!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service   -->
 Shared Kernel : https://ddd-practitioners.com/shared-kernel  
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
@@ -134,10 +140,17 @@ State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate
 
 
 <!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
+<!-- Strategic Design : https://ddd-practitioners.com/strategic-design   -->
+
+
+<!-- Tactical Design : https://ddd-practitioners.com/?page_id=453 -->
+
+
 
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--@Event Sourcing: -->
+<!-- Strong Consistency : https://ddd-practitioners.com/?page_id=421 -->
 <!-- Snapshots : https://ddd-practitioners.com/snapshots   -->
 <!-- Saga : https://ddd-practitioners.com/home/glossary/saga   -->
  <!-- Outbox Pattern -->
@@ -209,21 +222,10 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
  
  
 
-Strategic Design : https://ddd-practitioners.com/strategic-design  
-Strong Consistency : https://ddd-practitioners.com/?page_id=421
 
-
-Tactical Design : https://ddd-practitioners.com/?page_id=453
-Test-Driven Development : https://ddd-practitioners.com/test-driven-development
-
- 
-Value Object : https://ddd-practitioners.com/home/glossary/value-object  
-Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture
- 
  
 <!--  -->
 
-Excerpted from [[Domain-Driven Design Book]]
 
 <!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
 

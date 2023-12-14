@@ -31,7 +31,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về  Impact Mapping trong domain driven design
+Trình bày về Impact Mapping trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
@@ -45,28 +45,24 @@ DDD là một phương pháp thiết kế phần mềm tập trung vào việc h
 có thể nêu thêm thôi
 
 <!-- Domain : https://ddd-practitioners.com/domain   -->
+
 https://ddd-practitioners.com/home/glossary/domain-expert/
+
 <!-- Problem Domain :https://ddd-practitioners.com/home/glossary/problem-domain -->
 <!-- Solution Domain :https://ddd-practitioners.com/home/glossary/solution-domain -->
 <!-- subdomain: https://ddd-practitioners.com/home/glossary/subdomain-->
 <!-- Core Domain   https://ddd-practitioners.com/home/glossary/domain/core-domain/   -->
 
 Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ và chung có thể khác nhau ngay cả đối với các doanh nghiệp hoạt động trong cùng một tên miền. Điều này là do các tên miền phụ và vai trò của chúng được xác định theo nhu cầu kinh doanh và bối cảnh cụ thể của mỗi tổ chức. Ví dụ:
+
 <!-- Highlighted Core : https://ddd-practitioners.com/highlighted-core -->
 
 <!-- Generic Subdomain : https://ddd-practitioners.com/generic-subdomain -->
 <!-- Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain -->
 
-
-
-
-
-
-
 <!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
 <!-- Entity : https://ddd-practitioners.com/entity   -->
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
-
 
 <!--!Value -->
 <!-- Factory : https://ddd-practitioners.com/factory -->
@@ -108,6 +104,14 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 <!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
+
+
+
+
+<!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
+<!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->
+
+
 
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->
@@ -166,13 +170,8 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
 <!--  -->
-<!-- Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture   -->
 <!--  -->
- 
 
-
-<!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
-<!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!-- Inverse Conway Maneuver*   -->

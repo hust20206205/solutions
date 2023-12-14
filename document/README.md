@@ -35,7 +35,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về Principle trong domain driven design
+Trình bày về    Pattern trong domain driven design
  
 
 https://ddd-practitioners.com/home/glossary
@@ -70,6 +70,8 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity   -->
 
 <!--!Value -->
+<!-- Service : https://ddd-practitioners.com/service -->
+
 <!-- Factory : https://ddd-practitioners.com/factory -->
 <!-- Module : https://ddd-practitioners.com/?page_id=618 -->
 
@@ -105,6 +107,10 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 <!-- Separate Ways : https://ddd-practitioners.com/separate-ways   -->
 <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier   -->
+
+
+<!-- Partnership : https://ddd-practitioners.com/partnership   -->
+
 <!-- Conformist : https://ddd-practitioners.com/conformist   -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service   -->
@@ -114,16 +120,21 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
 <!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
 
-<!-- Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture   -->
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
 <!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->
 
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 
+
+<!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
+
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--@Event Sourcing: -->
+<!-- Saga : https://ddd-practitioners.com/home/glossary/saga   -->
+ <!-- Outbox Pattern -->
+<!-- Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609 -->
 
 <!-- https://www.linkedin.com/pulse/api-strategy-conways-law-inverse-conway-manoeuvre-mikael-wall%C3%A9n/ -->
 
@@ -186,26 +197,12 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!--!========================================================== -->
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
-<!--  -->
-
-Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609
-Orchestration : https://ddd-practitioners.com/?page_id=630
-
-<!-- Outbox Pattern*   -->
-<!-- P -->
-<!-- Parallel Database*   -->
-
-Partnership : https://ddd-practitioners.com/partnership  
-Ports and Adapters : https://ddd-practitioners.com/hexagonal-architecture
+<!--  --> 
+ 
  
 
-<!-- S -->
-
-Saga : https://ddd-practitioners.com/home/glossary/saga  
 Segregated Core : https://ddd-practitioners.com/?page_id=378
-Service : https://ddd-practitioners.com/service
 
-<!-- Service-Oriented Architecture*   -->
 
 Shared Kernel : https://ddd-practitioners.com/shared-kernel  
 Snapshots : https://ddd-practitioners.com/snapshots  
@@ -216,27 +213,15 @@ State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate
 Strategic Design : https://ddd-practitioners.com/strategic-design  
 Strong Consistency : https://ddd-practitioners.com/?page_id=421
 
-<!-- System Event*   -->
-
-<!-- T -->
 
 Tactical Design : https://ddd-practitioners.com/?page_id=453
 Test-Driven Development : https://ddd-practitioners.com/test-driven-development
 
-<!-- Transactional Outbox*   -->
-
-<!-- U -->
-
-Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language
-
-<!-- V -->
-
+ 
 Value Object : https://ddd-practitioners.com/home/glossary/value-object  
 Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture
-
-<!-- W -->
-<!-- Wardley Mapping* -->
-
+ 
+ 
 <!--  -->
 
 Excerpted from [[Domain-Driven Design Book]]

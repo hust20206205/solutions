@@ -101,13 +101,18 @@ Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc v
 
 Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
-<!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier   -->
 
+
+<!-- Separate Ways : https://ddd-practitioners.com/separate-ways   -->
+<!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier   -->
 <!-- Conformist : https://ddd-practitioners.com/conformist   -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
+<!-- Open-Host Service : https://ddd-practitioners.com/open-host-service   -->
+<!-- Published Language : https://ddd-practitioners.com/published-language -->
 
 <!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
+<!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
 
 <!-- Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture   -->
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
@@ -183,7 +188,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!--  -->
 
-Open-Host Service : https://ddd-practitioners.com/open-host-service  
 Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609
 Orchestration : https://ddd-practitioners.com/?page_id=630
 
@@ -193,26 +197,12 @@ Orchestration : https://ddd-practitioners.com/?page_id=630
 
 Partnership : https://ddd-practitioners.com/partnership  
 Ports and Adapters : https://ddd-practitioners.com/hexagonal-architecture
-
-<!-- Procedural Programming*   -->
-<!-- Projection*   -->
-
-Published Language : https://ddd-practitioners.com/published-language
-
-<!-- Q -->
-<!-- Query*   -->
-
-<!-- R -->
-<!-- Read Model*   -->
-<!-- Refactoring*   -->
-
-Repository : https://ddd-practitioners.com/?page_id=555
+ 
 
 <!-- S -->
 
 Saga : https://ddd-practitioners.com/home/glossary/saga  
 Segregated Core : https://ddd-practitioners.com/?page_id=378
-Separate Ways : https://ddd-practitioners.com/separate-ways  
 Service : https://ddd-practitioners.com/service
 
 <!-- Service-Oriented Architecture*   -->

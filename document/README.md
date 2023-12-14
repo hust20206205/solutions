@@ -56,7 +56,6 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!-- [[Core Domain]] The distinctive part of the model, central to the user’s goals, that differentiates the application and makes it valuable. -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
@@ -247,9 +246,7 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Command]] (a.k.a. modifier) An operation that effects some change to the system (for example, setting a variable). An operation that intentionally creates a side effect.
 
-
 [[Conceptual Contour]] An underlying consistency of the domain itself, which, if reflected in a model, can help the design accommodate change more naturally.
-
 
 [[Declarative Design]] A form of programming in which a precise description of properties actually controls the software. An executable specification.
 

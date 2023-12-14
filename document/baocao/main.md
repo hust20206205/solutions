@@ -18,10 +18,6 @@ hợp gốc bị phá hủy.
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 
-
-
-
-
 <!--@Tích hợp Liên tục (Continuous Integration)-->
 
 Tích hợp Liên tục (Continuous Integration): là việc các thành viên trong nhóm phát triển tích hợp mã nguồn vào một hệ thống chung thường xuyên. Khi có mã nguồn mới việc tích hợp liên tục sẽ tự động kiểm thử và xây dựng giảm xung đột giữa các phiên bản mã nguồn khác nhau, giúp phát hiện và sửa lỗi sớm hơn.

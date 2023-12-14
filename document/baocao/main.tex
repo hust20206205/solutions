@@ -6,15 +6,22 @@
 \usepackage{graphicx} % hình ảnh
 \begin{document} % bắt đầu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{contents/trang_bia}
+\input{contents/trang_bia} 
+
+% Trang trắng 
+\input{contents/_a.tex}
+% Trang trắng không có nội dung và không có số trang
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\mbox{} % Một hộp rỗng để trang không bị trắng toàn bộ
 
 
-% % Mục lục
-% \newpage
-% \renewcommand*\contentsname{\centering MỤC LỤC}
-% \tableofcontents
+% Mục lục
+\newpage
+\renewcommand*\contentsname{\centering MỤC LỤC}
+\tableofcontents
 
-% \input{contents/_a.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document} % kết thúc

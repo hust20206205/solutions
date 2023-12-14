@@ -33,7 +33,6 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!-- Generic Subdomain : https://ddd-practitioners.com/generic-subdomain -->
 <!-- Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain -->
 
-Domain Event : https://ddd-practitioners.com/domain-event  
 
 Domain Object : https://ddd-practitioners.com/domain-object  
 Domain Service : https://ddd-practitioners.com/domain-service  
@@ -95,6 +94,10 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!-- Compensating Transaction : https://ddd-practitioners.com/compensating-transaction   -->
 <!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow   -->
 
+
+
+<!-- Domain Event : https://ddd-practitioners.com/domain-event   -->
+<!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
 <!--@ Dependency Inversion Principle    -->
 <!--!========================================================== -->
 <!--!========================================================== -->

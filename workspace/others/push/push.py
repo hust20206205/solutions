@@ -106,6 +106,13 @@ for file_path in file_paths:
         " ​​": '    ',
         'Chuyển đến nội dung\nĐối với người hành nghề bởi người hành nghề\nTìm kiếm\nThiết kế hướng miền: Hướng dẫn dành cho người thực hành\nCâu hỏi thường gặp\nBảng chú giải\nVề chúng tôi\nCuốn sách của chúng tôi!': '',
 
+
+
+        'Thể loại\n\nPhân tích\nđiều cơ bản\nthiết kế hướng miền\nthiết kế\ncâu hỏi thường gặp\nKhả năng lãnh đạo\nhoa văn\nBlog tại WordPress.com.': '',
+
+        
+        'Thể loại\n\nPhân tích\nđiều cơ bản\nddd\nthiết kế\ncâu hỏi thường gặp\nKhả năng lãnh đạo\nhoa văn\nBlog tại WordPress.com.': '',
+
     }
 
     for key, value in replacements.items():

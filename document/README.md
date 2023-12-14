@@ -14,12 +14,15 @@
 <!--  -->
 <!--  -->
 
-Trình bày về Branch by Abstraction trong domain driven design
+Trình bày về Consumer-Driven Contracts trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
 <!--@Thiết kế hướng tên miền -->
-<!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
+<!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
+
+có thể nêu thêm thôi
+
 <!--!dịch vụ miền -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 <!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud   -->
@@ -40,9 +43,18 @@ Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc v
 <!--!bản đồ -->
 
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship   -->
-<!--@CQRS -->
+<!-- Conformist : https://ddd-practitioners.com/conformist   -->
+<!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 
+<!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
+<!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
+
+<!--@saga -->
+<!--@CQRS -->
 <!--@event -->
+
+<!-- Change Data Capture: https://en.wikipedia.org/wiki/CAP_theorem -->
+
 <!-- ACID Transaction : https://ddd-practitioners.com/?page_id=415 -->
 
 ACID (Atomicity, Consistency, Isolation, Durability)
@@ -51,6 +63,12 @@ ACID (Atomicity, Consistency, Isolation, Durability)
 
 BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với ACID
 
+<!-- Command : https://ddd-practitioners.com/?page_id=596 -->
+<!-- Command Handler : https://ddd-practitioners.com/?page_id=599 -->
+<!-- Compensating Action : https://ddd-practitioners.com/compensating-action   -->
+<!-- Compensating Transaction : https://ddd-practitioners.com/compensating-transaction   -->
+<!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow   -->
+
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
@@ -58,30 +76,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
-
-Business Capability : https://ddd-practitioners.com/business-capability  
-Business Model Canvas : https://ddd-practitioners.com/business-value-canvas
-
-<!-- C -->
-
-C4 Model : https://ddd-practitioners.com/?page_id=1193
-
-<!-- CAP Theorem*   -->
-<!-- Change Data Capture*   -->
-
-Choreography : https://ddd-practitioners.com/?page_id=628
-
-<!-- Clean Architecture*   -->
-
-Command : https://ddd-practitioners.com/?page_id=596
-Command Handler : https://ddd-practitioners.com/?page_id=599
-Compensating Action : https://ddd-practitioners.com/compensating-action  
-Compensating Transaction : https://ddd-practitioners.com/compensating-transaction  
-Compensating Workflow : https://ddd-practitioners.com/compensating-workflow  
-Conformist : https://ddd-practitioners.com/conformist  
-Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary
-
-<!-- Consumer-Driven Contracts*   -->
+ <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
 Context Mapping : https://ddd-practitioners.com/context-map
 
@@ -236,7 +231,7 @@ Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertic
 
 Excerpted from [[Domain-Driven Design Book]]
 
-[[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries.
+<!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
 
 [[Analysis Pattern]] A group of concepts that represents a common construction in business modeling. It may be relevant to only one domain or may span many domains (Fowler 1997, p. 8).
 

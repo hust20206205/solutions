@@ -11,8 +11,24 @@
 <!--@  -->
 <!--@  -->
 <!--@  -->
+https://viblo.asia/p/domain-driven-design-phan-2-MgNeWoZAeYx
+
+https://culttt.com/2014/04/09/use-exception
+https://culttt.com/2014/12/17/aggregates-domain-driven-design
+https://culttt.com/2014/12/24/factories-domain-driven-design
+https://culttt.com/2014/12/29/enforcing-business-rules-aggregate-instantiation
+https://culttt.com/2014/04/30/difference-entities-value-objects
+https://culttt.com/2015/01/05/using-aggregates-gateway-functionality
+https://culttt.com/2015/01/07/service-oriented-architecture
+https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs
+https://culttt.com/2015/11/11/what-is-active-model
+
 <!--@  -->
 <!--@  -->
+
+
+
+
 
 Trình bày về   Mapping trong domain driven design
 
@@ -46,6 +62,9 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 <!-- Factory : https://ddd-practitioners.com/factory -->
 https://refactoring.guru/design-patterns/factory-method
 https://refactoring.guru/design-patterns/abstract-factory
+
+
+
 
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
 

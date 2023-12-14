@@ -35,12 +35,8 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về trong domain driven design
-
-<!-- OLAP*   -->
-<!-- OLTP*   -->
-
-<!-- Open-Closed Principle*   -->
+Trình bày về Principle trong domain driven design
+ 
 
 https://ddd-practitioners.com/home/glossary
 
@@ -170,8 +166,11 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
 <!--@ Dependency Inversion Principle    -->
 
-Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
+SOLID : https://ddd-practitioners.com/home/glossary/solid
+Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle  
+Open-Closed Principle
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
+Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 <!--!========================================================== -->
 <!--!========================================================== -->
@@ -219,9 +218,7 @@ Service : https://ddd-practitioners.com/service
 <!-- Service-Oriented Architecture*   -->
 
 Shared Kernel : https://ddd-practitioners.com/shared-kernel  
-Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle  
 Snapshots : https://ddd-practitioners.com/snapshots  
-SOLID : https://ddd-practitioners.com/home/glossary/solid
 
 <!-- Strangler Fig*   -->
 

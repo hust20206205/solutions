@@ -10,7 +10,6 @@
 <!--@  -->
 <!--@  -->
 
-
 <!--@  -->
 <!--@  -->
 
@@ -40,13 +39,11 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về   Model   trong domain driven design
+Trình bày về Model trong domain driven design
 
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 
 có thể nêu thêm thôi
-
-
 
 <!--  -->
 
@@ -220,13 +217,9 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Declarative Design]] A form of programming in which a precise description of properties actually controls the software. An executable specification.
 
-
 [[Design Pattern]] A description of communicating objects and classes that are customized to solve a general design problem in a particular context. (Gamma et al. 1995, p. 3)
 
 [[Distillation]] A process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful. In software design, the abstraction of key aspects in a model, or the partitioning of a larger system to bring the CORE DOMAIN to the fore.
-
-
-
 
 <!-- [[Domain Layer]] That portion of the design and implementation responsible for domain logic within a LAYERED ARCHITECTURE. The domain layer is where the software expression of the domain model lives. -->
 

@@ -17,7 +17,7 @@ MyClose.CloseAll()
 MyClose.Target(2)
 # MyClose.Target(1)
 MyClose.Terminal()
-MyClose.Latex()
+# MyClose.Latex()
 # from modules.MyChrome import MyChrome
 # MyChrome("https://github.com/vvn20206205/test")
 # MyChrome()

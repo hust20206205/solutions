@@ -15,6 +15,9 @@ else:
 input = input.replace("(", "")
 input = input.replace(")", "")
 input = input.replace("/", "")
+input = input.replace("-", "")
+while "  " in input:
+    input = input.replace("  ", " ")
 output = Convert.VarSnakeCase(input)
 # sao chép file
 ten_file_nguon = r"../contents/_a.tex"

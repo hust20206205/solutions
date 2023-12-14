@@ -6,22 +6,65 @@
 \usepackage{graphicx} % hình ảnh
 \usepackage{pdfpages} % thêm file pdf bao_cao_tien_do
 
+
+
+
+
+% Sử dụng gói color để thay đổi màu
+\usepackage{color} %* mau_sac
+% Sử dụng gói xcolor để mở rộng tính năng thay đổi màu
+\usepackage{xcolor} %* mau_sac
+% \definecolor{HustRed}{RGB}{206,22,40}
+% \definecolor{HustYellow}{RGB}{242,193,8}
+\definecolor{BackgroundCode}{RGB}{242,242,235}
+% Sử dụng gói minted để đính kèm và định dạng mã nguồn
+\usepackage{minted} %! code_python
+\setminted{
+fontsize=\footnotesize, % Cỡ chữ cho mã nguồn
+frame=lines, % Hiển thị đường viền xung quanh mã nguồn
+framesep=2mm, % Khoảng cách giữa đường viền và nội dung mã nguồn
+bgcolor=BackgroundCode, % Màu nền cho mã nguồn
+linenos, % Hiển thị số dòng ở bên trái
+autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
+}
+
+
 \begin{document} % bắt đầu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % \input{contents/trang_bia}
 % \input{contents/trang_trang}
+
 % \input{contents/nhan_xet_cua_giang_vien}
 % \includepdf[pages = -]{contents/bao_cao_tien_do_1.pdf}
 % \includepdf[pages = -]{contents/bao_cao_tien_do_2.pdf}
+
 % \input{contents/muc_luc}
 % \input{contents/loi_cam_on}
 % \input{contents/loi_mo_dau}
 % \input{contents/tom_tat_noi_dung_do_an}
 % \input{contents/danh_gia_va_thao_luan}
+ 
+% \input{contents/danh_sach_bang}
+% \input{contents/danh_sach_hinh_anh}
+% \input{contents/danh_sach_ma_nguon}
 
-\input{contents/danh_sach_bang}
 
-\input{contents/danh_sach_hinh_anh}
+
+
+% \subsubsection{xxxxxxx}
+% \input{contents/_a.tex}
+
+
+ 
+\begin{listing}[h]  
+\centering
+\inputminted{javascript}{code/hello.js} 
+\caption{MoTaChoDoanMaJavascript} 
+\label{code:nghia3} 
+\end{listing} 
+
+
+
 
 \begin{figure}[h]
 \centering
@@ -47,7 +90,6 @@
 
 \end{document} % kết thúc
 
-% \section{Danh sách mã nguồn}
 
 % \section{Danh sách các cụm từ viết tắt}
 % \input{contents/danh_sach_cac_cum_tu_viet_tat}

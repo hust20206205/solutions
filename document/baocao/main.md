@@ -1,4 +1,3 @@
-
 <!--!======================================================-->
 <!--Aggregates/Entities/Value Objects-->
 
@@ -11,15 +10,15 @@ tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 hợp gốc bị phá hủy.
 
 Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
 
 <!--@Mô hình miền (Domain Models)-->
 
@@ -267,7 +266,7 @@ Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn t
 
 <!--Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.-->
 
-Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau, 
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau,
 
 Vì vậy, điều đó có nghĩa là lớp chống đổ vỡ cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
 
@@ -585,7 +584,7 @@ Repository trong ORM
 
 , gprc rabitmq đồng bộ hay k, ít hay nhiều như pub sub
 
-# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi, 
+# 5. Service Mesh, CICD, microfe, API gateway, cache redis, log xử lí lỗi,
 
 <!---->
 

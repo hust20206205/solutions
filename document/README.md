@@ -49,7 +49,7 @@ Trình bày về Model trong domain driven design
 là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
 Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến
 
- <!-- nợ kỹ thuật -->
+<!-- nợ kỹ thuật -->
 
 và các vấn đề dài hạn cho một dự án phần mềm.
 
@@ -125,7 +125,7 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Strong Consistency : https://ddd-practitioners.com/?page_id=421 -->
 <!-- Snapshots : https://ddd-practitioners.com/snapshots -->
 <!-- Saga : https://ddd-practitioners.com/home/glossary/saga -->
- <!-- Outbox Pattern -->
+<!-- Outbox Pattern -->
 <!-- Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609 -->
 
 <!-- https://www.linkedin.com/pulse/api-strategy-conways-law-inverse-conway-manoeuvre-mikael-wall%C3%A9n/ -->
@@ -175,7 +175,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--@ Dependency Inversion Principle -->
 
 SOLID : https://ddd-practitioners.com/home/glossary/solid
-Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle 
+Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle
 Open-Closed Principle
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
@@ -187,7 +187,7 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
- <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần. Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì. Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
+<!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần. Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì. Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
 <!-- -->
 

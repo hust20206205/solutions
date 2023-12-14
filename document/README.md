@@ -57,7 +57,6 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
-https://trunkbaseddevelopment.com/branch-by-abstraction
 
 Business Capability : https://ddd-practitioners.com/business-capability  
 Business Model Canvas : https://ddd-practitioners.com/business-value-canvas  

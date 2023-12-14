@@ -41,7 +41,6 @@ Trình bày về       Strangler Fig trong domain driven design
 https://ddd-practitioners.com/home/glossary
 
 <!--@Thiết kế hướng tên miền -->
-<!-- Vertical Slice Architecture : https://ddd-practitioners.com/home/glossary/vertical-slice-architecture -->
 
 DDD là một phương pháp thiết kế phần mềm tập trung vào việc hiểu rõ và mô hình hóa ngữ cảnh kinh doanh trong các hệ thống phần mềm.
 

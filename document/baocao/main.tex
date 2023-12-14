@@ -4,16 +4,21 @@
 \usepackage{tikz} % vẽ hình
 \usetikzlibrary{calc} % tính toán vẽ hình
 \usepackage{graphicx} % hình ảnh
+\usepackage{pdfpages}  % thêm file pdf bao_cao_tien_do
 \begin{document} % bắt đầu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{contents/trang_bia}
-\input{contents/trang_trang}
+% \input{contents/trang_bia}
+% \input{contents/trang_trang}
 
 % \section{Nhận xét của giảng viên}
 \input{contents/_a.tex}
 % \input{contents/nhan_xet_cua_giang_vien}
 
 % báo cáo tiến độ
+\includepdf[pages = - ]{contents/bao_cao_tien_do_1.pdf}
+% \includepdf[pages = - ]{contents/bao_cao_tien_do_2.pdf}
+
+
 % \input{contents/_a.tex}
 
 % \input{contents/muc_luc}

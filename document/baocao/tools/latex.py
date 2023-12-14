@@ -26,7 +26,7 @@ shutil.copy(ten_file_nguon, ten_file_dich)
 # return văn bản
 output = "\n\\input{contents/" + output + "}\n\n\n" 
 # output += "\\section{xxxxxxx}\n" 
-output += "\\subsection{xxxxxxx}\n" 
-# output += "\\subsubsection{xxxxxxx}\n" 
+# output += "\\subsection{xxxxxxx}\n" 
+output += "\\subsubsection{xxxxxxx}\n" 
 output += "\\input{contents/_a.tex}\n" 
 pyperclip.copy(output)

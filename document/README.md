@@ -49,14 +49,6 @@ Trình bày về Big Ball of Mud trong domain driven design
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
-<!-- Strategic Design : https://ddd-practitioners.com/strategic-design -->
-<!-- [[Strategic Design]] Modeling and design decisions that apply to large parts of the system. Such decisions affect the entire project and have to be decided at team level. -->
-
-<!-- Tactical Design : https://ddd-practitioners.com/?page_id=453 -->
-
-% Hai vấn đề cốt lõi được giải quyết bằng thiết kế hướng miền:
-% 1. Thiết kế, phân chia cơ cấu doanh nghiệp như thế nào cho hợp lý?
-% 2. Kiến trúc kỹ thuật có phù hợp với kiến trúc kinh doanh không?
 
 <!-- Domain Object : https://ddd-practitioners.com/domain-object -->
 <!-- Entity : https://ddd-practitioners.com/entity -->

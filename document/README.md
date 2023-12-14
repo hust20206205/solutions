@@ -40,6 +40,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 
 Trình bày về Model trong domain driven design
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 

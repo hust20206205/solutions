@@ -35,6 +35,17 @@ Mô hình miền giúp nhóm hiểu công việc và đồng thuận khi làm vi
 
 <!--$VD: Ở đồ án này, mô hình miền của em bao gồm các sơ đồ: UML Use Case Diagrams, UML Activity Diagrams, UML Sequence Diagrams, UML Class Diagrams-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
+<!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--Thiết kế hướng miền cung cấp 2 loại mẫu:-->
 
 Các mô hình chiến lược (Strategic Patterns): chia một vấn đề kinh doanh lớn và phức tạp thành các phần nhỏ hơn với ranh giới được xác định rõ ràng.

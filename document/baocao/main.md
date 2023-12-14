@@ -18,7 +18,6 @@ hợp gốc bị phá hủy.
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 
-
 <!--@Mối quan hệ đối xứng (Symmetric Relationship)-->
 <!--@Mô hình riêng biệt (Separate Ways)-->
 

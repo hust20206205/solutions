@@ -1,18 +1,109 @@
-
-<!--@-->
+%!<! - - @ - - >
 
 Trong kiến trúc kiến trúc vi dịch vụ, các dịch vụ phải tương tác quan hệ với nhau, dẫn đến sự xuất hiện của mối quan hệ phụ thuộc. Những mối quan hệ này cần được quản lý chặt chẽ. Nếu không thì các dịch vụ sẽ mất khả năng hoạt động độc lập, tính nhất quán và tính linh hoạt.
-=> Do đó, các nhóm phải nỗ lực để ghi lại mối quan hệ giữa các quan hệ thông qua việc sử dụng bản đồ bối cảnh.
+= > Do đó, các nhóm phải nỗ lực để ghi lại mối quan hệ giữa các quan hệ thông qua việc sử dụng bản đồ bối cảnh.
 
 Bản đồ bối cảnh (Context Maps) là sự thể hiện trực quan của hệ thống, thể hiện các thành phần, liên kết và mối quan hệ.
 
 ![](pictures/BanDoBoiCanh/image.png)
 
-<!--$VD: Bản đồ bối cảnh-->
-<!--Lợi ích của Bản đồ bối cảnh:-->
+%!<! - - $VD: Bản đồ bối cảnh - - >
+%!<! - - Lợi ích của Bản đồ bối cảnh: - - >
 
 Giúp thành viên trong nhóm hiểu rõ hơn về bức tranh toàn cảnh.
-Giúp nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn .
+Giúp nhận biết sự phụ thuộc lẫn nhau giữa các liên hệ giới hạn.
 Giúp các nhóm đánh giá mức độ hợp tác với các nhóm khác.
 Giúp sàng lọc các liên hệ giới hạn và các mô hình.
 Xác định mối quan hệ giữa các liên hệ giới hạn của mình.
+
+
+
+
+
+
+[[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.
+
+Hữu ích cho việc hiểu kiến ​​trúc tổng thể
+
+
+
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+
+
+Chuyển đến nội dung
+Đối với người hành nghề bởi người hành nghề
+Tìm kiếm
+Thiết kế hướng miền: Hướng dẫn dành cho người thực hành
+Câu hỏi thường gặp
+Bảng chú giải
+Về chúng tôi
+Cuốn sách của chúng tôi!
+Trang chủTrang chủBảng chú giảiBản đồ bối cảnh
+Bản đồ bối cảnh
+Trong Thiết kế hướng miền, Bản đồ bối cảnh là một công cụ trực quan được sử dụng để hiển thị mối quan hệ giữa các bối cảnh bị giới hạn khác nhau trong một miền . Về cơ bản, nó là một bản đồ hiển thị cách các bối cảnh khác nhau trong một miền tương tác với nhau, bao gồm ranh giới, sự phụ thuộc và kiểu giao tiếp của chúng .
+
+Bối cảnh bị giới hạn rất quan trọng trong DDD vì chúng giúp xác định và quản lý độ phức tạp của các miền lớn bằng cách chia chúng thành các phần nhỏ hơn, dễ quản lý hơn. Bằng cách hiểu mối quan hệ giữa các bối cảnh khác nhau, các nhóm phát triển có thể cộng tác hiệu quả hơn và đảm bảo rằng mỗi bối cảnh được thiết kế theo cách phù hợp với mục tiêu chung của miền. Bản đồ bối cảnh cũng giúp làm nổi bật các khu vực có xung đột hoặc chồng chéo tiềm ẩn giữa các bối cảnh, có thể được giải quyết sớm để tránh các vấn đề về sau.
+
+Bản đồ ngữ cảnh thường bao gồm các thành phần sau:
+
+Ngữ cảnh : Một miền hoặc miền phụ cụ thể có ngữ cảnh giới hạn với các ranh giới rõ ràng và ngôn ngữ phổ biến được xác định rõ ràng.
+Bối cảnh bị ràng buộc : Một ranh giới xác định một miền hoặc miền phụ cụ thể trong đó các thuật ngữ và khái niệm có ý nghĩa cụ thể.
+Mối quan hệ : Các mối quan hệ giữa các bối cảnh bị ràng buộc. Ở mức độ rộng hơn, các mối quan hệ có hai loại: đối xứng hoặc bất đối xứng. Trong một mối quan hệ đối xứng, cả hai bên đều có tiếng nói ít nhiều bình đẳng trong việc mối quan hệ phát triển như thế nào. Trong mối quan hệ bất đối xứng, một bên đóng vai trò là trung tâm quyền lực rõ ràng
+Nhóm : Các nhóm chịu trách nhiệm phát triển và duy trì bối cảnh hoặc tên miền phụ bị giới hạn.
+Mục tiêu chiến lược : Các mục tiêu chiến lược mà mỗi bối cảnh giới hạn hướng tới đạt được.
+Bản đồ bối cảnh cung cấp chế độ xem cấp cao về miền và cách các bối cảnh giới hạn khác nhau có liên quan với nhau, giúp các bên liên quan xác định kiến ​​trúc, sự phụ thuộc và rủi ro của hệ thống.
+
+Có một số loại mối quan hệ có thể được mô tả trên bản đồ ngữ cảnh, bao gồm:
+
+Quan hệ đối tác : Mối quan hệ giữa hai bối cảnh bị giới hạn trong đó họ cộng tác như những đối tác bình đẳng để đạt được mục tiêu chung.
+Hạt nhân được chia sẻ : Mối quan hệ trong đó hai bối cảnh bị chặn chia sẻ một phần của mô hình miền hoặc nguồn dữ liệu.
+Khách hàng-Nhà cung cấp : Mối quan hệ giữa hai bối cảnh bị giới hạn trong đó một bối cảnh cung cấp chức năng hoặc dữ liệu cho bối cảnh khác, ngữ cảnh này sử dụng nó.
+Người theo chủ nghĩa tuân thủ : Một mối quan hệ trong đó một bối cảnh được liên kết với một bối cảnh khác và tuân thủ các quy tắc, tiêu chuẩn hoặc chính sách của bối cảnh đó.
+Lớp chống tham nhũng : Mối quan hệ trong đó lớp dịch được sử dụng để tách biệt ngữ cảnh này với ngữ cảnh khác bằng mô hình hoặc công nghệ không tương thích.
+Dịch vụ máy chủ mở : Một mối quan hệ trong đó bối cảnh bị giới hạn cung cấp API công khai có thể được sử dụng bởi các máy khách bên ngoài hoặc các bối cảnh bị giới hạn khác.
+Ngôn ngữ được xuất bản : Một mối quan hệ trong đó hai bối cảnh giới hạn đồng ý về một ngôn ngữ hoặc từ vựng chung để giao tiếp với nhau.
+Các cách riêng biệt : Một mối quan hệ trong đó hai bối cảnh bị chặn hoàn toàn độc lập và không có tương tác với nhau.
+Ví dụ
+Đây là bản đồ bối cảnh đơn giản hóa cho một ngân hàng XYZ hư cấu . Hình ảnh này mô tả các bối cảnh bị giới hạn khác nhau, mối quan hệ của chúng. Trong trường hợp mối quan hệ không đối xứng, nó cũng chỉ ra bên nào là thượng nguồn và hạ lưu. Nhìn vào hình ảnh này sẽ giúp người xem có cái nhìn rõ ràng về bức tranh tổng thể về bất động sản phần mềm tại Ngân hàng XYZ.
+
+
+So sánh với mô hình C4
+Mô hình C4 cung cấp một cách khác để mô tả kiến ​​trúc giải pháp của bạn. Cụ thể, sơ đồ ngữ cảnh hệ thống về bản chất rất giống với sơ đồ ngữ cảnh ở chỗ chúng đều được sử dụng để trực quan hóa kiến ​​trúc của một hệ thống phần mềm. Tuy nhiên, có một số khác biệt chính giữa hai cách tiếp cận.
+
+Bản đồ bối cảnh DDD là một sơ đồ cấp cao hiển thị các bối cảnh bị giới hạn khác nhau trong một hệ thống. Mỗi ngữ cảnh bị giới hạn là một miền độc lập có ngôn ngữ, mô hình và dịch vụ riêng. Bản đồ bối cảnh DDD là một công cụ hữu ích để hiểu kiến ​​trúc tổng thể của một hệ thống và cách các bối cảnh giới hạn khác nhau tương tác với nhau.
+
+Sơ đồ ngữ cảnh hệ thống của mô hình C4 là sơ đồ chi tiết hơn hiển thị các vùng chứa và thành phần khác nhau trong hệ thống. Mỗi container là một nhóm các thành phần có chung cơ sở hạ tầng. Sơ đồ ngữ cảnh hệ thống của mô hình C4 là một công cụ hữu ích để hiểu kiến ​​trúc bên trong của hệ thống cũng như cách các vùng chứa và thành phần khác nhau tương tác với nhau.
+
+Dưới đây là bảng tóm tắt những khác biệt chính giữa hai phương pháp:
+
+Bản đồ bối cảnh DDD	Sơ đồ ngữ cảnh hệ thống của mô hình C4
+Hiển thị các bối cảnh giới hạn khác nhau	Hiển thị các vùng chứa và thành phần khác nhau
+Sơ đồ cấp cao	Sơ đồ chi tiết hơn
+Hữu ích cho việc hiểu kiến ​​trúc tổng thể	Hữu ích cho việc hiểu kiến ​​trúc nội bộ
+
+Thể loại
+
+Phân tích
+điều cơ bản
+ddd
+thiết kế
+câu hỏi thường gặp
+Khả năng lãnh đạo
+hoa văn
+Blog tại WordPress.com.
+
+
+
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+% <!-- Context Mapping : https://ddd-practitioners.com/context-map -->

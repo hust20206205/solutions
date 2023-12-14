@@ -45,7 +45,6 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-
 <!-- Separate Ways : https://ddd-practitioners.com/separate-ways -->
 <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
 

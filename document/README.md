@@ -45,8 +45,6 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- Ubiquitous Language : https://ddd-practitioners.com/home/glossary/ubiquitous-language -->
-<!-- [[Ubiquitous Language]] A language structured around the domain model and used by all team members to connect all the activities of the team with the software. -->
 
 <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
 [[Context Map]] A representation of the [[Bounded Context]]s involved in a project and the actual relationships between them and their models.

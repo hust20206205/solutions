@@ -45,15 +45,23 @@ DDD là một phương pháp thiết kế phần mềm tập trung vào việc h
 có thể nêu thêm thôi
 
 <!-- Domain : https://ddd-practitioners.com/domain   -->
+https://ddd-practitioners.com/home/glossary/domain-expert/
 <!-- Problem Domain :https://ddd-practitioners.com/home/glossary/problem-domain -->
 <!-- Solution Domain :https://ddd-practitioners.com/home/glossary/solution-domain -->
 <!-- subdomain: https://ddd-practitioners.com/home/glossary/subdomain-->
 <!-- Core Domain   https://ddd-practitioners.com/home/glossary/domain/core-domain/   -->
 
 Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ và chung có thể khác nhau ngay cả đối với các doanh nghiệp hoạt động trong cùng một tên miền. Điều này là do các tên miền phụ và vai trò của chúng được xác định theo nhu cầu kinh doanh và bối cảnh cụ thể của mỗi tổ chức. Ví dụ:
+<!-- Highlighted Core : https://ddd-practitioners.com/highlighted-core -->
 
 <!-- Generic Subdomain : https://ddd-practitioners.com/generic-subdomain -->
 <!-- Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain -->
+
+
+
+
+
+
 
 <!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
 <!-- Entity : https://ddd-practitioners.com/entity   -->
@@ -160,7 +168,6 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!-- Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture   -->
 <!--  -->
 
-Highlighted Core : https://ddd-practitioners.com/highlighted-core
 
 <!-- I -->
 

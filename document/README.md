@@ -42,17 +42,11 @@ Trình bày về Big Ball of Mud trong domain driven design
 <!--@ -->
 <!--@ -->
 
-
-
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
 <!-- [[Model]] A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain. -->
 
-
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 <!-- có thể nêu thêm thôi -->
-
-
-
 
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->

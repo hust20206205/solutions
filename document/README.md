@@ -9,6 +9,11 @@
 <!-- Bằng cách sử dụng ngôn ngữ chung như trên, chúng ta có thể tạo ra một mô hình DDD rõ ràng và dễ hiểu, giúp các đội phát triển, quản lý dự án và người dùng hiểu rõ về các yêu cầu và chức năng của hệ thống. -->
 <!--@  -->
 <!--@  -->
+
+
+Microservices Architecture : https://ddd-practitioners.com/?page_id=398
+Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
+
 <!--@  -->
 <!--@  -->
 
@@ -31,8 +36,13 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về Impact Mapping trong domain driven design
+Trình bày về          trong domain driven design
 
+<!-- OLAP*   -->
+<!-- OLTP*   -->
+
+
+<!-- Open-Closed Principle*   -->
 https://ddd-practitioners.com/home/glossary
 
 <!--@Thiết kế hướng tên miền -->
@@ -66,6 +76,7 @@ Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ v
 
 <!--!Value -->
 <!-- Factory : https://ddd-practitioners.com/factory -->
+<!-- Module : https://ddd-practitioners.com/?page_id=618 -->
 
 https://refactoring.guru/design-patterns/factory-method
 https://refactoring.guru/design-patterns/abstract-factory
@@ -118,6 +129,7 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--@Event Sourcing: -->
 
+<!-- https://www.linkedin.com/pulse/api-strategy-conways-law-inverse-conway-manoeuvre-mikael-wall%C3%A9n/ -->
 Một mô hình lưu trữ dữ liệu, trong đó tất cả các thay đổi trạng thái của hệ thống được biểu diễn dưới dạng sự kiện (event).
 
 <!-- EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming   -->
@@ -161,6 +173,8 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!-- Domain Event : https://ddd-practitioners.com/domain-event   -->
 <!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
 <!--@ Dependency Inversion Principle    -->
+Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
+Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
@@ -171,30 +185,7 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
 <!--  -->
-<!--  -->
-
-Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
-
-<!-- Inverse Conway Maneuver*   -->
-<!-- L -->
-
-Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
-
-<!-- Long-running Transaction*   -->
-<!-- M -->
-
-Microservices Architecture : https://ddd-practitioners.com/?page_id=398
-Module : https://ddd-practitioners.com/?page_id=618
-Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
-
-<!-- O -->
-<!-- Object-Oriented Programming*   -->
-<!-- OLAP*   -->
-<!-- OLTP*   -->
-
-Onion Architecture : https://ddd-practitioners.com/home/glossary/onion-architecture
-
-<!-- Open-Closed Principle*   -->
+ 
 
 Open-Host Service : https://ddd-practitioners.com/open-host-service  
 Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609

@@ -48,18 +48,7 @@ có thể nêu thêm thôi
 
 
 
-
-
-<!-- subdomain: https://ddd-practitioners.com/home/glossary/subdomain-->
-<!-- Core Domain   https://ddd-practitioners.com/home/glossary/domain/core-domain/   -->
-
-Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ và chung có thể khác nhau ngay cả đối với các doanh nghiệp hoạt động trong cùng một tên miền. Điều này là do các tên miền phụ và vai trò của chúng được xác định theo nhu cầu kinh doanh và bối cảnh cụ thể của mỗi tổ chức. Ví dụ:
-
-<!-- Highlighted Core : https://ddd-practitioners.com/highlighted-core -->
-<!-- Segregated Core : https://ddd-practitioners.com/?page_id=378 -->
-
-<!-- Generic Subdomain : https://ddd-practitioners.com/generic-subdomain -->
-<!-- Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain -->
+<!--  -->
 
 <!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
 <!-- Entity : https://ddd-practitioners.com/entity   -->

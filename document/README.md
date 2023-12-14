@@ -41,24 +41,23 @@ Trình bày về Big Ball of Mud trong domain driven design
 <!--@ -->
 <!--@ -->
 <!--@ -->
-<!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
-<!-- có thể nêu thêm thôi -->
+
+
+
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
 <!-- [[Model]] A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain. -->
-<!-- Big Ball of Mud : https://ddd-practitioners.com/home/glossary/big-ball-of-mud -->
 
-là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
-Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến
 
-<!-- nợ kỹ thuật -->
+<!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
+<!-- có thể nêu thêm thôi -->
 
-và các vấn đề dài hạn cho một dự án phần mềm.
+
+
 
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
-
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->

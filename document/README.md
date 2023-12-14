@@ -34,6 +34,13 @@ https://culttt.com/2015/11/11/what-is-active-model
 
 <!--@  -->
 <!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
+<!--@  -->
 
 Trình bày về Strangler Fig trong domain driven design
 
@@ -41,7 +48,6 @@ Trình bày về Strangler Fig trong domain driven design
 
 có thể nêu thêm thôi
 
-<!-- Domain : https://ddd-practitioners.com/domain   -->
 
 https://ddd-practitioners.com/home/glossary/domain-expert
 [[Deep Model]] An incisive expression of the primary concerns of the domain experts and their most relevant knowledge. A deep model sloughs off superficial aspects of the domain and naive interpretations.
@@ -235,9 +241,7 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Distillation]] A process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful. In software design, the abstraction of key aspects in a model, or the partitioning of a larger system to bring the CORE DOMAIN to the fore.
 
-<!-- [[Domain]] A sphere of knowledge, influence, or activity. -->
 
-<!-- [[Domain-Driven Design]] An approach to software development that suggests that (1) For most software projects, the primary focus should be on the domain and domain logic; and (2) Complex domain designs should be based on a model. -->
 
 
 <!-- [[Domain Layer]] That portion of the design and implementation responsible for domain logic within a LAYERED ARCHITECTURE. The domain layer is where the software expression of the domain model lives. -->

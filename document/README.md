@@ -40,16 +40,13 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về Strangler Fig trong domain driven design
+Trình bày về   Model   trong domain driven design
 
 <!-- Business Model Canvas : https://ddd-practitioners.com/business-value-canvas -->
 
 có thể nêu thêm thôi
 
 
-https://ddd-practitioners.com/home/glossary/domain-expert
-[[Deep Model]] An incisive expression of the primary concerns of the domain experts and their most relevant knowledge. A deep model sloughs off superficial aspects of the domain and naive interpretations.
-<!-- [[Domain Expert]] A member of a software project whose field is the domain of the application, rather than software development. Not just any user of the software, the domain expert has deep knowledge of the subject. -->
 
 <!-- Problem Domain :https://ddd-practitioners.com/home/glossary/problem-domain -->
 <!-- Solution Domain :https://ddd-practitioners.com/home/glossary/solution-domain -->

@@ -14,7 +14,7 @@
 <!--@  -->
 <!--@  -->
 
-Trình bày về     Dependency Inversion Principle     trong domain driven design
+Trình bày về Dependency Inversion Principle trong domain driven design
 
 https://ddd-practitioners.com/home/glossary
 
@@ -29,18 +29,20 @@ có thể nêu thêm thôi
 <!-- Solution Domain :https://ddd-practitioners.com/home/glossary/solution-domain -->
 <!-- subdomain: https://ddd-practitioners.com/home/glossary/subdomain-->
 <!-- Core Domain   https://ddd-practitioners.com/home/glossary/domain/core-domain/   -->
-Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ và chung có thể khác nhau ngay cả đối với các doanh nghiệp hoạt động trong cùng một tên miền. Điều này là do các tên miền phụ và vai trò của chúng được xác định theo nhu cầu kinh doanh và bối cảnh cụ thể của mỗi tổ chức. Ví dụ: 
+
+Cần lưu ý rằng ý tưởng về tên miền phụ cốt lõi, hỗ trợ và chung có thể khác nhau ngay cả đối với các doanh nghiệp hoạt động trong cùng một tên miền. Điều này là do các tên miền phụ và vai trò của chúng được xác định theo nhu cầu kinh doanh và bối cảnh cụ thể của mỗi tổ chức. Ví dụ:
+
 <!-- Generic Subdomain : https://ddd-practitioners.com/generic-subdomain -->
 <!-- Supporting Subdomain : https://ddd-practitioners.com/supporting-subdomain -->
 
+<!-- Domain Object : https://ddd-practitioners.com/domain-object   -->
+<!--!Entity -->
+<!--!Value -->
 
-Domain Object : https://ddd-practitioners.com/domain-object  
 Domain Service : https://ddd-practitioners.com/domain-service  
 Domain Storytelling : https://ddd-practitioners.com/?page_id=1005
 
-
 <!-- Domain Model: https://ddd-practitioners.com/home/glossary/domain-model -->
-
 
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
@@ -56,13 +58,15 @@ và các vấn đề dài hạn cho một dự án phần mềm.
 <!-- CI/CD -->
 
 <!-- Bounded Context: https://ddd-practitioners.com/home/glossary/bounded-context -->
- Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận cụ thể trong tổ chức. Sự tương ứng này có thể giúp giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các đội ngũ.
+
+Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận cụ thể trong tổ chức. Sự tương ứng này có thể giúp giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các đội ngũ.
 
 Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, bạn có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
 
 <!-- Bounded Context Relationships : https://ddd-practitioners.com/bounded-context-relationship   -->
 
 <!-- Context Mapping : https://ddd-practitioners.com/context-map -->
+
 Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 
 <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier   -->
@@ -77,7 +81,9 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!--@CQRS -->
 <!--@event -->
 <!-- CQRS : https://ddd-practitioners.com/?page_id=574 -->
+
 CQRS chia để thoải mái, chặt chẽ
+
 <!-- Change Data Capture: https://en.wikipedia.org/wiki/CAP_theorem -->
 
 <!-- ACID Transaction : https://ddd-practitioners.com/?page_id=415 -->
@@ -94,8 +100,6 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!-- Compensating Transaction : https://ddd-practitioners.com/compensating-transaction   -->
 <!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow   -->
 
-
-
 <!-- Domain Event : https://ddd-practitioners.com/domain-event   -->
 <!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
 <!--@ Dependency Inversion Principle    -->
@@ -107,14 +111,14 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!--!========================================================== -->
 <!--!========================================================== -->
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
- 
-<!-- *   -->
 
+<!-- *   -->
 
 <!-- Dual Write*   -->
 <!-- E -->
 
-Entity : https://ddd-practitioners.com/entity  
+<!-- Entity : https://ddd-practitioners.com/entity   -->
+
 Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture  
 Entity Identity : https://ddd-practitioners.com/entity-identity  
 Event Modeling : https://ddd-practitioners.com/?page_id=994
@@ -131,7 +135,6 @@ Factory : https://ddd-practitioners.com/factory
 
 <!-- Functional Programming*   -->
 <!-- G -->
-
 
 <!-- H -->
 
@@ -330,3 +333,42 @@ Excerpted from [[Domain-Driven Design Book]]
 <!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
 
 [[Whole Value]] An object that models a single, complete concept.
+
+<!--  -->
+Chuyển đến nội dung
+Đối với người hành nghề bởi người hành nghề
+Tìm kiếm
+Thiết kế hướng miền: Hướng dẫn dành cho người thực hành
+Câu hỏi thường gặp
+Bảng chú giải
+Về chúng tôi
+Cuốn sách của chúng tôi!
+Trang chủTrang chủBảng chú giảiDịch vụ tên miền
+Dịch vụ tên miền
+Trong Thiết kế hướng tên miền (DDD), dịch vụ miền là một thành phần đóng gói một quy tắc hoặc hoạt động kinh doanh cụ thể mà bản chất không phải là một phần của thực thể hoặc đối tượng giá trị. Dịch vụ miền xác định một tập hợp các phương thức thực hiện các hoạt động dành riêng cho miền và không phù hợp với bất kỳ đối tượng miền hiện có nào.
+
+Ví dụ: một ứng dụng ngân hàng có thể có dịch vụ miền xử lý việc chuyển tiền giữa các tài khoản. Hoạt động này liên quan đến nhiều đối tượng miền (ví dụ: tài khoản) và cũng có thể có các quy tắc kinh doanh phức tạp (ví dụ: xác thực rằng các tài khoản liên quan đến chuyển khoản thuộc về cùng một khách hàng), do đó, đây không phải là thứ có thể được xử lý bởi một thực thể hoặc đối tượng giá trị duy nhất. Trong trường hợp này, dịch vụ miền sẽ là nơi thích hợp để gói gọn hành vi này.
+
+Một dịch vụ miền chỉ nên được sử dụng khi nó có ý nghĩa trong ngữ cảnh của miền, nó phải ở trạng thái không trạng thái và không có sự tồn tại lâu dài của riêng nó.
+
+Điều quan trọng cần lưu ý là dịch vụ miền không phải là dịch vụ kỹ thuật, nó là dịch vụ dành riêng cho Miền, nó phải được sử dụng để giải quyết một vấn đề kinh doanh cụ thể và phải được đặt tên theo khái niệm kinh doanh mà nó đại diện.
+
+Ngoài các dịch vụ miền, còn có một số loại dịch vụ khác có thể được tạo khi làm việc với Thiết kế hướng miền (DDD):
+
+Dịch vụ ứng dụng: Các dịch vụ này xử lý việc trình bày và phối hợp ứng dụng. Chúng xử lý đầu vào và đầu ra của hệ thống và đóng vai trò trung gian giữa giao diện người dùng của ứng dụng và mô hình miền.
+Dịch vụ cơ sở hạ tầng: Các dịch vụ này xử lý các khía cạnh kỹ thuật của ứng dụng như tính bền vững, ghi nhật ký và giao tiếp. Chúng cung cấp chức năng cần thiết để ứng dụng chạy nhưng không được chứa bất kỳ miền logic nào.
+Bộ điều hợp giao diện: Các dịch vụ này xử lý việc chuyển đổi dữ liệu giữa mô hình miền và các hệ thống bên ngoài như cơ sở dữ liệu hoặc dịch vụ web. Họ chịu trách nhiệm ánh xạ dữ liệu giữa các cách biểu diễn khác nhau của cùng một thông tin.
+Nhà máy và kho lưu trữ: Các dịch vụ này xử lý việc tạo và truy xuất các đối tượng miền. Các nhà máy chịu trách nhiệm tạo các đối tượng mới và khởi tạo chúng với dữ liệu thích hợp, trong khi các kho lưu trữ chịu trách nhiệm truy xuất các đối tượng hiện có từ lớp lưu giữ lâu dài.
+Điều quan trọng cần lưu ý là tất cả các dịch vụ này phải được tổ chức theo cách tuân thủ nguyên tắc trách nhiệm duy nhất và giảm thiểu sự kết hợp giữa các dịch vụ khác nhau.
+
+
+Thể loại
+
+Phân tích
+điều cơ bản
+ddd
+thiết kế
+câu hỏi thường gặp
+Khả năng lãnh đạo
+hoa văn
+Blog tại WordPress.com.

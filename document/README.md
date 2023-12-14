@@ -48,8 +48,8 @@ có thể nêu thêm thôi
 
 
 
-<!-- Problem Domain :https://ddd-practitioners.com/home/glossary/problem-domain -->
-<!-- Solution Domain :https://ddd-practitioners.com/home/glossary/solution-domain -->
+
+
 <!-- subdomain: https://ddd-practitioners.com/home/glossary/subdomain-->
 <!-- Core Domain   https://ddd-practitioners.com/home/glossary/domain/core-domain/   -->
 

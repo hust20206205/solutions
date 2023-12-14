@@ -10,7 +10,6 @@
 <!--@  -->
 <!--@  -->
 
-
 Microservices Architecture : https://ddd-practitioners.com/?page_id=398
 Monolithic Architecture : https://ddd-practitioners.com/?page_id=391
 
@@ -36,13 +35,13 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@  -->
 <!--@  -->
 
-Trình bày về          trong domain driven design
+Trình bày về trong domain driven design
 
 <!-- OLAP*   -->
 <!-- OLTP*   -->
 
-
 <!-- Open-Closed Principle*   -->
+
 https://ddd-practitioners.com/home/glossary
 
 <!--@Thiết kế hướng tên miền -->
@@ -114,9 +113,6 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Aggregate:   https://ddd-practitioners.com/home/glossary/aggregate/ -->
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
 
-
-
-
 <!-- Hexagonal Architecture : https://ddd-practitioners.com/hexagonal-architecture   -->
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture   -->
 <!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service   -->
@@ -124,12 +120,12 @@ Hữu ích cho việc hiểu kiến ​​trúc tổng thể
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
 
-
 <!--@saga -->
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--@Event Sourcing: -->
 
 <!-- https://www.linkedin.com/pulse/api-strategy-conways-law-inverse-conway-manoeuvre-mikael-wall%C3%A9n/ -->
+
 Một mô hình lưu trữ dữ liệu, trong đó tất cả các thay đổi trạng thái của hệ thống được biểu diễn dưới dạng sự kiện (event).
 
 <!-- EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming   -->
@@ -173,8 +169,10 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!-- Domain Event : https://ddd-practitioners.com/domain-event   -->
 <!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
 <!--@ Dependency Inversion Principle    -->
+
 Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
+
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!--!========================================================== -->
@@ -185,7 +183,6 @@ Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/lisk
  <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần.    Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì.   Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
 
 <!--  -->
- 
 
 Open-Host Service : https://ddd-practitioners.com/open-host-service  
 Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609

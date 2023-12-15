@@ -51,7 +51,6 @@ https://ddd-practitioners.com/home/glossary
 
 <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
 
-
 <!-- Conformist : https://ddd-practitioners.com/conformist -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
@@ -59,7 +58,6 @@ https://ddd-practitioners.com/home/glossary
 <!--@============================================== -->
 
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->
-
 
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 

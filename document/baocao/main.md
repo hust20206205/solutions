@@ -283,6 +283,54 @@ Các dịch vụ cơ sở hạ tầng cung cấp các tài nguyên bên ngoài t
 <!--Hướng dẫn 7/15-->
 <!--Hướng dẫn 7/16-->
 
+
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+<!--@ Xong DDD -->
+
 <!--có các mối quan hệ giữa các liên hệ được liên kết. các liên hệ được liên kết này được chuyển thành các vi dịch vụ và các mối quan hệ này được chuyển thành các tương tác giữa các vi dịch vụ.-->
 
 <!--Các vi dịch vụ cũng tạo ra nhiều loại sự kiện khác nhau. Những sự kiện này được sử dụng bởi các vi dịch vụ khác cũng như các thành phần trong bối cảnh liên kết nơi sự kiện được tạo ra.-->

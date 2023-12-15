@@ -1,54 +1,10 @@
-tối nay phair xong ddd
-nếu có thể thì làm cái nghiệp vụ
-xem video itiso
-latex ctg htpt ttss
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!--! Hãy sử dụng Ngôn ngữ chung (Ubiquitous Language) trong domain driven design (DDD) với nội dung nghiệp vụ kinh doanh sau: -->
-
-<!-- 1. **Khách hàng (Customer):** -->
-<!-- - **Mô tả:** Người sử dụng dịch vụ, có thể là cá nhân hoặc tổ chức. -->
-
-<!-- 2. **Hóa đơn điện tử (Electronic Invoice):** -->
-<!-- - **Mô tả:** Hóa đơn được tạo và quản lý điện tử thay vì truyền thống trên giấy. -->
-<!--@ -->
-<!--@ -->
-
-<!--@ -->
-<!--@ -->
-
-https://viblo.asia/p/domain-driven-design-phan-2-MgNeWoZAeYx
-
-https://culttt.com/search
-https://culttt.com/2014/04/09/use-exception
-https://culttt.com/2014/08/18/encapsulating-applications-business-rules
-https://culttt.com/2014/09/29/creating-domain-services
-https://culttt.com/2014/12/08/creating-domain-objects-recap
-https://culttt.com/2014/12/17/aggregates-domain-driven-design
-https://culttt.com/2014/12/24/factories-domain-driven-design
-https://culttt.com/2014/12/29/enforcing-business-rules-aggregate-instantiation
-https://culttt.com/2014/04/30/difference-entities-value-objects
-https://culttt.com/2015/01/05/using-aggregates-gateway-functionality
-https://culttt.com/2015/01/07/service-oriented-architecture
-https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs
-https://culttt.com/2015/11/11/what-is-active-model
-
-<!--@ -->
-<!--@ -->
-<!--@ -->
-<!--@ -->
-<!--@ -->
-<!--@ -->
-
-Trình bày về Relationship trong domain driven design
-https://ddd-practitioners.com/home/glossary
-<!--@ -->
-<!--@ -->
+<!-- https://ddd-practitioners.com/home/glossary -->
 <!--@============================================== -->
 <!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+
 <!--@============================================== -->
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
 <!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
@@ -106,112 +62,22 @@ https://culttt.com/2014/12/24/factories-domain-driven-design
 <!--@============================================== -->
 <!--@============================================== -->
 
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
-<!--@saga -->
 
-<!---->
 
-<!--!-->
-<!--@CQRS (Command Query Responsibility Segregation): -->
-<!--CQRS, EventSourcing, Sagas-->
-<!--@Event Sourcing: -->
-<!-- Strong Consistency : https://ddd-practitioners.com/?page_id=421 -->
-<!-- Snapshots : https://ddd-practitioners.com/snapshots -->
-<!-- Saga : https://ddd-practitioners.com/home/glossary/saga -->
-<!-- Outbox Pattern -->
-<!-- Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609 -->
 
-<!-- https://www.linkedin.com/pulse/api-strategy-conways-law-inverse-conway-manoeuvre-mikael-wall%C3%A9n/ -->
 
-Một mô hình lưu trữ dữ liệu, trong đó tất cả các thay đổi trạng thái của hệ thống được biểu diễn dưới dạng sự kiện (event).
 
-<!-- EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming -->
-<!-- Domain Storytelling : https://ddd-practitioners.com/?page_id=1005 -->
 
-<!-- CQRS : https://ddd-practitioners.com/?page_id=574 -->
 
-CQRS chia để thoải mái, chặt chẽ
 
-Là một nguyên tắc trong DDD, CQRS tách biệt giữa phần xử lý câu lệnh (Command) và phần truy vấn dữ liệu (Query).
-Command đại diện cho các thao tác cập nhật dữ liệu, trong khi Query đại diện cho các thao tác truy vấn dữ liệu.
 
-<!-- Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture -->
 
-<!-- Event Modeling : https://ddd-practitioners.com/?page_id=994 -->
 
-<!-- Event Replay : https://ddd-practitioners.com/?page_id=585 -->
 
-<!-- Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing -->
 
-<!-- Event Sourcing : https://ddd-practitioners.com/?page_id=581 -->
 
-<!-- Eventual Consistency : https://ddd-practitioners.com/?page_id=419 -->
-
-<!-- Change Data Capture: https://en.wikipedia.org/wiki/CAP_theorem -->
-
-<!-- ACID Transaction : https://ddd-practitioners.com/?page_id=415 -->
-
-ACID (Atomicity, Consistency, Isolation, Durability)
-
-<!-- BASE Transaction -->
-
-BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với ACID
-
-<!-- Command : https://ddd-practitioners.com/?page_id=596 -->
-<!-- Command Handler : https://ddd-practitioners.com/?page_id=599 -->
-<!-- Compensating Action : https://ddd-practitioners.com/compensating-action -->
-<!-- Compensating Transaction : https://ddd-practitioners.com/compensating-transaction -->
-<!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow -->
-
-<!-- Domain Event : https://ddd-practitioners.com/domain-event -->
-<!--@ Dependency Inversion Principle -->
-
-SOLID : https://ddd-practitioners.com/home/glossary/solid
-Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle
-Open-Closed Principle
-Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
-Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
-
-<!--!========================================================== -->
-<!--!========================================================== -->
-<!--!========================================================== -->
-<!--!========================================================== -->
-<!--!========================================================== -->
-<!--!========================================================== -->
-<!--!========================================================== -->
-<!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần. Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì. Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
-<!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
-<!--@gRPC -->
-<!--@gRPC -->
-<!--@gRPC -->
-<!--@gRPC -->
-![Alt text](cu_hanh_onion.png)
-<!--@gRPC -->
-<!--@gRPC -->
-<!--@gRPC -->
-<!--@gRPC -->
-<!--@gRPC -->
-<!--@gRPC -->
-<!--@gRPC -->
 <!--!======================================================-->
+![Alt text](cu_hanh_onion.png)
 <!--Aggregates/Entities/Value Objects-->
 
 Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh giới hạn của chúng ta và xác định phạm vi nhất quán trong bối cảnh giới hạn đó.
@@ -499,3 +365,173 @@ Các dịch vụ cơ sở hạ tầng cung cấp các tài nguyên bên ngoài t
 <!--@ Xong DDD -->
 <!--@ Xong DDD -->
 <!--@ Xong DDD -->
+
+
+
+
+
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+tối nay phair xong ddd
+nếu có thể thì làm cái nghiệp vụ
+xem video itiso
+latex ctg htpt ttss
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!--! Hãy sử dụng Ngôn ngữ chung (Ubiquitous Language) trong domain driven design (DDD) với nội dung nghiệp vụ kinh doanh sau: -->
+
+<!-- 1. **Khách hàng (Customer):** -->
+<!-- - **Mô tả:** Người sử dụng dịch vụ, có thể là cá nhân hoặc tổ chức. -->
+
+<!-- 2. **Hóa đơn điện tử (Electronic Invoice):** -->
+<!-- - **Mô tả:** Hóa đơn được tạo và quản lý điện tử thay vì truyền thống trên giấy. -->
+<!--@ -->
+<!--@ -->
+
+<!--@ -->
+<!--@ -->
+
+https://viblo.asia/p/domain-driven-design-phan-2-MgNeWoZAeYx
+
+https://culttt.com/search
+https://culttt.com/2014/04/09/use-exception
+https://culttt.com/2014/08/18/encapsulating-applications-business-rules
+https://culttt.com/2014/09/29/creating-domain-services
+https://culttt.com/2014/12/08/creating-domain-objects-recap
+https://culttt.com/2014/12/17/aggregates-domain-driven-design
+https://culttt.com/2014/12/24/factories-domain-driven-design
+https://culttt.com/2014/12/29/enforcing-business-rules-aggregate-instantiation
+https://culttt.com/2014/04/30/difference-entities-value-objects
+https://culttt.com/2015/01/05/using-aggregates-gateway-functionality
+https://culttt.com/2015/01/07/service-oriented-architecture
+https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs
+https://culttt.com/2015/11/11/what-is-active-model
+
+<!--@ -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
+<!--@ -->
+
+<!-- Trình bày về Relationship trong domain driven design -->
+<!--@ -->
+<!--@ -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+<!--@saga -->
+
+<!---->
+
+<!--!-->
+<!--@CQRS (Command Query Responsibility Segregation): -->
+<!--CQRS, EventSourcing, Sagas-->
+<!--@Event Sourcing: -->
+<!-- Strong Consistency : https://ddd-practitioners.com/?page_id=421 -->
+<!-- Snapshots : https://ddd-practitioners.com/snapshots -->
+<!-- Saga : https://ddd-practitioners.com/home/glossary/saga -->
+<!-- Outbox Pattern -->
+<!-- Optimistic Concurrency Control : https://ddd-practitioners.com/?page_id=609 -->
+
+<!-- https://www.linkedin.com/pulse/api-strategy-conways-law-inverse-conway-manoeuvre-mikael-wall%C3%A9n/ -->
+
+Một mô hình lưu trữ dữ liệu, trong đó tất cả các thay đổi trạng thái của hệ thống được biểu diễn dưới dạng sự kiện (event).
+
+<!-- EventStorming : https://ddd-practitioners.com/home/glossary/eventstorming -->
+<!-- Domain Storytelling : https://ddd-practitioners.com/?page_id=1005 -->
+
+<!-- CQRS : https://ddd-practitioners.com/?page_id=574 -->
+
+CQRS chia để thoải mái, chặt chẽ
+
+Là một nguyên tắc trong DDD, CQRS tách biệt giữa phần xử lý câu lệnh (Command) và phần truy vấn dữ liệu (Query).
+Command đại diện cho các thao tác cập nhật dữ liệu, trong khi Query đại diện cho các thao tác truy vấn dữ liệu.
+
+<!-- Event-Driven Architecture : https://ddd-practitioners.com/home/glossary/event-driven-architecture -->
+
+<!-- Event Modeling : https://ddd-practitioners.com/?page_id=994 -->
+
+<!-- Event Replay : https://ddd-practitioners.com/?page_id=585 -->
+
+<!-- Event Sourced Aggregates : https://ddd-practitioners.com/event-sourcing -->
+
+<!-- Event Sourcing : https://ddd-practitioners.com/?page_id=581 -->
+
+<!-- Eventual Consistency : https://ddd-practitioners.com/?page_id=419 -->
+
+<!-- Change Data Capture: https://en.wikipedia.org/wiki/CAP_theorem -->
+
+<!-- ACID Transaction : https://ddd-practitioners.com/?page_id=415 -->
+
+ACID (Atomicity, Consistency, Isolation, Durability)
+
+<!-- BASE Transaction -->
+
+BASE là viết tắt của "Basically Available, Soft state, Eventually consistent," và đối lập với ACID
+
+<!-- Command : https://ddd-practitioners.com/?page_id=596 -->
+<!-- Command Handler : https://ddd-practitioners.com/?page_id=599 -->
+<!-- Compensating Action : https://ddd-practitioners.com/compensating-action -->
+<!-- Compensating Transaction : https://ddd-practitioners.com/compensating-transaction -->
+<!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow -->
+
+<!-- Domain Event : https://ddd-practitioners.com/domain-event -->
+<!--@ Dependency Inversion Principle -->
+
+SOLID : https://ddd-practitioners.com/home/glossary/solid
+Single Responsibility Principle : https://ddd-practitioners.com/single-responsibility-principle
+Open-Closed Principle
+Liskov Substitution Principle : https://ddd-practitioners.com/home/glossary/liskov-substitution-principle
+Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
+
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!--!========================================================== -->
+<!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần. Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì. Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
+<!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->

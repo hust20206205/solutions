@@ -1,39 +1,67 @@
 \documentclass{article} % loại tài liệu
+
 \usepackage[utf8]{vietnam} % tiếng Việt
+
 \usepackage[left = 3.5cm,right = 2cm,top = 3.5cm,bottom = 3cm]{geometry} % căn lề
+
 \usepackage{tikz} % vẽ hình
+
 \usetikzlibrary{calc} % tính toán vẽ hình
+
 \usepackage{graphicx} % hình ảnh
+
 \usepackage{pdfpages} % thêm file pdf bao_cao_tien_do
 
 % Sử dụng gói color để thay đổi màu
+
 \usepackage{color} %* mau_sac
+
 % Sử dụng gói xcolor để mở rộng tính năng thay đổi màu
+
 \usepackage{xcolor} %* mau_sac
+
 % \definecolor{HustRed}{RGB}{206,22,40}
+
 % \definecolor{HustYellow}{RGB}{242,193,8}
+
 \definecolor{BackgroundCode}{RGB}{242,242,235}
 
 % Sử dụng gói caption để tùy chỉnh caption
+
 \usepackage{caption}%* caption
+
 % Sử dụng gói listing để hiển thị mã nguồn
+
 \usepackage{listing}
+
 % \renewcommand*{\listlistingname}{Danh sách mã nguồn}
+
 \DeclareCaptionLabelFormat{code_caption}{{Mã nguồn #2}}
+
 \captionsetup*[listing]{labelformat = code_caption}
 
 % Sử dụng gói minted để đính kèm và định dạng mã nguồn
+
 \usepackage{minted} %! code_python
+
 \setminted{
+
 fontsize = \footnotesize, % Cỡ chữ cho mã nguồn
+
 frame = lines, % Hiển thị đường viền xung quanh mã nguồn
+
 framesep = 2mm, % Khoảng cách giữa đường viền và nội dung mã nguồn
+
 bgcolor = BackgroundCode, % Màu nền cho mã nguồn
+
 linenos, % Hiển thị số dòng ở bên trái
+
 autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
+
 }
 
 \begin{document} % bắt đầu
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % \input{contents/trang_bia}
@@ -41,7 +69,9 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/trang_trang}
 
 % \input{contents/nhan_xet_cua_giang_vien}
+
 % \includepdf[pages = -]{contents/bao_cao_tien_do_1.pdf}
+
 % \includepdf[pages = -]{contents/bao_cao_tien_do_2.pdf}
 
 % \input{contents/muc_luc}
@@ -65,6 +95,7 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/danh_sach_cac_thuat_ngu}
 
 %%%%%%%%%%%
+
 % \section{Giới thiệu}
 
 % \input{contents/gioi_thieu_chung}
@@ -90,6 +121,7 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/ban_the_hien_cua_hoa_don_dien_tu}
 
 % \subsubsection{Lưu trữ hóa đơn điện tử}
+
 % Thời gian?
 
 % \input{contents/luu_tru_hoa_don_dien_tu}
@@ -99,6 +131,7 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/mot_so_loi_ich_cua_hoa_don_dien_tu}
 
 % \subsection{Giới thiệu về kiến trúc vi dịch vụ}
+
 % \subsubsection{Kiến trúc nguyên khối}
 
 % \input{contents/kien_truc_nguyen_khoi}
@@ -122,10 +155,13 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/gioi_thieu_ve_thiet_ke_huong_mien}
 
 %%%%%%%%%%%
+
 % \section{Yêu cầu nghiệp vụ}
 
 % \input{contents/yeu_cau_nghiep_vu}
+
 % Nguồn: TCT: https://hoadondientu.gdt.gov.vn
+
 % https://helpsme.misa.vn/2020/kb/quan - ly - hoa - don - dien - tu
 
 % \subsection {Yêu cầu nghiệp vụ của bài toán phụ}
@@ -135,18 +171,27 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \subsubsection{Các chức năng tổng quan của bài toán phụ}
 
 % \input{contents/cac_chuc_nang_tong_quan_cua_bai_toan_phu}
+
 % \subsection{Yêu cầu nghiệp vụ chưa xong}
+
 % \subsection{Yêu cầu nghiệp vụ chưa xong}
+
 % \subsection{Yêu cầu nghiệp vụ chưa xong}
+
 % \subsection{Yêu cầu nghiệp vụ chưa xong}
+
 % \subsection{Yêu cầu nghiệp vụ chưa xong}
+
 % chưa xong
 
 % \input{contents/yeu_cau_nghiep_vu_chua_xong}
 
 %%%%%%%%%%%
+
 % \section{Chi tiết và áp dụng thiết kế hướng miền}
+
 % https:// thiết kế hướng miền - practitioners.com/home/glossary
+
 % https: //www.infoq.com/minibooks/domain - driven - design - quickly
 
 % \subsection{Đôi nét về thiết kế hướng miền (DomainDrivenDesign)}
@@ -194,14 +239,23 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/ban_do_boi_canh_context_maps}
 
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
 
 % \subsubsection{Chi tiết về các mối quan hệ bối cảnh giới hạn}
@@ -249,17 +303,27 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/ngon_ngu_duoc_xuat_ban_published_language}
 
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
+
 % ĐẾN ĐÂY
 
 \subsubsection{xxxxxxx}
+
 % \input{contents/_a.tex}
+
 \end{document} % kết thúc
 
 % \subsection{Các mẫu kỹ thuật (Tactical Patterns)}
@@ -271,17 +335,27 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 % \input{contents/_a.tex}
 
 % %
+
 % Yêu cầu nghiệp vụ của từng sub
+
 % %
+
 % Sơ đồ if else Đ S
+
 % %
+
 % sub trước model
+
 % %
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \end{document}
 
 \section{xxxxxxx}
+
 \subsection{xxxxxxx}
+
 \subsubsection{xxxxxxx}
 
 \input{contents/_a.tex}
@@ -291,7 +365,9 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 CQRS là một mẫu kiến trúc riêng biệt có thể được sử dụng kết hợp với thiết kế hướng miền để đạt được những lợi ích nhất định, chẳng hạn như cải thiện hiệu suất và khả năng mở rộng. Tuy nhiên, nó không phải là một yêu cầu để triển khai thiết kế hướng miền.
 
 % phải có event
+
 Ngôn ngữ chung (Ubiquitous Language)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \end{document} % kết thúc

@@ -1,24 +1,39 @@
 % Khi những liên hệ giới hạn có sự phụ thuộc lẫn nhau.
+
 % Đôi khi chúng ta tìm thấy những liên hệ giới hạn có sự phụ thuộc lẫn nhau.
+
 **Mô hình hợp tác (Partnership Pattern)**
+
 Sự phụ thuộc lẫn nhau này dẫn đến mức độ kết hợp cao.
+
 Từ góc độ hiện thực hóa, mô hình hợp tác chuyển thành các dịch vụ có sự phụ thuộc lẫn nhau.
+
 = > Vì vậy, các nhóm không thể hoạt động độc lập.
+
 Mỗi nhóm tham gia vào mối quan hệ này sẽ cần phải tìm hiểu các mô hình kinh doanh và ngôn ngữ chung cho các mối liên hệ gắn kết do nhóm kia quản lý.
+
 = > Sự phụ thuộc cao dẫn tới mất đi tính độc lập của kiến trúc vi dịch vụ.
 
 Một cách để giải quyết vấn đề này là phân định ranh giới cho các mô hình dùng chung.
+
 Có thể tạo ranh giới xung quanh các mô hình được chia sẻ giữa hai điểm tiếp xúc được liên kết.
+
 Quản lý các mô hình chia sẻ này một cách độc lập với phần còn lại của bối cảnh liên kết.
+
 Nếu cần thay đổi và thay đổi không phải là một phần của mô hình được chia sẻ thì nhóm được đưa ra quyết định độc lập.
+
 Nhưng nếu có nhu cầu thay đổi mẫu dùng chung thì 2 nhóm sẽ phối hợp.
 
 % %! Partnership : https:// thiết kế hướng miền - practitioners.com/partnership - - >
+
 % %! Partnership : https:// thiết kế hướng miền - practitioners.com/partnership - - >
+
 % %! Partnership : https:// thiết kế hướng miền - practitioners.com/partnership - - >
 
 Trang chủTrang chủBảng chú giảiBối cảnh giới hạn Mối quan hệ bối cảnh giới hạn quan hệ đối tác
+
 quan hệ đối tác
+
 Trong Thiết kế hướng miền (thiết kế hướng miền), mối quan hệ hợp tác là một loại mối quan hệ giữa các bối cảnh giới hạn . Trong mối quan hệ này, hai hoặc nhiều bối cảnh giới hạn cộng tác theo cách mà chúng có sự hiểu biết chung về mô hình của nhau và cách chúng tương tác với nhau. Mục tiêu của sự hợp tác này là cung cấp giải pháp đầy đủ và toàn diện cho vấn đề miền mà hệ thống đang giải quyết.
 
 Trong mối quan hệ hợp tác, các bối cảnh giới hạn không hoàn toàn độc lập với nhau nhưng vẫn duy trì một mức độ tự chủ và độc lập nhất định. Sự hợp tác giữa họ dựa trên mô hình miền chung, được tất cả những người tham gia hợp tác đồng ý. Mô hình này hoạt động như một ngôn ngữ chung cho phép các nhóm khác nhau giao tiếp hiệu quả và xây dựng các giải pháp phối hợp hiệu quả với nhau.
@@ -26,19 +41,31 @@ Trong mối quan hệ hợp tác, các bối cảnh giới hạn không hoàn to
 Mối quan hệ hợp tác rất hữu ích khi các bối cảnh giới hạn cần chia sẻ dữ liệu hoặc cộng tác để cung cấp giải pháp hoàn chỉnh cho vấn đề miền. Mối quan hệ này thường được thiết lập giữa các bối cảnh có liên quan chặt chẽ và có tác động đáng kể đến hành vi của nhau.
 
 Hàm ý
+
 Mối quan hệ hợp tác giữa các bối cảnh giới hạn có thể có cả ưu điểm và nhược điểm:
 
 Ưu điểm
+
 Mối quan hệ hợp tác có thể tạo điều kiện thuận lợi cho việc giao tiếp và cộng tác giữa các nhóm làm việc trên các bối cảnh giới hạn khác nhau.
+
 Chúng có thể giúp điều chỉnh ngôn ngữ chung và đảm bảo rằng các mô hình khác nhau đều nhất quán và bổ sung cho nhau.
+
 Chúng có thể cho phép tạo ra các giải pháp toàn diện, gắn kết hơn, trải rộng trên nhiều bối cảnh giới hạn .
+
 Chúng có thể tạo cơ hội cho việc tái sử dụng các dịch vụ hoặc thành phần trong nhiều ngữ cảnh.
+
 Nhược điểm
+
 Mối quan hệ hợp tác có thể tạo ra sự phụ thuộc giữa các nhóm và bối cảnh giới hạn, điều này có thể gây khó khăn hơn cho việc phát triển toàn bộ hệ thống.
+
 Họ có thể giới thiệu thêm chi phí liên lạc và phối hợp.
+
 Chúng có thể khiến việc duy trì quyền tự chủ và độc lập của các bối cảnh giới hạn trở nên khó khăn hơn.
+
 Chúng có thể làm tăng độ phức tạp của toàn bộ hệ thống và khiến việc giải thích trở nên khó khăn hơn.
+
 Ví dụ
+
 Giả sử chúng ta có bối cảnh giới hạn cho nền tảng thương mại điện tử, bao gồm tổng hợp Giỏ hàng xử lý tất cả logic liên quan đến việc thêm mặt hàng vào giỏ hàng, cập nhật số lượng và xử lý đơn đặt hàng. Một bối cảnh giới hạn khác trong hệ thống là dịch vụ Xử lý thanh toán chịu trách nhiệm xử lý các khoản thanh toán.
 
 Trong trường hợp này, chúng ta có thể thiết lập mối quan hệ hợp tác giữa bối cảnh Giỏ hàng và Xử lý thanh toán. Điều này có nghĩa là khi một đơn đặt hàng được gửi trong ngữ cảnh Giỏ hàng, ngữ cảnh Xử lý Thanh toán sẽ được thông báo và có thể bắt đầu xử lý thanh toán. Nếu thanh toán thành công, bối cảnh Giỏ hàng sẽ được thông báo để nó có thể hoàn tất đơn hàng, nhưng nếu thanh toán không thành công, bối cảnh Giỏ hàng có thể thực hiện các hành động đền bù để hủy đơn hàng.
@@ -46,23 +73,37 @@ Trong trường hợp này, chúng ta có thể thiết lập mối quan hệ h�
 Mối quan hệ hợp tác này cho phép hai bối cảnh giới hạn làm việc cùng nhau để hoàn thành một mục tiêu chung, trong khi vẫn duy trì cấu trúc dữ liệu và logic độc lập của riêng chúng. Nhược điểm của phương pháp này là nó có thể làm tăng thêm độ phức tạp và sự phụ thuộc giữa các ngữ cảnh, vì vậy nó nên được sử dụng một cách thận trọng và chỉ khi cần thiết.
 
 Khi nào nó hoạt động?
+
 Để mối quan hệ hợp tác giữa các bối cảnh giới hạn hoạt động hiệu quả, cần phải đáp ứng các điều kiện sau:
 
 Ngôn ngữ miền dùng chung: Cả hai ngữ cảnh được giới hạn phải thống nhất về ngôn ngữ và thuật ngữ được sử dụng để mô tả các khái niệm và hoạt động của miền.
+
 Hợp tác mạnh mẽ: Sự hợp tác hiệu quả giữa các nhóm chịu trách nhiệm về từng bối cảnh giới hạn là điều cần thiết. Cần có sự giao tiếp rõ ràng và tương tác thường xuyên để đảm bảo sự thống nhất giữa các mục tiêu và hoạt động.
+
 Ranh giới rõ ràng: Ranh giới của từng bối cảnh được giới hạn cần được xác định rõ ràng để tránh chồng chéo, nhầm lẫn.
+
 Bản đồ bối cảnh rõ ràng: Mối quan hệ giữa các bối cảnh giới hạn phải được ghi lại rõ ràng, bao gồm các tương tác giữa các nhóm chịu trách nhiệm về từng bối cảnh giới hạn và các quy tắc quản lý các tương tác đó.
+
 Tính nhất quán và ổn định: Giao diện giữa các bối cảnh giới hạn phải ổn định và nhất quán theo thời gian để tránh gián đoạn mối quan hệ.
+
 Lợi ích chung: Cả hai bối cảnh đều phải thu được lợi ích chung từ quan hệ đối tác. Điều này có thể bao gồm việc chia sẻ dữ liệu hoặc chức năng hoặc phân phối giá trị doanh nghiệp hiệu quả hơn.
+
 Khi nào nó không hoạt động?
+
 Mối quan hệ hợp tác có thể không hoạt động trong các trường hợp sau:
 
 Thiếu tin tưởng: Trong mối quan hệ hợp tác, mỗi bối cảnh giới hạn nên tin tưởng người kia sẽ hoàn thành trách nhiệm của mình. Nếu thiếu sự tin tưởng có thể dẫn đến xung đột, hiểu lầm.
+
 Mục tiêu không phù hợp: Nếu mục tiêu của các bối cảnh giới hạn không được căn chỉnh, có thể dẫn đến xung đột và bất đồng. Ví dụ: nếu một bối cảnh giới hạn tập trung vào việc tối ưu hóa tốc độ, trong khi ngữ cảnh còn lại tập trung vào tính nhất quán của dữ liệu thì có thể xảy ra xung đột.
+
 Vấn đề giao tiếp: Mối quan hệ hợp tác đòi hỏi sự giao tiếp và hợp tác hiệu quả giữa các nhóm. Nếu có vấn đề về giao tiếp hoặc sự khác biệt về văn hóa giữa các nhóm, điều đó có thể dẫn đến hiểu lầm và xung đột.
+
 Đóng góp không đồng đều: Trong mối quan hệ hợp tác, cả hai bối cảnh đều phải đóng góp như nhau cho mục tiêu chung. Nếu một bối cảnh giới hạn đang thực hiện tất cả những công việc nặng nhọc trong khi bối cảnh kia không đóng góp đủ, điều đó có thể dẫn đến sự bất bình và xung đột.
+
 Những thay đổi trong yêu cầu kinh doanh: Nếu có những thay đổi trong yêu cầu kinh doanh, nó có thể ảnh hưởng đến mối quan hệ đối tác. Ví dụ: nếu mục tiêu hoặc yêu cầu của một bối cảnh giới hạn thay đổi, điều đó cũng có thể ảnh hưởng đến bối cảnh giới hạn khác. Điều này có thể dẫn đến xung đột, bất đồng nếu hai bối cảnh giới hạn không thể thích ứng với những thay đổi một cách hiệu quả.
 
 % %! Partnership : https:// thiết kế hướng miền - practitioners.com/partnership - - >
+
 % %! Partnership : https:// thiết kế hướng miền - practitioners.com/partnership - - >
+
 % %! Partnership : https:// thiết kế hướng miền - practitioners.com/partnership - - >

@@ -1,4 +1,5 @@
 bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
+
 quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
 
 %! Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn . - - >
@@ -6,10 +7,13 @@ quyết định tạo ra mô hình của riêng mình thay vì áp dụng các m
 %! Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống đổ vỡ - - >
 
 %! Ý tưởng đằng sau luật sư chống đổ vỡ là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. - - >
+
 %! !ký hiệu: ACL - U - - >
 
 trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến thức gì về mô hình của nhau.
+
 ACL có kiến thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống đổ vỡ cần phải có kiến thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
+
 Nhưng hạ lưu không có kiến thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống đổ vỡ bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
 
 %! @ = = = = = = = = = = = = = = = = = = = = = = = - - >
@@ -35,15 +39,21 @@ Vì vậy, điều đó có nghĩa là lớp chống đổ vỡ cần phải có
 Nhưng hạ lưu không có kiến thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống đổ vỡ bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
 
 %! !Lớp chống đổ vỡ này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng. - - >
+
 %! !, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp. - - >
+
 %! @ = = = = = = = = = = = = = = = = = = = = = = = - - >
 
 % %! Anti - Corruption Layer (ACL) : https:// thiết kế hướng miền - practitioners.com/anticorruption - layer
+
 % %! Anti - Corruption Layer (ACL) : https:// thiết kế hướng miền - practitioners.com/anticorruption - layer
+
 % %! Anti - Corruption Layer (ACL) : https:// thiết kế hướng miền - practitioners.com/anticorruption - layer
 
 Trang chủTrang chủBảng chú giảiBối cảnh giới hạn Mối quan hệ bối cảnh giới hạn Lớp chống đổ vỡ
+
 Lớp chống đổ vỡ
+
 Lớp chống đổ vỡ mối quan hệ đề cập đến một mẫu thiết kế trong đó lớp trung gian được tạo giữa hai bối cảnh giới hạn để tạo điều kiện giao tiếp giữa chúng. Lớp chống đổ vỡ đóng vai trò là cầu nối giữa hai miền khác nhau và đảm bảo rằng mỗi ngữ cảnh giới hạn có thể duy trì ngôn ngữ và thuật ngữ riêng mà không bị ảnh hưởng bởi ngữ cảnh kia.
 
 Lớp chống đổ vỡ cung cấp một lớp dịch ánh xạ dữ liệu giữa hai bối cảnh và thực thi các ranh giới giữa chúng. Nó hoạt động như một bộ lọc để đảm bảo rằng ảnh hưởng sai lệch của bối cảnh này không ảnh hưởng đến bối cảnh kia. Mối quan hệ này hữu ích khi có nhu cầu tích hợp với các hệ thống cũ hoặc hệ thống bên ngoài sử dụng các thuật ngữ, công nghệ hoặc cấu trúc dữ liệu khác nhau.
@@ -51,40 +61,62 @@ Lớp chống đổ vỡ cung cấp một lớp dịch ánh xạ dữ liệu gi�
 Mục tiêu của mối quan hệ lớp chống đổ vỡ là bảo vệ tính toàn vẹn và quyền tự chủ của từng bối cảnh giới hạn trong khi vẫn cho phép chúng hoạt động cùng nhau một cách hiệu quả.
 
 Hàm ý
+
 Mối quan hệ lớp chống đổ vỡ giữa các bối cảnh giới hạn có những ưu và nhược điểm sau:
 
 Ưu điểm
+
 Cho phép tích hợp các hệ thống cũ với các hệ thống hiện đại bằng cách sử dụng lớp dịch mà không ảnh hưởng đến mô hình miền của hệ thống mới.
+
 Giúp đảm bảo tính toàn vẹn của mô hình miền được duy trì trong hệ thống mới bằng cách cách ly mọi hệ thống cũ có thể không tuân thủ mô hình miền của hệ thống mới.
+
 Khuyến khích phát triển sự tách biệt rõ ràng các mối quan tâm giữa hệ thống mới và hệ thống cũ.
+
 Nhược điểm
+
 Yêu cầu nỗ lực phát triển bổ sung để xây dựng và duy trì lớp chống đổ vỡ .
+
 Có thể tăng thêm độ phức tạp cho kiến trúc hệ thống tổng thể.
+
 Có thể tạo thêm các điểm lỗi trong hệ thống nếu lớp chống đổ vỡ không được triển khai chính xác.
+
 Nhìn chung, việc sử dụng lớp chống đổ vỡ có thể là một công cụ có giá trị để tích hợp các hệ thống cũ với các hệ thống hiện đại theo cách duy trì tính toàn vẹn của mô hình miền và khuyến khích phân tách các mối quan ngại, nhưng nó đòi hỏi phải xem xét cẩn thận về nỗ lực phát triển bổ sung và độ phức tạp tiềm ẩn có thể xảy ra. giới thiệu.
 
 Ví dụ
+
 Giả sử chúng ta có hai bối cảnh giới hạn: một hệ thống cũ xử lý thông tin khách hàng và một hệ thống hiện đại mới cần sử dụng thông tin khách hàng đó. Hệ thống cũ sử dụng lược đồ CSDL riêng và các quy ước đặt tên không tương thích với hệ thống hiện đại. Chúng tôi có thể giới thiệu một lớp chống đổ vỡ giữa hai bối cảnh để chuyển dữ liệu từ hệ thống cũ sang định dạng mà hệ thống hiện đại có thể sử dụng.
 
 Lớp chống đổ vỡ sẽ chịu trách nhiệm:
 
 Hiểu mô hình dữ liệu của hệ thống cũ và nó khác với hệ thống hiện đại như thế nào
+
 Dịch dữ liệu từ định dạng của hệ thống cũ sang định dạng của hệ thống hiện đại
+
 Hiển thị giao diện rõ ràng và nhất quán cho hệ thống hiện đại giúp bảo vệ hệ thống khỏi sự phức tạp của hệ thống cũ
+
 Khi nào nó hoạt động?
+
 Mối quan hệ lớp chống đổ vỡ có hiệu quả trong các trường hợp sau:
 
 Khi nhiều ngữ cảnh giới hạn có mô hình miền và ngôn ngữ riêng và cần giao tiếp với nhau. Trong trường hợp này, lớp chống đổ vỡ đóng vai trò là cầu nối giữa hai ngữ cảnh, dịch mô hình miền và ngôn ngữ của ngữ cảnh này sang ngữ cảnh khác.
+
 Khi một ngữ cảnh giới hạn cần tương tác với một hệ thống cũ có mô hình miền và ngôn ngữ khác. Trong trường hợp này, lớp chống đổ vỡ có thể được sử dụng để dịch mô hình miền và ngôn ngữ của hệ thống cũ sang mô hình miền và ngôn ngữ của ngữ cảnh giới hạn .
+
 Khi một ngữ cảnh giới hạn cần tương tác với một hệ thống hoặc API bên ngoài có mô hình miền và ngôn ngữ khác. Trong trường hợp này, lớp chống đổ vỡ có thể được sử dụng để dịch mô hình miền và ngôn ngữ của hệ thống bên ngoài sang mô hình và ngôn ngữ miền của ngữ cảnh giới hạn .
+
 Nhìn chung, mối quan hệ lớp chống đổ vỡ có hiệu quả khi có nhu cầu tách rời các bối cảnh hoặc hệ thống giới hạn khác nhau có mô hình miền và ngôn ngữ riêng, đồng thời ngăn chặn sự lây nhiễm mô hình miền của bối cảnh giới hạn bởi mô hình miền của bối cảnh hoặc hệ thống khác.
 
 Khi nào nó không hoạt động?
+
 Mối quan hệ lớp chống đổ vỡ giữa các bối cảnh giới hạn là một công cụ mạnh mẽ để giữ cho các bối cảnh giới hạn trở nên độc lập, nhưng nó đi kèm với một số sự đánh đổi. Một sự cân bằng lớn là sự phức tạp và chi phí bổ sung khi triển khai và duy trì lớp chống đổ vỡ . Ngoài ra, nếu lớp chống đổ vỡ không được thiết kế chính xác hoặc nếu nó không được cập nhật với những thay đổi trong bối cảnh giới hạn mà nó đang bảo vệ, thì nó có thể trở thành nút cổ chai hoặc nguồn gây ra lỗi.
 
 Mối quan hệ của lớp chống đổ vỡ hoạt động hiệu quả nhất khi có nhu cầu rõ ràng và khi nó được thiết kế và triển khai chính xác. Nó đặc biệt hữu ích trong trường hợp có hệ thống cũ hoặc hệ thống bên ngoài có mô hình dữ liệu riêng cần được tích hợp với hệ thống mới được xây dựng bằng thiết kế hướng miền . Trong những trường hợp như vậy, lớp chống đổ vỡ có thể được sử dụng để dịch giữa các mô hình dữ liệu khác nhau và đảm bảo rằng hệ thống mới không bị ảnh hưởng bởi thiết kế của hệ thống cũ.
 
 % %! Anti - Corruption Layer (ACL) : https:// thiết kế hướng miền - practitioners.com/anticorruption - layer
+
 % %! Anti - Corruption Layer (ACL) : https:// thiết kế hướng miền - practitioners.com/anticorruption - layer
+
 % %! Anti - Corruption Layer (ACL) : https:// thiết kế hướng miền - practitioners.com/anticorruption - layer
+
 % %! Anti - Corruption Layer (ACL) : https:// thiết kế hướng miền - practitioners.com/anticorruption - layer
+

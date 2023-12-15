@@ -9,13 +9,19 @@ Thiết kế hướng miền nhấn mạnh việc sử dụng lĩnh vực nghi�
 Trong nhiều ứng dụng thường có phần xử lý các công việc không liên quan đến vấn đề nghiệp vụ như truy cập file, hạ tầng mạng, CSDL,... trong đối tượng nghiệp vụ kinh doanh. Cách này giúp tốc độ hoàn thiện ứng dụng nhanh. Tuy nhiên, cách này làm cho thiết kế bị mất đi tính hướng đối tượng trong thực tế với mức độ doanh nghiệp lớn. Đây là lý do thiết kế hướng miền trở nên quan trọng.
 
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
 
 là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa.
+
 Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến
 
 %!<! - - nợ kỹ thuật - - >
@@ -23,31 +29,47 @@ Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời
 và các vấn đề dài hạn cho một dự án phần mềm.
 
 Trang chủTrang chủBảng chú giảiQuả bóng bùn lớn
+
 Quả bóng bùn lớn
+
 “Quả bóng bùn lớn” là thuật ngữ được sử dụng trong phát triển phần mềm để mô tả một hệ thống phức tạp, khó bảo trì và thiếu cấu trúc hoặc tổ chức rõ ràng. Nó thường là kết quả của thiết kế kém, mã hóa đặc biệt và thiếu tầm nhìn xa. Loại hệ thống này khó thay đổi, hiểu và kiểm tra, đồng thời thường có thể dẫn đến nợ kỹ thuật và các vấn đề dài hạn cho một dự án phần mềm. Thuật ngữ này nhấn mạnh ý tưởng rằng hệ thống đã trở thành một “quả bóng bùn lớn” do những thay đổi và bổ sung ngày càng gia tăng, thay vì là kết quả của một cách tiếp cận có cấu trúc và được lên kế hoạch tốt.
 
 Ngược lại, Thiết kế hướng miền (thiết kế hướng miền) ủng hộ cách tiếp cận có chủ ý và chiến lược đối với thiết kế phần mềm, tập trung vào mô hình hóa các miền trong thế giới thực và xác định sự phân tách rõ ràng trách nhiệm giữa các phần khác nhau của hệ thống. Bằng cách tuân theo các nguyên tắc thiết kế hướng miền, mục đích là tránh tạo ra một “quả bóng bùn lớn” và thay vào đó xây dựng một kiến trúc phần mềm có cấu trúc tốt và có thể bảo trì được.
 
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
+
 % %!<! - - Big Ball of Mud : https:// thiết kế hướng miền - practitioners.com/home/glossary/big - ball - of - mud - - >
 
 Trong kiến trúc vi dịch vụ, thiết kế hướng miền giúp đảm bảo rằng mỗi dịch vụ được thiết kế phản ánh một phần cụ thể của lĩnh vực kinh doanh. Mỗi dịch vụ được quản lí bởi một nhóm nhỏ được hỗ trợ bởi các chuyên gia ngành.
 
 % %!<! - - Domain - Driven Design : https:// thiết kế hướng miền - practitioners.com/domain - driven - design - - >
+
 % %!<! - - Domain - Driven Design : https:// thiết kế hướng miền - practitioners.com/domain - driven - design - - >
+
 % %!<! - - Domain - Driven Design : https:// thiết kế hướng miền - practitioners.com/domain - driven - design - - >
+
 % %!<! - - Domain - Driven Design : https:// thiết kế hướng miền - practitioners.com/domain - driven - design - - >
+
 % %!<! - - Domain - Driven Design : https:// thiết kế hướng miền - practitioners.com/domain - driven - design - - >
+
 % %!<! - - Domain - Driven Design : https:// thiết kế hướng miền - practitioners.com/domain - driven - design - - >
+
 % %!<! - - Domain - Driven Design : https:// thiết kế hướng miền - practitioners.com/domain - driven - design - - >
+
 %!<! - - [[Domain - Driven Design]] An approach to software development that suggests that (1) For most software projects, the primary focus should be on the domain and domain logic; and (2) Complex domain designs should be based on a model. - - >
 
 Trang chủTrang chủBảng chú giảiThiết kế hướng miền
+
 Thiết kế hướng miền
+
 Thiết kế hướng miền (thiết kế hướng miền) là một cách tiếp cận phát triển phần mềm nhấn mạnh đến sự hiểu biết và mô hình hóa các khái niệm và quy trình kinh doanh cốt lõi của một miền vấn đề cụ thể. Mục tiêu của thiết kế hướng miền là tạo ra một mô hình miền thể hiện chính xác các khái niệm và mối quan hệ trong thế giới thực trong một ngành hoặc doanh nghiệp cụ thể và sử dụng mô hình này làm cơ sở cho việc thiết kế và phát triển phần mềm. thiết kế hướng miền thường được sử dụng trong các dự án phần mềm phức tạp, quy mô lớn trong đó lĩnh vực kinh doanh có tính đặc thù cao và phần mềm phải phản ánh chính xác các quy trình kinh doanh cơ bản.
 
 thiết kế hướng miền dựa trên ý tưởng rằng cách tốt nhất để thiết kế phần mềm là bắt đầu bằng việc hiểu miền vấn đề và sau đó sử dụng sự hiểu biết đó để hướng dẫn thiết kế phần mềm. Cách tiếp cận này trái ngược với các cách tiếp cận truyền thống trong đó phần mềm được thiết kế trước rồi miền vấn đề được ánh xạ tới nó, điều này có thể dẫn đến sự không phù hợp giữa phần mềm và miền vấn đề.
@@ -55,30 +77,50 @@ thiết kế hướng miền dựa trên ý tưởng rằng cách tốt nhất �
 thiết kế hướng miền dựa trên một số khái niệm và thực tiễn chính, bao gồm:
 
 Lĩnh vực : Một phạm vi kiến thức, ảnh hưởng hoặc hoạt động đại diện cho một lĩnh vực chuyên môn hoặc mối quan tâm cụ thể.
+
 Bối cảnh giới hạn : Một ranh giới trong đó áp dụng một mô hình miền cụ thể.
+
 Sự kiện miền : Bản ghi về điều gì đó đã xảy ra trong miền mà các phần khác của hệ thống có thể quan tâm.
+
 Dịch vụ miền : Một tập hợp các hoạt động được xác định trong ngữ cảnh của mô hình miền.
+
 Thực thể : Một lớp có một danh tính duy nhất và trạng thái của nó thay đổi theo thời gian.
+
 Đối tượng giá trị : Các đối tượng đại diện cho một giá trị duy nhất, không thay đổi và không có danh tính.
+
 Tập hợp : Một cụm các đối tượng miền có thể được coi là một đơn vị.
+
 thiết kế hướng miền là một cách tiếp cận phức tạp và nhiều sắc thái để phát triển phần mềm và nó đòi hỏi sự hiểu biết sâu sắc về miền vấn đề cũng như khả năng suy nghĩ trừu tượng về mối quan hệ giữa các khái niệm và quy trình khác nhau. Nó thường được sử dụng trong quá trình phát triển phần mềm doanh nghiệp trong đó lĩnh vực kinh doanh có tính đặc thù cao và phần mềm phải phản ánh chính xác các quy trình kinh doanh cơ bản.
 
 Khi nào chúng ta nên sử dụng thiết kế hướng miền?
+
 Nó nên được sử dụng khi:
 
 Miền vấn đề rất phức tạp và chưa được hiểu rõ. thiết kế hướng miền cung cấp một cách để lập mô hình và hiểu miền thông qua các khái niệm như thực thể, đối tượng giá trị và tổng hợp.
+
 Phần mềm sẽ có một cơ sở mã lớn và phức tạp. thiết kế hướng miền cung cấp một cách để tổ chức mã và làm cho nó dễ bảo trì hơn.
+
 Phần mềm cần phải dễ dàng thích ứng với các yêu cầu thay đổi. thiết kế hướng miền nhấn mạnh việc sử dụng ngôn ngữ chung, giúp đảm bảo rằng mã và miền kinh doanh được căn chỉnh.
+
 Phần mềm cần phải dễ dàng kiểm thử được. Các nguyên tắc thiết kế hướng miền, chẳng hạn như tách mô hình miền khỏi ứng dụng, giúp việc kiểm tra mã dễ dàng hơn.
+
 Nhóm phát triển có các chuyên gia ngành. thiết kế hướng miền nhấn mạnh sự cộng tác giữa các chuyên gia ngành và nhà phát triển, vì vậy điều quan trọng là các chuyên gia ngành luôn sẵn sàng cung cấp thông tin đầu vào và hướng dẫn.
+
 Khi nào chúng ta nên tránh sử dụng thiết kế hướng miền?
+
 Có một số trường hợp có thể phù hợp để tránh sử dụng thiết kế hướng miền (thiết kế hướng miền):
 
 Các dự án đơn giản: Nếu dự án nhỏ và đơn giản, với phạm vi hạn chế và ít quy tắc kinh doanh, thiết kế hướng miền có thể là quá mức cần thiết và có thể gây thêm sự phức tạp không cần thiết.
+
 Thiếu chuyên gia ngành : thiết kế hướng miền phụ thuộc nhiều vào sự tham gia của các chuyên gia ngành nên nếu họ không sẵn sàng hoặc không sẵn lòng tham gia thì khó có thể sử dụng thiết kế hướng miền một cách hiệu quả.
+
 Thời hạn chặt chẽ: thiết kế hướng miền là một phương pháp đòi hỏi sự đầu tư đáng kể về thời gian và công sức để hiểu và thực hiện đầy đủ. Nếu một dự án có thời hạn chặt chẽ thì việc kết hợp thiết kế hướng miền vào dự án có thể khó khăn.
+
 Ngân sách hạn chế: thiết kế hướng miền có thể là một phương pháp tốn kém để thực hiện, vì vậy nếu ngân sách dự án hạn chế thì có thể khó kết hợp thiết kế hướng miền.
+
 Thiếu sự tham gia: thiết kế hướng miền yêu cầu sự tham gia của tất cả mọi người tham gia vào dự án, vì vậy nếu các thành viên trong nhóm không muốn thay đổi hoặc không muốn đầu tư thời gian và công sức cần thiết để hiểu đầy đủ và triển khai thiết kế hướng miền thì đó có thể không phải là lựa chọn tốt nhất.
+
 Hệ thống kế thừa: thiết kế hướng miền thường được sử dụng để xây dựng các hệ thống mới, nhưng nếu chúng ta đang làm việc với một hệ thống cũ, có thể khó triển khai đầy đủ thiết kế hướng miền.
+
 Như đã nói, điều quan trọng cần lưu ý là thiết kế hướng miền là một phương pháp mạnh mẽ có thể mang lại lợi ích đáng kể cho một dự án, nhưng không phải lúc nào nó cũng là lựa chọn phù hợp cho mọi dự án hoặc mọi nhóm. Điều quan trọng là phải đánh giá các nhu cầu và hạn chế cụ thể của dự án trước khi quyết định có sử dụng thiết kế hướng miền hay không.
 

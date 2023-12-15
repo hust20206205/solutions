@@ -208,8 +208,6 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 
 \input{contents/chi_tiet_ve_cac_moi_quan_he_boi_canh_gioi_han}
 
- 
-
 \paragraph{Mối quan hệ đối xứng (Symmetric Relationship)}
 
 \subparagraph{Mô hình riêng biệt (Separate Ways)}
@@ -223,21 +221,100 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 \subparagraph{Mô hình hạt nhân chung (Shared Kernel)}
 
 % \input{contents/mo_hinh_hat_nhan_chung_shared_kernel}
-% 
-% 
-% 
-% 
-% 
-% 
-% 
+%
+%
+%
+%
+
+\paragraph{Mối quan hệ đối xứng (Symmetric Relationship)}
+
+\subparagraph{Mô hình riêng biệt (Separate Ways)}
+
 % \input{contents/_a.tex}
 
-% \subsubsection{Relationships}
-% \subsubsection{Relationships}
-% \textbf{ChuInDam}
-% \textbf{ChuInDam}
-% \textbf{ChuInDam}
-% \textbf{ChuInDam}
+\subparagraph{Mô hình hợp tác (Partnership)}
+
+% \input{contents/_a.tex}
+
+\subparagraph{Mô hình hạt nhân chung (Shared Kernel)}
+
+% \input{contents/_a.tex}
+%
+
+<!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
+
+Trong mối quan hệ bất đối xứng, một bối cảnh giới hạn có sự phụ thuộc vào một bối cảnh giới hạn khác. Mối quan hệ này được mô tả bằng cách gán vai trò cho bối cảnh giới hạn:
+
+Bối cảnh giới hạn thượng nguồn (Upstream): bối cảnh giới hạn cung cấp cho bối cảnh giới hạn khác.
+Bối cảnh giới hạn hạ lưu (Downstream): bối cảnh giới hạn phụ thuộc vào bối cảnh giới hạn khác.
+
+<!--!ký hiệu: D - U-->
+<!--$VD:-->
+<!--$VD: A Downstream (D) - B Upstream (U)-->
+<!--$VD: Bối cảnh A ràng buộc với bối cảnh B thì:-->
+<!--$VD: Bối cảnh A đóng vai trò là bối cảnh giới hạn hạ lưu (Downstream)-->
+<!--$VD: Bối cảnh B đóng vai trò là bối cảnh giới hạn thượng nguồn (Upstream)-->
+<!--$VD: Bối cảnh giới hạn A có kiến thức về các mô hình trong bối cảnh giới hạn B-->
+<!--$VD: Bối cảnh B không có bất kỳ kiến ​​thức nào về mô hình trong bối cảnh giới hạn A-->
+<!--@Mô hình khách hàng - nhà cung cấp (Customer - Supplier Pattern)-->
+
+Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
+Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng.
+Đối với mô hình này cần tạo một bộ kiểm thử tích hợp tự động của nhóm nhà cung cấp, nhằm kiểm tra tính đúng đắn theo nhu cầu nhóm khách hàng.
+
+<!--@Mô hình tuân thủ (Conformist Pattern)-->
+
+Mô hình tuân thủ là một mối quan hệ trong đó bối cảnh giới hạn hạ lưu áp dụng mô hình, ngôn ngữ chung và các khái niệm được sử dụng bởi bối cảnh giới hạn thượng nguồn.
+Cả hai bối cảnh giới hạn đều sử dụng cùng một mô hình. Vì vậy, chúng ta không cần dịch mô hình giữa các bối cảnh giới hạn.
+
+<!--!ký hiệu: CF - U-->
+<!--$VD:-->
+<!--$VD: A - CF - U - B-->
+<!--$VD: A - users(id, name) - B cũng users(id, name)-->
+<!--@Mô hình chống đổ vỡ (Anti Corruption Layer Pattern)-->
+
+bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
+quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .
+
+<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
+
+<!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống đổ vỡ-->
+
+<!--Ý tưởng đằng sau luật sư chống đổ vỡ là bảo vệ bối cảnh ngoại quan khỏi tham nhũng.-->
+<!--!ký hiệu: ACL-U-->
+
+trong mỗi bối cảnh liên kết này, có mô hình riêng. Họ không có kiến ​​thức gì về mô hình của nhau.
+ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ B sang mô hình của A là lớp chống đổ vỡ cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
+Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống đổ vỡ bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
+
+<!--@=======================-->
+
+<!--Không xem xét kịch bản trong đó bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.-->
+
+<!--Nói cách khác, nhóm dành cho bối cảnh giới hạn . Nó quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .-->
+
+<!--Trong trường hợp đó, các mô hình từ ngữ cảnh giới hạn sẽ được hiển thị trong ngữ cảnh giới hạn . Nó sẽ yêu cầu một số loại bản dịch để chuyển đổi các mô hình từ bối cảnh giới hạn sang bối cảnh giới hạn .-->
+
+<!--Đề xuất là tách logic dịch thuật này thành một lớp riêng biệt. Cấp độ này của bản dịch được gọi là trực tiếp chống đổ vỡ và mô hình này còn được gọi là Antichrist.-->
+
+<!--Ý tưởng đằng sau luật sư chống đổ vỡ là bảo vệ bối cảnh ngoại quan khỏi tham nhũng. Loại mối quan hệ này được mô tả bằng cách thay thế ACL.-->
+
+<!--Vì vậy, ở đây chúng tôi đang mô tả mối quan hệ giữa A và B trong mỗi bối cảnh liên kết này, có mô hình riêng.-->
+
+<!--Họ không có kiến ​​thức gì về mô hình của nhau ngoại trừ việc ACL có kiến ​​thức cần thiết về cả hai mô hình của A và B và thực hiện việc chuyển đổi từ morou của B sang mô hình của anh ta.-->
+
+Và điều này có nghĩa là ánh xạ các thuộc tính khác nhau,
+
+Vì vậy, điều đó có nghĩa là lớp chống đổ vỡ cần phải có kiến ​​thức về cả mô hình hạ nguồn cũng như mô hình thượng nguồn.
+
+Nhưng hạ lưu không có kiến ​​thức về bối cảnh giới hạn thượng nguồn, và đó là cách lớp chống đổ vỡ bảo vệ hạ lưu khỏi những thay đổi ở thượng nguồn.
+
+<!--!Lớp chống đổ vỡ này có logic để dịch các mô hình từ định dạng ngược dòng sang định dạng xuôi dòng.-->
+<!--!, theo hướng đó xuôi dòng. Bối cảnh giới hạn không có kiến ​​thức về bối cảnh mô hình ngược dòng và do đó không có sự phụ thuộc trực tiếp.-->
+<!--@=======================-->
+%
+%
+ 
 
 % ĐẾN ĐÂY
 % ĐẾN ĐÂY

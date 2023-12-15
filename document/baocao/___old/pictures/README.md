@@ -57,6 +57,9 @@ https://ddd-practitioners.com/home/glossary
 [[Test-Driven Development]] TDD is a lightweight programming methodology that emphasizes fast, incremental development and especially writing tests before writing code. Ideally these follow one another in cycles measured in minutes. (see full definition under [[Test-Driven Development]] topic)
 <!--@============================================== -->
 
+
+
+
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->
 
 <!-- Published Language : https://ddd-practitioners.com/published-language -->

@@ -49,12 +49,9 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
 
 <!-- Conformist : https://ddd-practitioners.com/conformist -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
-<!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
-[[Test-Driven Development]] TDD is a lightweight programming methodology that emphasizes fast, incremental development and especially writing tests before writing code. Ideally these follow one another in cycles measured in minutes. (see full definition under [[Test-Driven Development]] topic)
 <!--@============================================== -->
 
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->

@@ -228,11 +228,19 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 
 \paragraph{Mối quan hệ bất đối xứng (Asymmetric Relationship)}
 
-
-
-
+% tên gọi chung thượng nguồn , hạ lưu
 
 \input{contents/moi_quan_he_bat_doi_xung_asymmetric_relationship}
+
+
+\subparagraph{Mô hình khách hàng - nhà cung cấp (Customer - Supplier  )}
+
+
+
+
+
+\input{contents/mo_hinh_khach_hang_nha_cung_cap_customer_supplier}
+
 
 
 
@@ -243,13 +251,6 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 
 
 
-
-
-
-\subparagraph{Mô hình khách hàng - nhà cung cấp (Customer - Supplier Pattern)}
-
-% \input{contents/_a.tex}
-
 \subparagraph{Mô hình hợp tác (Partnership)}
 
 % \input{contents/_a.tex}
@@ -257,16 +258,10 @@ autogobble, % Tự động loại bỏ khoảng trắng ở đầu mỗi dòng
 \subparagraph{Mô hình hạt nhân chung (Shared Kernel)}
 
 % \input{contents/_a.tex}
-% 
+%
 
 
-%! @ - - >
-
-Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
-Trong thực tế, nhóm nhà cung cấp luôn tham khảo ý kiến ​​của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng.
-Đối với mô hình này cần tạo một bộ kiểm thử tích hợp tự động của nhóm nhà cung cấp, nhằm kiểm tra tính đúng đắn theo nhu cầu nhóm khách hàng.
-
-%! @Mô hình tuân thủ (Conformist Pattern) - - >
+%! @Mô hình tuân thủ (Conformist  ) - - >
 
 Mô hình tuân thủ là một mối quan hệ trong đó bối cảnh giới hạn hạ lưu áp dụng mô hình, ngôn ngữ chung và các khái niệm được sử dụng bởi bối cảnh giới hạn thượng nguồn.
 Cả hai bối cảnh giới hạn đều sử dụng cùng một mô hình. Vì vậy, chúng ta không cần dịch mô hình giữa các bối cảnh giới hạn.
@@ -275,7 +270,7 @@ Cả hai bối cảnh giới hạn đều sử dụng cùng một mô hình. Vì
 %! $VD: - - >
 %! $VD: A - CF - U - B - - >
 %! $VD: A - users(id, name) - B cũng users(id, name) - - >
-%! @Mô hình chống đổ vỡ (Anti Corruption Layer Pattern) - - >
+%! @Mô hình chống đổ vỡ (Anti Corruption Layer  ) - - >
 
 bối cảnh giới hạn xuôi dòng quyết định không tuân theo bối cảnh giới hạn ngược dòng.
 quyết định tạo ra mô hình của riêng mình thay vì áp dụng các mô hình cho ngữ cảnh giới hạn .

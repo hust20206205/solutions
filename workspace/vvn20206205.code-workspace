@@ -95,7 +95,8 @@
     // Chọn gói biểu đồ hiện tại là "nest"
     "material-icon-theme.activeIconPack": "nest",
     "workbench.editorAssociations": {
-      "*.pdf": "latex-workshop-pdf-hook"
+      "*.pdf": "latex-workshop-pdf-hook",
+      "*.png": "hediet.vscode-drawio"
     },
     "material-icon-theme.folders.color": "#ff79b4",
     "material-icon-theme.files.associations": {
@@ -189,6 +190,6 @@
         ],
         "env": {}
       }
-    ]
+    ],
   }
 }

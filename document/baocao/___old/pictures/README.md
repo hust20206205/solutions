@@ -43,14 +43,13 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@ -->
 <!--@ -->
 
-Trình bày về One to Many Relationship  có (Open Host Service và   Published Language) trong domain driven design
+Trình bày về One to Many Relationship có (Open Host Service và Published Language) trong domain driven design
 https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
 <!--@============================================== -->
-
 
 <!--@============================================== -->
 <!--@============================================== -->

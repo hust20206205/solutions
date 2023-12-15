@@ -3,15 +3,17 @@ nếu có thể thì làm cái nghiệp vụ
 xem video itiso
 latex ctg htpt ttss
 <!-- -->
-<!-- Hãy sử dụng Ngôn ngữ chung (Ubiquitous Language) trong domain driven design (DDD) với nội dung nghiệp vụ kinh doanh sau: -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!--! Hãy sử dụng Ngôn ngữ chung (Ubiquitous Language) trong domain driven design (DDD) với nội dung nghiệp vụ kinh doanh sau: -->
 
 <!-- 1. **Khách hàng (Customer):** -->
 <!-- - **Mô tả:** Người sử dụng dịch vụ, có thể là cá nhân hoặc tổ chức. -->
 
 <!-- 2. **Hóa đơn điện tử (Electronic Invoice):** -->
 <!-- - **Mô tả:** Hóa đơn được tạo và quản lý điện tử thay vì truyền thống trên giấy. -->
-
-<!-- Bằng cách sử dụng ngôn ngữ chung như trên, chúng ta có thể tạo ra một mô hình DDD rõ ràng và dễ hiểu, giúp các đội phát triển, quản lý dự án và người dùng hiểu rõ về các yêu cầu và chức năng của hệ thống. -->
 <!--@ -->
 <!--@ -->
 
@@ -47,22 +49,28 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- Separate Ways : https://ddd-practitioners.com/separate-ways -->
 <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
 
-<!-- Partnership : https://ddd-practitioners.com/partnership -->
 
 <!-- Conformist : https://ddd-practitioners.com/conformist -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!-- Test-Driven Development : https://ddd-practitioners.com/test-driven-development -->
 [[Test-Driven Development]] TDD is a lightweight programming methodology that emphasizes fast, incremental development and especially writing tests before writing code. Ideally these follow one another in cycles measured in minutes. (see full definition under [[Test-Driven Development]] topic)
+<!--@============================================== -->
 
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->
 
-<!-- Shared Kernel : https://ddd-practitioners.com/shared-kernel -->
 
 <!-- Published Language : https://ddd-practitioners.com/published-language -->
 
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
 <!--@============================================== -->
 <!-- Domain Object : https://ddd-practitioners.com/domain-object -->
 <!-- Entity : https://ddd-practitioners.com/entity -->

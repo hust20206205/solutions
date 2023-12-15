@@ -15,30 +15,6 @@ hợp gốc bị phá hủy.
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
 <!--!Các mô hình chiến lược (Strategic Patterns)-->
-<!--!Các mô hình chiến lược (Strategic Patterns)-->
-<!--!Các mô hình chiến lược (Strategic Patterns)-->
-
-<!--@Mối quan hệ đối xứng (Symmetric Relationship)-->
-<!--@Mô hình riêng biệt (Separate Ways)-->
-
-Các liên hệ trong bối cảnh giới hạn thực sự độc lập.
-Các liên hệ không có mối quan hệ nào với các liên hệ khác.
-Các liên hệ có mô hình độc lập và thực thi riêng biệt.
-Các nhóm phát triển không phải cộng tác hay phối hợp cho bất kỳ nhiệm vụ nào.
-
-<!--$VD: trong trường hợp ngân hàng, thẻ tín dụng và khoản vay mua nhà không có mối quan hệ nào.-->
-<!--@Mô hình hạt nhân chung (Shared Kernel)-->
-
-Khi các liên hệ trong bối cảnh giới hạn có sự phụ thuộc lẫn nhau. Sự phụ thuộc này dẫn đến mức độ kết hợp cao. Vì vậy, các nhóm phát triển không thể hoạt động độc lập.
-
-Một cách để giải quyết vấn đề này là tạo ranh giới cho các mô hình hạt nhân chung, ranh giới này phải được phân định rõ ràng và chỉ những thay đổi đối với mô hình hạt nhân chung mới cần được các nhóm phối hợp.
-
-Từ đó, tách việc quản lí các mô hình hạt nhân chung này một cách độc lập với phần còn lại của bối cảnh giới hạn. Khi cần đưa ra quyết định thay đổi mà không phải của mô hình hạt nhân chung thì nhóm sẽ đưa ra quyết định hoạt động độc lập.
-
-Thông thường, mô hình hạt nhân chung được hiện thực hóa bằng các thư viện chung. Tuy nhiên, chỉ sử dụng mô hình hạt nhân chung nếu quan hệ của các liên hệ nhỏ nếu không thì sẽ tăng tính phụ thuộc làm phức tạp các dịch vụ.
-
-<!--$VD: hình giao như 2 tập hợp-->
-
 <!--!======================================================-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->
 <!--@Mối quan hệ bất đối xứng (Asymmetric Relationship)-->

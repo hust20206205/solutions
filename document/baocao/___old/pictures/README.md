@@ -43,7 +43,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@ -->
 <!--@ -->
 
-Trình bày về Các mẫu chiến lược (Strategic Patterns) trong domain driven design
+Trình bày về One to Many Relationship  có (Open Host Service và   Published Language) trong domain driven design
 https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@ -->
@@ -51,9 +51,6 @@ https://ddd-practitioners.com/home/glossary
 
 <!--@============================================== -->
 
-<!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->
-
-<!-- Published Language : https://ddd-practitioners.com/published-language -->
 
 <!--@============================================== -->
 <!--@============================================== -->

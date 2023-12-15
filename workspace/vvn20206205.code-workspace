@@ -96,7 +96,8 @@
     "material-icon-theme.activeIconPack": "nest",
     "workbench.editorAssociations": {
       "*.pdf": "latex-workshop-pdf-hook",
-      "*.png": "hediet.vscode-drawio"
+      "*.drawio.png": "hediet.vscode-drawio",
+      "*.png":"imagePreview.previewEditor",
     },
     "material-icon-theme.folders.color": "#ff79b4",
     "material-icon-theme.files.associations": {

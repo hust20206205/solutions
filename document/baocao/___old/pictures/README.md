@@ -50,45 +50,75 @@ https://ddd-practitioners.com/home/glossary
 <!--@============================================== -->
 <!--@============================================== -->
 <!--@============================================== -->
-<!--@============================================== -->
-<!--@============================================== -->
-<!--@============================================== -->
-<!--@============================================== -->
-<!--@============================================== -->
-<!--@============================================== -->
+<!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
+<!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
+
+
 <!-- Domain Object : https://ddd-practitioners.com/domain-object -->
+
+<!-- % Entity Object -    -->
 <!-- Entity : https://ddd-practitioners.com/entity -->
 <!-- [[Entity]] An object fundamentally defined not by its attributes, but by a thread of continuity and identity. -->
 <!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
+
+<!-- % Value Object -    -->
 <!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object -->
 <!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
+
 <!-- Service : https://ddd-practitioners.com/service -->
 <!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
 
 <!-- Quản lí vòng đời -->
 <!-- [[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]]. -->
+
+
+
+
+<!-- % Aggregate  -->
 <!-- Aggregate: https://ddd-practitioners.com/home/glossary/aggregate/ -->
 <!-- [[Aggregate]] A cluster of associated objects that are treated as a unit for the purpose of data changes. External references are restricted to one member of the AGGREGATE, designated as the root. A set of consistency rules applies within the AGGREGATE’S boundaries. -->
 <!-- State Stored Aggregates : https://ddd-practitioners.com/state-stored-aggregate -->
+
 <!-- Consistency Boundary : https://ddd-practitioners.com/glossary/consistency-boundary -->
+
+
+<!-- & Factory -    -->
 <!-- Factory : https://ddd-practitioners.com/factory -->
 <!-- [[Factory]] A mechanism for encapsulating complex creation logic and abstracting the type of a created object for the sake of a client. -->
 https://refactoring.guru/design-patterns/factory-method
 https://refactoring.guru/design-patterns/abstract-factory
 https://culttt.com/2014/12/24/factories-domain-driven-design
 
+
+
+<!-- % Repository Object -    -->
 <!-- Repository : https://ddd-practitioners.com/?page_id=555 -->
 <!-- [[Repository]] A mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects. -->
 
 <!-- Module : https://ddd-practitioners.com/?page_id=618 -->
 
-<!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
-<!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
 
+
+
+<!-- % Domain Service -    -->
 <!-- Domain Services: https://ddd-practitioners.com/home/glossary/domain-services -->
+
+<!-- % Application Services -    -->
 <!-- Application Service : https://ddd-practitioners.com/application-service -->
+
+
+<!-- % Infrastructure Services -    -->
 <!-- Infrastructure Service : https://ddd-practitioners.com/infrastructure-service -->
 
+
+
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+<!--@============================================== -->
+
 <!--@saga -->
 <!--@saga -->
 <!--@saga -->
@@ -109,8 +139,15 @@ https://culttt.com/2014/12/24/factories-domain-driven-design
 <!--@saga -->
 <!--@saga -->
 <!--@saga -->
+
+<!---->
+
+
+<!--!-->
 <!--@CQRS (Command Query Responsibility Segregation): -->
+<!--CQRS, EventSourcing, Sagas-->
 <!--@Event Sourcing: -->
+<!--@gRPC -->
 <!-- Strong Consistency : https://ddd-practitioners.com/?page_id=421 -->
 <!-- Snapshots : https://ddd-practitioners.com/snapshots -->
 <!-- Saga : https://ddd-practitioners.com/home/glossary/saga -->
@@ -186,7 +223,6 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 
 [[Assertion]] A statement of the correct state of a program at some point, independent of how it does it. Typically, an ASSERTION specifies the result of an operation or an invariant of a design element.
 
-[[Bounded Context]] The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
 
 [[Client]] A program element that is calling the element under design, using its capabilities.
 

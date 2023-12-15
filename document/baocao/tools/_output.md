@@ -1,11 +1,11 @@
 Định nghĩa:
 <!-- Một thực thể đại diện cho một đối tượng kinh doanh có thể nhận dạng duy nhất, bao gồm các thuộc tính và hành vi miền được xác định rõ ràng. -->
- mối quan hệ giữa logic nghiệp vụ và các đối tượng thực thể.
+mối quan hệ giữa logic nghiệp vụ và các đối tượng thực thể.
 
 <!-- Trong trường hợp bán lẻ, có các thực thể như đơn hàng, sản phẩm và hóa đơn. Lần tới tôi sẽ hướng dẫn chúng ta các đặc điểm của các thực thể giúp phân biệt chúng với các đối tượng kinh doanh khác. -->
- 
-<!-- Một thực thể được xác định duy nhất trong một bối cảnh giới hạn.  -->
-  
+
+<!-- Một thực thể được xác định duy nhất trong một bối cảnh giới hạn. -->
+
 Các thực thể này và danh tính của chúng chỉ có ý nghĩa trong bối cảnh giới hạn tương ứng của chúng. Một thực thể có một tập hợp các thuộc tính được xác định bởi ngôn ngữ chung cho ngữ cảnh giới hạn .
 
 9

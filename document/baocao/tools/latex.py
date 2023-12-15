@@ -29,8 +29,22 @@ with open(ten_file_nguon, 'w') as file:
     file.write('')
 # return văn bản
 output = "\n\n\n\n\\input{contents/" + output + "}\n\n\n\n\n\n\n\n\n\n\n\n" 
-# output += "\\section{xxxxxxx}\n\n\n\n" 
-# output += "\\subsection{xxxxxxx}\n\n\n\n" 
-output += "\\subsubsection{xxxxxxx}\n\n\n\n" 
-output += "\\input{contents/_a.tex}\n\n\n\n" 
+
+
+
+# output += "% \\section{xxxxxxx}\n\n\n\n" 
+# output += "% \\subsection{xxxxxxx}\n\n\n\n" 
+output += "% \\subsubsection{xxxxxxx}\n\n\n\n" 
+# output += "% \\paragraph{xxxxxxx}\n\n\n\n" 
+# output += "% \\subparagraph{xxxxxxx}\n\n\n\n" 
+
+
+
+output += "% \\input{contents/_a.tex}\n\n\n\n" 
 pyperclip.copy(output)
+import pyautogui
+
+
+pyautogui.hotkey('alt', '2')
+pyautogui.hotkey('ctrl', 'v')
+pyautogui.hotkey('ctrl', 'j')

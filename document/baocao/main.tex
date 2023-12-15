@@ -325,66 +325,12 @@
 \subsection{Các mẫu kỹ thuật (Tactical Patterns)}
 
 % \input{contents/cac_mau_ky_thuat_tactical}
-
 \subsubsection{Các đối tượng miền ( Domain Object)}
 
-<!-- Các đối tượng và tập hợp giá trị thực thể được gọi là các đối tượng miền, các đối tượng miền này được sử dụng để mô hình hóa dữ liệu trong mô hình miền. -->
-<!-- Domain Object : https://ddd-practitioners.com/domain-object -->
-
-
-\subsubsection{Đối tượng thực thể (Entities Objects) }
-
-% Đối tượng thực thể có bản sắc riêng nhưng không thể
-% tồn tại nếu không có tập hợp gốc, nghĩa là chúng
-% được tạo khi tập hợp gốc được tạo và bị hủy khi tập
-% hợp gốc bị phá hủy.
-
-% Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
-<!-- % Entity Object - -->
-<!-- Entity : https://ddd-practitioners.com/entity -->
-<!-- [[Entity]] An object fundamentally defined not by its attributes, but by a thread of continuity and identity. -->
-<!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
 
 
 
-
-
-****
-% ****
-Trong các đối tượng của một phần mềm, có một nhóm các đối tượng có định danh riêng.
-Định danh này được giữ nguyên xuyên suốt trạng thái hoạt động của phần mềm. Hệ thống phân biệt hai đối tượng với hai định danh khác nhau, hay hai đối tượng chung định danh có thể coi là một.
-Các thực thể là những đối tượng rất quan trọng của mô hình miền. Việc xác định xem một đối tượng có phải là thực thể hay không rất quan trọng.
-Trong trường hợp CSDL quan hệ, một bảng biểu thị một tập hợp các thực thể. Các quy tắc trong bảng biểu thị các thực thể được xác định duy nhất bằng cột khóa chính.
-Hành vi này triển khai logic nghiệp vụ có thể thay đổi trạng thái của thực thể. Các thực thể được lưu trữ lâu dài.
-
-
-\subsubsection{Đối tượng giá trị (Value Objects)}
-
-
-
-<!-- % Value Object - -->
-<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object -->
-<!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
-
-Một đối tượng được dùng để mô tả các khía cạnh cố định của một miền và không có định danh.
-Đối tượng giá trị không có danh tính duy nhất.
-Đối tượng giá trị được tạo trong bộ nhớ tiến trình và sau đó bị hủy sau khi nó đã phục vụ mục đích của nó.
-Một điểm khác biệt quan trọng giữa các thực thể và đối tượng giá trị là đối tượng giá trị không tồn tại lâu dài trong CSDL.
-
-<!--VD-->
-<!--chúng ta sẽ đặt logic xác thực cho địa chỉ email ở đâu?-->
-<!--xác nhận kỹ thuật không liên quan đến bất kỳ khái niệm kinh doanh nào.-->
-<!--tạo một đối tượng giá trị để xác thực địa chỉ email.-->
-<!--Kết quả là, thực thể khách hàng sẽ sạch hơn và đơn giản hơn nhiều trong việc thực hiện.-->
-
-<!--Hướng dẫn 7/4-->
-<!--Hướng dẫn 7/5-->
-
-\subsubsection{Miền  dịch vụ (Service)}
-
-
-<!-- Service : https://ddd-practitioners.com/service -->
-<!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
+% \input{contents/cac_doi_tuong_mien_domain_object}
 
 
 
@@ -394,17 +340,93 @@ Một điểm khác biệt quan trọng giữa các thực thể và đối tư�
 
 
 
-% 
-% <!--Aggregates/ /   -->
+\paragraph{Đối tượng thực thể (Entities Objects) }
 
-% Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh giới hạn của chúng ta và xác định phạm vi nhất quán trong bối cảnh giới hạn đó.
-% Tổng hợp = Mã định danh chính của Bối cảnh giới hạn của chúng ta
 
-\subsubsection{xxxxxxx}
+
+% \input{contents/doi_tuong_thuc_the_entities_objects}
+
+
+\paragraph{Đối tượng giá trị (Value Objects)}
+
+
+
+% \input{contents/doi_tuong_gia_tri_value_objects}
+
+
+
+
+
+
+
+
+\paragraph{Miền  dịch vụ (Service)}
+
+
+
+% \input{contents/mien_dich_vu_service}
+
+
+
+
+
+
+
+% <!--Hướng dẫn 7/4-->
+% <!--Hướng dẫn 7/5-->
+
+
+
+
+
+
+
+
+% \subsubsection{xxxxxxx}
+
+
 
 % \input{contents/_a.tex}
 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
 \end{document} % kết thúc
+paragraph
+
+
+
+
+
+
+
+% % 
+% % <!--Aggregates/ /   -->
+
+% % Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh giới hạn của chúng ta và xác định phạm vi nhất quán trong bối cảnh giới hạn đó.
+% % Tổng hợp = Mã định danh chính của Bối cảnh giới hạn của chúng ta
+
+% \subsubsection{xxxxxxx}
+
+% % \input{contents/_a.tex}
+
+% \end{document} % kết thúc
 
 % Yêu cầu nghiệp vụ của từng sub
 

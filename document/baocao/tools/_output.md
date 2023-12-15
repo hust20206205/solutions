@@ -1,5 +1,3 @@
-
-
 <!--@\06BoundedContextRelationships_VVN\000000006.srt-->
 
 1

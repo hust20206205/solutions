@@ -1,34 +1,24 @@
-
 %! @ - - >
 
 Trong trường hợp bối cảnh giới hạn thượng nguồn đáp ứng nhu cầu của bối cảnh giới hạn hạ lưu.
 
 Trong thực tế khi phát triển, nhóm nhà cung cấp luôn tham khảo ý kiến của nhóm khách hàng để đảm bảo rằng dịch vụ của nhóm nhà cung cấp đáp ứng được nhu cầu của nhóm khách hàng.
 
+% %! Customer/Supplier : https:// thiết kế hướng miền - practitioners.com/customer - supplier
+% %! Customer/Supplier : https:// thiết kế hướng miền - practitioners.com/customer - supplier
 
-% <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
-% <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
-
-Chuyển đến nội dung
-Đối với người hành nghề bởi người hành nghề
-Tìm kiếm
-Thiết kế hướng miền: Hướng dẫn dành cho người thực hành
-Câu hỏi thường gặp
-Bảng chú giải
-Về chúng tôi
-Cuốn sách của chúng tôi!
-Trang chủTrang chủBảng chú giảiBối cảnh bị ràng buộcMối quan hệ bối cảnh bị ràng buộcNhà cung cấp khách hàng
+Trang chủTrang chủBảng chú giảiBối cảnh giới hạn Mối quan hệ bối cảnh giới hạn Nhà cung cấp khách hàng
 Nhà cung cấp khách hàng
-Mối quan hệ khách hàng-nhà cung cấp là một mối quan hệ bối cảnh giới hạn trong đó một bối cảnh bị giới hạn phụ thuộc vào một bối cảnh khác về chức năng hoặc dữ liệu của nó. Bối cảnh giới hạn phụ thuộc được gọi là khách hàng, trong khi bối cảnh độc lập được gọi là nhà cung cấp. Khách hàng đưa ra yêu cầu với nhà cung cấp và nhà cung cấp sẽ đưa ra phản hồi để thực hiện các yêu cầu đó.
+Mối quan hệ khách hàng - nhà cung cấp là một mối quan hệ bối cảnh giới hạn trong đó một bối cảnh giới hạn phụ thuộc vào một bối cảnh khác về chức năng hoặc dữ liệu của nó. Bối cảnh giới hạn phụ thuộc được gọi là khách hàng, trong khi bối cảnh độc lập được gọi là nhà cung cấp. Khách hàng đưa ra yêu cầu với nhà cung cấp và nhà cung cấp sẽ đưa ra phản hồi để thực hiện các yêu cầu đó.
 
-Mối quan hệ khách hàng-nhà cung cấp thường được sử dụng khi một bối cảnh giới hạn yêu cầu thông tin hoặc chức năng từ một bối cảnh giới hạn khác. Bằng cách thiết lập sự phụ thuộc rõ ràng giữa hai bối cảnh, các thay đổi có thể được thực hiện đối với một bối cảnh mà không ảnh hưởng đến bối cảnh kia, miễn là giao diện giữa chúng vẫn ổn định. Điều này cho phép tính mô-đun hóa và tính linh hoạt cao hơn trong kiến ​​trúc hệ thống tổng thể.
+Mối quan hệ khách hàng - nhà cung cấp thường được sử dụng khi một bối cảnh giới hạn yêu cầu thông tin hoặc chức năng từ một bối cảnh giới hạn khác. Bằng cách thiết lập sự phụ thuộc rõ ràng giữa hai bối cảnh, các thay đổi có thể được thực hiện đối với một bối cảnh mà không ảnh hưởng đến bối cảnh kia, miễn là giao diện giữa chúng vẫn ổn định. Điều này cho phép tính mô - đun hóa và tính linh hoạt cao hơn trong kiến trúc hệ thống tổng thể.
 
 Hàm ý
-Mối quan hệ khách hàng-nhà cung cấp giữa các bối cảnh bị giới hạn có những ưu và nhược điểm sau:
+Mối quan hệ khách hàng - nhà cung cấp giữa các bối cảnh giới hạn có những ưu và nhược điểm sau:
 
 Ưu điểm
 Phân tách rõ ràng mối quan tâm giữa hai bối cảnh giới hạn
-Có thể tạo điều kiện cho việc mô-đun hóa và đóng gói chức năng
+Có thể tạo điều kiện cho việc mô - đun hóa và đóng gói chức năng
 Bối cảnh nhà cung cấp có thể tập trung vào việc cung cấp một dịch vụ hoặc chức năng cụ thể cho bối cảnh khách hàng
 Bối cảnh khách hàng có thể dựa vào bối cảnh nhà cung cấp để có chức năng cụ thể mà không cần hiểu chi tiết triển khai
 Nhược điểm
@@ -36,10 +26,10 @@ Sự liên kết chặt chẽ giữa hai bối cảnh, điều này có thể g�
 Có thể dẫn đến sự phổ biến của API và sự phụ thuộc giữa hai bối cảnh
 Yêu cầu quản lý cẩn thận giao diện và hợp đồng giữa hai bối cảnh để đảm bảo rằng chúng vẫn tương thích
 Có thể dẫn đến sự thiếu hợp tác và giao tiếp giữa các nhóm chịu trách nhiệm về hai bối cảnh, điều này có thể cản trở tiến trình và sự hiểu biết chung
-Nhìn chung, mối quan hệ khách hàng-nhà cung cấp có thể hữu ích trong một số trường hợp nhất định, nhưng nó đòi hỏi sự quản lý và giao tiếp cẩn thận để đảm bảo rằng hai bối cảnh vẫn tương thích và những thay đổi trong bối cảnh này không gây ra hậu quả ngoài ý muốn cho bối cảnh kia.
+Nhìn chung, mối quan hệ khách hàng - nhà cung cấp có thể hữu ích trong một số trường hợp nhất định, nhưng nó đòi hỏi sự quản lý và giao tiếp cẩn thận để đảm bảo rằng hai bối cảnh vẫn tương thích và những thay đổi trong bối cảnh này không gây ra hậu quả ngoài ý muốn cho bối cảnh kia.
 
 Ví dụ
-Hãy xem xét một ứng dụng thương mại điện tử nơi khách hàng có thể đặt hàng và hệ thống cần quản lý việc tồn kho sản phẩm. Trong trường hợp này, chúng ta có thể có hai bối cảnh bị chặn:
+Hãy xem xét một ứng dụng thương mại điện tử nơi khách hàng có thể đặt hàng và hệ thống cần quản lý việc tồn kho sản phẩm. Trong trường hợp này, chúng ta có thể có hai bối cảnh giới hạn :
 
 Bối cảnh giới hạn quản lý đơn hàng: Bối cảnh này quản lý tất cả các hoạt động liên quan đến đơn hàng như đặt hàng, quản lý lịch sử đơn hàng, quản lý trạng thái vận chuyển và giao hàng, v.v. Bối cảnh này có vai trò khách hàng vì nó tương tác trực tiếp với khách hàng.
 Bối cảnh giới hạn quản lý hàng tồn kho: Bối cảnh này quản lý việc kiểm kê sản phẩm như thêm và xóa sản phẩm, theo dõi mức tồn kho của sản phẩm và thông báo khi mức tồn kho thấp. Ngữ cảnh này có vai trò nhà cung cấp vì nó cung cấp dữ liệu tồn kho cần thiết cho Ngữ cảnh giới hạn quản lý đơn hàng.
@@ -48,34 +38,23 @@ Trong ví dụ này, chúng ta có thể thấy rằng Bối cảnh giới hạn
 Điểm mấu chốt cần lưu ý ở đây là hai bối cảnh giới hạn có vai trò và trách nhiệm được xác định rõ ràng. Bối cảnh giới hạn quản lý đơn hàng dựa trên Bối cảnh giới hạn quản lý hàng tồn kho cho dữ liệu liên quan đến hàng tồn kho và Bối cảnh giới hạn quản lý hàng tồn kho chịu trách nhiệm duy trì và cập nhật dữ liệu hàng tồn kho.
 
 Khi nào nó hoạt động?
-Mối quan hệ khách hàng-nhà cung cấp có thể hoạt động hiệu quả trong các tình huống sau:
+Mối quan hệ khách hàng - nhà cung cấp có thể hoạt động hiệu quả trong các tình huống sau:
 
-Giao diện được xác định rõ ràng: Khi giao diện giữa các bối cảnh được giới hạn được xác định rõ ràng, việc thiết lập mối quan hệ khách hàng-nhà cung cấp rõ ràng sẽ dễ dàng hơn.
+Giao diện được xác định rõ ràng: Khi giao diện giữa các bối cảnh được giới hạn được xác định rõ ràng, việc thiết lập mối quan hệ khách hàng - nhà cung cấp rõ ràng sẽ dễ dàng hơn.
 Trách nhiệm rõ ràng: Khi khách hàng và nhà cung cấp có trách nhiệm rõ ràng, việc đảm bảo rằng mỗi bối cảnh được tập trung vào miền riêng của nó sẽ dễ dàng hơn và có thể được phát triển độc lập.
-Sự phụ thuộc hạn chế: Khi mối quan hệ khách hàng-nhà cung cấp có sự phụ thuộc hạn chế, nó sẽ giảm nguy cơ kết hợp giữa các bối cảnh.
+Sự phụ thuộc hạn chế: Khi mối quan hệ khách hàng - nhà cung cấp có sự phụ thuộc hạn chế, nó sẽ giảm nguy cơ kết hợp giữa các bối cảnh.
 Giao tiếp mạnh mẽ: Khi khách hàng và nhà cung cấp giao tiếp hiệu quả và thường xuyên, điều đó sẽ giúp thiết lập mối quan hệ hợp tác và hiệu quả.
 Tầm nhìn chung: Khi khách hàng và nhà cung cấp chia sẻ tầm nhìn và mục tiêu chung, điều đó sẽ tạo điều kiện cho sự hợp tác và giúp mối quan hệ hợp tác hiệu quả hơn.
 Khi nào nó không hoạt động?
-Mối quan hệ khách hàng-nhà cung cấp trong DDD có thể không hoạt động trong một số trường hợp nhất định như:
+Mối quan hệ khách hàng - nhà cung cấp trong thiết kế hướng miền có thể không hoạt động trong một số trường hợp nhất định như:
 
 Sự kết hợp chặt chẽ: Nếu bối cảnh của khách hàng và nhà cung cấp trở nên gắn kết chặt chẽ với nhau, thì bất kỳ thay đổi nào trong một bối cảnh đều có thể yêu cầu những thay đổi trong bối cảnh kia, điều này làm mất đi mục đích xác định các bối cảnh giới hạn độc lập.
 Mục tiêu kinh doanh không phù hợp: Nếu mục tiêu kinh doanh của bối cảnh khách hàng và nhà cung cấp không thống nhất, điều đó có thể dẫn đến xung đột và khó khăn trong việc xác định giao diện và hợp đồng.
 Giao tiếp không đầy đủ: Giao tiếp hiệu quả là rất quan trọng để đảm bảo rằng bối cảnh của khách hàng và nhà cung cấp hiểu được nhu cầu và yêu cầu của nhau. Giao tiếp không đầy đủ có thể dẫn đến hiểu lầm và dẫn đến các giao diện và hợp đồng được xác định kém.
 Quá phụ thuộc vào bối cảnh của nhà cung cấp: Nếu bối cảnh của khách hàng trở nên quá phụ thuộc vào bối cảnh của nhà cung cấp, điều đó có thể gây ra vấn đề nếu bối cảnh của nhà cung cấp không thành công hoặc thay đổi theo cách không đáp ứng được nhu cầu của khách hàng.
-Thiếu kiến ​​thức chuyên môn về miền: Nếu bối cảnh khách hàng thiếu kiến ​​thức chuyên môn về miền và phụ thuộc nhiều vào bối cảnh của nhà cung cấp để được hướng dẫn, điều đó có thể dẫn đến các giao diện và hợp đồng được xác định kém.
+Thiếu kiến thức chuyên môn về miền: Nếu bối cảnh khách hàng thiếu kiến thức chuyên môn về miền và phụ thuộc nhiều vào bối cảnh của nhà cung cấp để được hướng dẫn, điều đó có thể dẫn đến các giao diện và hợp đồng được xác định kém.
 
-Thể loại
-
-Phân tích
-điều cơ bản
-ddd
-thiết kế
-câu hỏi thường gặp
-Khả năng lãnh đạo
-hoa văn
-Blog tại WordPress.com.
-
-% <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
-% <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
-% <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
-% <!-- Customer/Supplier : https://ddd-practitioners.com/customer-supplier -->
+% %! Customer/Supplier : https:// thiết kế hướng miền - practitioners.com/customer - supplier
+% %! Customer/Supplier : https:// thiết kế hướng miền - practitioners.com/customer - supplier
+% %! Customer/Supplier : https:// thiết kế hướng miền - practitioners.com/customer - supplier
+% %! Customer/Supplier : https:// thiết kế hướng miền - practitioners.com/customer - supplier

@@ -49,8 +49,6 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-
-<!-- Conformist : https://ddd-practitioners.com/conformist -->
 <!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!--@============================================== -->
 

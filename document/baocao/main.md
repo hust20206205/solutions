@@ -9,8 +9,8 @@ tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 được tạo khi tập hợp gốc được tạo và bị hủy khi tập
 hợp gốc bị phá hủy.
 
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta 
-<!--!======================================================--> 
+Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
+<!--!======================================================-->
 
 <!--// C: \Users\666666666\000000005.srt-->
 

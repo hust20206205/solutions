@@ -1,36 +1,4 @@
-<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000001.srt-->
 
-1
-00: 00: 00, 120--> 00: 00: 15, 560
-Các mẫu thiết kế kỹ thuật trong hai phần cuối, chúng ta học cách sử dụng các mẫu chiến lược để phân tách các miền phức tạp thành các miền nhỏ hơn và để xác định mối quan hệ giữa các miền nhỏ hơn này.
-
-2
-00: 00: 16, 080--> 00: 00: 25, 560
-Trọng tâm trong phần này là các mẫu chiến thuật có thể được sử dụng để lập mô hình và hiện thực hóa các vi dịch vụ .
-
-3
-00: 00: 26, 340--> 00: 00: 39, 750
-Thiết kế hướng mô hình cung cấp một khuôn khổ để hiện thực hóa mô hình hệ thống và sử dụng phương pháp thiết kế hướng miền, các mẫu chiến thuật là các khối xây dựng và thiết kế hướng mô hình.
-
-4
-00: 00: 40, 710--> 00: 00: 52, 650
-Các đối tượng và tập hợp giá trị thực thể được gọi là các đối tượng miền, các đối tượng miền này được sử dụng để mô hình hóa dữ liệu trong mô hình miền.
-
-5
-00: 00: 52, 980--> 00: 01: 02, 710
-Các nhà máy là để tạo ra miền phức tạp. Các đối tượng và kho lưu trữ được sử dụng để quản lý tính bền vững của các đối tượng miền.
-
-6
-00: 01: 02, 970--> 00: 01: 17, 420
-Và sau đó là các dịch vụ, mẫu mã. Các dịch vụ được sử dụng để mô hình hóa sự tương tác của các đối tượng miền với các đối tượng miền khác, với cơ sở hạ tầng và với các thành phần bên ngoài khác.
-
-7
-00: 01: 17, 910--> 00: 01: 26, 400
-Chúng ta sẽ tìm hiểu tất cả các mẫu chiến thuật này trong phần này. Tôi cũng sẽ đề cập đến hai thuật ngữ mới mô hình thiếu máu và giàu có.
-
-8
-00: 01: 27, 090--> 00: 01: 37, 980
-Tôi sẽ chỉ cho chúng ta cách lập mô hình các mẫu này cho các vi dịch vụ của chúng ta nói chung và cách xây dựng các mẫu kỹ thuật này bằng cách sử dụng các lớp Java cũ đơn giản.
 
 <!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000002.srt-->
 

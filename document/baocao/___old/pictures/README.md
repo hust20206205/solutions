@@ -9,6 +9,7 @@
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
 <!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
 
+<!-- Các đối tượng và tập hợp giá trị thực thể được gọi là các đối tượng miền, các đối tượng miền này được sử dụng để mô hình hóa dữ liệu trong mô hình miền. -->
 <!-- Domain Object : https://ddd-practitioners.com/domain-object -->
 
 <!-- % Entity Object - -->
@@ -62,20 +63,6 @@ https://culttt.com/2014/12/24/factories-domain-driven-design
 <!--@============================================== -->
 <!--@============================================== -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--!======================================================-->
 ![Alt text](cu_hanh_onion.png)
 <!--Aggregates/Entities/Value Objects-->
@@ -100,9 +87,6 @@ hợp gốc bị phá hủy.
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-
-**Thiết kế hướng mô hình (model drivern design)**
-Thiết kế hướng mô hình cung cấp một khuôn khổ để hiện thực hóa mô hình hệ thống và sử dụng phương pháp thiết kế hướng miền, các mẫu chiến thuật là các khối xây dựng và thiết kế hướng mô hình.
 
 <!---->
 
@@ -365,10 +349,6 @@ Các dịch vụ cơ sở hạ tầng cung cấp các tài nguyên bên ngoài t
 <!--@ Xong DDD -->
 <!--@ Xong DDD -->
 <!--@ Xong DDD -->
-
-
-
-
 
 <!--@============================================== -->
 <!--@============================================== -->

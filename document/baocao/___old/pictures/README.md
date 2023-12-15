@@ -43,7 +43,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@ -->
 <!--@ -->
 
-Trình bày về  Relationship   trong domain driven design
+Trình bày về Relationship trong domain driven design
 https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@ -->
@@ -210,7 +210,7 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!--@gRPC -->
 <!--@gRPC -->
 <!--@gRPC -->
-<!--@gRPC --> 
+<!--@gRPC -->
 <!--!======================================================-->
 <!--Aggregates/Entities/Value Objects-->
 

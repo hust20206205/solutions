@@ -1,5 +1,3 @@
-
-
 <!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000001.srt-->
 
 1

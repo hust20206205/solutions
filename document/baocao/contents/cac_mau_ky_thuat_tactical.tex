@@ -1,27 +1,26 @@
 %!<! - - Tactical Design : https:// thiết kế hướng miền - practitioners.com/?page_id = 453 - - >
 
-
 Trong thiết kế hướng miền, thiết kế chiến thuật đề cập đến quá trình thiết kế các thành phần riêng lẻ của hệ thống phần mềm để triển khai mô hình miền. Nó liên quan đến việc chia mô hình miền thành các đơn vị chức năng nhỏ hơn, gắn kết và liên kết lỏng lẻo được gọi là bối cảnh giới hạn, tập hợp, thực thể, đối tượng giá trị và dịch vụ miền. Thiết kế chiến thuật liên quan đến việc thiết kế các đơn vị này và mối quan hệ giữa chúng. Nó cũng liên quan đến việc lựa chọn các mẫu, chiến lược và chiến thuật phù hợp để đạt được mục tiêu thiết kế trong khi vẫn tuân thủ các nguyên tắc thiết kế hướng miền.
 
 Các yếu tố của thiết kế chiến thuật trong Thiết kế hướng miền (thiết kế hướng miền) như sau:
 
-Ngữ cảnh giới hạn : Ngữ cảnh giới hạn xác định ranh giới rõ ràng xung quanh một phần cụ thể của mô hình miền và ngôn ngữ chung đi kèm với nó.
+% Ngữ cảnh giới hạn : Ngữ cảnh giới hạn xác định ranh giới rõ ràng xung quanh một phần cụ thể của mô hình miền và ngôn ngữ chung đi kèm với nó.
 
-Tập hợp : Tập hợp là các cụm đối tượng liên quan được coi là một đơn vị công việc duy nhất.
+% Tập hợp : Tập hợp là các cụm đối tượng liên quan được coi là một đơn vị công việc duy nhất.
 
-Thực thể : Thực thể là các đối tượng có danh tính và vòng đời duy nhất và có thể thay đổi theo thời gian.
+% Thực thể : Thực thể là các đối tượng có danh tính và vòng đời duy nhất và có thể thay đổi theo thời gian.
 
-Đối tượng giá trị : Đối tượng giá trị là các đối tượng không có danh tính duy nhất nhưng được xác định bởi các thuộc tính của chúng.
+% Đối tượng giá trị : Đối tượng giá trị là các đối tượng không có danh tính duy nhất nhưng được xác định bởi các thuộc tính của chúng.
 
-Dịch vụ : Dịch vụ là các hoạt động hoặc hành vi không phù hợp một cách tự nhiên trong một thực thể hoặc đối tượng giá trị.
+% Dịch vụ : Dịch vụ là các hoạt động hoặc hành vi không phù hợp một cách tự nhiên trong một thực thể hoặc đối tượng giá trị.
 
-Sự kiện miền : Sự kiện miền là những sự kiện quan trọng xảy ra trong miền mà các phần khác của hệ thống có thể cần biết.
+% Sự kiện miền : Sự kiện miền là những sự kiện quan trọng xảy ra trong miền mà các phần khác của hệ thống có thể cần biết.
 
-Dịch vụ miền : Dịch vụ miền là các hoạt động hoặc hành vi áp dụng cho toàn bộ miền thay vì cho một thực thể hoặc đối tượng giá trị cụ thể.
+% Dịch vụ miền : Dịch vụ miền là các hoạt động hoặc hành vi áp dụng cho toàn bộ miền thay vì cho một thực thể hoặc đối tượng giá trị cụ thể.
 
-Nhà máy : Nhà máy được sử dụng để tạo các đối tượng hoặc tập hợp phức tạp có thể yêu cầu nhiều bước hoặc logic phức tạp.
+% Nhà máy : Nhà máy được sử dụng để tạo các đối tượng hoặc tập hợp phức tạp có thể yêu cầu nhiều bước hoặc logic phức tạp.
 
-Kho lưu trữ : Kho lưu trữ được sử dụng để trừu tượng hóa việc lưu trữ và truy xuất các tập hợp và thực thể.
+% Kho lưu trữ : Kho lưu trữ được sử dụng để trừu tượng hóa việc lưu trữ và truy xuất các tập hợp và thực thể.
 
 Thiết kế chiến thuật được gọi như vậy vì nó tập trung vào các quyết định chiến thuật liên quan đến mô hình hóa miền và triển khai logic nghiệp vụ trong mã. Thiết kế chiến thuật là quá trình triển khai các mẫu, nguyên tắc và thực tiễn thiết kế hướng miền để tạo ra một hệ thống phần mềm linh hoạt, có thể bảo trì và có thể mở rộng. Đây là một phần thiết yếu của thiết kế hướng miền giúp các nhà phát triển sắp xếp mã của họ và cải thiện chất lượng của hệ thống phần mềm. Thiết kế chiến thuật cung cấp một bộ nguyên tắc và phương pháp hay nhất mà nhà phát triển có thể làm theo để tạo mô hình miền phù hợp với yêu cầu kinh doanh và có thể phát triển theo thời gian.
 

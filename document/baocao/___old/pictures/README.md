@@ -43,7 +43,7 @@ https://culttt.com/2015/11/11/what-is-active-model
 <!--@ -->
 <!--@ -->
 
-Trình bày về One to Many Relationship có (Open Host Service và Published Language) trong domain driven design
+Trình bày về  Relationship   trong domain driven design
 https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@ -->
@@ -133,7 +133,6 @@ https://culttt.com/2014/12/24/factories-domain-driven-design
 <!--@CQRS (Command Query Responsibility Segregation): -->
 <!--CQRS, EventSourcing, Sagas-->
 <!--@Event Sourcing: -->
-<!--@gRPC -->
 <!-- Strong Consistency : https://ddd-practitioners.com/?page_id=421 -->
 <!-- Snapshots : https://ddd-practitioners.com/snapshots -->
 <!-- Saga : https://ddd-practitioners.com/home/glossary/saga -->
@@ -183,7 +182,6 @@ BASE là viết tắt của "Basically Available, Soft state, Eventually consist
 <!-- Compensating Workflow : https://ddd-practitioners.com/compensating-workflow -->
 
 <!-- Domain Event : https://ddd-practitioners.com/domain-event -->
-<!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
 <!--@ Dependency Inversion Principle -->
 
 SOLID : https://ddd-practitioners.com/home/glossary/solid
@@ -200,67 +198,19 @@ Interface Segregation Principle : https://ddd-practitioners.com/?page_id=817
 <!--!========================================================== -->
 <!--!========================================================== -->
 <!-- mỗi dịch vụ xuất bản và đăng ký các sự kiện nếu cần. Cách tiếp cận này có thể mở rộng và linh hoạt hơn so với điều phối, nhưng cũng phức tạp hơn trong việc triển khai và bảo trì. Tuy nhiên, nó cũng có thể linh hoạt hơn vì mỗi dịch vụ có thể phát triển độc lập và lỗi trong một dịch vụ không nhất thiết ảnh hưởng đến toàn bộ hệ thống. -->
-
-<!-- -->
-
-<!-- -->
-
-[[Analysis Pattern]] A group of concepts that represents a common construction in business modeling. It may be relevant to only one domain or may span many domains (Fowler 1997, p. 8).
-
-[[Assertion]] A statement of the correct state of a program at some point, independent of how it does it. Typically, an ASSERTION specifies the result of an operation or an invariant of a design element.
-
-[[Client]] A program element that is calling the element under design, using its capabilities.
-
-[[Cohesion]] Logical agreement and dependence.
-
-[[Command]] (a.k.a. modifier) An operation that effects some change to the system (for example, setting a variable). An operation that intentionally creates a side effect.
-
-[[Conceptual Contour]] An underlying consistency of the domain itself, which, if reflected in a model, can help the design accommodate change more naturally.
-
-[[Declarative Design]] A form of programming in which a precise description of properties actually controls the software. An executable specification.
-
-[[Design Pattern]] A description of communicating objects and classes that are customized to solve a general design problem in a particular context. (Gamma et al. 1995, p. 3)
-
-[[Distillation]] A process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful. In software design, the abstraction of key aspects in a model, or the partitioning of a larger system to bring the CORE DOMAIN to the fore.
-
-<!-- [[Domain Layer]] That portion of the design and implementation responsible for domain logic within a LAYERED ARCHITECTURE. The domain layer is where the software expression of the domain model lives. -->
-
-[[Function]] An operation that computes and returns a result without observable side effects.
-
-[[Immutable]] The property of never changing observable state after creation. implicit concept A concept that is necessary to understand the meaning of a model or design but is never mentioned.
-
-[[Intention-Revealing Interface]] A design in which the names of classes, methods, and other elements convey both the original developer’s purpose in creating them and their value to a client developer.
-
-[[Invariant]] An Assertion about some design element that must be true at all times, except during specifically transient situations such as the middle of the execution of a method, or the middle of an uncommitted database transaction.
-
-[[Iteration]] A process in which a program is repeatedly improved in small steps. Also, one of those steps.
-
-[[Large-Scale Structure]] A set of high-level concepts, rules, or both that establishes a pattern of design for an entire system. A language that allows the system to be discussed and understood in broad strokes.
-
-<!-- [[Model-Driven Design]] A design in which some subset of software elements corresponds closely to elements of a model. Also, a process of codeveloping a model and an implementation that stay aligned with each other. -->
-
-[[Modeling Paradigm]] A particular style of carving out concepts in a domain, combined with tools to create software analogs of those concepts (for example, object-oriented programming and logic programming).
-
-[[Responsibility]] An obligation to perform a task or know information (Wirfs-Brock et al. 2003, p. 3).
-
-[[Side Effect]] Any observable change of state resulting from an operation, whether intentional or not, even a deliberate update.
-
-[[Side Effect Free Function]] See [[Function]].
-
-[[Standalone Class]] A class that can be understood and tested without reference to any others, except system primitives and basic libraries.
-
-[[Stateless]] The property of a design element that allows a client to use any of its operations without regard to the element’s history. A stateless element may use information that is accessible globally and may even change that global information (that is, it may have side effects) but holds no private state that affects its behavior.
-
-[[Supple Design]] A design that puts the power inherent in a deep model into the hands of a client developer to make clear, flexible expressions that give expected results robustly. Equally important, it leverages that same deep model to make the design itself easy for the implementer to mold and reshape to accommodate new insight.
-
-[[Unification]] The internal consistency of a model such that each term is unambiguous and no rules contradict.
-
-[[Whole Value]] An object that models a single, complete concept.
-
-![Alt text](2cai.png)
-
+<!-- PublishSubscribe : https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
 ![Alt text](cu_hanh_onion.png)
-<!--!========================================================== -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC -->
+<!--@gRPC --> 
 <!--!======================================================-->
 <!--Aggregates/Entities/Value Objects-->
 

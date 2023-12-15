@@ -9,20 +9,6 @@
 <!-- Layered Architecture : https://ddd-practitioners.com/layered-architecture -->
 <!-- [[Layered Architecture]] A technique for separating the concerns of a software system, isolating a domain layer, among other things. -->
 
-<!-- Các đối tượng và tập hợp giá trị thực thể được gọi là các đối tượng miền, các đối tượng miền này được sử dụng để mô hình hóa dữ liệu trong mô hình miền. -->
-<!-- Domain Object : https://ddd-practitioners.com/domain-object -->
-
-<!-- % Entity Object - -->
-<!-- Entity : https://ddd-practitioners.com/entity -->
-<!-- [[Entity]] An object fundamentally defined not by its attributes, but by a thread of continuity and identity. -->
-<!-- Entity Identity : https://ddd-practitioners.com/entity-identity -->
-
-<!-- % Value Object - -->
-<!-- Value Object : https://ddd-practitioners.com/home/glossary/value-object -->
-<!-- [[Value Object]] An object that describes some characteristic or attribute but carries no concept of identity. -->
-
-<!-- Service : https://ddd-practitioners.com/service -->
-<!-- [[Service]] An operation offered as an interface that stands alone in the model, with no encapsulated state. -->
 
 <!-- Quản lí vòng đời -->
 <!-- [[Life Cycle]] A sequence of states an object can take on between creation and deletion, typically with constraints to ensure integrity when changing from one state to another. May include migration of an [[Entity]] between systems and different [[Bounded Contexts]]. -->
@@ -65,28 +51,11 @@ https://culttt.com/2014/12/24/factories-domain-driven-design
 
 <!--!======================================================-->
 ![Alt text](cu_hanh_onion.png)
-<!--Aggregates/Entities/Value Objects-->
-
-Tổng hợp là đối tượng kinh doanh trung tâm trong Bối cảnh giới hạn của chúng ta và xác định phạm vi nhất quán trong bối cảnh giới hạn đó.
-Tổng hợp = Mã định danh chính của Bối cảnh giới hạn của chúng ta
-
-Đối tượng thực thể có bản sắc riêng nhưng không thể
-tồn tại nếu không có tập hợp gốc, nghĩa là chúng
-được tạo khi tập hợp gốc được tạo và bị hủy khi tập
-hợp gốc bị phá hủy.
-
-Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
 <!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
-<!--@Các mẫu kỹ thuật (Tactical Patterns)-->
+<!--@Các mẫu kỹ thuật (Tactical Patterns)--> 
 
 <!---->
 
@@ -109,27 +78,6 @@ Lớp này chứa thông tin về các lĩnh vực. Đây là trái tim của ng
 <!--Lớp hạ tầng (Infrastructure Layer)-->
 
 Lớp này đóng vai trò như một thư viện hỗ trợ cho tất cả các lớp còn lại. Nó cung cấp thông tin liên lạc giữa các lớp, cài đặt persistence cho đối tượng nghiệp vụ, đồng thời chứa các thư viện hỗ trợ cho Lớp giao diện người dùng, ...
-**Các đối tượng miền**
-**Đối tượng thực thể (Entities)**
-Trong các đối tượng của một phần mềm, có một nhóm các đối tượng có định danh riêng.
-Định danh này được giữ nguyên xuyên suốt trạng thái hoạt động của phần mềm. Hệ thống phân biệt hai đối tượng với hai định danh khác nhau, hay hai đối tượng chung định danh có thể coi là một.
-Các thực thể là những đối tượng rất quan trọng của mô hình miền. Việc xác định xem một đối tượng có phải là thực thể hay không rất quan trọng.
-Trong trường hợp CSDL quan hệ, một bảng biểu thị một tập hợp các thực thể. Các quy tắc trong bảng biểu thị các thực thể được xác định duy nhất bằng cột khóa chính.
-Hành vi này triển khai logic nghiệp vụ có thể thay đổi trạng thái của thực thể. Các thực thể được lưu trữ lâu dài.
-**Đối tượng giá trị (Value Objects)**
-Một đối tượng được dùng để mô tả các khía cạnh cố định của một miền và không có định danh.
-Đối tượng giá trị không có danh tính duy nhất.
-Đối tượng giá trị được tạo trong bộ nhớ tiến trình và sau đó bị hủy sau khi nó đã phục vụ mục đích của nó.
-Một điểm khác biệt quan trọng giữa các thực thể và đối tượng giá trị là đối tượng giá trị không tồn tại lâu dài trong CSDL.
-
-<!--VD-->
-<!--chúng ta sẽ đặt logic xác thực cho địa chỉ email ở đâu?-->
-<!--xác nhận kỹ thuật không liên quan đến bất kỳ khái niệm kinh doanh nào.-->
-<!--tạo một đối tượng giá trị để xác thực địa chỉ email.-->
-<!--Kết quả là, thực thể khách hàng sẽ sạch hơn và đơn giản hơn nhiều trong việc thực hiện.-->
-
-<!--Hướng dẫn 7/4-->
-<!--Hướng dẫn 7/5-->
 
 **Quản lý vòng đời của các đối tượng miền**
 Việc quản lý vòng đời các đối tượng trong miền không hề đơn giản, nếu như làm không đúng sẽ có thể gây ảnh hưởng đến việc mô hình hóa miền.

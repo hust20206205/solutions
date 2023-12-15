@@ -1,35 +1,11 @@
-<!--@\07DomainDrivenDesignTacticalPatterns_VVN\000000002.srt-->
+Định nghĩa:
+<!-- Một thực thể đại diện cho một đối tượng kinh doanh có thể nhận dạng duy nhất, bao gồm các thuộc tính và hành vi miền được xác định rõ ràng. -->
+ mối quan hệ giữa logic nghiệp vụ và các đối tượng thực thể.
 
-1
-00: 00: 00, 150--> 00: 00: 13, 890
-Trong bài học này, chúng ta sẽ tìm hiểu về mẫu thực thể khi kết thúc bài giảng này, chúng ta sẽ có thể thảo luận về các đặc điểm của thực thể và mối quan hệ giữa logic nghiệp vụ và các đối tượng thực thể.
-
-2
-00: 00: 14, 070--> 00: 00: 23, 020
-Một thực thể đại diện cho một đối tượng kinh doanh có thể nhận dạng duy nhất, bao gồm các thuộc tính và hành vi miền được xác định rõ ràng.
-
-3
-00: 00: 23, 340--> 00: 00: 30, 360
-Ví dụ, trong trường hợp ngân hàng, có các thực thể như tài khoản, thẻ tín dụng và giao dịch.
-
-4
-00: 00: 30, 360--> 00: 00: 42, 270
-Trong trường hợp bán lẻ, có các thực thể như đơn hàng, sản phẩm và hóa đơn. Lần tới tôi sẽ hướng dẫn chúng ta các đặc điểm của các thực thể giúp phân biệt chúng với các đối tượng kinh doanh khác.
-
-5
-00: 00: 42, 570--> 00: 00: 56, 700
-Một thực thể được xác định duy nhất trong một bối cảnh giới hạn. Vì vậy, trong trường hợp ngân hàng, đối với bối cảnh giới hạn tài khoản bán lẻ, có thể có một tài khoản séc thực thể được xác định duy nhất bằng số tài khoản.
-
-6
-00: 00: 56, 940--> 00: 01: 06, 180
-Tương tự, đối với các liên hệ giới hạn khoản vay cá nhân, họ có thể là một thực thể tài khoản khoản vay được xác định duy nhất bằng số tài khoản khoản vay.
-
-7
-00: 01: 06, 420--> 00: 01: 16, 200
-Và trong trường hợp thẻ tín dụng, bối cảnh giới hạn, chúng có thể là một thực thể thẻ tín dụng được xác định duy nhất bằng số thẻ tín dụng.
-
-8
-00: 01: 16, 500--> 00: 01: 31, 620
+<!-- Trong trường hợp bán lẻ, có các thực thể như đơn hàng, sản phẩm và hóa đơn. Lần tới tôi sẽ hướng dẫn chúng ta các đặc điểm của các thực thể giúp phân biệt chúng với các đối tượng kinh doanh khác. -->
+ 
+<!-- Một thực thể được xác định duy nhất trong một bối cảnh giới hạn.  -->
+  
 Các thực thể này và danh tính của chúng chỉ có ý nghĩa trong bối cảnh giới hạn tương ứng của chúng. Một thực thể có một tập hợp các thuộc tính được xác định bởi ngôn ngữ chung cho ngữ cảnh giới hạn .
 
 9

@@ -273,7 +273,7 @@ tồn tại nếu không có tập hợp gốc, nghĩa là chúng
 hợp gốc bị phá hủy.
 
 Đối tượng thực thể = Mã định danh phụ của Bối cảnh giới hạn của chúng ta
-<!--!======================================================-->  
+<!--!======================================================-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->
 <!--@Các mẫu kỹ thuật (Tactical Patterns)-->

@@ -49,7 +49,6 @@ https://ddd-practitioners.com/home/glossary
 <!--@ -->
 <!--@Các khuôn mẫu trong thiết kế hướng miền-->
 
-<!-- Anti-Corruption Layer (ACL) : https://ddd-practitioners.com/anticorruption-layer -->
 <!--@============================================== -->
 
 <!-- Open-Host Service : https://ddd-practitioners.com/open-host-service -->

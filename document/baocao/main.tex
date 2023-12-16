@@ -1,6 +1,8 @@
 % \documentclass{article} % loại tài liệu
 
-\documentclass{book} % loại tài liệu
+% \documentclass{book} % loại tài liệu
+
+\documentclass[oneside]{report} % loại tài liệu
 
 \usepackage[utf8]{vietnam} % tiếng Việt
 
@@ -70,35 +72,56 @@
 
 \usepackage{float} % cố định ảnh [H]
 
+\usepackage{fancyhdr}
+
+
+
+% \setlength{\headheight}{0pt} % Đặt chiều cao đầu trang thành 0
+% \pagestyle{fancy}
+% \fancyhf{} % Xóa tất cả các định dạng hiện tại
+% \cfoot{\thepage} % Trung tâm số trang
+\fancypagestyle{plain}{
+    \fancyhf{} % Xóa nội dung mặc định của tiêu đề và chân trang
+    \fancyfoot[C]{\thepage} % Hoặc các tùy chọn khác theo nhu cầu của bạn
+    \renewcommand{\headrulewidth}{0pt} % Loại bỏ đường ngang ở đầu trang
+}
+\usepackage{lipsum}
+
+% \usepackage{titlesec}
+
+% \titleformat{\chapter}[display]
+%   {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+% \titlespacing*{\chapter}{0pt}{-50pt}{40pt}
+
 \begin{document} % bắt đầu
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\input{contents/trang_bia}
+% \input{contents/trang_bia}
 
-\input{contents/trang_trang}
+% \input{contents/trang_trang}
 
-\input{contents/nhan_xet_cua_giang_vien}
+% \input{contents/nhan_xet_cua_giang_vien}
 
-\includepdf[pages = -]{contents/bao_cao_tien_do_1.pdf}
+% \includepdf[pages = -]{contents/bao_cao_tien_do_1.pdf}
 
-\includepdf[pages = -]{contents/bao_cao_tien_do_2.pdf}
+% \includepdf[pages = -]{contents/bao_cao_tien_do_2.pdf}
 
 \input{contents/muc_luc}
 
-\input{contents/loi_cam_on}
+% \input{contents/loi_cam_on}
 
-\input{contents/loi_mo_dau}
+% \input{contents/loi_mo_dau}
 
-\input{contents/tom_tat_noi_dung_do_an}
+% \input{contents/tom_tat_noi_dung_do_an}
 
-\input{contents/danh_gia_va_thao_luan}
+% \input{contents/danh_gia_va_thao_luan}
 
-\input{contents/danh_sach_bang}
+% \input{contents/danh_sach_bang}
 
-\input{contents/danh_sach_hinh_anh}
+% \input{contents/danh_sach_hinh_anh}
 
-\input{contents/danh_sach_ma_nguon}
+% \input{contents/danh_sach_ma_nguon}
 
 % \input{contents/danh_sach_cac_cum_tu_viet_tat}
 
@@ -110,57 +133,57 @@
 
 % \input{contents/gioi_thieu}
 
-% \subsection{Giới thiệu về bài toán hóa đơn điện tử}
+% \section{Giới thiệu về bài toán hóa đơn điện tử}
 
 % \input{contents/gioi_thieu_ve_bai_toan_hoa_don_dien_tu}
 
 % \textbf{\textit{Theo em tìm hiểu có các khái niệm và căn cứ pháp lý liên quan sau đây:}}
 
-% \subsubsection{Hóa đơn}
+% \subsection{Hóa đơn}
 
 % \textbf{\textit{Theo quy định tại khoản 1 Điều 3 Nghị định 123/2020/NĐ - CP:}}
 
 % \input{contents/hoa_don}
 
-% \subsubsection{Hóa đơn điện tử}
+% \subsection{Hóa đơn điện tử}
 
 % \textbf{\textit{Theo quy định tại khoản 2 Điều 3 Nghị định 123/2020/NĐ - CP:}}
 
 % \input{contents/hoa_don_dien_tu}
 
-% \subsubsection{Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022}
+% \subsection{Bắt buộc sử dụng hóa đơn điện tử từ 01/07/2022}
 
 % \textbf{\textit{Theo quy định tại khoản 1 Điều 59 Nghị định 123/2020/NĐ - CP:}}
 
 % \input{contents/bat_buoc_su_dung_hoa_don_dien_tu_tu_01072022}
 
-% \subsubsection{Lưu trữ hóa đơn điện tử}
+% \subsection{Lưu trữ hóa đơn điện tử}
 
 % \input{contents/luu_tru_hoa_don_dien_tu}
 
-% \subsubsection{Một số lợi ích của hóa đơn điện tử}
+% \subsection{Một số lợi ích của hóa đơn điện tử}
 
 % \input{contents/mot_so_loi_ich_cua_hoa_don_dien_tu}
 
-% \subsection{Giới thiệu về kiến trúc vi dịch vụ}
+% \section{Giới thiệu về kiến trúc vi dịch vụ}
 
-% \subsubsection{Kiến trúc nguyên khối}
+% \subsection{Kiến trúc nguyên khối}
 
 % \input{contents/kien_truc_nguyen_khoi}
 
-% \subsubsection{Kiến trúc vi dịch vụ}
+% \subsection{Kiến trúc vi dịch vụ}
 
 % \input{contents/kien_truc_vi_dich_vu}
 
-% \subsubsection{Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ}
+% \subsection{Một số đặc điểm và ưu điểm của kiến trúc vi dịch vụ}
 
 % \input{contents/mot_so_dac_diem_va_uu_diem_cua_kien_truc_vi_dich_vu}
 
-% \subsubsection{Một số nhược điểm và thách thức của kiến trúc vi dịch vụ}
+% \subsection{Một số nhược điểm và thách thức của kiến trúc vi dịch vụ}
 
 % \input{contents/mot_so_nhuoc_diem_va_thach_thuc_cua_kien_truc_vi_dich_vu}
 
-% \subsection{Giới thiệu về thiết kế hướng miền}
+% \section{Giới thiệu về thiết kế hướng miền}
 
 % \input{contents/gioi_thieu_ve_thiet_ke_huong_mien}
 
@@ -188,15 +211,15 @@
 
 \chapter{Chi tiết và áp dụng thiết kế hướng miền}
 
-% \subsection{Đôi nét về thiết kế hướng miền (DomainDrivenDesign)}
+\subsection{Đôi nét về thiết kế hướng miền (DomainDrivenDesign)}
 
-% \input{contents/doi_net_ve_thiet_ke_huong_mien}
+\input{contents/doi_net_ve_thiet_ke_huong_mien}
 
-% \input{contents/chuyen_gia_nganh}
+\input{contents/chuyen_gia_nganh}
 
-% \subsection{Miền (Domain)}
+\subsection{Miền (Domain)}
 
-% \input{contents/mien_domain}
+\input{contents/mien_domain}
 
 \subsection{Miền phụ (Sub - Domain)}
 

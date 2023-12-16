@@ -26,31 +26,7 @@ Các dịch vụ tương tác với nhau qua hạ tầng mạng.
 
 \end{figure}
 
-% Strangler Fig là chuyển mono sang dịch vụ
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-% kiến trúc vi dịch vụ Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 398
-
-Trang chủTrang chủBảng chú giảiKiến trúc vi dịch vụ
-
-Kiến trúc vi dịch vụ
+% Strangler Fig là chuyển mono sang dịch vụ 
 
 Kiến trúc kiến trúc vi dịch vụ (hay đơn giản là kiến trúc vi dịch vụ) là một cách xây dựng các ứng dụng phần mềm dưới dạng tập hợp các dịch vụ nhỏ, độc lập giao tiếp với nhau thông qua API. Mỗi dịch vụ tập trung vào một khả năng kinh doanh cụ thể và có thể được triển khai, mở rộng quy mô và duy trì độc lập với các dịch vụ khác trong hệ thống. Cách tiếp cận này nhấn mạnh tính mô - đun, tính linh hoạt và khả năng phục hồi, cho phép các nhóm làm việc đồng thời trên các phần khác nhau của hệ thống và cho phép phát hành nhanh hơn và thường xuyên hơn. Các vi dịch vụ thường dựa vào các giao thức truyền thông nhẹ, chẳng hạn như REST và thường được triển khai bằng các công nghệ chứa trong bộ chứa như Docker và Kubernetes.
 
@@ -115,16 +91,4 @@ Tương quan với API thực thể
 Nhìn chung, việc thiết kế các vi dịch vụ chỉ dựa trên các hoạt động CRUD của thực thể không được khuyến khích vì nó có thể dẫn đến một kiến trúc liên kết chặt chẽ và không hiệu quả. Các vi dịch vụ phải được thiết kế dựa trên khả năng kinh doanh, có thể phù hợp hoặc không phù hợp với hoạt động CRUD của thực thể.
 
 thiết kế hướng miền có thể giúp xác định các khả năng kinh doanh và xác định bối cảnh giới hạn, sau đó có thể được sử dụng để hướng dẫn thiết kế các vi dịch vụ. Bằng cách tập trung vào khả năng kinh doanh thay vì hoạt động CRUD thực thể, các vi dịch vụ có thể được liên kết lỏng lẻo hơn, mang tính mô - đun hơn, dễ dàng duy trì và phát triển hơn theo thời gian.
-
-Tương quan với SOA (Kiến trúc hướng dịch vụ)
-
-Kiến trúc kiến trúc vi dịch vụ là sự phát triển của mô hình kiến trúc hướng dịch vụ (SOA), trong đó nhấn mạnh đến các dịch vụ có khả năng tương tác và liên kết lỏng lẻo. Tuy nhiên, kiến trúc kiến trúc vi dịch vụ khác với SOA ở một số điểm chính.
-
-Đầu tiên, các vi dịch vụ thường nhỏ hơn và tập trung hơn vào các khả năng kinh doanh cụ thể so với các dịch vụ trong SOA truyền thống. Điều này làm cho chúng dễ dàng phát triển, thử nghiệm và bảo trì hơn cũng như có khả năng phục hồi tốt hơn trước sự thay đổi.
-
-Thứ hai, các vi dịch vụ có xu hướng phụ thuộc nhiều hơn vào các giao thức truyền thông và định dạng dữ liệu nhẹ, chẳng hạn như REST và JSON, trong khi SOA thường sử dụng các giao thức nặng hơn như SOAP và XML.
-
-Cuối cùng, các vi dịch vụ thường chú trọng nhiều hơn đến các nhóm tự chủ và việc ra quyết định phi tập trung hơn so với SOA, vốn có thể có khả năng quản trị và kiểm soát tập trung hơn.
-
-Nhìn chung, mặc dù có một số điểm trùng lặp giữa hai kiến trúc, nhưng kiến trúc vi dịch vụ thể hiện một cách tiếp cận hiện đại, linh hoạt hơn đối với thiết kế phần mềm dựa trên dịch vụ.
 

@@ -19,6 +19,7 @@ class MyClose():
         pyautogui.hotkey('ctrl', 'shift', 'e')
         pyautogui.hotkey('ctrl', 'b')
     def Latex():
+        pyautogui.hotkey('ctrl', 'alt', 'b')
         pyautogui.hotkey('ctrl', 'alt', 'v')
 
 

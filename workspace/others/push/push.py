@@ -46,7 +46,7 @@ replacements = {
         
         '\n': '\n\n\n',
         
-        "\begin{figure}[h]":"\begin{figure}[H]",
+        "\\begin{figure}[h]":"\\begin{figure}[H]",
         
         
         

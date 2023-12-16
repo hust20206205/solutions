@@ -74,24 +74,33 @@
 
 \usepackage{fancyhdr}
 
-
-
 % \setlength{\headheight}{0pt} % Đặt chiều cao đầu trang thành 0
+
 % \pagestyle{fancy}
+
 % \fancyhf{} % Xóa tất cả các định dạng hiện tại
+
 % \cfoot{\thepage} % Trung tâm số trang
+
 \fancypagestyle{plain}{
-    \fancyhf{} % Xóa nội dung mặc định của tiêu đề và chân trang
-    \fancyfoot[C]{\thepage} % Hoặc các tùy chọn khác theo nhu cầu của bạn
-    \renewcommand{\headrulewidth}{0pt} % Loại bỏ đường ngang ở đầu trang
+
+\fancyhf{} % Xóa nội dung mặc định của tiêu đề và chân trang
+
+\fancyfoot[C]{\thepage} % Hoặc các tùy chọn khác theo nhu cầu của chúng ta
+
+\renewcommand{\headrulewidth}{0pt} % Loại bỏ đường ngang ở đầu trang
+
 }
+
 \usepackage{lipsum}
 
 % \usepackage{titlesec}
 
 % \titleformat{\chapter}[display]
-%   {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
-% \titlespacing*{\chapter}{0pt}{-50pt}{40pt}
+
+% {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+% \titlespacing*{\chapter}{0pt}{- 50pt}{40pt}
 
 \begin{document} % bắt đầu
 
@@ -211,25 +220,25 @@
 
 \chapter{Chi tiết và áp dụng thiết kế hướng miền}
 
-\subsection{Đôi nét về thiết kế hướng miền (DomainDrivenDesign)}
+% \section{Đôi nét về thiết kế hướng miền (DomainDrivenDesign)}
 
-\input{contents/doi_net_ve_thiet_ke_huong_mien}
+% \input{contents/doi_net_ve_thiet_ke_huong_mien}
 
-\input{contents/chuyen_gia_nganh}
+% \input{contents/chuyen_gia_nganh}
 
-\subsection{Miền (Domain)}
+% \section{Miền (Domain)}
 
-\input{contents/mien_domain}
+% \input{contents/mien_domain}
 
-\subsection{Miền phụ (Sub - Domain)}
+\section{Miền phụ (Sub - Domain)}
 
 % \input{contents/mien_phu_sub_domain}
 
-\subsubsection{Phân loại các miền phụ}
+\subsection{Phân loại các miền phụ}
 
 % \input{contents/phan_loai_cac_mien_phu}
 
-\paragraph{Miền phụ chung (Generic Subdomain)}
+\subsubsection{Miền phụ chung (Generic Subdomain)}
 
 Miền phụ chung cung cấp các giải pháp có sẵn mà doanh nghiệp có thể mua.
 

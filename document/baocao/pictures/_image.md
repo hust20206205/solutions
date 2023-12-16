@@ -1,5 +1,5 @@
 ========================================
-![](logoBK.png)
+![](HUST/logoBK.png)
 
 \begin{figure}[h]
 \centering

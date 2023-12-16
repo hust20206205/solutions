@@ -144,7 +144,6 @@ https: //www.youtube.com/watch? v=glZs4QFfwbc
 
 https: //www.actioncoachhanoiwest.com/post/business-model-canvas-la-gi-business-model-canvas-mau-cho-doanh-nghiep-moi-nhat-2020
 
-<!--Hãy giúp tôi sửa lỗi chính và ngữ pháp:-->
 
 <!--@Mô hình kinh doanh (Business Model Canvas)-->
 <!--Mục đích: cung cấp tổng quan về bức vẽ mô hình kinh doanh.-->

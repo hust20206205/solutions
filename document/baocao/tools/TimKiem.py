@@ -7,11 +7,12 @@ def TimKiem(root_dir, ext):
  root_dir, f'**/*{ext}'), recursive=True)
 
 
-folder = r"C:\Users\vvn20206205\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\New folder\Video\DDD\_DDD\07 Domain Driven Design - Tactical Patterns"
+folder = r"C:\Users\vvn20206205\Desktop\solutions"
 files = TimKiem(folder, '.srt')
-# files = TimKiem(folder, '.md')
+files = TimKiem(folder, '.tex')
+files = TimKiem(folder, '.md')
 for f in files:
- print(f)
+    print(f)
 
 
  

@@ -17,7 +17,7 @@ MyClose.CloseAll()
 MyClose.Terminal()
 
 MyClose.Target(2)
-# MyClose.Latex()
+MyClose.Latex()
 
 # MyClose.Target(1)
 

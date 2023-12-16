@@ -3,11 +3,11 @@
 <!-- https://ddd-practitioners.com/home/glossary -->
 <!-- % https: //www.infoq.com/minibooks/domain - driven - design - quickly -->
 
-Hãy giúp tôi sửa lỗi chính tả và ngữ pháp: 
+Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
 
 <!--@============================================== -->
 <!--@============================================== -->
-<!--@============================================== -->  
+<!--@============================================== -->
 
 <!-- % %!<! - - @Cách xác định các miền phụ - - > -->
 

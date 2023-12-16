@@ -52,6 +52,7 @@ replacements = {
         
         
         
+        '\\textbf{\\textit{': '\\emph{',
         '\\\\': '\\\\',
         '=': '=',
         '+': '+',

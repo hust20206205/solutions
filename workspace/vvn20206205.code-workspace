@@ -54,7 +54,7 @@
       // "typescript": " clear && cd $dir && start Chrome http://localhost:3000/apidocs && npm run start:dev",
       "yaml": " clear && cd $dir && if [ $fileName = skaffold.yaml ]; then ( skaffold dev ); else ( kubectl apply -f $fileName); fi;",
       "markdown": " clear && cd $dir && if [ $fileName = README.md ]; then ( cd ../../../../workspace/others/push && python push.py ); else ( echo NO ); fi;",
-      "latex": " clear && cd $dir && cd tools && python git.py  ",
+      "latex": " clear && cd $dir && cd tools && python git.py ",
       "bat": " clear && cd $dir && cmd $fileName",
       "shellscript": " clear && cd $dir && bash $fileName",
       "cpp": " clear && cd $dir && g++ -std=c++11 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
@@ -95,9 +95,9 @@
     // Chọn gói biểu đồ hiện tại là "nest"
     "material-icon-theme.activeIconPack": "nest",
     "workbench.editorAssociations": {
-      "*.pdf": "latex-workshop-pdf-hook",
       "*.drawio.png": "hediet.vscode-drawio",
-      "*.png":"imagePreview.previewEditor",
+      "*.png": "imagePreview.previewEditor",
+      "*.pdf": "latex-workshop-pdf-hook",
     },
     "material-icon-theme.folders.color": "#ff79b4",
     "material-icon-theme.files.associations": {
@@ -169,11 +169,19 @@
         "bold": false,
         "italic": false
       }
-    ], 
-     // pip install Pygments
+    ],
+    // pip install Pygments
+    // 
+    // Tắt cửa sổ lỗi
+    "latex-workshop.message.warning.show": false,
+    "latex-workshop.message.error.show": false,
+    // Xóa file
     "latex-workshop.latex.autoClean.run": "onSucceeded",
+    // Hiện vị trí khi run
     "latex-workshop.synctex.afterBuild.enabled": true,
+    // Vị trí file
     "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+    // Tự động run
     "latex-workshop.latex.autoBuild.run": "onFileChange",
     // "latex-workshop.latex.autoBuild.run": "never",
     "latex-workshop.latex.tools": [
@@ -191,6 +199,6 @@
         ],
         "env": {}
       }
-    ],
+    ]
   }
 }

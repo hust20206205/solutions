@@ -1,5 +1,14 @@
-Trước khi kiến trúc vi dịch vụ trở nên phổ biến, kiến trúc nguyên khối đã được áp dụng rộng rãi trong kiến trúc phần mềm truyền thống. Kiến trúc nguyên khối là kiến trúc phần mềm trong đó toàn bộ dự án được xây dựng và triển khai như một đơn vị duy nhất.
+Trước khi kiến trúc vi dịch vụ trở nên phổ biến, kiến trúc nguyên khối đã được áp dụng rộng rãi trong kiến trúc phần mềm truyền thống. Kiến trúc nguyên khối là kiến trúc phần mềm trong đó  tất cả các thành phần      của  dự án    được xây dựng thành một đơn vị triển khai    duy nhất. 
 
+% Trong kiến trúc nguyên khối, bất kỳ thay đổi nào đối với một thành phần     đều yêu cầu toàn bộ ứng dụng phải được     kiểm thử   và triển khai lại. 
+
+
+
+
+Điều này có thể dẫn đến chu kỳ phát triển và triển khai chậm hơn cũng như thiếu khả năng mở rộng vì ứng dụng có thể không đáp ứng được nhu cầu về chức năng hoặc lưu lượng truy cập ngày càng tăng. Tuy nhiên, kiến trúc nguyên khối thường thiết kế, phát triển và bảo trì đơn giản hơn so với các kiến trúc phân tán, khiến chúng trở thành lựa chọn phổ biến cho các ứng dụng quy mô nhỏ hơn hoặc các nhóm có nguồn lực hạn chế.
+
+
+% 
 Ví dụ: Mô hình MVC (Model - View - Controller) là một trong những dạng của kiến trúc nguyên khối.
 
 Trong mô hình này, ứng dụng được chia thành ba thành phần chính:
@@ -10,41 +19,9 @@ Giao diện (View): Đại diện cho giao diện người dùng.
 
 Bộ điều khiển (Controller): Nhận yêu cầu người dùng thông qua View, sau đó tương tác với Model để làm việc với dữ liệu.
 
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
+%  
+ 
+ 
+ 
 
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-% kiến trúc nguyên khối Architecture : https:// thiết kế hướng miền - practitioners.com/?page_id = 391
-
-Trang chủTrang chủBảng chú giảiKiến trúc nguyên khối
-
-Kiến trúc nguyên khối
-
-Kiến trúc nguyên khối là kiến trúc phần mềm trong đó tất cả các thành phần của ứng dụng được kết hợp thành một đơn vị triển khai hoặc thực thi duy nhất. Nói cách khác, ứng dụng nguyên khối là một hệ thống hợp nhất trong đó tất cả các mô - đun và chức năng khác nhau được kết hợp chặt chẽ và chạy trên một máy chủ hoặc nền tảng duy nhất. Thông thường, kiểu kiến trúc này được xây dựng bằng một ngôn ngữ lập trình duy nhất và một lớp lưu trữ dữ liệu chung.
-
-Trong kiến trúc nguyên khối, bất kỳ thay đổi nào đối với một thành phần hoặc mô - đun đều yêu cầu toàn bộ ứng dụng phải được xây dựng lại, kiểm tra lại và triển khai lại. Điều này có thể dẫn đến chu kỳ phát triển và triển khai chậm hơn cũng như thiếu khả năng mở rộng vì ứng dụng có thể không đáp ứng được nhu cầu về chức năng hoặc lưu lượng truy cập ngày càng tăng. Tuy nhiên, kiến trúc nguyên khối thường thiết kế, phát triển và bảo trì đơn giản hơn so với các kiến trúc phân tán, khiến chúng trở thành lựa chọn phổ biến cho các ứng dụng quy mô nhỏ hơn hoặc các nhóm có nguồn lực hạn chế.
-
-Có thể có nhiều loại nguyên khối:
-
-Nguyên khối một quy trình : Nguyên khối một quy trình là một loại kiến trúc nguyên khối trong đó toàn bộ ứng dụng được chứa trong một quy trình duy nhất, thường chạy trên một máy duy nhất. Điều này có nghĩa là tất cả các thành phần ứng dụng được liên kết chặt chẽ và giao tiếp với nhau thông qua các lệnh gọi phương thức hoặc lệnh gọi hàm trong bộ nhớ. Trong nguyên khối một quy trình, tất cả mã được triển khai dưới dạng một đơn vị duy nhất và thường được quản lý dưới dạng một ứng dụng duy nhất. Điều này có thể gây khó khăn cho việc mở rộng quy mô, duy trì và phát triển ứng dụng theo thời gian vì những thay đổi đối với một phần của ứng dụng có thể gây ra những hậu quả không lường trước được cho các phần khác.
-
-Khối nguyên khối hướng dịch vụ : Khối nguyên khối hướng dịch vụ là một loại kiến trúc ứng dụng nguyên khối sử dụng cách tiếp cận hướng dịch vụ để cấu trúc các thành phần bên trong của nó. Trong kiến trúc này, ứng dụng được chia thành các thành phần hoặc dịch vụ khác nhau, mỗi thành phần hoặc dịch vụ chịu trách nhiệm về một tập hợp chức năng hoặc khả năng cụ thể. Tuy nhiên, không giống như kiến trúc vi dịch vụ trong đó mỗi dịch vụ có thể triển khai độc lập, trong kiến trúc nguyên khối hướng dịch vụ, tất cả các dịch vụ đều được triển khai dưới dạng một ứng dụng duy nhất. Các dịch vụ có thể liên lạc với nhau thông qua các cuộc gọi chức năng trực tiếp hoặc bằng cách chia sẻ kho dữ liệu chung. Kiến trúc này cho phép phân tách các mối quan tâm ở một mức độ nào đó và có thể cải thiện khả năng mở rộng cũng như khả năng bảo trì của ứng dụng so với kiến trúc nguyên khối truyền thống. Tuy nhiên, nó vẫn còn nhiều nhược điểm của nguyên khối, chẳng hạn như độ linh hoạt hạn chế, thiếu tính linh hoạt và độ phức tạp tăng lên.
-
-Nguyên khối của bên thứ 3 : Nguyên khối của bên thứ ba đề cập đến một ứng dụng nguyên khối không được sở hữu hoặc duy trì bởi tổ chức sử dụng nó mà thay vào đó được cung cấp bởi nhà cung cấp bên thứ ba. Nói cách khác, ứng dụng nguyên khối được xây dựng bởi một tổ chức bên ngoài và được cấp phép hoặc cho tổ chức sử dụng nó thuê. Khối nguyên khối của bên thứ ba có thể cung cấp chức năng như hệ thống quản lý quan hệ khách hàng, hệ thống hoạch định nguồn lực doanh nghiệp hoặc hệ thống thanh toán. Nó được gọi là nguyên khối vì nó là một ứng dụng duy nhất, lớn, được liên kết chặt chẽ, cung cấp nhiều chức năng và dịch vụ.
-
-Khối nguyên khối phân tán : Khối nguyên khối phân tán là một ứng dụng nguyên khối được triển khai trên nhiều máy vật lý hoặc ảo, nhưng vẫn hoạt động giống như một khối nguyên khối về kiến trúc và thiết kế của nó. Nói cách khác, nó là một ứng dụng nguyên khối được phân phối trên mạng. Một khối nguyên khối phân tán có thể có nhiều phiên bản của ứng dụng nguyên khối chạy trên các máy khác nhau, nhưng tất cả các phiên bản này đều có chung một cơ sở mã, lược đồ CSDL và các thành phần được liên kết chặt chẽ, điều này có thể gây khó khăn cho việc sửa đổi và mở rộng quy mô ứng dụng.
-
-Khối nguyên khối mô - đun : Khối nguyên khối mô - đun là một loại kiến trúc nguyên khối được cấu trúc theo cách cho phép chia nhỏ thành các mô - đun hoặc thành phần nhỏ hơn, dễ quản lý hơn. Nó vẫn chạy như một ứng dụng duy nhất nhưng được thiết kế để có ranh giới và giao diện mô - đun rõ ràng, giúp mở rộng và bảo trì dễ dàng hơn theo thời gian. Ý tưởng đằng sau khối nguyên khối mô - đun là đạt được những lợi ích của kiến trúc kiến trúc vi dịch vụ, chẳng hạn như tính linh hoạt và khả năng mở rộng, trong khi vẫn giữ được sự đơn giản và dễ phát triển vốn có của kiến trúc nguyên khối.
 

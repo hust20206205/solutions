@@ -17,7 +17,7 @@
 \end{figure}
 ========================================
 ========================================
-![](HUST\logoBK.png)
+![](hust/logoBK.png)
 
 \begin{figure}[h]
 \centering

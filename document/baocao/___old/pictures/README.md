@@ -3,57 +3,13 @@
 <!-- https://ddd-practitioners.com/home/glossary -->
 <!-- % https: //www.infoq.com/minibooks/domain - driven - design - quickly -->
 
-Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
-
-\textbf{\textit{xxxxxxxxxxxxxxxxxxx}}
+Hãy giúp tôi sửa lỗi chính tả và ngữ pháp: 
 
 <!--@============================================== -->
 <!--@============================================== -->
-<!--@============================================== -->
+<!--@============================================== -->  
 
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% % chiều t7
-
-% %!<! - - @Cách xác định các miền phụ - - >
+<!-- % %!<! - - @Cách xác định các miền phụ - - > -->
 
 % %!<! - - Sơ đồ: - - >
 
@@ -71,7 +27,7 @@ Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
 
 % Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
 
-% %!<! - - @Tại sao cần phân loại các miền phụ? - - >
+<!-- % %!<! - - @Tại sao cần phân loại các miền phụ? - - > -->
 
 % Việc phân loại miền phụ giúp doanh nghiệp đưa ra quyết định với từng loại miền phụ khác nhau.
 
@@ -156,34 +112,6 @@ Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
 % % %!<! - - Segregated Core : https:// thiết kế hướng miền - practitioners.com/?page_id = 378 - - >
 
 % % %!<! - - Segregated Core : https:// thiết kế hướng miền - practitioners.com/?page_id = 378 - - >
-
-% % %!<! - - Generic Subdomain : https:// thiết kế hướng miền - practitioners.com/generic - subdomain - - >
-
-% % %!<! - - Generic Subdomain : https:// thiết kế hướng miền - practitioners.com/generic - subdomain - - >
-
-% Trang chủTrang chủBảng chú giảiLãnh địa Miền phụ chung
-
-% Miền phụ chung
-
-% Trong Thiết kế hướng miền (thiết kế hướng miền), miền phụ chung là loại miền phụ không có bất kỳ đặc điểm cụ thể hoặc duy nhất nào so với các miền khác trong cùng lĩnh vực. Đó là một miền phụ có thể được tìm thấy trên nhiều ngành, thay vì dành riêng cho một ngành hoặc miền.
-
-% Mặc dù các miền phụ chung có thể không phải là duy nhất hoặc dành riêng cho một miền nhưng chúng vẫn cần được xác định rõ ràng và hiểu rõ để triển khai hiệu quả trong hệ thống.
-
-% Ví dụ
-
-% Xác thực và ủy quyền: Miền phụ này xử lý việc quản lý danh tính người dùng và quyền truy cập vào tài nguyên trong hệ thống. Thông thường, cần có một giải pháp chung cho miền phụ này để có thể sử dụng lại trên nhiều hệ thống.
-
-% Thông báo : Miền phụ này xử lý việc gửi thông báo cho người dùng, chẳng hạn như thông báo qua email hoặc SMS. Tương tự như xác thực và ủy quyền, việc có một giải pháp chung cho miền phụ này có thể được sử dụng lại trên nhiều hệ thống thường rất hữu ích.
-
-% Thanh toán : Miền phụ này xử lý các khoản thanh toán, bao gồm thu thập thông tin thanh toán, tính phí thẻ tín dụng và xử lý tiền hoàn lại. Tương tự như các ví dụ trên, giải pháp thanh toán chung có thể được sử dụng lại trên nhiều hệ thống.
-
-% Định vị địa lý : Miền phụ này xử lý việc ánh xạ các vị trí thực tế tới các biểu diễn kỹ thuật số. Một giải pháp định vị địa lý chung có thể được sử dụng trong nhiều hệ thống, chẳng hạn như ánh xạ địa chỉ tới tọa độ GPS hoặc tính toán khoảng cách giữa các vị trí.
-
-% % %!<! - - Generic Subdomain : https:// thiết kế hướng miền - practitioners.com/generic - subdomain - - >
-
-% % %!<! - - Generic Subdomain : https:// thiết kế hướng miền - practitioners.com/generic - subdomain - - >
-
-% % %!<! - - Generic Subdomain : https:// thiết kế hướng miền - practitioners.com/generic - subdomain - - >
 
 % % %!<! - - Supporting Subdomain : https:// thiết kế hướng miền - practitioners.com/supporting - subdomain - - >
 

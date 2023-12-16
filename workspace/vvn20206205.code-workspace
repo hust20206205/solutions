@@ -90,6 +90,7 @@
     "code-runner.terminalRoot": "/",
     // Đổi chủ đề màu sắc sang Dracula
     "workbench.colorTheme": "Dracula",
+    // "workbench.colorTheme": "Visual Studio Light",
     // Chọn chủ đề biểu tượng là "material-icon-theme"
     "workbench.iconTheme": "material-icon-theme",
     // Chọn gói biểu đồ hiện tại là "nest"

@@ -1,84 +1,40 @@
 Kiến trúc vi dịch vụ có nhiều ưu điểm, đặc biệt với các dự án có quy mô lớn và phức tạp.
 
-
-
-
-
-
-
 \begin{itemize}
-    \item Muc1
 
+    \item Kiến trúc vi dịch vụ phân chia dự án thành các dịch vụ nhỏ.
 
           \begin{itemize}
-              \item Muc1
-              \item Muc2
+
+
+              \item Giúp việc phát triển và quản lý dễ dàng hơn.
+
+              \item Tận dụng sử dụng tài nguyên cho từng dịch vụ riêng.
+
+                    %    \item Các nhóm tập trung yêu cầu nghiệp vụ trong từng dịch vụ dẫn đến tốc độ định giá doanh nghiệp nhanh hơn.
+
+              \item Các nhóm tập trung yêu cầu nghiệp vụ trong từng dịch vụ, không cần phải đi sâu vào mọi khả năng kinh doanh từ đó dẫn đến tốc độ định giá doanh nghiệp nhanh hơn.
+
           \end{itemize}
 
-
-    \item Muc2
+    \item       Các dịch vụ trong microservices   là độc lập.
 \end{itemize}
-
-
-
-
-
-
-- Kiến trúc vi dịch vụ phân chia dự án thành các dịch vụ nhỏ.
-+ Giúp việc phát triển và quản lý dễ dàng hơn.
-+ Tận dụng sử dụng tài nguyên cho từng dịch vụ riêng.
-%  + Các nhóm tập trung yêu cầu nghiệp vụ trong từng dịch vụ dẫn đến tốc độ định giá doanh nghiệp nhanh hơn.
-+ Các nhóm tập trung yêu cầu nghiệp vụ trong từng dịch vụ,  không cần phải đi sâu vào mọi khả năng kinh doanh từ đó    dẫn đến tốc độ định giá doanh nghiệp nhanh hơn.
-
-
-
-
-%  độc lập.
 % Dễ dàng mở rộng hệ thống.
-% Nhưng giả sử hoạt động kinh doanh cho vay và thế chấp đang trải qua một sự chuyển đổi nghiêm trọng nào đó, trong trường hợp đó, nhóm cho vay và thế chấp có thể quyết định phát hành vi dịch vụ của họ mỗi ngày.
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % và có thể được triển khai, mở rộng quy mô và duy trì độc lập với các dịch vụ khác trong hệ thống.
 
+
 % Các dịch vụ độc lập về ngôn ngữ lập trình, CSDL, triển khai,...
 
-% Các dịch vụ tương tác với nhau qua hạ tầng mạng.
-
-% Mô - đun hóa : Kiến trúc nên bao gồm một tập hợp các dịch vụ được kết hợp lỏng lẻo có thể được triển khai, duy trì và mở rộng quy mô một cách độc lập.
-
 % Triển khai độc lập : Mỗi dịch vụ phải có khả năng triển khai độc lập để có thể thực hiện các thay đổi đối với một dịch vụ mà không ảnh hưởng đến các dịch vụ khác.
-
-% Bối cảnh giới hạn : Kiến trúc phải được thiết kế để phù hợp với ranh giới của khả năng kinh doanh, sao cho mỗi dịch vụ chịu trách nhiệm về một tập hợp chức năng cụ thể, gắn kết.
-
-% Tự chủ : Các dịch vụ phải có khả năng hoạt động tự chủ, ít phụ thuộc vào các dịch vụ khác.
-
-% Khả năng phục hồi : Kiến trúc phải được thiết kế để chịu đựng lỗi và các dịch vụ phải có khả năng xử lý lỗi một cách duyên dáng.
-
 % Khả năng mở rộng : Kiến trúc phải được thiết kế để hỗ trợ mở rộng quy mô các dịch vụ riêng lẻ cũng như toàn bộ hệ thống.
 
-% Tính linh hoạt : Kiến trúc phải cho phép phát triển và triển khai nhanh chóng các dịch vụ mới cũng như khả năng thay đổi các dịch vụ hiện có một cách nhanh chóng và dễ dàng.
 
-% Văn hóa DevOps : Kiến trúc phải được hỗ trợ bởi văn hóa nhấn mạnh sự cộng tác và giao tiếp giữa các nhóm phát triển và vận hành, cũng như tự động hóa các quy trình triển khai và thử nghiệm.
 
-Kiến trúc vi dịch vụ phân chia dự án thành các dịch vụ nhỏ.
 
-Giúp việc phát triển và quản lý dễ dàng hơn.
+% Vì các dịch vụ được phân chia là độc lập.
 
-Dễ dàng mở rộng hệ thống.
 
-Tận dụng sử dụng tài nguyên cho từng dịch vụ.
-
-Tập trung yêu cầu nghiệp vụ trong dịch vụ dẫn đến tốc độ định giá doanh nghiệp nhanh hơn.
-
-Vì các dịch vụ được phân chia là độc lập.
-
-% Nhìn chung, điều đó có nghĩa là I.T. các nhóm không cần phải đi sâu vào mọi khả năng kinh doanh. Họ có thể tập trung vào năng lực kinh doanh mà họ đang xây dựng trong vi dịch vụ của mình.
-
-% Nhưng giả sử hoạt động kinh doanh cho vay và thế chấp đang trải qua một sự chuyển đổi nghiêm trọng nào đó, trong trường hợp đó, nhóm cho vay và thế chấp có thể quyết định phát hành vi dịch vụ của họ mỗi ngày.
 
 Các nhóm phát triển riêng dẫn tới tốc độ phát triển thay đổi nhanh.
 
@@ -87,6 +43,25 @@ Giảm thiểu ràng buộc và tăng tính linh hoạt của hệ thống.
 Giảm chi phí và thời gian kiểm thử do ít ràng buộc.
 
 Hệ thống có khả năng chịu lỗi cao tăng độ tin cậy.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Các dịch vụ tương tác với nhau qua hạ tầng mạng.
+
+% Bối cảnh giới hạn : Kiến trúc phải được thiết kế để phù hợp với ranh giới của khả năng kinh doanh, sao cho mỗi dịch vụ chịu trách nhiệm về một tập hợp chức năng cụ thể, gắn kết.
+
+
+% Tự chủ : Các dịch vụ phải có khả năng hoạt động tự chủ, ít phụ thuộc vào các dịch vụ khác.
+
+
+
+
+% Khả năng phục hồi : Kiến trúc phải được thiết kế để chịu đựng lỗi và các dịch vụ phải có khả năng xử lý lỗi một cách duyên dáng.
+
+
+% Tính linh hoạt : Kiến trúc phải cho phép phát triển và triển khai nhanh chóng các dịch vụ mới cũng như khả năng thay đổi các dịch vụ hiện có một cách nhanh chóng và dễ dàng.
+
+% Văn hóa DevOps : Kiến trúc phải được hỗ trợ bởi văn hóa nhấn mạnh sự cộng tác và giao tiếp giữa các nhóm phát triển và vận hành, cũng như tự động hóa các quy trình triển khai và thử nghiệm.
+
 
 Kiến trúc vi dịch vụ sử dụng đa ngôn ngữ và công nghệ khác nhau.
 

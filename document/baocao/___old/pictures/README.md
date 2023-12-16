@@ -53,7 +53,6 @@ Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
 
 % % chiều t7
 
-
 % %!<! - - @Cách xác định các miền phụ - - >
 
 % %!<! - - Sơ đồ: - - >

@@ -113,22 +113,6 @@ Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
 
 % % %!<! - - Segregated Core : https:// thiết kế hướng miền - practitioners.com/?page_id = 378 - - >
 
-% % %!<! - - Supporting Subdomain : https:// thiết kế hướng miền - practitioners.com/supporting - subdomain - - >
-
-% % %!<! - - Supporting Subdomain : https:// thiết kế hướng miền - practitioners.com/supporting - subdomain - - >
-
-% Trang chủTrang chủBảng chú giảiHỗ trợ miền phụ
-
-% Hỗ trợ miền phụ
-
-% Trong thiết kế hướng miền, miền phụ hỗ trợ đề cập đến miền phụ hỗ trợ miền phụ cốt lõi để đạt được mục tiêu của nó. Nó bao gồm các chức năng như quản trị, bảo mật, giám sát và báo cáo, cùng nhiều chức năng khác. Miền phụ hỗ trợ rất quan trọng trong việc cung cấp các dịch vụ thiết yếu cho miền phụ cốt lõi, có thể cho phép miền phụ đạt được mục tiêu hiệu quả hơn. Tuy nhiên, nó không được thống trị hoặc làm lu mờ miền phụ cốt lõi, vì nó chỉ nhằm mục đích tạo điều kiện thuận lợi cho hoạt động của nó.
-
-% % %!<! - - Supporting Subdomain : https:// thiết kế hướng miền - practitioners.com/supporting - subdomain - - >
-
-% % %!<! - - Supporting Subdomain : https:// thiết kế hướng miền - practitioners.com/supporting - subdomain - - >
-
-% % %!<! - - Supporting Subdomain : https:// thiết kế hướng miền - practitioners.com/supporting - subdomain - - >
-
 % % %!<! - - - - >
 
 % % %!<! - - - - >

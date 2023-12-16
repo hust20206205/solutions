@@ -3,9 +3,8 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[height=3cm]{pictures\anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png}
+\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png}
 \caption{vvn20206205}
-\label{pictures:anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png}
 \end{figure}
 ========================================
 ========================================
@@ -13,9 +12,8 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[height=3cm]{pictures\anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu3.png}
+\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu3.png}
 \caption{vvn20206205}
-\label{pictures:anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu3.png}
 \end{figure}
 ========================================
 ========================================
@@ -23,9 +21,8 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[height=3cm]{pictures\HUST\logoBK.png}
+\includegraphics[height=3cm]{pictures/HUST/logoBK.png}
 \caption{vvn20206205}
-\label{pictures:HUST\logoBK.png}
 \end{figure}
 ========================================
 ========================================
@@ -33,9 +30,8 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[height=3cm]{pictures\anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu2.jpg}
+\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu2.jpg}
 \caption{vvn20206205}
-\label{pictures:anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu2.jpg}
 \end{figure}
 ========================================
 ========================================
@@ -43,8 +39,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[height=3cm]{pictures\anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\main.jpg}
+\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/main.jpg}
 \caption{vvn20206205}
-\label{pictures:anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\main.jpg}
 \end{figure}
 ========================================

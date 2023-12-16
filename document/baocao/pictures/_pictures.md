@@ -125,6 +125,15 @@
 \end{figure}
 ========================================
 ========================================
+![](KienTrucViDichVuAmazon\main.png)
+
+\begin{figure}[h]
+\centering
+\includegraphics[height=3cm]{pictures/KienTrucViDichVuAmazon/main.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
 ![](anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu2.jpg)
 
 \begin{figure}[h]

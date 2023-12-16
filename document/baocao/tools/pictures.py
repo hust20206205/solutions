@@ -13,7 +13,7 @@ folder = os.path.join(base_folder, "pictures")
 files = TimKiem(folder, '.png')
 files += TimKiem(folder, '.jpg')
 
-with open(os.path.join(folder,"_image.md"), 'w') as markdown:
+with open(os.path.join(folder,"_pictures.md"), 'w') as markdown:
     for file in files:
         markdown.write(f"========================================\n")
         markdown.write(f"![]({os.path.relpath(file, folder)})\n")

@@ -1,40 +1,20 @@
-Tuy nhiên, kiến trúc vi dịch vụ cũng có nhiều thách thức.
+% Mặc dù kiến trúc vi dịch vụ có nhiều lợi ích nhưng  cũng có nhiều thách thức:
 
 Chịu ảnh hưởng của đường truyền mạng.
-
-Khả năng kiểm soát giao dịch (transaction).
-
-Tính nhất quán và toàn vẹn của dữ liệu giữa các dịch vụ.
+Đồng bộ đồng hồ thời gian.
+Ràng buộc về thứ tự sự kiện.
+Tính nhất quán và toàn vẹn của dữ liệu.
+Khả năng kiểm soát giao dịch.
 
 Giám sát giữa các dịch vụ.
-
 Bảo mật giao tiếp giữa các dịch vụ.
 
-Phát hiện lỗi và sửa lỗi khó khăn.
 
-Ràng buộc về thứ tự sự kiện.
+Phát hiện lỗi và sửa lỗi khó khăn, phức tạp hơn.
 
-Đồng bộ đồng hồ thời gian.
 
-Chi phí xây dựng, quản lí vận hành lớn.
 
-% Nhược điểm
 
-% Mặc dù kiến trúc vi dịch vụ có nhiều lợi ích nhưng cũng có một số nhược điểm cần xem xét:
-
-% Độ phức tạp ngày càng tăng : Kiến trúc kiến trúc vi dịch vụ phức tạp hơn kiến trúc nguyên khối. Bản chất phân tán của kiến trúc vi dịch vụ khiến việc phát triển, thử nghiệm, triển khai và giám sát hệ thống trở nên khó khăn hơn.
-
-% Những thách thức về điện toán phân tán : Với kiến trúc vi dịch vụ, các dịch vụ khác nhau có thể chạy trên các máy khác nhau, khiến việc duy trì liên lạc giữa chúng trở nên khó khăn. Điều này có thể dẫn đến các vấn đề về độ trễ, tính nhất quán của dữ liệu và độ tin cậy.
-
-% Chi phí hoạt động : Với kiến trúc kiến trúc vi dịch vụ, có nhiều dịch vụ cần triển khai và quản lý, điều này có thể dẫn đến tăng chi phí hoạt động.
-
-% Ranh giới dịch vụ : Việc xác định ranh giới dịch vụ có thể là một thách thức, đặc biệt là trong các hệ thống phức tạp. Nếu không được thiết kế chính xác, điều này có thể dẫn đến sự phụ thuộc vào dịch vụ khiến việc thay đổi một dịch vụ trở nên khó khăn hơn.
-
-% Thách thức về tích hợp : kiến trúc vi dịch vụ thường yêu cầu tích hợp với các dịch vụ khác, điều này có thể khó đạt được. Các dịch vụ có thể có các giao thức, định dạng dữ liệu và phương thức liên lạc khác nhau, điều này có thể gây khó khăn cho việc tích hợp.
-
-% Chi phí chung của cổng API : Cần có cổng API để quản lý các API dịch vụ khác nhau và cung cấp giao diện hợp nhất cho khách hàng. Điều này có thể bổ sung thêm chi phí cho hệ thống.
-
-% Gỡ lỗi và kiểm tra: Việc gỡ lỗi và kiểm tra có thể phức tạp hơn trong kiến trúc kiến trúc vi dịch vụ do tính chất phân tán của hệ thống.
-
-% Nhìn chung, những nhược điểm của kiến trúc kiến trúc vi dịch vụ có thể được giảm thiểu bằng các phương pháp thiết kế và phát triển tốt. Tuy nhiên, điều quan trọng là phải cân nhắc giữa lợi ích và nhược điểm khi quyết định có nên sử dụng kiến trúc kiến trúc vi dịch vụ hay không.
+Chi phí xây dựng, quản lí vận hành lớn. 
+ 
 

@@ -1,4 +1,8 @@
+<!-- % Nguồn: TCT: https://hoadondientu.gdt.gov.vn -->
+<!-- % https://helpsme.misa.vn/2020/kb/quan - ly - hoa - don - dien - tu -->
 <!-- https://ddd-practitioners.com/home/glossary -->
+<!-- % https: //www.infoq.com/minibooks/domain - driven - design - quickly -->
+
 Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
 
 \textbf{\textit{xxxxxxxxxxxxxxxxxxx}}

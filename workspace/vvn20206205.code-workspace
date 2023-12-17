@@ -183,8 +183,8 @@
     // Vị trí file
     "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
     // Tự động run
-    // "latex-workshop.latex.autoBuild.run": "onFileChange",
-    "latex-workshop.latex.autoBuild.run": "never",
+    "latex-workshop.latex.autoBuild.run": "onFileChange",
+    // "latex-workshop.latex.autoBuild.run": "never",
     "latex-workshop.latex.tools": [
       {
         "name": "latexmk",

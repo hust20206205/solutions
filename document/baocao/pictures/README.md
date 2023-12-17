@@ -11,8 +11,6 @@ Tóm tắt nội dung theo 10 gạch đầu dòng:
 <!--@============================================== -->
 <!--@============================================== -->
 
-
-
 % %!<! - - Bounded Context: https:// thiết kế hướng miền - practitioners.com/home/glossary/bounded - context - - >
 
 % bối cảnh giới hạn là ranh giới trong đó một mô hình miền cụ thể tồn tại và hợp lệ. Các ngữ cảnh giới hạn giúp xác định phạm vi của mô hình miền và thiết lập sự hiểu biết rõ ràng về ngôn ngữ được sử dụng trong ngữ cảnh đó.

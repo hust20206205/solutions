@@ -143,6 +143,15 @@
 \end{figure}
 ========================================
 ========================================
+![](StrategicPatternsVATacticalPatterns\main.drawio.png)
+
+\begin{figure}[H]
+\centering
+\includegraphics[width = 0.5\textwidth]{pictures/StrategicPatternsVATacticalPatterns/main.drawio.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
 ![](XacDinhMienPhu\main.drawio.png)
 
 \begin{figure}[H]

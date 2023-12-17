@@ -20,7 +20,7 @@ with open(os.path.join(folder,"_pictures.md"), 'w') as markdown:
         markdown.write(f"\n")
         markdown.write(f"\\begin{{figure}}[H]\n")
         markdown.write(f"\\centering\n")
-        markdown.write("\\includegraphics[height=3cm]{"+f"{os.path.relpath(file, base_folder).replace('\\', '/')}"+"}\n")
+        markdown.write("\\includegraphics[width = 0.5\\textwidth]{"+f"{os.path.relpath(file, base_folder).replace('\\', '/')}"+"}\n")
         markdown.write("\\caption{vvn20206205}\n")
         # markdown.write("\\label{pictures:"+ f"{os.path.relpath(file, folder)}"+"}\n")
         markdown.write(f"\\end{{figure}}\n")

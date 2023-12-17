@@ -1,189 +1,189 @@
 ========================================
 ![](anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png}
+\includegraphics[width = 0.5\textwidth]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/AnhKhacNhau_KienTrucNguyenKhoi_KienTrucViDichVu.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu3.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu3.png}
+\includegraphics[width = 0.5\textwidth]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu3.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](Baemin\main.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/Baemin/main.png}
+\includegraphics[width = 0.5\textwidth]{pictures/Baemin/main.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\main.drawio.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/main.drawio.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/main.drawio.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\0ReactJS.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/0ReactJS.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/0ReactJS.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\1MongoDB.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/1MongoDB.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/1MongoDB.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\1NodeJS.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/1NodeJS.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/1NodeJS.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\2Go.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/2Go.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/2Go.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\3Python.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/3Python.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/3Python.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\4Java.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/4Java.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/4Java.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\4MySQL.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/4MySQL.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/4MySQL.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\5CSharp.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/5CSharp.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/5CSharp.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\5SQLServer.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/5SQLServer.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/5SQLServer.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\download.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/download.png}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/download.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](hust\logoBK.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/hust/logoBK.png}
+\includegraphics[width = 0.5\textwidth]{pictures/hust/logoBK.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](KienTrucViDichVuAmazon\main.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/KienTrucViDichVuAmazon/main.png}
+\includegraphics[width = 0.5\textwidth]{pictures/KienTrucViDichVuAmazon/main.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](XacDinhMienPhu\main.drawio.png)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/XacDinhMienPhu/main.drawio.png}
+\includegraphics[width = 0.5\textwidth]{pictures/XacDinhMienPhu/main.drawio.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu2.jpg)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu2.jpg}
+\includegraphics[width = 0.5\textwidth]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/ChuyenTu_KienTrucNguyenKhoi_Sang_KienTrucViDichVu2.jpg}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu\main.jpg)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/main.jpg}
+\includegraphics[width = 0.5\textwidth]{pictures/anh_khac_nhau_giua_kien_truc_nguyen_khoi_va_kien_truc_vi_dich_vu/main.jpg}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\2PostgreSQL.jpg)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/2PostgreSQL.jpg}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/2PostgreSQL.jpg}
 \caption{vvn20206205}
 \end{figure}
 ========================================
 ========================================
 ![](DaNgonNguVaCSDL\data\3SQLite.jpg)
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[height=3cm]{pictures/DaNgonNguVaCSDL/data/3SQLite.jpg}
+\includegraphics[width = 0.5\textwidth]{pictures/DaNgonNguVaCSDL/data/3SQLite.jpg}
 \caption{vvn20206205}
 \end{figure}
 ========================================

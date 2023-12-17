@@ -53,7 +53,7 @@
       // "typescript": " clear && cd $dir && start Chrome http://localhost:3000 && npm run start:dev",
       // "typescript": " clear && cd $dir && start Chrome http://localhost:3000/apidocs && npm run start:dev",
       "yaml": " clear && cd $dir && if [ $fileName = skaffold.yaml ]; then ( skaffold dev ); else ( kubectl apply -f $fileName); fi;",
-      "markdown": " clear && cd $dir && if [ $fileName = README.md ]; then ( cd ../../../../workspace/others/push && python push.py ); else ( echo NO ); fi;",
+      "markdown": " clear && cd $dir && if [ $fileName = README.md ]; then ( cd  ../../../workspace/others/push && python push.py ); else ( echo NO ); fi;",
       "latex": " clear && cd $dir && cd tools && python git.py ",
       "bat": " clear && cd $dir && cmd $fileName",
       "shellscript": " clear && cd $dir && bash $fileName",

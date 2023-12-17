@@ -46,6 +46,7 @@ replacements = {
         
         '\n': '\n\n\n',
         'Ở đồ án này': 'Trong đồ án này',
+        'nhóm kĩ thuật': 'nhóm phân tích hệ thống',
         
         "\\begin{figure}[h]":"\\begin{figure}[H]",
         

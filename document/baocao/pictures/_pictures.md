@@ -170,6 +170,15 @@
 \end{figure}
 ========================================
 ========================================
+![](NgonNguChung\main.png)
+
+\begin{figure}[H]
+\centering
+\includegraphics[width = 0.5\textwidth]{pictures/NgonNguChung/main.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
 ![](StrategicPatternsVATacticalPatterns\main.drawio.png)
 
 \begin{figure}[H]

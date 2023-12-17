@@ -26,6 +26,15 @@
 \end{figure}
 ========================================
 ========================================
+![](BoiCanhGioiHan\main.png)
+
+\begin{figure}[H]
+\centering
+\includegraphics[width = 0.5\textwidth]{pictures/BoiCanhGioiHan/main.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
 ![](CacMoHinhChienLuoc\main.drawio.png)
 
 \begin{figure}[H]

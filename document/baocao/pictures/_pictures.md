@@ -17,6 +17,15 @@
 \end{figure}
 ========================================
 ========================================
+![](Baemin\main.png)
+
+\begin{figure}[h]
+\centering
+\includegraphics[height=3cm]{pictures/Baemin/main.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
 ![](DaNgonNguVaCSDL\main.drawio.png)
 
 \begin{figure}[h]
@@ -130,6 +139,15 @@
 \begin{figure}[h]
 \centering
 \includegraphics[height=3cm]{pictures/KienTrucViDichVuAmazon/main.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
+![](XacDinhMienPhu\main.drawio.png)
+
+\begin{figure}[h]
+\centering
+\includegraphics[height=3cm]{pictures/XacDinhMienPhu/main.drawio.png}
 \caption{vvn20206205}
 \end{figure}
 ========================================

@@ -6,45 +6,25 @@ Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
 Bối cảnh giới hạn tạo ra các mô hình khác nhau cho các lĩnh vực khác nhau của miền.
 
-Bối cảnh giới hạn tương ứng với một nhóm cụ thể trong tổ chức.
-
-Bối cảnh giới hạn giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các nhóm ngũ.
-
-% Ví dụ: một khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, chúng ta có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
-
-%!<! - - $VD: - - >
+Bối cảnh giới hạn tương ứng với một nhóm cụ thể trong tổ chức. 
 
 % ![](pictures/BoiCanhGioiHan/___RanhGioi.png)
 
-%!<! - - Một vài hướng xác định bối cảnh giới hạn: - - >
+\subsubsection{ Một vài hướng xác định bối cảnh giới hạn:  }
 
-Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ trong miền kinh doanh.
+Việc xác định bối cảnh giới hạn được điều chỉnh bởi sự gắn kết giữa các miền phụ.
 
 Dựa vào sơ đồ cấu trúc tổ chức của doanh nghiệp.
 
-Dựa vào modules của các ứng dụng kiến trúc nguyên khối hiện tại (nếu việc phân chia tốt).
+Dựa vào modules của các ứng dụng kiến trúc nguyên khối   (nếu việc phân chia tốt).
 
 Dựa vào trách nhiệm và hoạt động của chuyên gia ngành.
 
-%!<! - - Một số đặc điểm: - - >
-
-Mỗi liên hệ giới hạn phải được thể hiện thông qua một mô hình miền riêng biệt không có sự chia sẻ về mô hình.
-
-%!<! - - $VD: Hình mỗi domain có mô hình riêng... user(id, name) ở domain1, user(id, name, sdt) ở domain2 - - >
-
-Những mô hình được tạo và quản lý độc lập bởi các nhóm.
-
-%!<! - - $VD: - - >
-
-Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có tác dụng trong phạm vi giới hạn của nó.
-
-%!<! - - $VD: - - >
-
+\end{document}
 %!<! - - Hướng dẫn 5/10 - - >
 
 % %!<! - - Bounded Context: https:// thiết kế hướng miền - practitioners.com/home/glossary/bounded - context - - >
 
-% xác định ranh giới của bối cảnh
 
 % %!<! - - Bounded Context Relationships : https:// thiết kế hướng miền - practitioners.com/bounded - context - relationship - - >
 

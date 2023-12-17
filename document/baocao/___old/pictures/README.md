@@ -9,42 +9,6 @@ Hãy giúp tôi sửa lỗi chính tả và ngữ pháp:
 <!--@============================================== -->
 <!--@============================================== -->
 
-<!-- % %!<! - - @Cách xác định các miền phụ - - > -->
-
-% %!<! - - Sơ đồ: - - >
-
-% % ![](pictures/XacDinhMienPhu/_XacDinhMienPhu.png)
-
-% %!<! - - Mô tả: - - >
-
-% Bắt đầu bằng cách xem xét nghiệp vụ kinh doanh.
-
-% Nếu có sẵn giải pháp đã biết thì có khả năng là miền phụ chung. Ngược lại, chúng ta kiểm tra xem miền phụ đó có thêm giá trị kinh doanh nào không?
-
-% Nếu không có giá trị kinh doanh thì chúng ta kiểm tra xem các miền phụ cốt lõi có phụ thuộc vào miền phụ này hay không? Nếu có thì có khả năng là miền phụ hỗ trợ. Nếu không thì đó là miền phụ chung.
-
-% Nếu miền phụ có tiềm năng bổ sung một số giá trị kinh doanh thì bước kiểm tra tiếp theo là xem liệu miền doanh nghiệp có độ phức tạp cao hay không?
-
-% Nếu miền doanh nghiệp không có độ phức tạp cao thì có khả năng là miền phụ hỗ trợ. Ngược lại thì nó có khả năng là miền phụ cốt lõi.
-
-<!-- % %!<! - - @Tại sao cần phân loại các miền phụ? - - > -->
-
-% Việc phân loại miền phụ giúp doanh nghiệp đưa ra quyết định với từng loại miền phụ khác nhau.
-
-% Doanh nghiệp có nguồn lực hạn chế như nguồn nhân lực và kinh phí dành cho các sáng kiến. Việc phân loại các miền phụ giúp ưu tiên các sáng kiến khác nhau.
-
-% Các doanh nghiệp mong muốn tối đa hóa lợi nhuận đầu tư. Do đó, các sáng kiến liên quan đến miền phụ cốt lõi sẽ được ưu tiên.
-
-% %!<! - - Hướng dẫn: 5/3 - - >
-
-% %
-
-% %!<! - - - - >
-
-% %!<! - - - - >
-
-% %!<! - - - - >
-
 <!--@============================================== -->
 <!--@============================================== -->
 

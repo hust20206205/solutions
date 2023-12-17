@@ -1,6 +1,5 @@
-%!<! - - @ - - >
 
-% [[Bounded Context]] The delimited applicability of a particular model. BOUNDING CONTEXTS gives team members a clear and shared understanding of what has to be consistent and what can develop independently.
+
 
 Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ thể. Để đạt được điều này, chúng ta cần xác định rõ ranh giới giữa các ngữ cảnh.
 
@@ -8,9 +7,19 @@ Một miền cần chia đủ nhỏ để phù hợp với một nhóm cụ th�
 
 Bối cảnh giới hạn thể hiện phạm vi kinh doanh của dịch vụ.
 
-![](pictures/BoiCanhGioiHan/___RanhGioi.png)
+Bối cảnh giới hạn   tạo ra các mô hình khác nhau cho các lĩnh vực  khác nhau của miền.
+Bối cảnh giới hạn   tương ứng với một nhóm  cụ thể trong tổ chức. 
+Bối cảnh giới hạn    giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các nhóm ngũ.
+
+
+% Ví dụ: một khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, chúng ta có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
+
+
+
 
 %!<! - - $VD: - - >
+% ![](pictures/BoiCanhGioiHan/___RanhGioi.png)
+
 
 %!<! - - Một vài hướng xác định bối cảnh giới hạn: - - >
 
@@ -40,37 +49,14 @@ Mô hình miền được xây dựng cho bối cảnh giới hạn chỉ có t�
 
 % %!<! - - Bounded Context: https:// thiết kế hướng miền - practitioners.com/home/glossary/bounded - context - - >
 
-% %!<! - - Bounded Context: https:// thiết kế hướng miền - practitioners.com/home/glossary/bounded - context - - >
 
-Trang chủTrang chủBảng chú giảiBối cảnh giới hạn
 
-Bối cảnh giới hạn
 
-Trong thiết kế hướng miền (thiết kế hướng miền), bối cảnh giới hạn là ranh giới xác định phạm vi áp dụng một mô hình nhất định. Nó được sử dụng để tách biệt các mô hình khác nhau và tránh nhầm lẫn. Ý tưởng đằng sau bối cảnh giới hạn là tạo ra các mô hình khác nhau cho các khía cạnh khác nhau của miền và xác định rõ ràng ranh giới giữa chúng, sao cho các thuật ngữ giống nhau có thể được sử dụng với ý nghĩa khác nhau trong các ngữ cảnh khác nhau.
 
-Ví dụ: một khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, chúng ta có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
-
-Bối cảnh giới hạn được sử dụng để tạo bản đồ bối cảnh, hiển thị mối quan hệ giữa các mô hình khác nhau và cách chúng tương tác với nhau. Nó cũng giúp xác định các khu vực của miền cần có các mô hình khác nhau và xác định ranh giới giữa chúng.
-
-Bối cảnh giới hạn cũng giúp cải thiện giao tiếp và cộng tác giữa các nhà phát triển, các bên liên quan và chuyên gia ngành bằng cách cung cấp ngôn ngữ chung và hiểu biết chung về miền. Nó cũng thúc đẩy tính mô đun, khả năng bảo trì và khả năng thích ứng của mã.
-
-Khi tạo bối cảnh giới hạn, điều quan trọng là xác định bối cảnh trong đó mô hình được áp dụng, xác định ranh giới của bối cảnh, tạo mô hình phù hợp với mô hình miền tổng thể và truyền đạt bối cảnh tới các bối cảnh khác và miền tổng thể.
-
-% %!<! - - Bounded Context: https:// thiết kế hướng miền - practitioners.com/home/glossary/bounded - context - - >
-
-% %!<! - - Bounded Context: https:// thiết kế hướng miền - practitioners.com/home/glossary/bounded - context - - >
-
-[[Context]] The setting in which a word or statement appears that determines its meaning. See [[Bounded Context]].
-
-Mỗi bounded context nên tương ứng với một nhóm hoặc bộ phận cụ thể trong tổ chức. Sự tương ứng này có thể giúp giảm thiểu sự hiểu lầm và tăng khả năng tương tác giữa các nhóm ngũ.
-
-Ví dụ: khách hàng có thể có nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh: trong ngữ cảnh thanh toán, đó là người nợ tiền; trong bối cảnh vận chuyển, đó là người nhận hàng. Bằng cách tạo một mô hình riêng cho từng ngữ cảnh, chúng ta có thể tránh nhầm lẫn và làm cho mã rõ ràng hơn.
+% xác định ranh giới của bối cảnh 
 
 % %!<! - - Bounded Context Relationships : https:// thiết kế hướng miền - practitioners.com/bounded - context - relationship - - >
-
-% %!<! - - Bounded Context Relationships : https:// thiết kế hướng miền - practitioners.com/bounded - context - relationship - - >
-
-Trang chủTrang chủBảng chú giảiBối cảnh giới hạn Mối quan hệ bối cảnh giới hạn
+ 
 
 Mối quan hệ bối cảnh giới hạn
 

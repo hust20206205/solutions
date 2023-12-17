@@ -26,6 +26,24 @@
 \end{figure}
 ========================================
 ========================================
+![](CacMoHinhChienLuoc\main.drawio.png)
+
+\begin{figure}[H]
+\centering
+\includegraphics[width = 0.5\textwidth]{pictures/CacMoHinhChienLuoc/main.drawio.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
+![](CacMoHinhChienLuoc\temp.png)
+
+\begin{figure}[H]
+\centering
+\includegraphics[width = 0.5\textwidth]{pictures/CacMoHinhChienLuoc/temp.png}
+\caption{vvn20206205}
+\end{figure}
+========================================
+========================================
 ![](DaNgonNguVaCSDL\main.drawio.png)
 
 \begin{figure}[H]
